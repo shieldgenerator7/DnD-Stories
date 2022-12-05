@@ -30,9 +30,9 @@ The lion looked up at him, but kept walking. The lion spoke in a tongue unknown 
 
 “/Yes of course./” The paladin nodded, despite not previously knowing that. “/So, where are you heading?/”
 
-“/I’m actually heading to this town called Waterdeep. I’m trying to get some extra coin to…/” The lion let out a low rumbling while he thought. “/Let’s just say, do an important task.\\”
+“/I’m actually heading to this town called Waterdeep. I’m trying to get some extra coin to…/” The lion let out a low rumbling while he thought. “/Let’s just say, do an important task./”
 
-The paladin slaps his knee and hops off his horse. Walking between his horse and the lion, his 7’2” height was more apparent. “/What luck! I’m also heading to Waterdeep. I heard they need some zombies killed.\\”
+The paladin slaps his knee and hops off his horse. Walking between his horse and the lion, his 7’2” height was more apparent. “/What luck! I’m also heading to Waterdeep. I heard they need some zombies killed./”
 
 “/Well that’s good! I heard there’s a 200 gold offer for those that join the hunt./” The lion extends a paw to the paladin. “/I’m Jack by the way./”
 
