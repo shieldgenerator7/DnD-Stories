@@ -208,9 +208,9 @@ He crouched down and held the contract in her vision. “What do you think?”
 
 The horse turned her head this and that, scanning the page.
 
-I, \_______, DULY ACCEPT THIS QUEST TO SLAY ZOMBIES. I WILL COMPLETE THIS TASK AND REPORT BACK TO EMPEROR GALYA *(ALL HAIL GALYA)* IN A TIMELY MANNER. I WILL NOT DEVIATE FROM THIS TASK UNTIL IT IS COMPLETED. I AM HONOR BOUND TO EMPORER GALYA *(ALL HAIL GALYA)* UNTIL I COMPLETE THIS TASK.  
+I, Lorkwen Litebrue, DULY ACCEPT THIS QUEST TO SLAY ZOMBIES. I WILL COMPLETE THIS TASK AND REPORT BACK TO EMPEROR GALYA *(ALL HAIL GALYA)* IN A TIMELY MANNER. I WILL NOT DEVIATE FROM THIS TASK UNTIL IT IS COMPLETED. I AM HONOR BOUND TO EMPORER GALYA *(ALL HAIL GALYA)* UNTIL I COMPLETE THIS TASK.  
 REWARD: 300 GP  
-SIGNATURE: \__________\_  
+SIGNATURE:  
 DATE: 7TH OF CHESS
 
 Cloverbraid snorted, stomped her hoof, and shook her head.
@@ -602,5 +602,7 @@ Black goo splattered everywhere. The zombie stopped writhing.
 “/High five./” Jack held up a paw.
 
 “/High five./” Larkwren slapped his hand. He turned to the group. “We found the zombies.”
+
+===========================================
 
 Back at the castle, Emperor Galya was watching the party through the astral plane. “I bet they all suck at sucking dick. Except for that Larkwren guy. He’s probably really good.” Then he jacks off to the thought of Larkwren sucking his dick. “Yeah, I bet he’s really good…” He watched the party continue through the corridor on his simulacrum.
