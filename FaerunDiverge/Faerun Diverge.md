@@ -180,13 +180,13 @@ Cloverbraid snorted and stomped a hoof.
 
 The guard led them to a small room that had just enough seats for each of them along the walls. The entryway was built for normal human height, making Larkwren have to duck to get in. He sat on one of the seats, tensing his muscles, trying to keep the seat from breaking under his weight. He and the other adventurers faced a desk with piles of papers and notes on it. Behind it sat an empty chair, and the three slit windows that illuminated the room with natural light from the morning sun.
 
-A large man pimped out in jewelry materialized in front of the chair. He was a balding old man in fancy dress, who was nevertheless large at 6’0”. He appeared no less large as he sat in the chair. The snake around his neck relaxed its neck on his shoulder. Each of his fingers held a unique ring, including a gold ring, a brain ring, a ruin-etched jewel ring, and an envelope ring. He opened the envelope ring and pulled out a stack of tiny papers. He slapped them on the desk, and they grew to a normal paper size. Despite his old age, he gave off a divine energy so strong it felt blinding to Larkwren’s paladin senses. “Aha! It’s the adventurers going down to the ancient gnome city!” He stroked his snake’s scales. “My name is Galya. You may call me Emperor Galya.” He flicked his finger, sending a paper floating to each adventurer. “This is the contract you are required to sign. Sign here, here, and here.”
+A large man pimped out in jewelry materialized in front of the chair. He was a balding old man in fancy dress, who was nevertheless large at 6’0”. He appeared no less large as he sat in the chair. The snake around his neck relaxed its neck on his shoulder. Each of his fingers held a unique ring, including a gold ring, a brain ring, a ruin-etched jewel ring, and an envelope ring. He opened the envelope ring and pulled out a stack of tiny papers. He slapped them on the desk, and they grew to a normal paper size. Despite his old age, he gave off a divine energy so strong it felt blinding to Larkwren’s paladin senses. “Aha! It’s the adventurers going down to the ancient gnome city!” He stroked his snake’s scales. “My name is Galaya. You may call me Emperor Galaya.” He flicked his finger, sending a paper floating to each adventurer. “This is the contract you are required to sign. Sign here, here, and here.”
 
 Larkwren looked at the contract, stumped. “Emporer Galeo?”
 
-“Galya. Gal*ya*.”
+“Galaya. Gala*ya*.”
 
-“Emperor Galya?” Larkwren stood up, crouching below the ceiling.
+“Emperor Galaya?” Larkwren stood up, crouching below the ceiling.
 
 “Yes, Larkwren?”
 
@@ -196,7 +196,7 @@ Larkwren looked at the contract, stumped. “Emporer Galeo?”
 
 “Yes.” Larkwren nodded, already heading out the door.
 
-Emperor Galya snapped. A blue guard appeared. “Escort him to his horse.”
+Emperor Galaya snapped. A blue guard appeared. “Escort him to his horse.”
 
 The blue guard bowed and did just that. It guided Larkwren through the winding corridors to his horse.
 
@@ -208,7 +208,7 @@ He crouched down and held the contract in her vision. “What do you think?”
 
 The horse turned her head this and that, scanning the page.
 
-I, Lorkwen Litebrue, DULY ACCEPT THIS QUEST TO SLAY ZOMBIES. I WILL COMPLETE THIS TASK AND REPORT BACK TO EMPEROR GALYA *(ALL HAIL GALYA)* IN A TIMELY MANNER. I WILL NOT DEVIATE FROM THIS TASK UNTIL IT IS COMPLETED. I AM HONOR BOUND TO EMPORER GALYA *(ALL HAIL GALYA)* UNTIL I COMPLETE THIS TASK.  
+I, Lorkwen Litebrue, DULY ACCEPT THIS QUEST TO SLAY ZOMBIES. I WILL COMPLETE THIS TASK AND REPORT BACK TO EMPEROR GALAYA *(ALL HAIL GALAYA)* IN A TIMELY MANNER. I WILL NOT DEVIATE FROM THIS TASK UNTIL IT IS COMPLETED. I AM HONOR BOUND TO EMPORER GALAYA *(ALL HAIL GALAYA)* UNTIL I COMPLETE THIS TASK.  
 REWARD: 300 GP  
 SIGNATURE:  
 DATE: 7TH OF CHESS
@@ -219,7 +219,7 @@ Larkwren hugged her neck. “Thank you, Cloverbraid.” He approached the blue g
 
 When he reentered, hunched over as he was in that room, everyone else had finished signing the contract and were giving it back to the emperor.
 
-“Well?” Emperor Galya eyed Larkwren.
+“Well?” Emperor Galaya eyed Larkwren.
 
 “I will not sign it.” Larkwren handed the unsigned contract back to the emperor.
 
@@ -245,7 +245,7 @@ Larkwren pulled his hand back, healing the prick point. “Um, no. I will not si
 
 “Not me.” Rust said, just now peeking out of Miko’s bag.
 
-“What have we here?” Emperor Galya raised a hand, telekinetically lifting Rust out of Miko’s bag. His full, ugly rusted form was exposed. His legs were completely rusted through, ending in sharp metal stubs at the knee.
+“What have we here?” Emperor Galaya raised a hand, telekinetically lifting Rust out of Miko’s bag. His full, ugly rusted form was exposed. His legs were completely rusted through, ending in sharp metal stubs at the knee.
 
 Larkwren grabbed Rust and held him. “If he doesn’t have to sign, then I don’t either.”
 
@@ -253,7 +253,7 @@ Larkwren grabbed Rust and held him. “If he doesn’t have to sign, then I don�
 
 “Sign what?” Rust asked.
 
-Emperor Galya floated him on over to the desk. “Here.” He handed the robot a pen.
+Emperor Galaya floated him on over to the desk. “Here.” He handed the robot a pen.
 
 It struggled, but Rust managed to sign it. “I signed it.”
 
@@ -347,13 +347,13 @@ The man shrugged. “I don’t have a clue. I’m just a blacksmith.”
 
 Larkwren talked for an hour or so with the man while watching for the party to walk by.
 
-The party was still talking to Emperor Galya.
+The party was still talking to Emperor Galaya.
 
 “Do you want a donut?” Miko produced a chunky piece of baked dough with powdered sugar on top.
 
 “Donut?” Rust peaked out of her bag.
 
-“Sure.” Emperor Galya floated the donut to his mouth and took a bite. “Very sweet.”
+“Sure.” Emperor Galaya floated the donut to his mouth and took a bite. “Very sweet.”
 
 The armored soldier took notice of Rust. “What are your features?”
 
@@ -409,7 +409,7 @@ She left. Before the portal closed, the emperor floated Rust’s old rusty limp 
 
 “Great.” Rust gave a thumbs up while trying to get up, causing him to fall over to one side. “Great.”
 
-“As for you…” Emperor Galya turned to the armored soldier. “You could use some new wood.” The emperor did his magic, and the soldier’s wooden joints were ripped off and instantaneously replaced with new wood material. “The full repair will take longer, but for now, that will do.”
+“As for you…” Emperor Galaya turned to the armored soldier. “You could use some new wood.” The emperor did his magic, and the soldier’s wooden joints were ripped off and instantaneously replaced with new wood material. “The full repair will take longer, but for now, that will do.”
 
 Miko hugged Rust. “You’ll get through this, buddy. I know you’ll figure this foreign body out.” She watched as he learned how to control his new body.
 
@@ -605,7 +605,7 @@ Black goo splattered everywhere. The zombie stopped writhing.
 
 ===========================================
 
-Back at the castle, Emperor Galya was watching the party through the astral plane. “I bet they all suck at sucking dick. Except for that Larkwren guy. He’s probably really good.” Then he jacks off to the thought of Larkwren sucking his dick. “Yeah, I bet he’s really good…” He watched the party continue through the corridor on his simulacrum.
+Back at the castle, Emperor Galaya was watching the party through the astral plane. “I bet they all suck at sucking dick. Except for that Larkwren guy. He’s probably really good.” Then he jacks off to the thought of Larkwren sucking his dick. “Yeah, I bet he’s really good…” He watched the party continue through the corridor on his simulacrum.
 
 # Chapter 2 – Exploding Zombies
 
