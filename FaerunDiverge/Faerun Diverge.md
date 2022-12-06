@@ -381,29 +381,31 @@ The armored soldier took notice of Rust. “What are your features?”
 
 “But repairs could take hours. We don’t have all day.” The soldier contradicted.
 
-“Yes, so we’ll need a temporary replacement.” The emperor snapped his fingers, and a portal to a blacksmith’s workshop opened.
+“Yes, so we’ll need a temporary replacement.” The emperor snapped his fingers to summon a teleportation circle in the corner of the room.
 
-Out stepped a sexy 5’8” tiefling woman wearing leather armor and a flipped-up welding mask. “What’s up, daddy?”
+In the circle, a sexy 5’8” tiefling woman appeared, wearing regular modest royal clothing. “Hello, daddy.”
 
 “This robot needs repairs. Give him the iron golem body in the meantime.”
 
-“You got it.” The tiefling grabbed Rust and delicately pulled out his central processing chip with a pair of pliers.
+“Yes, daddy.” The tiefling disappeared into the circle.
 
-With the emperor’s wizardry, an iron golem body floated out of the portal and into the room. It hit its head on the ceiling and slumped over when it entered.
+Emperor Galaya floated over to Rust, grappled him, and delicately pulled out his central processing chip with a pair of pliers.
 
-The tiefling pulled a stepladder off her back, unfolded it, and climbed onto it. As soon as she put Rust’s chip into the golem, its eyes lit up and came to life.
+The tiefling soon returned with an iron golem body in the teleportation circle. It entered slouched over so it wouldn’t hit the ceiling.
 
-First, its right arm spun around, nearly knocking the tiefling off her stepladder. Then the other arm stretched outward and punched a whole in the wall. Its knees bent, and then it toppled over on its face. On the ground, its knees outstretched, pushing the stepladder out from under the tiefling.
+Emperor Galaya expertly inserted the central processing chip in the new iron golem body. He backed away as it whirred to life.
 
-She screamed as she hit the ground. Spitting out carpet dirt, she muttered, “You’re not used to changing bodies, are you?”
+First, Rust the iron golem stood straight, punching his head straight through the ceiling. Paint and wood chips littered the floor. It spun its arm around, and then its other arm. After they stopped spinning, it lifted its leg to its knee height. It immediately fell over. The floor cracked at its weight.
+
+The tiefling laughed. “You’re not used to changing bodies, are you?”
 
 “I am new.” Rust found his voice box. “I am new!”
 
-“Is that all?” The tiefling grabbed her stuff and headed to the portal.
+“Is that all?” The tiefling grabbed Rust’s old body and stood on the teleportation circle.
 
 “That’ll be all, thank you.”
 
-She left. Before the portal closed, the emperor floated Rust’s old rusty limp body through it.
+She left with Rust’s old body.
 
 “This is just temporary. Once I fix your old body, you can go back to it.”
 
