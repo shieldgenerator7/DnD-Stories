@@ -1452,13 +1452,13 @@ Miko and E’Zhule left on their shopping adventure. They walked down the street
 
 E’Zhule begrudgingly accompanied her into the clothes shop.
 
-“Hi, I’m Nomi. What can I do for you?” A young halfling in fancy casual attire greeted them from behind the counter. She stood at 3’3” and looked up at Miko.
+“Hi, I’m Noni. What can I do for you?” A young halfling in fancy casual attire greeted them from behind the counter. She stood at 3’3” and looked up at Miko.
 
 “My brother here needs a new jacket.” Miko pushed him forward.
 
 “No I don’t…” he mumbled.
 
-“Well I got just the thing for a little cutie like him.” Nomi walked around the shop, picking things off the rack. “Follow me.”
+“Well I got just the thing for a little cutie like him.” Noni walked around the shop, picking things off the rack. “Follow me.”
 
 “Do I have to?”
 
@@ -1482,7 +1482,7 @@ He came out next in some blue jeans.
 
 “You can’t wear the same clothes all the time, E’Zhule! You’ll get all dirty.”
 
-“Yeah, those aren’t dating clothes.” Nomi winked at him.
+“Yeah, those aren’t dating clothes.” Noni winked at him.
 
 “What if…” Miko turned her brother towards the clerk. “You find someone you like?”
 
@@ -1494,7 +1494,7 @@ He stated triumphantly, “Exactly.”
 
 “Ok, you’re right. I’ll get a new jacket too.” Miko peeked at the different dresses on display. “Oh! We can be matching!”
 
-“I know just what you need!” Nomi brings them another pile of clothes.
+“I know just what you need!” Noni brings them another pile of clothes.
 
 They go to the dressing room and come out with several different styles, and finally land on something they like.
 
@@ -1502,21 +1502,21 @@ They go to the dressing room and come out with several different styles, and fin
 
 “Like my sister.” E’Zhule crossed his arms.
 
-“You look amazing!” Nomi exclaimed. “And you…” She looked E’Zhule up and down.
+“You look amazing!” Noni exclaimed. “And you…” She looked E’Zhule up and down.
 
 He stood straight and tall over her in his azure suit and black shoes. His red bowtie matched Miko’s dress nicely. Miko had even combed his hair into a sleek new style, making his attentive cat ears more prominent.
 
-“…And you can visit anytime.” Nomi licked her lips as she placed a folded piece of paper in his jacket pocket. “I get off at 8.”
+“…And you can visit anytime.” Noni licked her lips as she placed a folded piece of paper in his jacket pocket. “I get off at 8.”
 
 E’Zhule glanced at Miko and sighed. His look said, “Can we go now?”
 
-“Ok, Nomi, we’ll take these. How much?”
+“Ok, Noni, we’ll take these. How much?”
 
 “3 gold each.”
 
 “Here you go.”
 
-“Come back *anytime*.” Nomi winks at E’Zhule. “Have a wonderful night.”
+“Come back *anytime*.” Noni winks at E’Zhule. “Have a wonderful night.”
 
 Miko keeps the clothes on, but E’Zhule switches back to his old outfit. “Now can we go find a tailor?”
 
@@ -1524,7 +1524,7 @@ Miko giggles. “Sure thing, bro. Thanks for obliging me.”
 
 “Yeah.”
 
-“But that clerk back there, Nomi? She is *really* into you.”
+“But that clerk back there, Noni? She is *really* into you.”
 
 “I noticed.”
 
