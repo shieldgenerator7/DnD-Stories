@@ -8,9 +8,9 @@ Content warning: blood, gore, sex
 
 A human paladin rode his warhorse up the cliffside path near the sea. The chainmail on his chest and around his horse’s body clink-clinked with each stride, and the battle-axe on his back shook. He held his horse’s mane in one hand and a shield in the other. The flowers on his white shield jostled as if they were about to fall off, but their sturdy roots grounded them onto the shield. The white shield, paint chipped as it were, still proudly displayed the sun and field symbol of Lathander. The paladin’s long golden hair flowed in the wind. He pulled the shield to his face and took a deep breathe. The flowers’ aroma and the sea air pleasured his wide nostrils. “Life,” he smiled.
 
-He rode several miles on the path, galloping the whole way. The morning sun shone brilliantly, casting his shadow towards the cliffedge. The cloudless sky let Lathander’s full sunny smile bare down on the path in front of him and the many travelers therin. The paladin passed many a traveler on the way: merchants, mercenaries, tourists. All starting their day under Lathander’s faithful watch. The paladin paid them no mind, except for maybe a “G’day” here and a “Good morning!” there.
+He rode several miles on the path, galloping the whole way. The morning sun shone brilliantly, casting his shadow towards the cliff edge. The cloudless sky let Lathander’s full sunny smile bare down on the path in front of him and the many travelers therein. The paladin passed many a traveler on the way: merchants, mercenaries, tourists. All starting their day under Lathander’s faithful watch. The paladin paid them no mind, except for maybe a “G’day” here and a “Good morning!” there.
 
-But one traveler in particular caught his eye. Up ahead, what can only be described as bipedal lion walked up the path, head low, but mane in full display. He carried a halberd that he used as both his walking stick and a means to carry his knapsack.
+But one traveler in particular caught his eye. Up ahead, what can only be described as a bipedal lion walked up the path, head low, but mane in full display. He carried a halberd that he used as both his walking stick and a means to carry his knapsack.
 
 “Hey, I want to talk to that lion.” He patted his horse on the neck, pointing just up ahead.
 
@@ -32,23 +32,23 @@ The lion looked up at him, but kept walking. The lion spoke in a tongue unknown 
 
 “/I’m actually heading to this town called Waterdeep. I’m trying to get some extra coin to…/” The lion let out a low rumbling while he thought. “/Let’s just say, do an important task./”
 
-The paladin slaps his knee and hops off his horse. Walking between his horse and the lion, his 7’2” height was more apparent. “/What luck! I’m also heading to Waterdeep. I heard they need some zombies killed./”
+The paladin slapped his knee and hopped off his horse. Walking between his horse and the lion, his 7’2” height was more apparent. “/What luck! I’m also heading to Waterdeep. I heard they need some zombies killed./”
 
-“/Well that’s good! I heard there’s a 200 gold offer for those that join the hunt./” The lion extends a paw to the paladin. “/I’m Jack by the way./”
+“/Well that’s good! I heard there’s a 200 gold offer for those that join the hunt./” The lion extended a paw to the paladin. “/I’m Jack by the way./”
 
-The paladin vigorously shakes Jack’s paw. “/I’m Larkwren Olivento Lightbrew. I’m here to bring life and kill death. Please to make your acquaintance, Jack./”
+The paladin vigorously shook Jack’s paw. “/I’m Larkwren Olivento Lightbrew. I’m here to bring life and kill death. Pleased to make your acquaintance, Jack./”
 
-“/Likewise./” Jack sniffs the flowers on Larkwren’s shield. “/What do you worship? Or like, who?/” He gestures to the symbol on Larkwren’s shield.
+“/Likewise./” Jack sniffed the flowers on Larkwren’s shield. “/What do you worship? Or like, who?/” He gestured to the symbol on Larkwren’s shield.
 
-Larkwren dons a huge smile. “/Lathander! The god of Dawn, Renewal, Spring!/” He traces the symbol: first the sun, the horizon, and then the fields. “/And who do you serve?/” He nods at Jack’s necklace.
+Larkwren donned a huge smile. “/Lathander! The god of Dawn, Renewal, Spring!/” He traced the symbol: first the sun, the horizon, and then the fields. “/And who do you serve?/” He nodded at Jack’s necklace.
 
-Jack grimaces. “/I serve under Aslan, the Lion Spirit./”
+Jack grimaced. “/I serve under Aslan, the Lion Spirit./”
 
 “/What is he the god of?/”
 
 “/He’s not a god; just an animal spirit, that I serve./”
 
-“/An animal spirit? I can get behind that! Welcome brother in life!/” Larkwren pats Jack on the back, and Jack nearly drops his halberd. “You know, one time I saved a lion from poachers. There was a group of orcs cornering this *gorgeous* lion. It had a huge puffy mane and big muscular limbs. The poor thing was scared to death. The orcs had stabbed it repeatedly and it was taking its final breathes./”
+“/An animal spirit? I can get behind that! Welcome brother in life!/” Larkwren patted Jack on the back, and Jack nearly dropped his halberd. “You know, one time I saved a lion from poachers. There was a group of orcs cornering this *gorgeous* lion. It had a huge puffy mane and big muscular limbs. The poor thing was scared to death. The orcs had stabbed it repeatedly and it was taking its final breathes./”
 
 Jack looked disturbed.
 
@@ -58,7 +58,7 @@ Jack looked disturbed.
 
 “/A pass? I’ve always wanted one of those!/” Larkwren whispered to Jack, “/What does a pass do?/”
 
-Jack whispers back, “/You’ll know when, if ever, that day comes. That’s all I can say./”
+Jack whispered back, “/You’ll know when, if ever, that day comes. That’s all I can say./”
 
 “/Well then I shall be glad to help you accomplish this important task. What do you have to do?/”
 
@@ -136,23 +136,23 @@ There, they waited in the lobby for a meeting with the emperor. After a while, s
 
 “Hello!” Larkwren greeted them. “I’m Larkwren Olivento Lightbrew. I’m here to bring life and kill death!” He held out his hand to the armored soldier.
 
-The soldier stood there. Its glassy grey eyes stared into Larkwren’s through the tiny gaps in its helmet. Its wood-jointed armored arms hung at its side. Its metal plating was covered in moss from head to toe. A little smiley face had been smudged out of the moss on the side of its shoulder where it couldn’t see. The sword on its back matched the shape of the sword symbol etched into its shield, which also had the same sigil carved into it as the being’s chest. The armored soldier didn’t say anything, but rigidly moved its hand up to greet Larkwren, but didn’t connect with his hand.
+The soldier stood there. Its glassy grey eyes stared into Larkwren’s through the tiny gaps in its helmet. Its wood-jointed armored arms hung at its side. Its metal plating was covered in moss from head to toe. A little smiley face had been smudged out of the moss on the side of its shoulder where it couldn’t see. The sword on its back matched the shape of the sword symbol etched into its shield, which also had the same sigil carved into it as the soldier’s chest. The armored soldier didn’t say anything as it rigidly moved its hand up to greet Larkwren, but didn’t quite connect with his hand.
 
 Larkwren met him where he was at, and shook his metal hand. It barely moved an inch. “Nice to meet you, metal man.” Larkwren then turned to the cat people.
 
-The first cat person had a large red hat with a long white feather. Her cat ears laid flat under her wide-brimmed hat. Her long blonde hair poured out of her hat, stretching down to her blonde-furred tail. He red robe was lined with gold seems and pockets, with sleeves stretching down her arms to her black leather gloves. Each hand rested on a rapier on either side of her hips. “I’m Miko, and I’m here to kill zombies.” She smiled as she shook Larkwren’s hand.
+The first cat person had a large red hat with a long white feather. Her cat ears laid flat under her wide-brimmed hat. Her long blonde hair poured out of her hat, stretching down to her blonde-furred tail. Her red robe was lined with gold seems and pockets, with sleeves stretching down her arms to her black leather gloves. Each hand rested on a rapier on either side of her hips. “I’m Miko, and I’m here to kill zombies.” She smiled as she shook Larkwren’s hand.
 
-“Excellent!” Larkwren knelt down to his her hand. “Pleasure to meet you, Miko.”
+“Excellent!” Larkwren knelt down to kiss her hand. “Pleasure to meet you, Miko.”
 
 “Pleasure’s all mine. And this here is E’Zhule.” She gestured to the other cat person.
 
 “Hey.” He waved, then put his hands back in his pockets. His hands were still clearly visible from inside his black jacket pockets. His blue-furred ears peeked out from the hairy black mess that he called a hair style. He blew strands of hair out of his eye, but they fell back anyway. The sword on his back pointed to his swishing blue tail. He looked at Larkwren’s outstretched hand for a moment, then shrugged. He didn’t shake it.
 
-“What a fine lad.” Larkwren frowned. He then gestured to his lion friend. “This is Jack. He doesn’t speak common. And this is Cloverbraid.” He hugged his horse’s neck. “We’re all here to kill zombies!”
+“What a… fine lad.” Larkwren frowned. He then gestured to his lion friend. “This is Jack. He doesn’t speak common. And this is Cloverbraid.” He hugged his horse’s neck. “We’re all here to kill zombies!”
 
 “Here! Here!” A voice called from behind Miko’s hat.
 
-“Oh, yeah!” Miko took off bag. A metal head appeared out of it. “This is Rust.”
+“Oh, yeah!” Miko took off her bag. A metal head appeared out of it. “This is Rust.”
 
 “I am Rust. I am rust.” The metal robot said. Its whole head was orange from years of rotting. Despite not being in full view, it was plain to see that the robot wasn’t all there. It waved an arm in greeting, but it was missing fingers that fell off from being rusted through. Not an inch was shiny or polished. “I am on my last legs.”
 
@@ -168,7 +168,7 @@ Larkwren nodded as he rested his hands on his hips.
 
 “Excellent.” Larkwren followed first, and then Cloverbraid.
 
-“Whoa whoa there.” The guard gestured to halt. “The horse stays.”
+“Whoa, whoa there.” The guard gestured to halt. “The horse stays.”
 
 “Sorry Cloverbraid,” he said while stroking her snout. “I’ll be back real quick.”
 
@@ -176,11 +176,11 @@ Cloverbraid snorted and stomped a hoof.
 
 “Yes, don’t worry, I won’t sign anything without you.”
 
-“Don’t worry, sir, your horse will be taken care of while you’re in the meeting.” The guard assured him as he led the party through the castle. The way was long and winding. Navigating this without a map would be difficult.
+“Don’t worry, sir, your horse will be taken care of while you’re in the meeting.” The guard assured him as he led the party through the castle. The way was long and winding. Navigating this without a map would have been difficult.
 
-The guard led them to a small room that had just enough seats for each of them along the walls. The entryway was built for normal human height, making Larkwren have to duck to get in. He sat on one of the seats, tensing his muscles, trying to keep the seat from breaking under his weight. He and the other adventurers faced a desk with piles of papers and notes on it. Behind it sat an empty chair, and the three slit windows that illuminated the room with natural light from the morning sun.
+The guard led them to a small room that had just enough seats for each of them along the walls. The entryway was built for normal human height; Larkwren had to duck to get in. He sat on one of the seats, tensing his muscles, trying to keep the seat from breaking under his weight. He and the other adventurers faced a desk with piles of papers and notes on it. Behind it sat an empty chair, and the three slit windows that illuminated the room with natural light from the morning sun.
 
-A large man pimped out in jewelry materialized in front of the chair. He was a balding old man in fancy dress, who was nevertheless large at 6’0”. He appeared no less large as he sat in the chair. The snake around his neck relaxed its neck on his shoulder. Each of his fingers held a unique ring, including a gold ring, a brain ring, a ruin-etched jewel ring, and an envelope ring. He opened the envelope ring and pulled out a stack of tiny papers. He slapped them on the desk, and they grew to a normal paper size. Despite his old age, he gave off a divine energy so strong it felt blinding to Larkwren’s paladin senses. “Aha! It’s the adventurers going down to the ancient gnome city!” He stroked his snake’s scales. “My name is Galaya. You may call me Emperor Galaya.” He flicked his finger, sending a paper floating to each adventurer. “This is the contract you are required to sign. Sign here, here, and here.”
+A large man pimped out in jewelry materialized in front of the chair. He was a balding old man in fancy dress, who was nevertheless large at 6’0” tall. He appeared no less large as he sat in the chair. The snake around his neck relaxed its neck on his shoulder. Each of his fingers held a unique ring, including a gold ring, a brain ring, a rune-etched jewel ring, and an envelope ring. He opened the envelope ring and pulled out a stack of tiny papers. He slapped them on the desk, and they grew to a normal paper size. Despite his old age, he gave off a divine energy so strong it felt blinding to Larkwren’s paladin senses. “Aha! It’s the adventurers going down to the ancient gnome city!” He stroked his snake’s scales. “My name is Galaya. You may call me Emperor Galaya.” He flicked his finger, sending a paper floating to each adventurer. “This is the contract you are required to sign. Sign here, here, and here.”
 
 Larkwren looked at the contract, stumped. “Emperor Galeo?”
 
@@ -204,9 +204,9 @@ The blue guard bowed and did just that. It guided Larkwren through the winding c
 
 Cloverbraid gave a smug look and snorted.
 
-He crouched down and held the contract in her vision. “What do you think?”
+He crouched down and held the contract in front of her. “What do you think?”
 
-The horse turned her head this and that, scanning the page.
+Cloverbraid turned her head this way and that, scanning the page.
 
 I, Larkwren Litebrue, DULY ACCEPT THIS QUEST TO SLAY ZOMBIES. I WILL COMPLETE THIS TASK AND REPORT BACK TO EMPEROR GALAYA *(ALL HAIL GALAYA)* IN A TIMELY MANNER. I WILL NOT DEVIATE FROM THIS TASK UNTIL IT IS COMPLETED. I AM HONOR BOUND TO EMPORER GALAYA *(ALL HAIL GALAYA)* UNTIL I COMPLETE THIS TASK.  
 REWARD: 300 GP  
@@ -215,9 +215,11 @@ DATE: 7TH OF CHES
 
 Cloverbraid snorted, stomped her hoof, and shook her head.
 
-Larkwren hugged her neck. “Thank you, Cloverbraid.” He approached the blue guard. “Ok, take me back to the emperor. The blue guard guided him back.
+Larkwren hugged her neck. “Thank you, Cloverbraid.” He approached the blue guard. “Ok, take me back to the emperor.”
 
-When he reentered, hunched over as he was in that room, everyone else had finished signing the contract and were giving it back to the emperor.
+The blue guard guided him back.
+
+When he reentered, hunched over as he was in that room, everyone else had already finished signing the contract and were giving it back to the emperor.
 
 “Well?” Emperor Galaya eyed Larkwren.
 
@@ -225,7 +227,7 @@ When he reentered, hunched over as he was in that room, everyone else had finish
 
 The emperor was unamused. “Is it because you don’t know how to write? Or read?”
 
-“Um…” Larkwren slapped his own neck. “That is not my strong suit.”
+“Um…” Larkwren slapped his own neck. “*That* is not my strong suit.”
 
 “Fine. Come here.” The emperor motioned to Larkwren, sending him gliding across the floor to the emperor’s desk. He flicked his wrist, and Larkwren’s gauntlet slid right off, exposing his hand underneath. Pulling a needle out of one of his rings, he pricked Larkwren’s finger. “All you need to do is put a drop of your blood on the signature line.” He held out the contract.
 
@@ -259,7 +261,7 @@ It struggled, but Rust managed to sign it. “I signed it.”
 
 The emperor put Rust back in Miko’s bag. He looked at Larkwren. “Now it’s your turn.”
 
-“No sorry I have to go!” Larkwren ran out, banging his head on the way out. He ran through the corridors, but got lost.
+“No sorry! I have to go!” Larkwren ran out, banging his head on the way out. He ran through the corridors, but got lost.
 
 The blue guard appeared and led him to his horse, and escorted both of them out.
 
@@ -279,11 +281,11 @@ On the outside of the castle grounds, Larkwren and Cloverbraid waited.
 
 “Yes, I had to sign a contract to become a guard too.”
 
-“And now look at you!” Larkwren gestured. “You’re stuck here in this one spot for the rest of your live. Wouldn’t you rather be free? Exploring the world, the multiverse maybe? Or at least your very own city?”
+“And now look at you!” Larkwren gestured. “You’re stuck here in this one spot for the rest of your life. Wouldn’t you rather be free? Exploring the world, the multiverse maybe? Or at least your very own city?”
 
 “I voluntarily serve my emperor, and gladly. Just like you serve Lathander.”
 
-“Hmm…” Larkwren tilted his head. Then he smiled hugely, but hid it right after. “So, how did you become a guard, serving the emperor?”
+“Hmm…” Larkwren tilted his head. Then he smiled hugely but briefly. “So, how did you become a guard, serving the emperor?”
 
 The guard squinted at him. “I know what you’re doing. I’m not going to let you talk me into letting you loiter. Move along now.”
 
@@ -295,7 +297,7 @@ Larkwren cussed under his breath. He yelled back, “Wasn’t planning on it!”
 
 Cloverbraid knickers, playfully stamping her hooves.
 
-Larkwren waited at a tavern with outdoor seating that he predicted the party would walk by. He leaned over and held out his mug to another drinker. “Cheers!”
+Larkwren picked a tavern he thought the party would walk by. He took a seat on the outdoor patio with a fresh beer in his hand. He leaned over and held out his mug to a drinker at another table. “Cheers!”
 
 “Cheers,” said the other man.
 
@@ -319,7 +321,7 @@ They both took a swig of their beverages.
 
 “And a paladin of Lathander, at that.” The man grabbed Larkwren’s shield to gaze upon it.
 
-Larkwren nodded as he took another sip.
+Larkwren held it up so the man could take it in, with all its glory.
 
 “My daughter wants to be a paladin, and is considering following Lathander. What are your thoughts?”
 
@@ -327,15 +329,15 @@ Larkwren nodded as he took another sip.
 
 “Many thanks. Could you bless this handkerchief for her?” He pulled a handkerchief out of his pocket. It was brand new, pure white, and gold-trimmed.
 
-“With pleasure.” Larkwren took and pressed it up against his shield. Closing his eyes, he said a small prayer. “Lathander, please bless this handkerchief, so that another may find their way in life.” He pulled the handkerchief away. Specks of gold, pieces of white paint, and plant fibers stained the fabric in the shape of Lathander’s holy symbol. “Here. It’s not much, but I hope this helps.”
+“With pleasure.” Larkwren took it and pressed it up against his shield. Closing his eyes, he said a small prayer. “Lathander, please bless this handkerchief, so that another may find their way in life.” He pulled the handkerchief away. Specks of gold, pieces of white paint, and plant fibers stained the fabric in the shape of Lathander’s holy symbol. “Here. It’s not much, but I hope this helps.”
 
-“Many thanks. My daughter will be thrilled to here about this. An actual adventuring paladin of Lathander!”
+“Many thanks. My daughter will be thrilled to hear about this. An actual adventuring paladin of Lathander!”
 
 “Do you not have Lathander paladins here?”
 
 “We do, right down there.” The man gestured down the road to a building obscured from view. “We have a temple of Lathander here, but the priests there never leave the city. It’s great to meet someone with your experience.”
 
-“The pleasures all mine.” Larkwren sat up in his chair. “But hey, I do need some help.”
+“The pleasure’s all mine.” Larkwren sat up in his chair. “But hey, I do need some help.”
 
 “Oh?”
 
@@ -363,7 +365,7 @@ The armored soldier took notice of Rust. “What are your features?”
 
 “You need repairs.” The armored soldier pulled out a coin purse.
 
-“He does but I’m working on it.” Miko took off her bag to look Rust in the eyes.
+“He does, but I’m working on it.” Miko took off her bag to look Rust in the eyes.
 
 “Is this your master?” The soldier gestured to Miko.
 
@@ -377,7 +379,7 @@ The armored soldier took notice of Rust. “What are your features?”
 
 “I feel fine.” Rust scraped some iron oxide flakes off his chest.
 
-“You *are* in need of repairs,” noted the emperor. “And if you’re going to be fighting zombies, you’ll need them before you leave here to today.”
+“You *are* in need of repairs,” noted the emperor. “And if you’re going to be fighting zombies, you’ll need them before you leave here today.”
 
 “But repairs could take hours. We don’t have all day.” The soldier contradicted.
 
@@ -395,7 +397,7 @@ The tiefling soon returned with an iron golem body in the teleportation circle. 
 
 Emperor Galaya expertly inserted the central processing chip in the new iron golem body. He backed away as it whirred to life.
 
-First, Rust the iron golem stood straight, punching his head straight through the ceiling. Paint and wood chips littered the floor. It spun its arm around, and then its other arm. After they stopped spinning, it lifted its leg to its knee height. It immediately fell over. The floor cracked at its weight.
+First, Rust the iron golem stood straight, punching his head straight through the ceiling. Paint and wood chips littered the floor. It spun its arm around, and then its other arm. After they stopped spinning, it lifted its leg to knee height. It immediately fell over. The floor cracked under its weight.
 
 The tiefling laughed. “You’re not used to changing bodies, are you?”
 
@@ -423,7 +425,7 @@ Jack was still a lion.
 
 Jack stared ahead, bewildered.
 
-“Never mind then.” The emperor sat back down at his desk. “Now that everyone is in condition to fight, now it’s time to tell you where you’re going.”
+“Never mind then.” The emperor sat back down at his desk. “Now that everyone is in fighting condition, it’s time to tell you where you’re going.”
 
 Jack stared ahead, bewildered.
 
@@ -433,9 +435,9 @@ Larkwren threw his mug of beer at the lion, who was at the back of the party. Th
 
 “Psst!” Larkwren motioned for him to come over. “/Do you know where the zombies are?/”
 
-“/I didn’t catch it, no. I’m following them./”
+“/I didn’t catch it, no. I’m following them./” Jack pointed to the party.
 
-“/Ok, go on./” Larkwren stood up as Jack left. “Nice talking with you, sir.”
+“/Ok, go on./” Larkwren stood up as Jack left. He nodded at the man he was conversing with. “Nice talking with you, sir.”
 
 “You too.” The man took the last sip from his mug.
 
@@ -451,7 +453,7 @@ The party stopped when they saw a merchant being harassed by a group of three or
 
 “Hey!” Miko yelled. “What’s going on here?”
 
-“Scram!” The orcs said.
+“Scram!” The orcs said. “This is none of your business!”
 
 “Leave that man alone!” Miko drew her rapiers.
 
@@ -477,7 +479,7 @@ Miko smiled back at him. Then with a focus of concentration, she used her other 
 
 “Rust!” Miko whistled.
 
-“I can fix it.” Rust, in a new iron golem body, walked over. His 7’0” body held the sigil of the emperor but not even a smidge of dirt or rust. He effortlessly picked up the cart and the wheel and slid it on. Setting it back down gently, he said, “All done.”
+“I can fix it.” Rust, in his new iron golem body, walked over. His 7’0” body held the sigil of the emperor but not even a smidge of dirt or rust. He effortlessly picked up the cart and the wheel and slid it on. Setting it back down gently, he said, “All done.”
 
 “You’re welcome.” Miko waved as she and the party left.
 
@@ -495,11 +497,11 @@ Once the party exited the city through the south gate, Larkwren and Cloverbraid 
 
 Miko filled him in, and they soon found the entrance just north of the Dessarin River. It was the entrance to Dolblunde, the ancient city of gnomes.
 
-They go in, and slide down a muddy slope to the city gates. Miko, Larkwren, Cloverbraid, Jack, E’Zhule, the armored soldier, and Rust all enter and walk down the corridors. Larkwren dismounts Cloverbraid due to the low ceiling.
+They went in, sliding down a muddy slope to the city gates. Miko, Larkwren, Cloverbraid, Jack, E’Zhule, the armored soldier, and Rust all entered and walked down the corridors. The low ceiling forced Larkwren to dismount Cloverbraid.
 
-The corridor is lit by ever-torches on pedestals. Closed doors line the walls, stalactites the ceiling, and bloody pebbles the floor.
+The corridor was lit by ever-torches on pedestals. Closed doors lined the walls, stalactites the ceiling, and bloody pebbles the floor.
 
-Larkwren puts a hand to his ear. “/I don’t sense any evil. Where are the zombies?/”
+Larkwren put a hand to his ear. “/I don’t sense any evil. Where are the zombies?/”
 
 “/Maybe someone killed them already?/” Jack knocked on a door.
 
@@ -515,7 +517,7 @@ The poorly lit room didn’t greet her, and neither did the flipped table or top
 
 Miko rubbed dirt off a door. Underneath was just stone. She opened it, and a zombie popped out!
 
-“Arrrrgh!”
+“Arrrrgh!” The zombie moaned.
 
 Miko screamed.
 
@@ -523,35 +525,37 @@ Jack lunged at it, knocking it to the ground. Rust held a foot up and stepped on
 
 “I don’t think he wants a donut!” Miko commented.
 
-“Ok, the zombies are here. Stay here, I’ll scout ahead.” Rust walked with his new long legs ahead of the group. There was a hole in the floor, and he was heading right for it. He got to the edge, and turned to the left, but instead of walking around, he fell right in.
+“The zombies are here!” Larkwren declared.
+
+“Stay here. I will scout.” Rust walked with his new long legs ahead of the group. There was a hole in the floor, and he was heading right for it. He got to the edge, and turned to the left, but instead of walking around, he fell right in.
 
 “Ruuuust!” Miko ran to the edge of the pit. “Are you ok?”
 
-In the pit, Rust lay on his side. Several spikes pierced straight through his chassis. The adamantine tips sparkled in the light. “It would appear that I am trapped in this hole.” But with little effort, he bent the spikes out of him, and stood back up. He jumped and reached for the edge of the pit. He only lifted himself a few inches and wound up on his butt, rolling backward. “I am trapped.”
+In the pit, Rust lay on his side. Several spikes pierced straight through his chassis. The adamantine tips sparkled in the light. “I am in a hole. I am trapped.” But with little effort, he bent the spikes out of him, and stood back up. He jumped and reached for the edge of the pit. He only lifted himself a few inches and wound up on his butt, rolling backward. “I am trapped.”
 
 “I’ll get help.”
 
 “I got this.” E’Zhule pushed Miko aside. “Are you willing?” He called down into the pit.
 
-“Yes.” Rust answered.
+“I am willing.” Rust gave a thumbs up.
 
 E’Zhule took a few steps from the pit, then ran straight in. He landed in Rust’s arms. “Then fly!” E’Zhule’s hand crackled with energy that he pushed into Rust’s body.
 
-Rust held E’Zhule as he flew out of the pit, hitting his head on the low ceiling in the corridor. E’Zhule bounced out of his arms and landed feet first on the floor. Rust fell horizontal and flew across the room into a wall. The energy of flight left him to fall onto the floor.
+Rust held E’Zhule as he flew out of the pit, hitting his head on the low ceiling in the corridor. E’Zhule bounced out of his arms and landed feet first on the floor. Rust fell horizontal and flew across the room into a wall.
 
 “Are you ok?” Miko asked.
 
-“Yes.”
+“I am fine.”
 
 The party moved around the pit and searched the doors on the other side. Miko opened a door and a spiked wooden board fell from the ceiling inside the room. Miko jumped back, dodging it completely.
 
-“This place is booby trapped.” Rust hugged Miko. “I should go ahead. I’m not as valuable.”
+“This place is booby trapped.” Rust hugged Miko. “I will go ahead. I am trash.”
 
 “Now there’s a good lad!” Larkwren patted Rust on the back.
 
-“No, Rust!” Miko protested. “You *are* valuable!”
+“No, Rust!” Miko protested. “You’re not trash! You’re *valuable*!”
 
-“Yes, very valuable!” Larkwren agreed, pushing Rust forward. “For finding all the traps for us.”
+“Yes, very valuable!” Larkwren agreed, pushing Rust forward. “Valuable for finding all the traps for us.”
 
 “No! You’re my friend.” She reached for the next door. “You’re worth more than your ability to find traps.” She opened the door.
 
@@ -565,7 +569,7 @@ Miko drove a rapier into the ground, stopping the door from opening.
 
 As a last resort, the zombies started breaking down the door from the inside. They ripped a board off, and pulled another one out of its spot.
 
-“Watch your head!” E’Zhule threw a magic bolt at the zombies, singing their fingers.
+“Watch your head!” E’Zhule threw a magic bolt at the zombies, which singed their fingers.
 
 They recoiled and stopped breaking the door. But the door also took damage in the form of a hole. A zombie reached its arm out through it and swung wildly.
 
@@ -573,15 +577,15 @@ Miko took a step back, but hit a fluffy wall. Looking up, she saw it was Jack.
 
 Jack two-handed his halberd into the zombie’s arm, pushing it back into the room. Black goo stuck to the edge of the halberd.
 
-“Miko!” Rust comes over and punches a zombie, but the zombie miraculously dodges and his fist gets stuck in the door. He pulls it out, but takes a piece of the door with him. The door falls apart from all its years of decay and minutes of recent damage.
+“Duck!” Rust came over and punched a zombie, but the zombie miraculously dodged and his fist got stuck in the door. He pulled it out, but took a piece of the door with him. The door fell apart from all its years of decay and minutes of recent damage.
 
-A zombie falls out of the room and falls on top of Miko.
+A zombie fell out of the room directly on top of Miko.
 
-Larkwren intervenes and slams his shield from above right in front of Miko. The zombie falls on Larkwren’s shield and Miko takes no damage.
+Larkwren intervened by slamming his shield from above right in front of Miko. The zombie fell on Larkwren’s shield and Miko took no damage.
 
 Caught between a lion and a shield, Miko felt trapped. “I want out!” she screamed.
 
-Rust reached around Larkwren and pulled Miko out of her position, flinging her back into open corridor. “Sorry.”
+Rust reached around Larkwren and pulled Miko out of her position, flinging her back into the open corridor. “Sorry.”
 
 “Thanks!” Miko breathed a sigh of relief as she landed on the floor. “Fireball!” Fire spread across her whole hand, engulfing it. She flung her hand, throwing the fireball into the zombie room.
 
@@ -607,7 +611,7 @@ Black goo splattered everywhere. The zombie stopped writhing.
 
 ===========================================
 
-Back at the castle, Emperor Galaya was watching the party through the astral plane. “I bet they all suck at sucking dick. Except for that Larkwren guy. He’s probably really good.” Then he jacks off to the thought of Larkwren sucking his dick. “Yeah, I bet he’s really good…” He watched the party continue through the corridor on his simulacrum.
+Back at the palace, Emperor Galaya watched the party through the ethereal plane. “I bet they all suck at sucking dick. Except for that Larkwren guy. He’s probably really good.” Then he jacks off to the thought of Larkwren sucking his dick. “Yeah, I bet he’s really good…” He watched the party continue through the corridor on his simulacrum.
 
 # Chapter 2 – Exploding Zombies
 
