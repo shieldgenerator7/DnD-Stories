@@ -1158,11 +1158,15 @@ Larkwren and Cloverbraid followed him.
 
 “I know several Roberts. Which one?”
 
-“I don’t know. But he’s not a normal Robert…”
+“I don’t know. But he’s not a normal Robert.” Larkwren scanned the stable. “Let me describe him.”
 
 ====================
 
-“Thank you for saving me.” The commoner approached Miko as she stood among the dead wolves.
+The commoner walked to the road and waited for the party. He wore a tight-fitting wool cap on his presumably bald head. His maroon pancho hid his buttoned-up jacket, which hung down over his plain pants. His bag bulged out on his back under his pancho. His staff had bite marks all over it.
+
+Miko was the first to get to the path.
+
+“Thank you for saving me.” The commoner thanked Miko.
 
 “Ah, no problem, sir.” Miko bowed. “That’s what I do.”
 
@@ -1202,7 +1206,7 @@ Miko pulled on the handles, but they didn’t open. She knocked, but there was n
 
 =============================
 
-“Oh, yes, that Robert.” The priest opened the stable doors. “He works with the emperor.” He called for a stable hand to prepare a stable for Cloverbraid. “Any special requests?”
+“No, I don’t know that Robert.” The priest opened the stable doors. “I’ve never heard of any Robert amongst the emperor’s court.” He called for a stable hand to prepare a stable for Cloverbraid. “Any special requests?”
 
 Cloverbraid whispered in Larkwren’s ear.
 
