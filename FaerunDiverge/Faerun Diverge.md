@@ -4,7 +4,7 @@ This is a novelization of a D&D campaign I played in. Some events are paraphrase
 
 Content warning: blood, gore, sex
 
-# Chapter 1 – The Emporer
+# Chapter 1 – The Emperor
 
 A human paladin rode his warhorse up the cliffside path near the sea. The chainmail on his chest and around his horse’s body clink-clinked with each stride, and the battle-axe on his back shook. He held his horse’s mane in one hand and a shield in the other. The flowers on his white shield jostled as if they were about to fall off, but their sturdy roots grounded them onto the shield. The white shield, paint chipped as it were, still proudly displayed the sun and field symbol of Lathander. The paladin’s long golden hair flowed in the wind. He pulled the shield to his face and took a deep breathe. The flowers’ aroma and the sea air pleasured his wide nostrils. “Life,” he smiled.
 
@@ -98,7 +98,7 @@ The guard sighed, flipping through his clipboard. “Name?”
 
 “Thanks.” Larkwren took the pass and looked at it.
 
-LARREN LITDEW IS HEREBY PERMITTED TO ENTER WATERDEEP FOR ONE (1) MONTH STARTING ON THIS DAY, THE 7TH OF CHESS. REASON: ZOMBIE SLAYING
+LARREN LITDEW IS HEREBY PERMITTED TO ENTER WATERDEEP FOR ONE (1) MONTH STARTING ON THIS DAY, THE 7TH OF CHES. REASON: ZOMBIE SLAYING
 
 Larkwren smiled. “Ah, so this is a pass.”
 
@@ -132,7 +132,7 @@ Jack soon got through the gate too, going through a similar process.
 
 The guards escorted Larkwren, despite his unwillingness, and his two friends. They got to the castle and went inside.
 
-There, they waited in the lobby for a meeting with the emporer. After a while, several more adventurers arrived. Two short humans with cat ears and a tail walked in with a giant armored soldier.
+There, they waited in the lobby for a meeting with the emperor. After a while, several more adventurers arrived. Two short humans with cat ears and a tail walked in with a giant armored soldier.
 
 “Hello!” Larkwren greeted them. “I’m Larkwren Olivento Lightbrew. I’m here to bring life and kill death!” He held out his hand to the armored soldier.
 
@@ -164,7 +164,7 @@ The first cat person had a large red hat with a long white feather. Her cat ears
 
 Larkwren nodded as he rested his hands on his hips.
 
-“The emporer will see you now. Follow me.”
+“The emperor will see you now. Follow me.”
 
 “Excellent.” Larkwren followed first, and then Cloverbraid.
 
@@ -182,7 +182,7 @@ The guard led them to a small room that had just enough seats for each of them a
 
 A large man pimped out in jewelry materialized in front of the chair. He was a balding old man in fancy dress, who was nevertheless large at 6’0”. He appeared no less large as he sat in the chair. The snake around his neck relaxed its neck on his shoulder. Each of his fingers held a unique ring, including a gold ring, a brain ring, a ruin-etched jewel ring, and an envelope ring. He opened the envelope ring and pulled out a stack of tiny papers. He slapped them on the desk, and they grew to a normal paper size. Despite his old age, he gave off a divine energy so strong it felt blinding to Larkwren’s paladin senses. “Aha! It’s the adventurers going down to the ancient gnome city!” He stroked his snake’s scales. “My name is Galaya. You may call me Emperor Galaya.” He flicked his finger, sending a paper floating to each adventurer. “This is the contract you are required to sign. Sign here, here, and here.”
 
-Larkwren looked at the contract, stumped. “Emporer Galeo?”
+Larkwren looked at the contract, stumped. “Emperor Galeo?”
 
 “Galaya. Gala*ya*.”
 
@@ -208,10 +208,10 @@ He crouched down and held the contract in her vision. “What do you think?”
 
 The horse turned her head this and that, scanning the page.
 
-I, Lorkwen Litebrue, DULY ACCEPT THIS QUEST TO SLAY ZOMBIES. I WILL COMPLETE THIS TASK AND REPORT BACK TO EMPEROR GALAYA *(ALL HAIL GALAYA)* IN A TIMELY MANNER. I WILL NOT DEVIATE FROM THIS TASK UNTIL IT IS COMPLETED. I AM HONOR BOUND TO EMPORER GALAYA *(ALL HAIL GALAYA)* UNTIL I COMPLETE THIS TASK.  
+I, Larkwren Litebrue, DULY ACCEPT THIS QUEST TO SLAY ZOMBIES. I WILL COMPLETE THIS TASK AND REPORT BACK TO EMPEROR GALAYA *(ALL HAIL GALAYA)* IN A TIMELY MANNER. I WILL NOT DEVIATE FROM THIS TASK UNTIL IT IS COMPLETED. I AM HONOR BOUND TO EMPORER GALAYA *(ALL HAIL GALAYA)* UNTIL I COMPLETE THIS TASK.  
 REWARD: 300 GP  
 SIGNATURE:  
-DATE: 7TH OF CHESS
+DATE: 7TH OF CHES
 
 Cloverbraid snorted, stomped her hoof, and shook her head.
 
@@ -309,7 +309,7 @@ They both took a swig of their beverages.
 
 “Seen him? I met him!”
 
-“Fishlegs! The emperor only meets with very few people.”
+“Fish legs! The emperor only meets with very few people.”
 
 “Well, I’m one of them.”
 
@@ -385,27 +385,27 @@ The armored soldier took notice of Rust. “What are your features?”
 
 Out stepped a sexy 5’8” tiefling woman wearing leather armor and a flipped-up welding mask. “What’s up, daddy?”
 
-“Cynthalia, this robot needs repairs. Give him the iron golem body in the meantime.”
+“This robot needs repairs. Give him the iron golem body in the meantime.”
 
-“You got it.” Cynthalia grabbed Rust and delicately pulled out his central processing chip with a pair of pliers.
+“You got it.” The tiefling grabbed Rust and delicately pulled out his central processing chip with a pair of pliers.
 
 With the emperor’s wizardry, an iron golem body floated out of the portal and into the room. It hit its head on the ceiling and slumped over when it entered.
 
-Cynthalia pulled a stepladder off her back, unfolded it, and climbed onto it. As soon as she put Rust’s chip into the golem, its eyes lit up and came to life.
+The tiefling pulled a stepladder off her back, unfolded it, and climbed onto it. As soon as she put Rust’s chip into the golem, its eyes lit up and came to life.
 
-First, its right arm spun around, nearly knocking Cynthalia off her stepladder. Then the other arm stretched outward and punched a whole in the wall. Its knees bent, and then it toppled over on its face. On the ground, its knees outstretched, pushing the stepladder out from under Cynthalia.
+First, its right arm spun around, nearly knocking the tiefling off her stepladder. Then the other arm stretched outward and punched a whole in the wall. Its knees bent, and then it toppled over on its face. On the ground, its knees outstretched, pushing the stepladder out from under the tiefling.
 
 She screamed as she hit the ground. Spitting out carpet dirt, she muttered, “You’re not used to changing bodies, are you?”
 
 “I am new.” Rust found his voice box. “I am new!”
 
-“Is that all?” Cynthalia grabbed her stuff and headed to the portal.
+“Is that all?” The tiefling grabbed her stuff and headed to the portal.
 
-“That’ll be all, thank you, Cynthalia.”
+“That’ll be all, thank you.”
 
 She left. Before the portal closed, the emperor floated Rust’s old rusty limp body through it.
 
-“This is just temporary. Once Cynthalia fixes your old body, you can go back to it.”
+“This is just temporary. Once I fix your old body, you can go back to it.”
 
 “Great.” Rust gave a thumbs up while trying to get up, causing him to fall over to one side. “Great.”
 
@@ -421,7 +421,7 @@ Jack was still a lion.
 
 Jack stared ahead, bewildered.
 
-“Nevermind then.” The emperor sat back down at his desk. “Now that everyone is in condition to fight, now it’s time to tell you where you’re going.”
+“Never mind then.” The emperor sat back down at his desk. “Now that everyone is in condition to fight, now it’s time to tell you where you’re going.”
 
 Jack stared ahead, bewildered.
 
@@ -493,9 +493,9 @@ Once the party exited the city through the south gate, Larkwren and Cloverbraid 
 
 Miko filled him in, and they soon found the entrance just north of the Dessarin River. It was the entrance to Dolblunde, the ancient city of gnomes.
 
-They go in, and slide down a muddy slope to the city gates. Miko, Larkwren, Cloverbraid, Jack, E’Zuhl, the armored soldier, and Rust all enter and walk down the corridors. Larkwren dismounts Cloverbraid due to the low ceiling.
+They go in, and slide down a muddy slope to the city gates. Miko, Larkwren, Cloverbraid, Jack, E’Zhule, the armored soldier, and Rust all enter and walk down the corridors. Larkwren dismounts Cloverbraid due to the low ceiling.
 
-The corridor is lit by evertorches on pedestals. Closed doors line the walls, stalactites the ceiling, and bloody pebbles the floor.
+The corridor is lit by ever-torches on pedestals. Closed doors line the walls, stalactites the ceiling, and bloody pebbles the floor.
 
 Larkwren puts a hand to his ear. “/I don’t sense any evil. Where are the zombies?/”
 
@@ -595,7 +595,7 @@ Jack stood behind the shield, but stared ahead bemused. He took a rock to the fa
 
 “Arrrgh!” A zombie reached for Larkwren’s ankle as it writhed in pain on the ground. Its lower body was crushed by the rock avalanche, but it still hungered.
 
-Larkwren swung his battleaxe, cutting off the arm. “DIE ZOMBIE!!” He held the axe above his head. “Lathander! Make room!” His axe glowed bright white as he brought it down onto the zombie’s skull, splitting it open.
+Larkwren swung his battle-axe, cutting off the arm. “DIE ZOMBIE!!” He held the axe above his head. “Lathander! Make room!” His axe glowed bright white as he brought it down onto the zombie’s skull, splitting it open.
 
 Black goo splattered everywhere. The zombie stopped writhing.
 
@@ -645,7 +645,7 @@ Rust walked up to the door and pushed it. Instead of the door busting open, the 
 
 “Rust, are you ok?”
 
-“I’m fine.” Rust gaves a thumbs up.
+“I’m fine.” Rust gave a thumbs up.
 
 “I don’t like you putting yourself in danger like that.” Miko walked up to the next door.
 
@@ -679,13 +679,13 @@ The armored soldier held out a fist. With his other glowing hand, he reached nex
 
 “Yes, she did!” Larkwren winced. “Multiple times!”
 
-“Such baffling behaviour.” The priest’s glowing hands sealed the wounds in Larkwren’s arms.
+“Such baffling behavior.” The priest’s glowing hands sealed the wounds in Larkwren’s arms.
 
 “That’s what I thought!” Larkwren flexed, stretching his muscles. “Well, that’s what I *thought*.” He stretched and took a deep breath. “Many thanks! I feel great!”
 
 The priest nodded. “Is there anything else you require?”
 
-His stomache rumbled. “I am a bit hungry.”
+His stomach rumbled. “I am a bit hungry.”
 
 “We are happy to accommodate an acolyte of Lathander. What are you hungry for?” The priest extended open arms and led Larkwren to the dining hall.
 
@@ -745,7 +745,7 @@ Rust went to the next door and fell in another trap.
 
 Rust flew out and shrugged. He proceeded to the next door, which was behind Larkwren and E’Zhule. The door explodes! Pieces of curved metal and sharp wood splinters fly everywhere, jabbing Larkwren and E’Zhule. Rust, despite being the closest to the explosion, gets pushed back, but takes no damage.
 
-“See? He’s invincible.” Larkwren picked splinters out of his scalemail. “You’re being overprotective.”
+“See? He’s invincible.” Larkwren picked splinters out of his scale mail. “You’re being overprotective.”
 
 “I’m not being overprotective!” Miko examined Rust. “He’s got a scratch! See?”
 
@@ -947,7 +947,7 @@ Larkwren sat back and watched, if only just to be able to breathe. He held his c
 
 Miko spoke each word with a command of the arcane higher than she had ever done before. Shrapnel burst out of her body and hung in the air. Poison flowed against gravity into the air. The flakes of burnt skin and flesh chipped off, revealing fresh healthy skin below. The flesh inside the gash writhed and expanded, filling the gap. The skin and muscle knitted itself around the lesion, sealing it completely.
 
-Cloverbraid’s stomache suddenly expanded. She gasped. She was breathing again!
+Cloverbraid’s stomach suddenly expanded. She gasped. She was breathing again!
 
 Larkwren hugged her neck! “Clover! You’re alive! Thank Larkwren you’re alive!”
 
@@ -982,11 +982,11 @@ And so did Cloverbraid. And her eyes peeked open.
 A scroll appeared in the dust circle. He picked it up and unfurls it.
 
 **I HAVE YOUR HORSE  
-\-Dahfair**
+\-Dhafir**
 
 The scroll burns away in his hands.
 
-“Dahfair? I think I know who that is.” Larkwren ponders. “It’s ok, everyone. I think Cloverbraid is at the palace. He should go back.”
+“Dhafir? I think I know who that is.” Larkwren ponders. “It’s ok, everyone. I think Cloverbraid is at the palace. He should go back.”
 
 “But wait! You’re wounded!” Miko pointed to Larkwren’s chest.
 
@@ -1114,7 +1114,7 @@ Miko held it above his head and dropped it into its jaw. “Eep!”
 
 The wolf coughed and spit it out. Then it broke free of Larkwren’s grasp and bit him in the arm.
 
-Miko instinctively thrust her rapier forward and piercing the neck bone. The wolf’s head fell limpy off, tearing the skin as it went.
+Miko instinctively thrust her rapier forward and piercing the neck bone. The wolf’s head fell limply off, tearing the skin as it went.
 
 “Miko!” Larkwren angrily blurted. “I was trying to save it!”
 
@@ -1162,7 +1162,7 @@ Larkwren and Cloverbraid followed him.
 
 ====================
 
-The commoner walked to the road and waited for the party. He wore a tight-fitting wool cap on his presumably bald head. His maroon pancho hid his buttoned-up jacket, which hung down over his plain pants. His bag bulged out on his back under his pancho. His staff had bite marks all over it.
+The commoner walked to the road and waited for the party. He wore a tight-fitting wool cap on his presumably bald head. His maroon poncho hid his buttoned-up jacket, which hung down over his plain pants. His bag bulged out on his back under his poncho. His staff had bite marks all over it.
 
 Miko was the first to get to the path.
 
@@ -1194,7 +1194,7 @@ Miko shrugs. “I’m hungry. They taste good to me.”
 
 Miko gives a thumbs up.
 
-The party gets to the southgate of Waterdeep. Robert heads in without stopping at the guards, showing a pass, or anything.
+The party arrived at the south gate of Waterdeep. Robert heads in without stopping at the guards, showing a pass, or anything.
 
 “Who is this guy?” Larkwren asked. “And why was he out in the woods where wolves could get him?”
 
@@ -1226,7 +1226,7 @@ Miko waited outside the palace doors. Soon they opened. A middle-aged tiefling s
 
 She nodded. “You’ve all done well. The emperor will see you now.”
 
-“You must be Dahfair?” Larkwren knelt in front of her.
+“You must be Dhafir?” Larkwren knelt in front of her.
 
 “I am.” She presented her hand.
 
@@ -1236,7 +1236,7 @@ He held it and kissed it gently. “I was told you have Cloverbraid?”
 
 “Very well.” Larkwren bowed. “Thank you.”
 
-“Come alone now.” Dahfair led them to the throne room.
+“Come alone now.” Dhafir led them to the throne room.
 
 Inside the tall golden doors, the 30ft x 30ft throne room was a sight to behold. Decorations adorned the walls: mounts of monsters defeated, heads of bloodlines absorbed, and condoms full of ageless liquid hanging from photos of exotic women.
 
@@ -1302,7 +1302,7 @@ A guard escorts Jack out.
 
 As the armored soldier goes through, he accepts a bag of 300 gold.
 
-Dahfair escorts the armored soldier out.
+Dhafir escorts the armored soldier out.
 
 Galaya portals his throne out. Then he grows 2 feet taller. His python hisses. A dark cloud eeks out of him. “And now you, Larkwren.”
 
@@ -1310,9 +1310,9 @@ Galaya portals his throne out. Then he grows 2 feet taller. His python hisses. A
 
 “You think you deserve gold? No, you will not get a reward. You should be grateful that I graciously did not have you arrested and put in prison. Be thankful I don’t charge you for the blood stains on my red carpet from your gaping wounds. Be grateful I saved your horse.”
 
-“Wait, you’re *Dahfair*?” Larkwren muttered, trying not to shake in his boots.
+“Wait, you’re *Dhafir*?” Larkwren muttered, trying not to shake in his boots.
 
-“I’m *the* Dahfair. And you best remember that!”
+“I’m one of them. And you best remember that!”
 
 Larkwren nodded. He winced in pain.
 
@@ -1450,7 +1450,7 @@ E’Zhule begrudgingly accompanied her into the clothes shop.
 
 He went into the changing rooms with a pile of clothes and tried them on one at a time.
 
-He came out first in an azura blue tuxedo with studded leather.
+He came out first in an azure blue tuxedo with studded leather.
 
 “Dashing!” Miko clapped.
 
@@ -1490,7 +1490,7 @@ They go to the dressing room and come out with several different styles, and fin
 
 “You look amazing!” Nomi exclaimed. “And you…” She looked E’Zhule up and down.
 
-He stood straight and tall (for his height) in his azura suit and black shoes. His red bowtie matched Miko’s dress nicely. Miko had even combed his hair into a sleek new style, making his attentive cat ears more prominent.
+He stood straight and tall (for his height) in his azure suit and black shoes. His red bowtie matched Miko’s dress nicely. Miko had even combed his hair into a sleek new style, making his attentive cat ears more prominent.
 
 “…And you can have my number.” Nomi licked her lips as she placed a folded piece of paper in his jacket pocket. “I get off at 8.”
 
@@ -1570,7 +1570,7 @@ E’Zhule got his favorite jacket repaired, and around 8:00 they got back to the
 
 “Yes?”
 
-Miko paused. “Nevermind. Goodnight.”
+Miko paused. “Never mind. Goodnight.”
 
 “Goodnight.” He turned out the light.
 
