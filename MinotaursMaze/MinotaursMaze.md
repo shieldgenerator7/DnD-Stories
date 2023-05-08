@@ -340,7 +340,7 @@ Jodi cried even harder.
 
 “You too, Jodi, you too.”
 
-# Chapter 2
+# Chapter 2 – The Minotaur’s Maze
 
 Apparently at some point, the party captured Astalir and tied him up with a rope so he couldn’t escape. They traveled together to the dungeon. Astalir tried using his tricks to escape, but they found him everytime. They tried talking to him, but all he would say was, “BLEAT!” He didn’t feel like he could trust them to know that he could talk. They all thought he was just a magical deer.
 
@@ -564,7 +564,7 @@ Jodi nodded. “You did good work, Astalir.”
 
 Astalir and Jodi hung out a bit before Astalir had to go fulfill his mission. Lots of people found out about the extent of the minotaur’s body count. It led to new policy being implemented to prevent minotaur deaths in the future. Now for Astalir, it was a job well done. And now it was onto the next mission.
 
-# Chapter 3
+# Chapter 3 – The Goblin Camp
 
 Sui the dragonborn dragon warden held the deck of many things in his hand. The morning sun reflected off the protective coating on the top card. Everyone was asleep, but since Micro the Bugbear had bought this deck for Sui, he couldn’t sleep. He drew a card that made it so he can rest without sleeping. Now he has to find ways to occupy his time while everyone sleeps.
 
