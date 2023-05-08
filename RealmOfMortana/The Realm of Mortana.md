@@ -372,7 +372,7 @@ Johnny went over to the head that rolled away and picked it up. It was quite hea
 
 “Yeah if I were a statue on a beach, I’d be pissed too.” Armstig joked.
 
-“Yeah.” Johnny kicked something. “Say, what’s this?” He pulled it out. It was a bottle of wine! “Wine! Score!” Johnny uncorked it with a claw and took a swig.
+“Yeah.” Johnny kicked something. “Say, what’s this?” He pulled it out. It was a bottle of rum! “Rum! Score!” Johnny uncorked it with a claw and took a swig.
 
 “Booze?” Titus turned to him. “Let me have some.” Titus took the bottle and gulped it down.
 
@@ -380,7 +380,7 @@ Johnny went over to the head that rolled away and picked it up. It was quite hea
 
 Armstig sighed. Then he yelled, “Johnny! I challenge you…” He knelt in front of the detached statue arm. “An *arm* wrestling competition.”
 
-“You’re on!” He tossed the wine bottle to Titus, who greedily grabbed it.
+“You’re on!” He tossed the rum bottle to Titus, who greedily grabbed it.
 
 “You’re going down this time!” Johnny said. He braced arms with Armstig.
 
@@ -438,7 +438,7 @@ Armstig wrang his arm out. “Wow… you’re strong.”
 
 Miyu rolls her eyes, but says, “Thank you,” anyway.
 
-Titus drank the wine all the way to the last sip.
+Titus drank the rum all the way to the last sip.
 
 “Ok, that’s mine.” Johnny declares.
 
@@ -456,7 +456,7 @@ Titus and Johnny lock arms. They start and it’s an even contest. Johnny pushes
 
 “Ok.”
 
-They go again. It takes a little while, but Titus eeks out a victory. He gulps down the last sip of wine. Johnny smacks his lips in disappointment.
+They go again. It takes a little while, but Titus eeks out a victory. He gulps down the last sip of rum. Johnny smacks his lips in disappointment.
 
 The party walks back to town. Along the way, they pass the forest where Selena lives.
 
