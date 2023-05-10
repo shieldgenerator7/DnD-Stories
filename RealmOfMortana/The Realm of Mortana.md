@@ -627,3 +627,207 @@ The worgens go to a tavern and sleep in the attic.
 “That was a fun day!” Armstig gets comfy. “I wonder what’ll happen tomorrow?”
 
 “It sure was.” Johnny replies. “I’m looking forward to it.”
+
+# Chapter 2
+
+The morning air wafted in the dusty tavern attic, tingling the nose of a certain worgen.
+
+Armstig sat straight up and stared out the grated window. He stretched as far as the attic would allow, yawning with a big wide open maw. He kicked Johnny. “Time to wake up!”
+
+Johnny groggily sat up. He gave Armstig an inquisitive look. “Armpit?”
+
+“Yes. It’s that time of day already.”
+
+The two worgens climbed down the attic ladder with their gear and headed out. They walked through the town and the plains to the island mountain. The sun peaked out from beyond the horizon, illuminating the mountain peak. It was a relaxing climb to the top, where they sat down cross-legged and meditated.
+
+The two were silent as they sat, save for the occasional wolf noise and burp.
+
+Johnny’s ear twitched when he heard crunching.
+
+“Oof. What’s that noise?”
+
+Armstig swallowed. “Sorry, I got snacky. Want some?”
+
+Johnny opened his eyes. Armstig was holding out a bag full of dried pancakes. “Are these from yesterday?”
+
+“Yeah, but they’re sun-dried. They’re pretty good, even the bad ones.”
+
+Johnny takes one and eats it. He continues meditating while chewing.
+
+They sit, eyes closed, doing nothing but being silent. And loudly crunching on pancakes, which they serve themselves with a free hand every now and then.
+
+“My towel’s dry.” Armstig proclaimed. Standing up, he pulled the formerly wet towel off his neck.
+
+“I’m almost there.” Johnny took another bite before standing up.
+
+“Mmm… I’m hungry. Looking forward to a proper breakfast.”
+
+“Not today, Armstig.”
+
+They climbed down the mountain.
+
+“You’re not coming to breakfast?”
+
+“You go. I got some important business to take care of.”
+
+“Ok… I’ll meet you back in town.”
+
+Johnny ran ahead to town, leaving Armstig behind on the plains.
+
+Armstig was pleasantly surprised to find the farmer’s market open as he arrived. He sniffed the air. It was all his favorites. He followed the scent to a stand that was serving farmer’s wraps: bacon, egg, and cheese all wrapped in a corn flour tortilla. He savored every bite. He sat down on a bench and watched the crowd.
+
+His ears pricked to a familiar voice. Down the street, Miyu the spider lady was scolding Titus the drunkard.
+
+“Titus! Explain this!” Miyu pointed to the broken window of the Salty Dog tavern.
+
+“Somebody drank all my ale.” Titus tipped his bottle upside down to show that only a drop came out.
+
+Miyu squints at him. “I’m going in there, you stay right here, understand?”
+
+“I’ll… stay around.”
+
+“Right here.”
+
+He nods.
+
+Miyu walks into the tavern and seems to have an amicable conversation with the tavern keeper there.
+
+Meanwhile, Titus spots the farmers market and makes his way over. He finds a stand giving out free samples of beer. Without talking to the attendant, he picks up a glass and pours it in his mouth. His face contorts for a moment, then his drunken smile returns.
+
+He nods at the attendant. “I love the buzz I’m getting off this \*hic\* but fix the flavor or stay with the original stuff.”
+
+“Thanks for the feedback.” The attendant takes the glass from him. He slaps Titus’ hand to keep him from taking another sample. “Only one sample per customer, please.”
+
+“What? You got enough here.”
+
+“Only one sample per customer.”
+
+“Why, you got a ship full of beer here. Can’t I just have one more?”
+
+“No. If you want more, you can buy some.”
+
+“Hmmm… ship full. Could I buy a whole ship full?”
+
+The attendant took out a piece of parchment and a pen. “What would you like?”
+
+“A hundred cases of the classic stuff. None of this experimental… stuff.”
+
+“Alright, and how are you paying for it?”
+
+“Don’t worry. Somebody with the ship will take care of it.”
+
+“Who?”
+
+“Short guy, think he’s a gnome. Yeah.”
+
+“Name?”
+
+“Bo…. Bofum.”
+
+The attendant writes down the info. “The elder?”
+
+“Yeah. And when you make the bill, can you write ‘love titus’ on it?”
+
+“Consider it done. And which ship are we bringing this order to?”
+
+“\*hic\* I don’t know.”
+
+Armstig looked towards the docks. “Yeah, which ship *are* we going on?” He strolled down the street to the boat docks. He found a wide dock pole and perched on it. There were lots of boats on the dock. There was a giant galleon, one or two skiffs, a pair of dinghies, and an absolute dock ton of row boats. They practically littered the place. There were several beached on the shore, some moared to the dock, some moared to other boats, and more on shelves. One floated upside-down in the bay, and another one hung out on the top of the office building.
+
+“How did that get there?” Armstig pondered. He made his way back to the farmer’s market, where he found Johnny eating some breakfast.
+
+“Mission success?” Armstig asked in Sylvan.
+
+“Just some rumors.” Johnny muttered back in Sylvan. “Some guy, looks like us, digging a hole somewhere. Could be a forest, could be a beach.”
+
+“Get any scents?”
+
+“No, he’s long gone by now. But he definitely was here.”
+
+“Man am I sore!” A little kobold stretched as he waited at the breakfast stand. “Thank you.” He took his food.
+
+“Oh hey! Roth!” Armstig waved him over.
+
+“Huh? Oh hi.” Roth came over and sat next to them.
+
+“How was your morning?”
+
+“Just got done training in the woods. Moved a few logs around, you know, helping the beavers out.” Roth took a bite of his breakfast.
+
+“Hey, word of warning.” Johnny wiped his hands. “If you see another worgen like us around here, watch out. He’s bad news. Come to us immediately if you see him.”
+
+Roth nodded as he chewed. He unwrapped his sandwich further to find that it came with an orange slice. “Eh.” He picked it out and looked at Armstig. “You want this?”
+
+“Sure, thanks!” Armstig takes it and swallows it. “Hmm… oranges. Not a bad idea.”
+
+Armstig goes back into the farmer’s market, looking for something in particular. He finds a fruit stand ran by a nice young lady in a yellow sun hat. He breathes in the smell of oranges and sighs happily. “Mm… citrus.”
+
+“Fan of the oranges?” The lady greets him.
+
+“It’s my favorite fruit.” Armstig picks one up.
+
+“Well, nobody has better oranges on this island than me.”
+
+“I’ll bet. Can I try one?”
+
+She shakes her head. “No sorry, no free samples at this stand.”
+
+“How much?” Armstig takes an orange and starts peeling it.
+
+“How many you want?”
+
+“Hmm…” Armstig pops a slice into his mouth. “Hey Johnny! How long are we going to be this boat ride?”
+
+“Huh?” Johnny yells back. “I don’t know!”
+
+“I think maybe a week?” Armstig shrugs at the lady.
+
+“Get a hundred oranges!” Johnny suggests.
+
+“Why not? A hundred oranges please.”
+
+The lady produces a crate full of oranges. “Here you go. That’ll be 2 gold.”
+
+“Thank you!” Armstig paid her and took the crate full of oranges. He sat down next to Johnny.
+
+“These are nice oranges.” Johnny eats one.
+
+Armstig picks one out of the crate and tosses it in his mouth whole.
+
+Roth gets up and goes into the farmer’s market to get a whole crate full of apples.
+
+“Score!” Johnny and Armstig dig in and take an apple each. They both enjoy the fruit.
+
+“Which is better, these apples or these oranges?” Armstig asks.
+
+“It’s hard to compare,” Johnny said, taking a bite of both apple and orange. “But I’d have to say the oranges.”
+
+“Hey oranges are the best fruit!” Armstig ate another orange.
+
+Johnny bit into an apple and nearly choked on it. He gagged and spit out a chunk of apple. “Went down the wrong pipe. I’m ok.” He looked at the apple chunk on the ground.
+
+“Are you going to eat that?” Armstig pointed at the apple chunk.
+
+“No.”
+
+Armstig picked up the apple chunk and popped it in his mouth. He swallowed it. “It’s got a special flavoring to it.”
+
+Roth looked on in disgust. “I gotta sail with *these* guys?” He muttered to himself under his breath. He set down the apple he was holding, and tried to prevent himself from vomiting.
+
+“Well,” Johnny looks at the time. “It’s time to go see about that boat. Elder Bofum is expecting us soon.”
+
+Johnny, Armstig, and Roth went to see the elder gnome at town hall. The elder gnome gives them the option between a human named Brand, or a frog named Slick. The three voted, and Slick was the winner. The gnome said he’d make arrangements for Slick to transport them.
+
+[insert boat scene]
+
+[insert orange-throw-at-slick scene]
+
+[insert boat-boarding scene]
+
+[insert worgen-brushing scene]
+
+[insert storm scene]
+
+[insert johnny’s-armor scene]
+
+The party had sailed for 7 weeks when they found a shipwrecked boat.
