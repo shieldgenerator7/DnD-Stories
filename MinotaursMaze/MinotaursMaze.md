@@ -346,7 +346,7 @@ Apparently at some point, the party captured Astalir and tied him up with a rope
 
 The party walks along until they find a traveling merchant. “Hello, fellow travelers!” The merchant greets them. “Care to test your luck?”
 
-Suey, a dragonborn that recently joined the party, shrugged. “Why not?”
+Sui, a dragonborn that recently joined the party, shrugged. “Why not?”
 
 “Great!” The merchant rubbed his hands together excitedly. “I have many decks for you to choose from!”
 
@@ -354,11 +354,11 @@ Suey, a dragonborn that recently joined the party, shrugged. “Why not?”
 
 “No, I said ‘many decks’. And those decks are: the magical deck, the weapon deck, the fancy deck, and last but not least: the random oddities deck.”
 
-“Ooh what’s in the random oddities deck?” Suey asked.
+“Ooh what’s in the random oddities deck?” Sui asked.
 
 “Draw a card and see.”
 
-Suey takes a card. The card twists morphs in his hand into a mug of fresh hot coffee. The handle landed perfectly in his hand so he held it steadily. Suey breathed the smell in. “Coffeeeee…” He sighed, letting out a little bit of fire into the cup. He gulped it down. His eyes widened and stature rose. “Wow! I feel great!”
+Sui takes a card. The card twists morphs in his hand into a mug of fresh hot coffee. The handle landed perfectly in his hand so he held it steadily. Sui breathed the smell in. “Coffeeeee…” He sighed, letting out a little bit of fire into the cup. He gulped it down. His eyes widened and stature rose. “Wow! I feel great!”
 
 “Ah yes, the coffee cup of energizing. A most coveted oddity, for sure.” The merchant hands the deck of oddities to Silber.
 
@@ -402,17 +402,17 @@ He waited for hours, but finally, the party did come.
 
 “BLEEEAT!” Astalir cried, trying to get him to stop.
 
-“Skeletons!” Suey exclaimed, getting into battle positions. “They’re mine! I challenge them!”
+“Skeletons!” Sui exclaimed, getting into battle positions. “They’re mine! I challenge them!”
 
-“Did I hear someone say challenge?” Micro dropped the cage and stood at the doorway to the room with the skeletons. “Suey, you may not leave until you have defeated the skeletons.”
+“Did I hear someone say challenge?” Micro dropped the cage and stood at the doorway to the room with the skeletons. “Sui, you may not leave until you have defeated the skeletons.”
 
-Suey nodded as he readied his bow.
+Sui nodded as he readied his bow.
 
-“And everyone else? No one enters this room until the skeletons are dead. And no one except Suey can hit the skeletons!”
+“And everyone else? No one enters this room until the skeletons are dead. And no one except Sui can hit the skeletons!”
 
 The party agreed.
 
-Suey used the space to fire a volley of flaming arrows at the three skeletons in the room. He shot one, knocking its head off. He shot another one, shattering its arm bone. The skeletons fought back with mocks and cackles, but Suey shrugged them off. He was too focused to worry about the skeletons taunts. He was very handily defeating them.
+Sui used the space to fire a volley of flaming arrows at the three skeletons in the room. He shot one, knocking its head off. He shot another one, shattering its arm bone. The skeletons fought back with mocks and cackles, but Sui shrugged them off. He was too focused to worry about the skeletons taunts. He was very handily defeating them.
 
 The party had agreed to not interrupt this epic battle, but Astalir didn’t hear Micro. When Micro was announcing the challenge, Astalir was unlocking the cage and opening it when Dralf jumped on him.
 
@@ -426,7 +426,7 @@ Astalir crashed into the ground. A flaming arrow shot over his head, just missin
 
 “I said no one is to enter! Stay put.” Micro plopped the wounded deer behind him and continued to guard the threshold.
 
-The skeletons mocked Suey, making him lose confidence. But Micro encouraged him, and he won. He exploded the final skeleton and learned a new trick when fighting with a bow that allowed him to attack faster. Suey high-fived Micro.
+The skeletons mocked Sui, making him lose confidence. But Micro encouraged him, and he won. He exploded the final skeleton and learned a new trick when fighting with a bow that allowed him to attack faster. Sui high-fived Micro.
 
 The party took a short rest. Astalir licked his wounds and got up.
 
@@ -464,11 +464,11 @@ Astalir’s eyes widened, and he smiled. “Oh. Maybe I *should* eat it then.”
 
 Astalir ran away. He didn’t want to be there when the killer robot was let loose again. Astalir ran to the lobby area and waited for the party to finally arrive.
 
-Finally, they did. They were all battered and bruised from all the traps in the maze. They looked utterly exhausted, except for Suey, who was still energized from his morning coffee.
+Finally, they did. They were all battered and bruised from all the traps in the maze. They looked utterly exhausted, except for Sui, who was still energized from his morning coffee.
 
 It didn’t matter. All Astalir need was a distraction so he could go find the documents. Once they entered the room, he had free reign to search the area. It didn’t mattered if they died, his mission could still be a success.
 
-The party, consisting of Suey, Silber Posten, Micro, Dralf, and a big tanky dwarf, entered the minotaur’s room as expected. Astalir waited in the lobby.
+The party, consisting of Sui, Silber Posten, Micro, Dralf, and a big tanky dwarf, entered the minotaur’s room as expected. Astalir waited in the lobby.
 
 “Who dares enter Timmy’s throne room?” The minotaur yelled in minotaur. “I, Timmy, will devour you all!”
 
@@ -476,7 +476,7 @@ Timmy roared with all his might as the party collapsed on him.
 
 Silber Posten tried to charge a magical shot but the sniper round came out as just a normal bullet. “It’s an antimagic field!” He ran for cover.
 
-“Huh?” Suey turns to watch Silber Posten flee as he pulls his arrow back. He tries to engulf his arrow in flames, but instead pulls a muscle and drops the arrow. He loads another arrow and pulls back, pushing through his new weird muscle pain. But he pulls too far and his bow string snaps. “Crap! Now I gotta repair this!” He retreats to a side room. For safety.
+“Huh?” Sui turns to watch Silber Posten flee as he pulls his arrow back. He tries to engulf his arrow in flames, but instead pulls a muscle and drops the arrow. He loads another arrow and pulls back, pushing through his new weird muscle pain. But he pulls too far and his bow string snaps. “Crap! Now I gotta repair this!” He retreats to a side room. For safety.
 
 The big dwarf, Dralf, and Micro rush Timmy, overwhelming him with weapon damage.
 
@@ -490,13 +490,13 @@ This gives Silber an opportunity to strike very precisely. He aims for Timmy’s
 
 But Timmy noticed it and used a wind rune to redirect the attack. It hit Micro square in the face. He didn’t take any damage from the bullet, but it bought Timmy time to counterattack. Timmy crippled the dwarf. The dwarf limped onto the ground.
 
-Suey retreated during all this into the room that Astalir hadn’t yet searched. He found a document labeled “Timmy’s Weaknesses” and started reading it aloud. “Timmy is weak to snipers and mages. Thus, the antimagic field and numerous walls and pillars.”
+Sui retreated during all this into the room that Astalir hadn’t yet searched. He found a document labeled “Timmy’s Weaknesses” and started reading it aloud. “Timmy is weak to snipers and mages. Thus, the antimagic field and numerous walls and pillars.”
 
-Timmy heard this and grew enraged. He ran toward Suey to stop him.
+Timmy heard this and grew enraged. He ran toward Sui to stop him.
 
-Micro chased Timmy and safeguarded Suey’s exit.
+Micro chased Timmy and safeguarded Sui’s exit.
 
-Suey ran away, carrying the documents as he ran.
+Sui ran away, carrying the documents as he ran.
 
 Timmy angrily activated his final form. He grew twice as big and healed some of his wounds. He attacked Micro with his full force, badly wounding him.
 
@@ -504,7 +504,7 @@ But Silber got another good shot onto him, which allowed Micro an opportunity to
 
 Micro swept his legs and knocked Timmy prone. One more shot would kill him.
 
-Astalir saw that the party was not doing what they were supposed to. They were stealing the documents! Astalir ran by Suey and sneakily grabbed the documents, and ran to the room where the other secrets were. He saw Timmy on the ground and thought it was safe to run past. But he was wrong.
+Astalir saw that the party was not doing what they were supposed to. They were stealing the documents! Astalir ran by Sui and sneakily grabbed the documents, and ran to the room where the other secrets were. He saw Timmy on the ground and thought it was safe to run past. But he was wrong.
 
 Timmy was not dead, just on the ground. He swung his axe as Astalir ran past, slicing the deer in the chest. Astalir flew to his landing spot but didn’t land on his legs. He bled out. He had safely landed just outside the antimagic field, which meant he could use his powers. He shaped the water in his blood to flow back into his wound, and he molded the earth beneath him to cover his wounds up. It took all his focus to concentrate on this task as he lay there, hoping the party would kill Timmy so that he might live.
 
