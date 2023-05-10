@@ -10,7 +10,7 @@ Class: Monk, Way of the Open Hand
 
 Race: Worgen (Wolf Person)
 
-White fur, yellow eyes, wears shorts. Got sunflower from Miyu, wears it on shoulder
+6’0”. White fur, yellow eyes, wears shorts. Got sunflower from Miyu, wears it on shoulder
 
 ## Johnny Horshot
 
@@ -20,7 +20,7 @@ Class: Swashbuckler Rogue
 
 Race: Worgen (Wolf Person)
 
-Bluish black fur, lawful good
+6’4”. Bluish black fur, lawful good
 
 ## Miyu Juinkama
 
@@ -50,7 +50,7 @@ Class: Paladin
 
 Race: Fish Lady
 
-Buff fish lady, piercing, tattoo on anchor on right eye, scantily clad
+6’2” Buff fish lady, piercing, tattoo on anchor on right eye, scantily clad
 
 Beat Armstig at arm wrestling
 
@@ -62,7 +62,7 @@ Class: Fighter
 
 Race: Human
 
-Red hair anime character. Likes to get drunk and start bar fights
+5’9” Red hair anime character. Likes to get drunk and start bar fights
 
 # Chapter 1
 
