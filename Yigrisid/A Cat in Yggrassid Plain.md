@@ -614,7 +614,7 @@ And behind them, back at town, in the tavern, upstairs, slept a sleepy centaur. 
 
 # Chapter 3
 
-Asahi and Zane got to the bandit camp and hid behind some trees. They observed the camp from the outskirts, and noticed that the encampment is fortified with wooden walls and a gate, which was presumably locked from the inside. The cliffs around the camp where steep and full of loose rocks. There was a river on the other side of the camp. Zane decided to wait for the others before proceeding.
+Asahi and Zane got to the bandit camp and hid behind some trees. They observed the camp from the outskirts, and noticed that the encampment is fortified with wooden walls and a gate, which was presumably locked from the inside. The cliffs around the camp were steep and full of loose rocks. There was a river on the other side of the camp. Zane decided to wait for the others before proceeding.
 
 The rest of the party arrived, and Zane informed them of the plan. “We’re going to wait until nightfall to sneak in. There’s too many bandits here to go in without stealth.”
 
@@ -624,7 +624,7 @@ Februs and Aurora arrived later in the afternoon. “The farmer and his wife are
 
 Nightfall came and everyone split. Marisa, Aurora, and Februs took the high ground on the cliffs. Zane, Asahi, and Drathalion grouped at the front gate.
 
-“We have to take out those guards.” Zane pointed to the tow guards in the towers on either side of the gate.
+“We have to take out those guards.” Zane pointed to the two guards in the towers on either side of the gate.
 
 “Wait here.” Drathalion climbed a tree, and found a guard on a tower near the gate. He was holding a torch, and a gold chain was glittering around his neck. Drathalion blinked aggressively at the guard, and a blue paw mark appeared on his chest. She pulled back an arrow in her bow, and shot the guard right in the chest.
 
@@ -712,7 +712,7 @@ Up on the top of the cliff, Marisa, Aurora, and Februs were watching.
 
 “*Now* can I let my spells loose?” Marisa jumped up and down on her broom, itching for action.
 
-“Wait,” Aurora held onto the edge of the broom. “Zane is in a dangerous position, we don’t want to give away his position.”
+“Wait,” Aurora held onto the edge of the broom. “Zane is in a dangerous situation, we don’t want to give away our position.”
 
 They watched from their vantage point as Zane met with the bandit.
 
@@ -792,7 +792,7 @@ Zane and Kriv heartily accepted, but Drathalion stared intently, ears pinned bac
 
 She looked up at him, nodded, and continued staring. Zane rubbed her head through her hood as he ate his pork.
 
-After some time passed, the bandit leader stood up. “I’m off to hit the sack. You’re all welcome to sleep here tonight if you wish.” He motioned to two of his men, he stood at attention. “Make sure they get accommodated.”
+After some time passed, the bandit leader stood up. “I’m off to hit the sack. You’re all welcome to sleep here tonight if you wish.” He motioned to two of his men, standing at attention. “Make sure they get accommodated.”
 
 The two men nodded.
 
