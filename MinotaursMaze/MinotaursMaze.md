@@ -721,3 +721,271 @@ The deer cocked its head, then shook it.
 “BLEAT!” The deer yelled. It ran out of the tent.
 
 Sui ran out after the deer, but tripped on a shiny helmet. “What? Why would the deer throw this out?” The helmet was really fancy. Sui realized that this tent must be the goblin leader’s tent. “Hmm…” He got an idea. He found all the fancy pieces of armor strewn around the camp and put them on. He laid down in the goblin leader’s tent and went to bed. “Can’t find me…” He yawned as he fell asleep.
+
+# Chapter 4 – The Kobold Cave
+
+The sun was coming up and his lips were getting chapped. After hours of walking through the night, it was a relief to finally find a tavern. Grarthta Swanfallow, a pale green 7ft half-orc, entered and ordered a beer. After taking some long, refreshing gulps, his stomache rumbled.
+
+“Hungry? I can cook you up something.” The dwarf behind the counter said.
+
+“You have meat?”
+
+“Sure do. Would you like beef, chicken…”
+
+“Do you have venison?” Grar licked his lips.
+
+“I’ll check the back.” The dwarf put down the glass he was cleaning and went into the kitchen.
+
+While he was gone, a dragonborn walked sleepily down the stairs and sat next to Grar. He nodded at him.
+
+Grar nodded back.
+
+The dragonborn yelled from his seat. “Hey! Anyone there! I’m hungry!”
+
+“Wait just a bleeping minute!” The dwarf yelled from the back. Finally, he returned, empty-handed. “Sorry, we’re fresh out. We got beef though.”
+
+Grar settled for beef and the dragonborn also order breakfast. They introduced themselves when Max came in. Grar found out the dragonborn’s name is Sui, with an *i*.
+
+“Glad to see you both met already. Adventurers come and go, and this is your new partner, for now.” Max told the dragonborn. “We have a problem with a kobold cave. Here’s how to get there.” Max told them info they needed to know and they left the tavern.
+
+Outside, an old man was sitting next to the steps. “Aaalms for the pooor?” He held out a tin cup to Sui.
+
+“This is my deer friend.” Sui told Grar.
+
+“Well it’s your choice who keep around.”
+
+“No, *deer* friend. Who know, hooves and antlers.”
+
+“Deer?” Grar drooled. He tried looking at the old man’s face. “He looks human to me.”
+
+“Come on, deer, drop the disguise. We know it’s you.”
+
+“What?” The old man pulled his hands into his hood. “I don’t know what you’re talking about.”
+
+“Come on, out with it.” Sui reached to grab the old man.
+
+The old man ran off, but a deer showed up where he was sitting. It stood there, staring at Sui, rather crossly.
+
+“See? I told you. Deer.” Sui grabbed onto the deer’s antlers, but his hand passed through them. “Your antlers aren’t real?”
+
+“I’m gonna get me some deer!” Grar grappled the deer’s neck, but his arms passed through it and he fell to the ground. He swiped his hands through the deer’s body. “It’s an incorporeal deer? What kind of species is this?”
+
+“Wait, have you been ethereal this whole time?” Sui started questioning his sanity. “I thought for sure I saw you interact with objects.”
+
+The deer ignored them, pointing to and stomping on a piece of paper on the ground.
+
+“What’s this?” Sui picked it up. It was a map of the kobold cave, with certain things circled.
+
+“Something very useful to our mission.” Grar took it.
+
+The deer disappeared.
+
+Grar’s stomache rumbled. “Soon.”
+
+Grar and Sui followed the directions that Max gave them to the kobold cave. Along the way, they found a bridge of ice going across a stream. It was weird because it was summer.
+
+Grar looked and saw a deer eating some tree bark. “Deer!” He jumped across the river and ran at the deer. The deer just ran away. Grar chased but the ground beneath him became suddenly uneven, slowing him down. The deer got away.
+
+Sui jumped across the river and stopped Grar. “That’s my deer friend. He’s a magic deer. Don’t kill him.”
+
+Grar holstered his axe. “No promises.”
+
+They got to the kobold cave and Grar looked at the map one more time. “It looks like this main path is blocked by boulders. We’ll have to take this side path.”
+
+They entered the cave. It was dark, but Grar could see just fine with his dark vision.
+
+Sui, however, tripped over a stone.
+
+“Are you ok?”
+
+“Yeah, I’m fine.”
+
+“You didn’t see that rock?”
+
+“It’s dark in here.”
+
+“That’s what your darkvision is for.”
+
+“Oh, right.” Sui chuckled. “Let me turn that on real quick.”
+
+Grar gave him a strange look.
+
+Sui tripped over another rock. “I knew that was there.”
+
+“You… you don’t have darkvision, do you?”
+
+Sui sighed. “No.”
+
+“Tsk, tsk.” Grar pulled a piece of wood out of his bag and lit it. “Here.” Grar handed Sui a lit torch.
+
+“Thanks.” Sui took the lit torch in his mouth so he could two-hand his bow.
+
+“Stay behind me, things could get ugly.”
+
+They found the side path. It was hidden behind a 10ft blockade of rock. But the ceiling was 30ft high, so they easily climbed over it. They snuck down the narrow side path.
+
+“Get back to work!” A flying kobold spoke in draconic as it whipped something from behind a rock.
+
+“But we’re hungry!” Some kobolds in another room complained in draconic. “Can’t we just have some of that stew brewing on the campfire?”
+
+“Such insubordination!” The flying kobold whipped again.
+
+Grar’s stomache rumbled. He showed himself to the flying kobold.
+
+The flying kobold flew up to the ceiling and shouted, “Intr—”
+
+Sui shot it out of the air. It fell to the ground.
+
+Audible kobold gasps came from the room to their right.
+
+“Can’t have them swarming us.” Grar ran into the intersection. Peeling off a patch from his cloak, he tossed it at the ground in front of the whipped kobolds. A door sprang up out of the patch, blocking off the flightless kobolds from reaching Grar. A handle presented itself to Grar, but he didn’t open it. He signaled to Sui that it was clear.
+
+“What’s this door here?” Sui asks.
+
+“Don’t worry about it.”
+
+They stalked down a narrow corridor to the main hub room, where a bunch of kobolds were sitting around a campfire. The smell of the stew wafted into Grar’s nostrils. “Ah, venison!” His stomache rumbled. “Soon.”
+
+Suddenly, the ground trembled. Small tremors shook the cave. Grar and Sui clung up against a wall. It felt like they were coming from the cave entrance.
+
+“I’ll go check.” A kobold got up from the campfire and approached Grar.
+
+Grar waited patiently.
+
+Another tremor hit. A kobold stirring the stew lost his balance and knocked the pot over, spilling venison stew everywhere.
+
+Sui took the opportunity to shoot an arrow through him and another kobold, who was flying above, whipping the cook. Both fell to the ground, dead.
+
+The kobolds all got out of their seat and looked around.
+
+The kobold investigating the tremors tripped and stumbled right into Grar. He looked up at him, terrified. “In… in… Intruders!” Then this 3ft kobold stabbed Grar in the chest. But, instead of the dagger piercing Grar’s skin, the blade bent sideways, rendering the dagger useless.
+
+Grar grinned. “You shouldn’t have done that.” He lifted up his axe and let it fall to the ground. Along the way, it cleaved right through the kobold, splitting it in two.
+
+The kobolds all looked on in shock as they witnessed the brutal death of one of their kin.
+
+“Who’s next?” Grar drug his axe behind him.
+
+“Get him!” Yelled a brave kobold. He rushed in, stabs Grar, bending his dagger. But his courage was infectious. The other kobolds grabbed their slings and hit Grar with everything they had. Stones flew across the room directly at Grar, hitting their mark.
+
+The stones all bounced off Grar’s chest. On grazed his ear, cutting him. But no serious damage was done.
+
+Grar yelled in rage. The pelting stones didn’t slow him down. His eyes were bloodshot, and they stared at two kobolds standing on a bench. He approached them, axe dragging behind him, and yelled, flinging spit on their faces. “Follow or die!” He didn’t speak perfect draconic, but he spoke it well enough for the kobolds to understand.
+
+The two kobolds dropped their weapons and hugged each other. They nodded at Grar.
+
+“Good.”
+
+Sui shoots a few more kobolds, killing one with an arrow between the eyes.
+
+Grar looks around the room, looking for the next big kobold group. Instead, he sees something unusual. A kobold twice the size of a regular kobold shuffles its lanky legs up the main corridor, into the main hub room, and dashes into the dearest hallway out of sight. “Weird.” He scans the room again.
+
+A group of 3 kobolds huddled together on a bench. They shoot him with their slings. When he gets close, one shanks him with his dagger unsuccessfully. They gulp as he towers over them.
+
+Sui follows Grar’s lead. “You better come with us if you want to live.”
+
+The kobolds spit on him.
+
+Grar yells at them, but the kobolds don’t cower.
+
+“We’re not scared of you!” yells one kobold in draconic.
+
+“Well, perhaps you’ll listen to logic then. If you don’t want to die, I’m your new leader. Got it?” Grar swung his axe onto his shoulder.
+
+One kobold whispered to the other one, and then they both bowed to Grar. “We accept.”
+
+“Good.” Grar was satisfied that he now had 4 kobold underlings. And he only had to kill seven kobolds to do it. “Not bad for a start.”
+
+Out of the corner of his eye, Grar caught it again. The lanky tall kobold ran out of the side room and into another side room. According to the map, all the side rooms were dead ends. “Have you ever seen a kobold that big before?”
+
+Sui pointed. “If I had to guess, that’s my deer friend. He does that.”
+
+Grar licked his lips. “Deeer…” He pushed a kobold forward, speaking in draconic, “Go into that room—”
+
+“With that big kobold?” The kobold asked.
+
+“Don’t interrupt me! Go into that room and keep that big kobold from getting out.”
+
+“Yes, boss.” The kobold ran and stood in the entrance. He came face to face with the unnaturally tall kobold he ever saw. It stared intently at him. He shook in his steps, but stood firm.
+
+“We’re getting some venison today!” Grar picked up the pot and put it back on the campfire.
+
+It was getting to be midday and Frill the kobold was getting hungry. He moved another rock to block the main entrance stairs. He took a rock from Sylla, and heard her tummy rumble.
+
+“You’re hungry too?” he asked her.
+
+Sylla nodded.
+
+“I’ll get us something to eat.” Frill jumped down from the ledge he was on and walked down the hall to the main hub room, where a campfire was brewing venison stew.
+
+The flying kobold stopped him. “Get back to work!” He whipped him.
+
+“But we’re hungry!” Frill jumped back.
+
+“Such insubordination!” The flying kobold whipped him again.
+
+As Frill sat on the ground, he saw a shadow lurk up towards the flying kobold.
+
+“Intr—” The flying kobold fell to the ground, an arrow in his chest.
+
+Before Frill could react, the shadow turned into a giant orc and then a door appeared at his feet. This exit was blocked off. Frill glanced at the door, but didn’t see a handle. He yelled to Sylla, “Run!”
+
+Sylla and the other three kobolds didn’t see what happened and had just thought Frill had gotten whipped again.
+
+Frill climbed up the wall and over the boulders that blocked the main entrance stairs. “There’s intruders! We gotta go!”
+
+“Intruders? Then we gotta go kill them!” A scarred kobold said. He saw the door, and instantly knew there was only one way out.
+
+“Let’s go!” Frill looked at main hallway entrance on the other side of the rock blockade. There was a boulder on one side that wasn’t there before. “Odd…” He approached it.
+
+“Frill! Help!” Sylla cried out. She was having a hard time climbing the rocks with the other 3 kobolds trying to push past her.
+
+Frill reached out a hand and helped her up.
+
+“Thanks! Wait, that wasn’t there before.” Sylla approached the boulder.
+
+The other 3 kobolds scrambled up the blockade.
+
+Suddenly, the boulder turned into a deer!
+
+“Deer!” Frill licked his lips.
+
+“Food!” Sylla smiled.
+
+The deer jumped away as Frill tried to grab it. A yellow spark flowed up its antlers and the ground shook. The deer ran down the main entrance toward the cave opening. Behind it, the ground moved. A pit as wide as the tunnel and as deep as a kobold’s height sank down into the ground, and behind a wall the same width and height grew out of the dirt.
+
+The ground shook, knocking Frill and Sylla off their feet. The other 3 kobolds fell off the blockade and landed at the bottom of the stairs.
+
+“Don’t worry, brothers!” Frill yelled. “I’ll get us that deer, and then I’ll save our other brothers from the intruders!” Frill charged forward, jumping over the pit and grabbing onto the edge of the wall. He climbed up with ease.
+
+“Frill, wait!” Sylla cried out. She jumped down into the pit and then climbed up the wall. Slowly, but steadily.
+
+Frill got to the top of the wall and saw the deer. He pulled out his sling and shot it.
+
+But the deer dodged and jumped over the blockade into the side path. Its antlers sparked, and the ground shook. Another pit and wall combo formed in front of Frill.
+
+“A magic deer, huh? I bet you’ll be even tastier!” Frill long-jumped from the top of the wall to the second wall. He grabbed onto the edge, skipping the second pit altogether. Then he jumped to the blockade blocking the side path.
+
+The magic deer was just on the other side of it. Its antlers sparked again, and again the ground shook.
+
+Frill braced for the tremors. The ground in front of the blockade went down, and the blockade went up. It was now a 30ft drop from the top of the blockade to the bottom of the pit. But Frill didn’t have to land in the pit. He could land just beyond it, on the other side of the curve of the side path. It would be tricky, but he could do it. He jumped off the blockade and bounced off the wall, landing awkwardly on the other side of the pit. He made it, but he hurt all over. He tried to get up, but his arms wouldn’t move. Neither would his legs. “Help!” He squeaked out. He watched the deer escape down the side path deeper into the cave.
+
+Sylla climbed down the first wall and climbed slowly but surely down the pit and up the next wall.
+
+Two kobolds were lagging behind Sylla, trying to figure out how to climb the wall. But the third one, the scarred one, figured it out fast.
+
+“No time to waste!” The scarred kobold raced past her, carelessly jumping over the walls with some agile movement. Sylla didn’t see, but the scarred kobold climbed the 20 feet up the side path blockade and jumped over the landing to the other side. “Ahhhhhh!” And then a *THUD!*
+
+“I’m coming!” Sylla climbed the side path blockade and examined the situation. The scarred kobold was bleeding out its head at the bottom of the pit, and just beyond the curve of the side path, she could see a kobold tail twitch. “Frill!” She climbed down into the pit and up out of it. She ran to Frill’s side. “Are you ok?”
+
+“Can’t… move…” Frill cried, taking big heavy breaths.
+
+Sylla took him in her arms. “It’ll be ok, Frill. It’ll be ok.”
+
+“I didn’t get the deer, Sylla. I’m sorry.”
+
+“Don’t worry about it. You’re going to get better, ok?”
+
+Frill whined. His neck went limp and his heavy breathing stopped.
+
+Sylla hugged him tighter and cried.
