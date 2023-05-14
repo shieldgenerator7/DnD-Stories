@@ -566,9 +566,9 @@ Astalir and Jodi hung out a bit before Astalir had to go fulfill his mission. Lo
 
 # Chapter 3 – The Goblin Camp
 
-Sui the dragonborn dragon warden held the deck of many things in his hand. The morning sun reflected off the protective coating on the top card. Everyone was asleep, but since Micro the Bugbear had bought this deck for Sui, he couldn’t sleep. He drew a card that made it so he can rest without sleeping. Now he has to find ways to occupy his time while everyone sleeps.
+Sui the dragonborn dragon warden held the deck of random oddities in his hand. The morning sun reflected off the protective coating on the top card. Everyone was asleep, but since Micro the Bugbear had bought this deck for Sui, he couldn’t sleep. He drew a card that made it so he can rest without sleeping. Now he has to find ways to occupy his time while everyone sleeps.
 
-He shrugged. “Why not?” He knew the risks, but he was bored. He shuffled the deck of many things and pulled the top card off the deck.
+He shrugged. “Why not?” He knew the risks, but he was bored. He shuffled the deck of random oddities and pulled the top card off the deck.
 
 His stomache filled with butterflies that flitted about inside, giving him a bad stomache ache. They moved down his intestines and after a long, painful journey, made their way to his rear. He jumped out of his bed and pulled his drawers down. Three fairy-winged pixies popped out his pooper and fluttered around his room, shooting fairy dust everywhere. His bow and arrows started floating in the arrow, flying all over the place as the pixies darted around.
 
@@ -576,7 +576,7 @@ Sui managed to open a window and shooing all the fairies out without losing too 
 
 He bandaged it up.
 
-He sat back down on his bed. It was still not time for the others to wake up. He looked at the deck of many things, and stuck it in the bedside drawer. “Not doing that again.”
+He sat back down on his bed. It was still not time for the others to wake up. He looked at the deck of random oddities, and stuck it in the bedside drawer. “Not doing that again.”
 
 But then he got bored. “Maybe just one more card.” He pulled the top card off the deck and shoved the deck back into the drawer.
 
@@ -586,7 +586,7 @@ He went down stairs and asked the tavern keeper if he had any acid. The tavern k
 
 Sui hustled to the shop, taking note that a strange “wild” deer was staring at him… and following him. He eyed the deer, but the deer pretended not to see.
 
-At the alchemist shop, Sui requested the shopkeeper to throw acid on him. After some deliberation, they obliged. As Sui predicted, the acid healed him instead of hurting him. He had gained the power of acid absorption. “Thanks deck of many things!”
+At the alchemist shop, Sui requested the shopkeeper to throw acid on him. After some deliberation, they obliged. As Sui predicted, the acid healed him instead of hurting him. He had gained the power of acid absorption. “Thanks deck of random oddities!”
 
 The alchemist requested to draw card. Sui sold him a card for 1 gold piece. The shopkeeper drew the card and became confused. It was an unlucky card; it caused the shopkeeper to lose some intelligence. Temporarily, but still. Sui put the deck away for good for the day.
 
@@ -716,7 +716,7 @@ Sui held out his hand to receive. The sword floated along and into the deer’s 
 
 The deer cocked its head, then shook it.
 
-“What if I gave you a free card from the deck of many things?” Sui pulled the deck out of his pocket. “Only 1 gold!”
+“What if I gave you a free card from the deck of random oddities?” Sui pulled the deck out of his pocket. “Only 1 gold!”
 
 “BLEAT!” The deer yelled. It ran out of the tent.
 
