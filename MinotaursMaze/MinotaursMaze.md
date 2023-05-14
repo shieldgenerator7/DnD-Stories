@@ -592,7 +592,7 @@ The alchemist requested to draw card. Sui sold him a card for 1 gold piece. The 
 
 Before leaving the alchemist’s shop, Sui bought a few acid potions for self-healing. Then he shut the door behind him to go back to the tavern.
 
-Along the way, he spotted that deer again. It was definitely following him, while at the same time pretending that he wasn’t following and that he wasn’t being seen. “I see you, deer.” Siu eyed him. The deer just turned away and ate some leaves.
+Along the way, he spotted that deer again. It was definitely following him, while at the same time pretending that he wasn’t following and that he wasn’t being seen. “I see you, deer.” Sui eyed him. The deer just turned away and ate some leaves.
 
 Back at the tavern, Sui met up with Max the centaur, who had a quest for them. No one else from the party showed; they were too worn out or debilitated by the last adventure. Some were deaf, some were unable to talk, and some were just too tired from their fight with Timmy the Minotaur. So Sui was the only one available for this new quest Max had for them.
 
@@ -648,9 +648,9 @@ And again, there was a goblin in that tent, too. This goblin kicked the strange 
 
 As if reading his mind, his clone started to move again. It unequipped its bow and unsheathed its short sword. It walked menacingly toward the three goblins.
 
-The strange goblin didn’t hesitate. It pulled out its short sword and ran at Siu’s clone, giving its best battlecry.
+The strange goblin didn’t hesitate. It pulled out its short sword and ran at Sui’s clone, giving its best battlecry.
 
-Siu drew his bow, but had a funny feeling he should hold back. “Let’s see what this clone is made of.”
+Sui drew his bow, but had a funny feeling he should hold back. “Let’s see what this clone is made of.”
 
 The clone swung his sword at the strange, charging goblin. The goblin fell over backwards and dropped his sword. The clone plunged his sword into the goblin, and blood poured out of its wounds.
 
@@ -662,9 +662,9 @@ The clone pointed his sword at the other goblin. That goblin turned tail and ran
 
 The commotion woke up the rest of the goblins. A whole half dozen more goblins appeared out of the tents.
 
-“Bingo!” Siu readied his bow.
+“Bingo!” Sui readied his bow.
 
-The goblins are stared at Siu’s clone, trying to figure out what to do from a distance. One goblin approached and realized it wasn’t real, and called it out to the other goblins. But he stepped too close to the strange goblin that the clone straight up murdered, and all of sudden that goblin wasn’t dead anymore.
+The goblins are stared at Sui’s clone, trying to figure out what to do from a distance. One goblin approached and realized it wasn’t real, and called it out to the other goblins. But he stepped too close to the strange goblin that the clone straight up murdered, and all of sudden that goblin wasn’t dead anymore.
 
 The strange goblin pulled out a dagger and stabbed the yelling goblin in the foot. It yelled out in pain.
 
@@ -680,25 +680,25 @@ That was all the opening the deer needed. It jumped over the fresh goblin corpse
 
 The goblin next to it tried to stab it as it ran past, but the deer deflected the blade with its antler. The goblins then tried shooting the deer, but all their shots missed. The deer hid in the tent and they couldn’t see it anymore.
 
-Siu shoots both the goblins that shot at the deer. Dead, dead. No there were no more goblins in the camp. “Well done, deer.”
+Sui shoots both the goblins that shot at the deer. Dead, dead. No there were no more goblins in the camp. “Well done, deer.”
 
-Siu climbed out of the tree and inspected the goblin camp. Bodies lay everywhere. The breakfast food was ruined, unless you like your food with a side of blood and guts. The tents were all intact, except for the ones the deer ran through.
+Sui climbed out of the tree and inspected the goblin camp. Bodies lay everywhere. The breakfast food was ruined, unless you like your food with a side of blood and guts. The tents were all intact, except for the ones the deer ran through.
 
-“What are you doing?” Siu watched as the deer ran into all the tents, kicked all the stuff out, and then ran to the next tent. The deer ignored him and continued doing what it was doing. “You’re definitely not a normal deer. Some kind of magic deer. I trust you know what you’re doing.”
+“What are you doing?” Sui watched as the deer ran into all the tents, kicked all the stuff out, and then ran to the next tent. The deer ignored him and continued doing what it was doing. “You’re definitely not a normal deer. Some kind of magic deer. I trust you know what you’re doing.”
 
 “Mmm! Mmm!” The centaur lay on the ground gagged and bound.
 
-Siu tried to untie him, but his fingers were too sore from shooting his bow. He couldn’t undo the knots. “Screw it.” He unlatched a potion bottle from his belt. “Careful, this might sting a bit.” He dripped acid out of the bottle onto the ropes. They dissolves away in a line that circumvented the need to undo knots.
+Sui tried to untie him, but his fingers were too sore from shooting his bow. He couldn’t undo the knots. “Screw it.” He unlatched a potion bottle from his belt. “Careful, this might sting a bit.” He dripped acid out of the bottle onto the ropes. They dissolves away in a line that circumvented the need to undo knots.
 
 “Thank you, my dear dragon.” The centaur spoke in Sylvan as he shook off the loose ropes. “I am freeeee!” The centaur ran off, jumping over the bloodied table as he ran.
 
-Siu approached the table. The goblin leader lay on it, spilling his guts all over it. Siu patted him down, searching for valuables. He pulled out his scimitar, his shield, and some loose change. “This will be worth selling.” He examined them. Then he found a javelin. He looked at it coyly. “I’ve got an idea.”
+Sui approached the table. The goblin leader lay on it, spilling his guts all over it. Sui patted him down, searching for valuables. He pulled out his scimitar, his shield, and some loose change. “This will be worth selling.” He examined them. Then he found a javelin. He looked at it coyly. “I’ve got an idea.”
 
-Siu thrust the javelin into the ground and lifted the goblin leader’s body onto the opposite end. The body drifted down, skewered on the javelin pole. Siu clapped his hands together. “Let this be a message to all who mess with us!”
+Sui thrust the javelin into the ground and lifted the goblin leader’s body onto the opposite end. The body drifted down, skewered on the javelin pole. Sui clapped his hands together. “Let this be a message to all who mess with us!”
 
 No one heard it. But they would see the skewered goblin, if they ever came to the camp. Not even the deer was paying attention.
 
-Siu approached the tent the deer was in, holding his hands up to block flying items from hitting his face. “Deer?”
+Sui approached the tent the deer was in, holding his hands up to block flying items from hitting his face. “Deer?”
 
 The deer stopped and looked at him.
 
@@ -710,14 +710,14 @@ The deer squinted at him, then after a moment, shrugged. It walked next to him, 
 
 The deer nodded. It looked at the ground. There was a falcata sword on the ground next to a bag of 50 gold. A spark of magic traveled up the deer’s antlers, and the sword and bag floated up into the air.
 
-Siu held out his hand to receive. The sword floated along and into the deer’s fur, becoming completely concealed. The bag of gold disappeared similarly.
+Sui held out his hand to receive. The sword floated along and into the deer’s fur, becoming completely concealed. The bag of gold disappeared similarly.
 
 “Wait, you’re not sharing?”
 
 The deer cocked its head, then shook it.
 
-“What if I gave you a free card from the deck of many things?” Siu pulled the deck out of his pocket. “Only 1 gold!”
+“What if I gave you a free card from the deck of many things?” Sui pulled the deck out of his pocket. “Only 1 gold!”
 
 “BLEAT!” The deer yelled. It ran out of the tent.
 
-Siu ran out after the deer, but tripped on a shiny helmet. “What? Why would the deer throw this out?” The helmet was really fancy. Siu realized that this tent must be the goblin leader’s tent. “Hmm…” He got an idea. He found all the fancy pieces of armor strewn around the camp and put them on. He laid down in the goblin leader’s tent and went to bed. “Can’t find me…” He yawned as he fell asleep.
+Sui ran out after the deer, but tripped on a shiny helmet. “What? Why would the deer throw this out?” The helmet was really fancy. Sui realized that this tent must be the goblin leader’s tent. “Hmm…” He got an idea. He found all the fancy pieces of armor strewn around the camp and put them on. He laid down in the goblin leader’s tent and went to bed. “Can’t find me…” He yawned as he fell asleep.
