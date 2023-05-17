@@ -849,3 +849,29 @@ Johnny, Armstig, and Roth went to see the elder gnome at town hall. The elder gn
 [insert johnny’s-armor scene]
 
 The party had sailed for 7 weeks when they found a shipwrecked boat.
+
+# Chapter 3
+
+[insert worgen brushing scene]
+
+[insert worgen meditating on bow scene]
+
+[insert pirate skeleton boarding scene]
+
+[insert pirate skeleton killing scene]
+
+[insert dinner scene]
+
+[insert food fight scene]
+
+[insert garry eating scene]
+
+[insert miyu training selena in acrobatics training montage scene]
+
+[insert miyu teaching selena to read common montage scene]
+
+[insert miyu making wetsuit for selena montage scene]
+
+[insert armstig training “pinkie-ups” montage scene]
+
+[insert johnny training armstig in sleight of hand montage scene]
