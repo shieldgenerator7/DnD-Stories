@@ -64,6 +64,24 @@ Race: Human
 
 5’9” Red hair anime character. Likes to get drunk and start bar fights
 
+## Slick
+
+NPC
+
+Race: Frog person
+
+Small frog person, about same height as Roth. Owns the The Soggy Toad, a dingy boat vessel. He’s also the captain. Prefers to avoid participating in combat and food fights.
+
+## Garry
+
+NPC
+
+Race: ? tentacle creature
+
+Miyu’s pet “plant”. She brought him aboard the boat on their sea journey and now he’s an honorary crew member.
+
+He sits in a potted plant with outstretching purple tentacles. In the center, he has a yellow parrot-like beak.
+
 # Chapter 1
 
 “Hurry up!” A Worgen with bluish-black fur ran on all fours through the plain towards town. “We’re going to be late!”
