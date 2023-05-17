@@ -856,15 +856,225 @@ The party had sailed for 7 weeks when they found a shipwrecked boat.
 
 [insert worgen meditating on bow scene]
 
-[insert pirate skeleton boarding scene]
+[insert Selena diving to investigate scene]
 
-[insert pirate skeleton killing scene]
+Suddenly, a ship arose out of the water. Its tattered boards were covered in seaweed and barnacles. And despite the many holes in its hull, it floated on the water. It coasted towards them and jostled their boat when it hit. Aboard the vessel, a horde of undead skeletons waited to invade. Four planks were laid down, acting as a bridge to The Sloppy Toad.
 
-[insert dinner scene]
+“Why is there so many bones?” Roth pondered.
 
-[insert food fight scene]
+*AWWWOOOOOOO!* howled Armstig.
 
-[insert garry eating scene]
+Miyu dropped her things, peeked out, and scouted the skeletons. She shot a glob of web from her spinneret. The glob landed on the edge of the ship and exploded, covering four skeletons in sticky web particles. Miyu ran back down the stairs and yelled at Titus, “Get your drunk ass up! We’re being attacked!”
+
+Titus slammed his bottle of ale into the ground as he jumped to his feet. He ran past Miyu and into the battle. Johnny was drawing his weapon. The pirate skeleton captain was stuck in the web, Armstig was watching from the crow’s nest, and Roth was pacing back and forth.
+
+“WHY are there SO *many* skeletooons??” Roth held his hands to his skull to keep from popping a vein. He went out of control. As he walked back and forth, he grew from half the height of a human to the size of an elephant. “WHY?” He saw the captain wearing a fancy captain’s hat, while the rest of the skeletons were basically nude. “YOU!” He walked to the captain, but got stuck in the web. He tripped and missed his attack on the captain.
+
+“Har! You don’t scare me!” yelled the pirate captain. “Put your hands up and all we’ll take is your treasure!”
+
+Johnny stabbed a stuck skeleton in the web, did a front flip over the kneeling giant Roth, and stabbed another skeleton in front of Titus. He jumped back as the skeleton tried to attack him.
+
+Instead, that skeleton attacked Titus. Being a bit too drunk yet, Titus didn’t dodge and got caught by the blade. “Nyaha! I am a master swordsman! Er, skeleton!”
+
+But that was just what Titus needed. His eyes sobered up and grabbed the skeleton, spun it around, and kneed it in the butt. It slammed into the pirate captain, who was stuck in the web. The pirate captain held up his sword, slicing his crewmate into pieces. The flying bones knocked a tooth out of the pirate skeleton captain’s jaw. Titus jumps into the web from the edge and uppercuts another skeleton up and out of the web, sending it to the crack between the boats. *SPLASH!*
+
+The pirate captain raised his sword to attack Titus, but Roth swung his only free non-stuck hand and cut off his sword arm. The captain’s sword twirled into the water.
+
+Seeing an opening, Johnny dashed back in. His cutlass danced all over the pirate captain’s chest.
+
+The pirate captain looked down, saw nothing was missing, and yelled, “Ha!”
+
+But he spoke too soon. Cracks formed in his ribs, and soon they broke apart all together. The pirate skeleton captain collapsed into a pile of bone chunks of the ship’s deck.
+
+“Who’s got the last laugh now?” Johnny sheathed his cutlass.
+
+But despite their pirate captain dying, the skeleton crew were still raiding the boat.
+
+Armstig lept into action to do a bit of crowd control. From his perch in the crow’s nest, he lept onto a skeleton’s head, taking a minor scrape from its bony shoulder blades. Its spine crumpled under the sudden additional weight and it collapsed onto the floor. Armstig plucked its skull of its neck and tossed it into the jaw of another skeleton, knocking its head clean off.
+
+Two more skeletons jumped aboard and swung their swords at Armstig. He dodged the first one and ducked the second, charging up for a jump. He jumped to the height of their heads and did a perfect split to kick both their skulls straight off their bodies.
+
+“No one is going to take down this ship!” Johnny called out in Sylvan.
+
+Armstig responded in Sylvan, “I got you brother!”
+
+The skeletons kept coming.
+
+“Why are there so many bones??” Roth complained again.
+
+Miyu the spider lady arose from the lower deck after securing a safe place for Garry. She saw the undead horde and steeled her gaze. Her eyes glowed white, she reared up on her two hind-most legs, and shouted in a booming voice, “In the name of all that is holy, be gone foul creatures!”
+
+The skeletons stopped in their tracks. Many of them dropped their weapons. They scrambled to get back on their own ship, many of them tripping and falling into the water as they fought over the space on the boarding planks. When the reverse skeleton stampede was over, only a few brave skeletons remained.
+
+“You think you can scare me with your holy nonsense? Nyah! I am on fire!” A flaming skeleton pointed its flaming sword at Miyu. “Fire!” It threw a flaming bottle of ale onto the web, lighting it on fire. Roth, Titus, and Johnny were all caught in the web, and they suffered severe burns.
+
+“Hold on I’m coming!” Miyu ran to free her friends, but she was a bit too hasty.
+
+“Get her!” The flaming skeleton ran at Miyu, jumping the gap in the ships.
+
+Two more skeletons appeared on the deck of the skeleton ship. They wore robes that glimmered an eerie, ghostly blue. They formed finger guns with their hands, cocked the “hammer”, and pulled the “trigger”. Purple magic energy balls swirled around their “barrel” finger and shot at the party.
+
+A purple magic blast hit Armstig, but he blocked it with his arm, letting it get slightly singed. One hit Titus, who drunkenly shrugged it off. Another hit Roth, who cried out in pain. And the last hit none other than Miyu, wounding her back hind-most leg.
+
+“I hate spell casters!”
+
+“Don’t worry,” yelled Titus, calmly taking the fire burns and magic blasts, “I got them! You go get safety!”
+
+Miyu didn’t hesitate. She vacated the battle and went down to the lower deck.
+
+“Yar! You’re not getting away that easily!” The flaming skeleton chased after Miyu, but Roth tripped it with his tail.
+
+“Why are there so many skeletons??” Roth was freed from the web by the fire, and now he was free to rage. “Get off the ship!” He yelled. He grabbed the flaming skeleton entirely in his fists and flung him overboard and onto the pirate ship. Sure, he took a bit of burn damage from holding something that was literally on fire, but that didn’t matter, did it?
+
+Well, it turns out it *did* matter. Roth had taken as much stress as he could handle. He didn’t even get to see how the flaming skeleton landed. He passed out and reverted to his small, regular kobold size and took a nap in the middle of the battlefield.
+
+The flaming skeleton did, in fact, land. It landed right on top of a spellcaster skeleton, knocking it out. The flaming skeleton struggled to separate its bones from the other skeleton and struggled to get up.
+
+But Titus was faster. He leapt onto the skeleton ship and picked up the other spellcaster skeleton. They’re surprisingly light, as a matter of fact. He lifted it above his head and launched it at the flaming skeleton. “Stay away from Miyu!”
+
+The spellcaster skeleton landed on the flaming skeleton, created a skeleton sandwich.
+
+Armstig got to work knocking the boarding planks off and into the water, while Johnny worked on putting the fire out with a nearby barrel of water.
+
+But before they could separate the ships, the flaming skeleton built up energy and exploded! Bones flew everywhere, as did tattered pieces of magic robes. Standing on the charred pirate ship deck, in the midst of the bones, was the flaming skeleton! “Nyah! You’re cooked now!” The flaming skeleton walked menacingly close to Titus.
+
+By now, the boats were drifting apart. The gap was now too far for Johnny or Armstig to jump across. And Roth was out of commission.
+
+Titus, for his part, showed no fear. He punched the flaming skeleton in the face, once with each fist. The skeleton lost some teeth, but the fire burned his hands. He definitely took more damage from that exchange.
+
+The flaming skeleton stepped closer, raising his sword up. Titus backed up and into a corner. He grabbed a random leg bone he found on the ground and held it up.
+
+“Nya! How humorous!” The flaming skeleton sliced right through the bone, leaving Titus defenseless.
+
+The pirate ship’s bell rang and the deck shook. The ship began to sink back into the ocean.
+
+“It looks like your time is up.” Titus smirked.
+
+“Nya! I work better under pressure!” The skeleton herded Titus into the captain’s quarters.
+
+Titus dodged swing after swing, but was running out of time. It seemed that the flaming skeleton would get him before the ship sank. And when the ship did sink, it would take him along with it!
+
+The floor poured up through the holes in the floor, putting out the fire on the flaming skeleton’s feet. But its swinging sword made it impossible to get a hit in.
+
+Suddenly the windows burst open!
+
+Selena the fish lady crashed in through the window, spraying glass and water everywhere. She somersaulted into the room and carried the momentum into her greatsword. It blocked the flaming skeleton’s attack and knocked its sword out of its hand, and its hand off its arm. She thrust her sword into its flaming chest from the safe distance of 5ft away.
+
+“Nooooo!” The flaming skeleton cried in agony.
+
+“By holy thunder, die!” Selena’s sword crackled with holy lightning that blew up the flaming skeleton, shattering it and sending pieces flying everywhere.
+
+Titus briefed a drunken sigh of relief. “Where have you been this whole time?”
+
+Selena showed her ripped shorts. “I got caught below decks when the pirate ship floated to the surface. And I don’t intend to have it happen again when it sinks down.” She grabbed Titus against his will and swam to The Sloppy Toad.
+
+Miyu waited on the deck with a spider web to make it easy to climb up.
+
+Selena tossed Titus into the spider web, getting him stuck on the side of the hull. Selena, herself? She dove deep and turned around, gaining speed. Then she breached the surface, catching enough air to somersault back onto the deck.
+
+“Titus!” Miyu called out. “You good down there?”
+
+“I’m fine! It’s a nice view.” Titus hiccupped. “Got any ale?”
+
+The party helped Titus aboard. Miyu and Selena healed the cuts, wounds, and burns they all suffered. Then it was time to heal the hunger, so Miyu left to cook dinner.
+
+Everyone gathered around the table in the lower deck.
+
+Eventually Miyu came out with the food, all at once: grilled meat, fried vegetable stir fry, and an assortment of chopped fruit for decoration. “We have to ration our supplies, and we really can’t afford to put this much of them into this meal, but screw it! You guys did great out there, and you all deserve this meal.” She carried each of the dishes from the kitchen all at once with her many spider legs.
+
+Armstig hungrily snuck a piece of grilled chicken off the plate before she could even set it on the table.
+
+Selena scolded him. “Nuh uh! No eating until everyone has been served.”
+
+Armstig’s ears drooped, and he set the chicken on his plate, waiting patiently. He gave it one good lick though.
+
+Miyu seat the food on the table and served everyone their portion of it.
+
+“Now can I eat?”
+
+“Yes, Armstig.” Miyu patted him on the head.
+
+“So,” Captain Slick said as he ate with food. “I’ve never seen such a fine battle before.”
+
+“You all did very well.” Miyu agreed.
+
+“I oughtta pick one of you as my first mate. I could use an extra set of hands in case something happens.”
+
+Armstig raised his hand. “I nominate Johnny! He’s got lots of experience aboard boats and sailing.”
+
+Johnny humbly nodded.
+
+“Are you kidding? I know this water better than anybody.” Selena wiped her hands clean.
+
+“Well, I wasn’t actually serious, but you bring up good points.” Slick finished his meal. “I shall pick one of you.”
+
+“And…?”
+
+“It is…” Slick tried to build suspense, but he couldn’t handle it. “Selena! Welcome to the crew!”
+
+“Thank you.” She bowed her head.
+
+“Of course he’d pick the fish lady.” Armstig grumbled.
+
+“Fish lady? Who said that?” Selena stared at the worgens.
+
+Armstig went silent, and pointed at Johnny.
+
+Selena got in Johnny’s face. “Don’t you ever address me as fish lady again, or I’ll teach you what it’s like to be a fish!”
+
+“Ok, I won’t.” Johnny turned back to his meal.
+
+Selena sat back in her chair. “No one calls *me* ‘fish lady’.” She grumbled.
+
+Titus chugged another bottle of ale and slammed it on the floor.
+
+“Titus, slow down on the liquor.” Miyu reached across the table to wipe slobber off his face.
+
+“Nah, mom. I need to get drunker! It gives me poweeerrr.” He sloppily uncorked another bottle and took a swig.
+
+“You heard her.” Selena loaded her spoon with stir fry and flung it at Titus.
+
+Titus looked down at his shirt and chuckled. “Is that *my* puke? I don’t remember.”
+
+“Food fight!” Armstig yelled. *AWWWOOOOOO!*
+
+He flung stir fry at Selena. It was about to go down.
+
+Before things got too ugly, Slick and Roth escaped to the upper deck. Miyu dragged Titus out as well.
+
+Selena, Armstig, and Johnny had an epic battle flinging food at each other. When all the ammo ran out, Selena was covered in head to toe in gravy, vegetables, and fruit slices. Armstig was just as messy, but he had fur that things could stick too. Johnny, somehow, came out unscathed. He had a single piece of meat on his face and a single splotch of oil on his shirt.
+
+“Ha! Good game!” Selena laughed. She opened her arms for a big hug, and squeezed Johnny tight.
+
+Armstig join in to make it a group hug.
+
+When the hug ended, Johnny was no longer significantly cleaner than them.
+
+“Ha! Gotcha!”
+
+Miyu called them up to the top deck. Selena came up and dove off the side of the ship. Johnny answered Miyu’s call.
+
+Armstig instead picked up Garry, who was excited because he smelled food. Armstig set him on the table in the middle of the aftermath. “Enjoy, Garry!” Tentacles flew everywhere, mopping up all the squished meat and flung veggies. Armstig escaped to the top deck to let the living garbage disposal work its magic.
+
+“Ok, line up on the side of the ship.” Miyu sternly told the worgens.
+
+Armstig’s ears folded back and he cowered. He tried to be sneaky and climb up to the crow’s nest, but Miyu saw him.
+
+“I see, Armstig. Get down here. Sit next to Johnny.”
+
+Armstig got down and did so.
+
+Miyu created a boat load of water above their heads that came down on them over the course of a minute or two. It washed all the food out of their hair. Well, mostly.
+
+Miyu inspected their fur. “I’m going to have to brush you guys all over again. Tsk. Tsk.”
+
+“Again?” Armstig’s tail wagged. He elbowed Johnny. “We should have food fights more often!”
+
+Miyu gave him a stern look.
+
+“Or… maybe not.”
+
+Miyu shot him a smile and patted him on the head.
 
 [insert miyu training selena in acrobatics training montage scene]
 
