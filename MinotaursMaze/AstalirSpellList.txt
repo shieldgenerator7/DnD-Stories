@@ -91,7 +91,8 @@ You choose a surface on parchment, paper, rock, skin, fabric, water, or other ma
 
 The writing appears normal, written in any handwriting you have seen, and conveys whatever meaning you intended when you wrote the text. The writing can be written in any language, though the language must be one you can speak or write. The writing can be any color and opacity, and can be any size as long as the 15 characters can all fit together in a 5ft square. If you wish, you may make the characters glow, emitting dim light in a 5ft radius.
 
-If the writing becomes more than 90ft away from you, it disappears.
+You can dismiss the writing as an action. If the writing becomes more than 90ft away from you, it disappears.
+
 If you ritual cast it, there is no character limit.
 
 
@@ -112,16 +113,20 @@ This spell doesn’t decode secret messages in a text or glyph, such as an arcan
 
 
 
-=== Color Spray ===
+=== Deer Color Sphere ===
 
-Color Spray
+Deer Color Sphere
 Illusion 1
 Casting Time: 1 action
-Range: Self (15-foot cone)
-Components: V S M
-Duration: 1 round
+Range: 30ft
+Target: A point within range
+Components: V S
+Duration: 1 hour
 
-A dazzling array of flashing, colored light springs from your hand. Roll 6d10, the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
+A dazzling 5ft-radius sphere of flashing, colored light appears at a point within range that you have line of sight to. It emits bright light out to a radius of 90ft.
 
-Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for the creature to be affected.
-At Higher LevelsWhen you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
+A creature within 90ft that can see the sphere must succeed on a Constitution saving throw against your spell save DC, or be blinded until its next turn.
+
+A creature within the sphere's 5ft radius that can see automatically counts as being able to see the sphere, and has disadvantage on the save. A creature with darkvision also has disadvantage on the save.
+
+You may dismiss the sphere as an action. If it becomes more than 90ft away from you, it disappears.
