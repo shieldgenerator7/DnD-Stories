@@ -10,7 +10,9 @@ Minotaur's Maze
 
 Reality Bender
 Astalir Feat
-As a bonus action, you may cast an Illusion or Transmutation spell that you know and can cast. You must make an Intelligence saving throw at disadvantage. On a successful save, you cast the spell, expending any required spell slots as usual.
+As a bonus action, you may make a DC15 Intelligence saving throw at disadvantage. On a successful save, you may store an Illusion or Transmutation spell until the end of your next turn. The spell must be one that you know and can cast, and it must have a normal cast time of 1 action or less. You must expend any required spell slots the spell requires to store it.
+You may cast a stored spell as a free action.
+
 
 
 === Quadrupedism ===
