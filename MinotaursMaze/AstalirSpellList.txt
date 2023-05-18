@@ -10,7 +10,7 @@ Minotaur's Maze
 
 Quadrupedism
 Deerkin Feat
-You have the uncanny ability to transition onto all fours to aid in agility and camouflage. Your base walking speed increases by 10 points when on all fours. You may switch between bipedal and quadrupedal posture as a free action.
+You have the uncanny ability to transition onto all fours to aid in agility and camouflage. When on all fours, your base walking speed increases by 10ft, your running high jump increases by 3ft, and your running long jump increases by 15ft. You may switch between bipedal and quadrupedal posture as a free action.
 
 
 
@@ -18,7 +18,7 @@ You have the uncanny ability to transition onto all fours to aid in agility and 
 
 Antlers
 Deerkin Feat
-Adult male Deerkin grow antlers over the year which will last until Midwinter or Spring. When in possession of full antlers, you gain an additional 2 points to Constitution and 1 point to Charisma.
+Adult male Deerkin grow antlers over the year which will last until Midwinter or Spring. When in possession of full antlers, you gain an additional 2 points to Constitution and 1 point to Charisma. Antlers can satisfy the Somatic requirement of a spell you cast.
 
 
 
