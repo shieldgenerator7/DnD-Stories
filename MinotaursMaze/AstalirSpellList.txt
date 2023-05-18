@@ -43,18 +43,18 @@ You can dismiss one change as an action. If a change becomes 85ft from you or fu
 
 
 
-=== Silent Image ===
+=== Deer Silent Image ===
 
-Silent Image
+Deer Silent Image
 Illusion 1
 Casting Time: 1 action
-Range: 60 feet
+Range: 30ft
 Components: V S M
 a bit of fleece
-Duration: Concentration, 10 minutes
+Duration: Concentration, 1 hour
 
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot you can see within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
 
-You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
+On your turn, you can animate it as you direct and move the image to any spot. If the image becomes more than 85ft away from you, it disappears.
 
-Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. A creature gets advantage on this check if they notice the image interacting unnaturally with its surroundings. If a creature discerns the illusion for what it is, the creature can see through the image.
