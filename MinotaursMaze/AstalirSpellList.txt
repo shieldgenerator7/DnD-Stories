@@ -4,17 +4,17 @@ Minotaur's Maze
 === Astalir Spell Text ===
 ==========================
 
-Mold Earth
+Deer Mold Earth
 Transmutation cantrip
 Casting Time: 1 action
 Range: 30 feet
 Components: S
 Duration: 1 hour
 
-You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
+You choose a portion of dirt or stone that you can see within range and that fits within a 5ft cube. You manipulate it in one of the following ways:
 
-- You move the 5-foot cube up to 10 feet away. This movement doesn’t have enough force to cause damage. This change lasts for 1 hour.
-- You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.
-- If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
+- You compress the 5ft cube into the ground, wall, or ceiling attached to it. You cause an outcropping of the same size to jut out of the ground, wall, or ceiling attached to the same stone, up to 10ft away. This movement happens simultaneously and doesn’t have enough force to cause bludgeoning damage.
+- You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns.
+- If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain.
 
-You can dismiss one change as an action. If a change becomes 85ft from you or further, it reverts.
+You can dismiss one change as an action. If a change becomes 85ft from you or further, it reverts. Each change automatically reverts 1 hour after it was made.
