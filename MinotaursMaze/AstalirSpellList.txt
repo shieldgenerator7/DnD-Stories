@@ -78,18 +78,18 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 
 
-=== Illusory Script ===
+=== Deer Illusory Script ===
 
-Illusory Script
+Deer Illusory Script
 Illusion 1 (ritual)
-Casting Time: 1 minute
-Range: Touch
-Components: S M
-a lead-based ink worth at least 10 gp, which the spell consumes
-Duration: 10 days
+Casting Time: 1 action
+Range: 30ft
+Components: S
+Duration: 1 hour
 
-You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.
+You choose a surface on parchment, paper, rock, skin, fabric, water, or other material that you can see within range and imbue it with a potent illusion that lasts for the duration. The illusion appears as up to 15 characters that appear one by one in the order and position you designate.
 
-To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.
+The writing appears normal, written in any handwriting you have seen, and conveys whatever meaning you intended when you wrote the text. The writing can be written in any language, though the language must be one you can speak or write. The writing can be any color and opacity, and can be any size as long as the 15 characters can all fit together in a 5ft square. If you wish, you may make the characters glow, emitting dim light in a 5ft radius.
 
-Should the spell be dispelled, the original script and the illusion both disappear. A creature with truesight can read the hidden message.
+If the writing becomes more than 90ft away from you, it disappears.
+If you ritual cast it, there is no character limit.
