@@ -10,8 +10,7 @@ Minotaur's Maze
 
 Reality Bender
 Astalir Feat
-As a bonus action, you may cast an Illusion or Transmutation spell that you know and can cast. When you cast a spell this way, you still expend spell slots as normally required.
-
+As a bonus action, you may cast an Illusion or Transmutation spell that you know and can cast. You must make an Intelligence saving throw at disadvantage. On a successful save, you cast the spell, expending any required spell slots as usual.
 
 
 === Quadrupedism ===
