@@ -989,3 +989,601 @@ Sylla took him in her arms. “It’ll be ok, Frill. It’ll be ok.”
 Frill whined. His neck went limp and his heavy breathing stopped.
 
 Sylla hugged him tighter and cried.
+
+# Chapter 5 – The Kobold Hierarchy
+
+“What are you doing?” Sui asked Grar.
+
+Grar got up from his pot. “Preparing a meal.”
+
+“No, there’s more kobolds here.”
+
+“Right, right.” Grar pointed to an unexplored side path. “I’ll go here.” He walked noisily into the side path, fe-fi-fo’ing his way into the room at the end. In draconic, he yelled, “Alright, you cowards!” He looked into the room.
+
+A bunch of kobolds were shivering in a corner. A yinglet slept tied up against a wall.
+
+“You either join me or die!”
+
+The kobolds shivered.
+
+“All with me, stand up and come here.” He pointed in front of him.
+
+5 kobolds do as he says, but two stay cowered in the corner.
+
+“C’mon, one kobold whispers. He’ll kill us all if you don’t listen!”
+
+Another kobold took the hand of the 2 scared kobolds and dragged them into position.
+
+Grar nodded. “Very good. Keep that one tied up for now.” He motioned to the yinglet. “I’ll be back.”
+
+“We’ll be here.”
+
+Grar came back to the main hub room. He found the sentinel kobold sitting around the campfire, instead of guarding the tunnel like he asked. “You! What are you doing?”
+
+The kobold fell off his seat. “I… I…”
+
+“Why aren’t you guarding that room?”
+
+“It escaped! You said it was a deer in disguise, right? It ran off to the main entrance.”
+
+“You let it escape?”
+
+“It jumped over me!”
+
+Grar gave him a disapproving glance.
+
+“Grar, come here!” Sui whispered from the other side path. “There’s more kobolds in this room.”
+
+“Wait here.” Grar told the kobold, before joining Sui. “Don’t worry, I got this.”
+
+Grar stomped into the room and frightened the whole group of 7 kobolds.
+
+Meanwhile, the lanky kobold Grar was trying to stop poked its head out of the fishing room and into the main hub. The sentinel kobold saw it, but was to scared to disobey Grar’s last order of “wait here.” The lanky kobold walked awkwardly across the main hub room and into the room where the yinglet was being held.
+
+Inside, the 7 kobolds were all discussing amongst each other what to do.
+
+“We wait here, just like he said.”
+
+“But what if he’s planning on rounding us all up and killing us?”
+
+“If he wanted to kill us, he would’ve done so by now.”
+
+“Yeah, he’s probably going to become our new boss.”
+
+“Maybe he’ll be kinder than our current boss?”
+
+“Probably not.”
+
+Then the lanky kobold appeared in the doorway. The kobolds all gave him funny looks.
+
+“Who are you?”
+
+But before they could approach, things went flying across the room. Blankets and bedrolls flittered in the air, pillows hit them in the face, and barrels rolled around.
+
+“Mm? Mmm?” The sleeping, gagged yinglet woke up for a brief moment before fading back into slumber.
+
+The kobolds got on the ground and put their hands over their heads.
+
+Things settled down when a bunch of bananas rose out of some bed sheets, hung in the middle of the room, and then dropped onto one of the kobolds.
+
+“I thought I said no food in bed?” A kobold scolded.
+
+“I get snacky at night.”
+
+In the midst of the chaos, the ropes around the yinglet were loosened. But the yinglet didn’t move, except for its stomach while breathing.
+
+Then the lanky kobold left, and the dust settled.
+
+“What was that?”
+
+“Definitely not a kobold.”
+
+Back in the other room, Grar told his new kobold recruits to await further instructions. “And if you see a lanky kobold, let me know immediately.”
+
+“Yes, sir.”
+
+Sui came in after Grar and yelled at them. “You all better stay in line!”
+
+“Is that the lanky kobold?” A kobold whispered to another.
+
+“Stupid kobolds!” Sui yelled. “I’m a dragonborn. Clearly! You better behave or you’ll die by Grar’s hand!”
+
+The kobolds cowered and let Sui pass.
+
+In the next room, Grar frightened two kobolds, but the last kobold, who could fly, stood his ground.
+
+“You’re not budging, are you?”
+
+“No! I will not join you! You are a murderer!”
+
+“Prove your loyalty.” Grar placed a hand on each of his two new recruits from that room. “Convince your mate.”
+
+The two kobolds pleaded with the flying kobold to relent. He didn’t. Finally, he gave in, but with some conditions. “I want my own section of kobolds.”
+
+“Done. Will these two work?”
+
+“Yes. But I require a few more.”
+
+“Ok, we’ll work out the details later. Right now, hang tight.”
+
+Grar heard whispering, but didn’t see another room.
+
+The kobolds fidgeted.
+
+“But, to prove *your* loyalty, you’re going to tell me where your other kobold friends are hiding.” Grar held his axe up to the flying kobold.
+
+The flying kobold relented and flew up to a perch 10ft off the ground. Behind it, was another tunnel leading to another room.
+
+“You’ve done well. I’ll make sure you get your section.” Grar climbed up the wall and roared.
+
+Behind him, Sui was waiting with a bow and arrow, and more choice words ready for the flying kobold leader. But before he could enter, a deer fell onto the ground in front of him and turned around. It pointed at the passage to the main hub room.
+
+“Deer!” Sui shouted. “Why are you here? Can you please not interfere!”
+
+The deer looked shocked. He continued pointing, ears down.
+
+“Get out of our business.” Sui pushed past the deer, but his hand went through the deer. “Stupid deer.” Sui arrived in the room with the flying kobold and his two underlings. “You guys better not screw anything up!”
+
+The lanky kobold ran across the main hub, following the sound of Sui’s shouting. It tripped once, but got back up and entered the next room.
+
+The kobolds there popped the question. “That is one strange kobold.”
+
+“Is that the lanky kobold?”
+
+“I don’t know, it could be a short dragonborn.”
+
+“Well, should we ask?”
+
+“You ask it.”
+
+One kobold got pushed forward to ask the lanky kobold what it was. “Are you a dragonborn or a kobold?”
+
+The lanky kobold looked down and stared blankly. Then the room flew into chaos. Rocks darted around the room, blankets popped up and floated down, and barrel corks shot out. The kobolds all cowered in fear.
+
+“It’s not a kobold! It’s not a kobold!”
+
+A book appeared out from under a pillow. It gently lifted itself into the air, making a journey somewhere else.
+
+“My bedtime stories!” The kobold closest to the book grabbed the book and held it close. It stopped moving on its own.
+
+“What’s all that racket?” Sui yelled from the other room.
+
+The lanky kobold hid behind a barrel, and the spectral deer stood in front of him.
+
+Sui looked around the room. “Did you do this, deer? You better not be harming any of our kobolds!” Sui turned to the kobolds. “Did this deer hurt you?”
+
+The kobolds gulped. “N-no…”
+
+“I swear, deer.” Sui marched on. “I’ll deal with you later, right now I have more important matters to tend to.” Sui left to go the main hub room.
+
+The lanky kobold moved on to the room with flying kobold leader, and tore that room apart to. From behind the wall, Grar could be heard talking to the last group.
+
+In that room, there were a bunch of barrels, and more kobolds. One taller kobold with green scales huddled close with his most loyal subjects. But once Grar stepped in, it was every kobold for himself. All his loyalest kobolds sided with Grar out of fear, so the kobold king did too.
+
+“Alright, now that that’s settled, follow me to the campfire. We’re going to have a meeting.”
+
+The kobolds followed him.
+
+The lanky kobold panicked when he heard Grar approaching from the other side of the wall. It hid behind a treasure chest.
+
+Grar climbed over the wall and noticed that the room was a mess. “What happened here?”
+
+The flying kobold pointed to the corner.
+
+Grar saw the cowering lanky kobold and grabbed at it. It dodged, and jumped away, but hit its leg on the treasure chest. Grar grabbed its leg and pulled it in. “I don’t know what you are, but you’re not getting away.” He held it under his arm. It looked really weird. Although Grar was holding on tight, it looked like he wasn’t touching it at all. He carried the lanky kobold to the main hub room, with the other kobolds behind him.
+
+============================================
+
+“Frill! Friiill!” Sylla cried, holding him in her arms.
+
+“Sylla, what happened?” Another kobold appeared at the top of the wall. It approached.
+
+“Hey!” Sylla yelled.
+
+The kobold came closer, getting to the edge of the wall.
+
+“Don’t! It’s too deep!”
+
+The kobold looked confused. “What?” It shrugged, and hopped down. “Aaaahhhhh!”
+
+Sylla gasped. She shut her eyes, so she wouldn’t see what happened to her friend. Blood splattered onto her face, including her eye lids. A scurrying sound came from the other side. It was the last kobold in their section.
+
+“Go away!” Sylla yelled. “Run! Don’t climb! Run!”
+
+The kobold stopped climbing and ran away, out of the cave.
+
+“At least I saved one of my friends.” She wiped away a tear. “But this will not stand. I’m going to get that deer!”
+
+She marched down the side path, past the iron door, and into the main hub room, where five kobolds sat around an empty pot. “What’s going on?” She tiptoed around the dead kobolds.
+
+“We all work for Gal now.”
+
+“No, it’s Growl.”
+
+“I heard Bra.”
+
+“Who?” Sylla asked.
+
+“This big green ogre—”
+
+“Orc.”
+
+“Whatever. This big green orc who came in, sliced a kobold in half, and scared us.”
+
+“You mean he’s still here?” Sylla’s brows furrowed.
+
+“Yeah, and he’s super scary. You don’t want to mess with him.”
+
+“How can you call yourself a kobold?” Sylla scolded. “We live and die to become dragons! Do you think some orc cares about that? No! He’s going to have us digging tunnels and gathering food while he puts his feet up and takes a nap!”
+
+The other kobolds winced. They hung their heads in shame.
+
+“We have to stop them. We have to get our fellow kobolds back on our side, and take care of these intruders!”
+
+“You’re right, Sylla. We should’ve been braver.”
+
+The other five kobolds stood up, ready to fight. “Now what?”
+
+“Let’s go gather our friends.”
+
+Suddenly, a dragonborn appeared from a side room. “Are you planning what I think you’re planning? You better get back in line before Grar finds out!”
+
+The five kobolds cowered behind the stone seats around the campfire.
+
+“On second thought, we can’t become dragons if we’re dead.”
+
+“Please, Sylla, understand!” A kobold got his knees. “We can’t beat this guy. Our weapons do nothing.”
+
+Sylla sighed, and shelved her fire. “Ok. I’ll join you guys.”
+
+The kobolds sighed. “We’re going to live!”
+
+“We’re going to survive.” Sylla whispered to herself, holding a rock that Frill had given her.
+
+===================================================
+
+Grar marched up behind Sui, holding the lanky kobold. “Everything ok?”
+
+“Yeah, just keeping the kobolds in line.” Sui saw the lanky kobold. “Is that you, deer?”
+
+“If it is, it’s going to make a good meal.”
+
+Sui sighed. “Don’t eat him. He’s a magic deer.”
+
+“You sure?”
+
+“Yeah. It wouldn’t be good food.”
+
+“Hmm. Ok. I won’t eat this deer.” Grar assured.
+
+The lanky kobold flickered and turned into a deer.
+
+“I knew it was you.”
+
+Grar stomped to the middle of the room, and the kobolds there looked at him expectantly, their mouths drooling. “No, we’re not eating this deer.”
+
+They looked away.
+
+Grar turned to the kobold king. “Gather your kobolds, we’ll have the meeting here.”
+
+The kobold king did as told.
+
+The kobolds guarding the yinglet brought him with them, tied up with a single rope around the arms and waist, and held onto it with the rest of the rope, like a leash.
+
+Grar started the meeting once all the kobolds were there. He stood ontop a seat to increase his height advantage. The deer was still tightly held under his arms, which helped grab the kobolds’ attention. “I have an announcement. I am your leader now. You will do as I say and exactly as I say. I will not tolerate insubordination or disrespect towards me,” he motioned to himself and Sui, “or my colleague dragonborn here.”
+
+The kobolds licked their lips. One started setting the pot on the campfire, another went to fetch water.
+
+Grar shut it down. “And there will be no eating this deer. Understood?”
+
+The kobolds hung their heads, except for Sylla, who stared angrily at the deer.
+
+“You will be reprimanded if you even touch a hair on this deer’s back.”
+
+Sylla didn’t drop her gaze.
+
+“Hey, Sui. Go talk to that kobold.” Grar whispered, pointing Sylla out.
+
+“Sure.” Sui stepped through the kobold crowd and grabbed Sylla’s wrist. “Come with me.”
+
+Sui led Sylla to the fishing room. “What’s your name?”
+
+“Sylla.”
+
+He could tell she was different. She was covered in dirt and blood, and her facial expression hid a rage that made her fearless. “What happened to *you*?”
+
+“A gauntlet of pits, walls, traps, and despair. I lost two of my close friends, and my single, very best friend. *That’s* what happened.”
+
+“You don’t have to be so rude.”
+
+Sylla looked away. “After Growl killed our section leader, and put up that iron door, my section ran the other way around.”
+
+Sui nodded. “Yeah, *Grar* blocked your path so you chased us the long way around.”
+
+“And along the way,” Sylla’s fist balled, “we ran into that deer. That very same deer that Grar is holding.”
+
+“And?”
+
+“And I want to rip its antlers off, chop them in half, and stab it with its own antlers.”
+
+“But why?”
+
+“It killed my friends!”
+
+“But how?”
+
+“I don’t know how it did it, but it shook the ground, and made pits to trap us, and walls to discourage us. And it made a really big wall and really deep pit. My best friend fell to his death, chasing that deer.”
+
+“There’s no pits in the entrance.”
+
+“I know! The deer made them appear.”
+
+“Show me.”
+
+Sylla started off, but Sui grabbed her again.
+
+“But just in case, I’m going to tie this rope around you, so you don’t escape.”
+
+“Seriously? I live here. Where do you think I’m going to go?”
+
+“Mmm. Ok.” Sui dropped it.
+
+Sylla led Sui to the place where Frill died. The pits were gone, but there were three dead kobolds, like she said. Two of them had went splat and had their heads cracked open.
+
+“Well, I don’t see the pits.”
+
+“But the bodies are still here!” Sylla pointed. “The evidence is right here!”
+
+“Yeah, and we can’t have bodies blocking our entrance. They’re going to have to be moved, pronto.”
+
+“You’re not the boss of me.”
+
+“Did you hear what Grar said? Insubordination will NOT be tolerated.”
+
+Sylla eyed him. “Ok.”
+
+“Now move these bodies.”
+
+“Where to?”
+
+“Anywhere, just so they’re not blocking this path.”
+
+Sylla picked up one of her friend’s arms, but the body didn’t move.
+
+Sui sighed. “You’re not strong enough, are you?”
+
+“No.”
+
+Sui moved the three bodies easily and threw them out of the cave.
+
+“You can’t just dump the bodies like that!”
+
+“Why not?”
+
+“They need a proper burial!”
+
+“What for? They’re just kobolds.”
+
+Sylla stewed. She started digging.
+
+But Sui stopped her. “Come on, we’re going back to the meeting.” He dragged her back to the campfire in the cave.
+
+“And we will be expanding this cave system.” Grar was still giving his speech. “Plans will be drawn soon, and you will follow the plans exactly.”
+
+The deer turned into Sui. “What the deck man! Put me down!”
+
+Grar raised an eyebrow at the Sui in his arms.
+
+“That stupid deer switched me out! It’s getting away! Put me down so I can go after it!”
+
+“Very clever, deer.” Grar squeezed hard, making the deer drop his disguise. “But you’re not very good at copying Sui’s voice.” He looked back at the kobolds gathered around.
+
+Sui returned with Sylla. He seemed to have some news.
+
+“And that is all for now. Go to your quarters and have a good rest.”
+
+The kobolds scattered, pouring out into the side tunnels. As they left, a book floated out of one of the kobold’s hands. It floated over and into the deer’s fur. The deer smiled.
+
+Grar got off his podium and approached Sui. “What’s up with her?”
+
+Sui pulled Sylla forward. “Her friends died chasing that deer. Something about a pit.”
+
+“A pit? There’s no pits there.”
+
+“Do you remember those tremors we felt? That was probably the pits forming.”
+
+“And you think this deer did that?”
+
+“Well,” Sui stared into the deer’s face. “I’ve never seen it do that before, but it’s possible. Some spell like Mold Earth or something.”
+
+“Well, deer?” Grar squeezed.
+
+The deer hung its head in defeat. A spark flowed up its antler. The ground shook, and Grar braced himself. The column of dirt Grar stood on rose 10ft into the air. Under Sui, the ground dropped 10ft, putting him in a pit.
+
+“So it was you. Wow, that’s… useful.” Grar smiled. “You can put me down now.”
+
+The ground shifted back to normal, shaking the ground as it went.
+
+“What’s your name, deer?”
+
+The deer shrugged.
+
+“Come on, I know you have a name.”
+
+“BLEAT!”
+
+“In a language I can understand.”
+
+The deer didn’t say anything.
+
+“Stop being difficult! Tell him your name!” Sui yelled.
+
+“Hey don’t scare it!” Grar shut him down. “Come on deer, I know you can talk.”
+
+The deer hung its head. A spark flitted up its antler, and letters appeared on the ground in front of Grar.
+
+ASTALIR
+
+“Alistar? Like that one guy?”
+
+Astalir shook his head.
+
+“Oh, it’s switched. Asteer… Astaril… As-ta-leer. Astalir?”
+
+The deer nodded.
+
+“So, Astalir…” Grar sat on a bench next to the campfire. “What do you do?”
+
+SURVIVE
+
+“Hmm… interesting. We’ll have to talk about that later.” Grar put a log on the campfire. “But I meant, what do you *do*? Like, as a job.”
+
+“I think he’s a wizard or something.”
+
+“Sui, can you go get the prisoner?”
+
+“What?”
+
+“The yinglet. In that room over there.”
+
+“Hmm. Ok.” Sui left to fetch the yinglet prisoner.
+
+“So, you were saying?” Grar took a sip from his waterskin, still holding Astalir tight under his arm.
+
+INFO ACQUISTION
+
+“Info acquisition? So, like a spy?” Grar held his waterskin up to Astalir’s mouth.
+
+Astalir shook his head no.
+
+“Well, then I’m afraid I don’t quite understand.”
+
+Sui returned with the yinglet.
+
+Grar untied him. “Who are you?”
+
+“This one is called Gale, Gale Wind, of the desert.” The yinglet spoke with a timid voice.
+
+Grar pat the seat next to him, opposite Astalir. “Sit down.”
+
+Gale sat next to Grar.
+
+“So Gale, why do you speak of yourself in the third person?”
+
+“This one has always done it, since birth.”
+
+“What happened to you? How did you end up here?”
+
+“This one woke up here. This one was camping in woods, when kobold scum knocked this one out.”
+
+“I’m Grar, now the leader of these kobolds. Sorry to hear that my new recruits did this to you. I’ll have a talk with them.”
+
+“This one was wondering what was going on. This one thanks you.”
+
+Astalir turns into the yinglet.
+
+“What’s that?”
+
+“Don’t worry about him.” Grar pets Astalir on the head through his disguise. Astalir turns back into a deer.
+
+Sui shuffles a deck of cards. He holds it out to Grar. “Want to draw one?”
+
+“What is this?”
+
+“Deck of random oddities. I got some random buffs from it already.”
+
+“I could use some buffs.” Grar drew a card. His eyes popped wide open, and his grogginess faded. “Wow, I feel wired!”
+
+“Oh yeah I got that card too. I haven’t slept in days!”
+
+“That’s good news. Not sleeping will make things easier to keep.” He gave Astalir a squeeze.
+
+Astalir looked dismayed. His brows furrowed and his ears pinned back. He kicked the air with his hind leg.
+
+“Now don’t try to escape. I’ll let you go when I know I can trust you.”
+
+“How about you?” Sui held the deck out to Astalir.
+
+A card floated off the top of the deck and to Astalir. He looked at it. He didn’t feel any different, and nothing seemed to change.
+
+“What that do? This one not see.”
+
+“I don’t know, but do you want to draw a card?” Sui held the deck out to Gale.
+
+Gale drew a card. His pupils dilated to fill his whole eye socket. He got down on the ground and wagged his kangaroo-like yinglet tail. His ears flopped. “Bark! Bark!” He put his forepaws on Grar’s lap and panted.
+
+Grar let out a big laugh. He ruffled Gale’s head a little.
+
+“He got the dog card! He’s acting like a dog!” Sui pointed.
+
+“Another mastiff for my collection.” Grar commented. He picked up a stick and threw it.
+
+Gale ran awkwardly on his short forelimbs and long, kangaroo-like yinglet legs. His body wasn’t made for quadrupedal movement, but he made do. He grabbed the stick in his mouth and returned it to Grar.
+
+“This is hilarious!”
+
+A minute or two later, Gale’s eyes go back to normal. He looks down at the stick in his mouth and the floor he’s all fours on. “Bleh!” He spits out the stick, stands up, and dusts himself off.
+
+“Do you want to draw again?” Sui stifled a laugh.
+
+“Blasted cards!” Gale pushed the deck away. “This one will not be doing that again!”
+
+“Shit man, that was probably the hardest I’ve laughed in years! Here, for your troubles.” Grar reached into his bag with his single free hand and pulled out four gold pieces, handing it Gale.
+
+“This one did not enjoy this, but is glad you enjoyed it.”
+
+Grar gave him a hearty slap on the back.
+
+“I’m barbarian who grew up in this wilderness. Trust me when I say, I know.”
+
+Astalir’s antler sparked. His pupils grew to fill his eye, his ears flopped to the side of his head, and his tail wagged enthusiastically. “Bark! Bark!”
+
+“You too, AStalir?” Grar turned to Sui. “They both got the same card?”
+
+“Ha! That one’s a dog minded!” Gale pointed and laughed.
+
+“No…” Sui examined the deck. “There’s only one card of each type.”
+
+The stick floated up to Grar’s free hand. “Bark! Bark!” Astalir’s tail wagged and his tongue hung out.
+
+Grar stared intently into Astalir’s eyes, and eventually saw through the illusion. “Nice try, Astalir.”
+
+Astalir hung his head, and he returned to normal.
+
+“You really are a clever deer, though.”
+
+After an hour or so, Gale fell asleep. While Grar and Sui talked, Astalir pulled out the book he found in the kobold’s room. It was a diary written in Aarakocra, a language the kobolds most definitely couldn’t read. It told the daily struggles of an Aarakocra living in the mountains. Astalir read through it, completely engrossed.
+
+Grar laid down next to the campfire, and Sui did too. Grar held onto Astalir, not letting him get away.
+
+“So what’s your plan for this cave?”
+
+“Well it’s going to be our new base of operations.”
+
+“So you’re staying in town?”
+
+“It looks like it. I don’t have any home to go to. This one will do.”
+
+“How are you going to manage all these kobolds?”
+
+“That’s what I have you for. And we’re going to designate some kobolds to be leaders.”
+
+Astalir shifted to get comfy despite Grar’s arms and closed his eyes, as if to go to sleep.
+
+“Which ones?” Sui hugged an arrow close to his chest.
+
+“Obviously, the green scaled one. He’s going to be directly below me, after you. The winged kobolds make natural leaders, and one in particular is good at inspiring others.”
+
+“Speaking of inspiring, I have a suggestion.”
+
+“Yes?” Grar asked.
+
+“That blue-hooded one, Sylla. She is very inspirational. The kobolds follow her.”
+
+“Yes, I was thinking of her as well. We will have to give her her own “section”, as they call it.”
+
+“Yes.”
+
+Grar and Sui didn’t fall asleep. Astalir tried to stay awake, but fell asleep after a few hours of getting comfy. He didn’t know what Grar was going to do with him, but he knew he needed to come up with an escape plan. Tomorrow. He will sleep on it and do something tomorrow.
+
+Astalir fell asleep, laying his head on the cave floor.
