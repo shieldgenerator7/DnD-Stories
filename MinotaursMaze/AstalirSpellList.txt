@@ -45,7 +45,7 @@ You choose a portion of dirt or stone that you can see within range and that fit
 - You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns.
 - If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain.
 
-You can dismiss one change as an action. If a change becomes 85ft from you or further, it reverts. Each change automatically reverts 1 hour after it was made.
+You can dismiss one change as an action. If a change becomes more than 90ft from you, it reverts. Each change automatically reverts 1 hour after it was made.
 
 
 
@@ -65,7 +65,7 @@ You choose an area of water that you can see within range and that fits within a
 - You change the water’s color and/or opacity. The water must be changed in the same way throughout.
 - You freeze the water. If the water is still frozen when this effect ends, it unfreezes.
 
-You can dismiss one change as an action. If a change becomes 85ft from you or further, it reverts. Each change automatically reverts 1 hour after it was made.
+You can dismiss one change as an action. If a change becomes more than 90ft from you, it reverts. Each change automatically reverts 1 hour after it was made.
 
 
 
@@ -81,7 +81,7 @@ Duration: Concentration, 1 hour
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot you can see within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
 
-On your turn, you can animate it as you direct and move the image to any spot. If the image becomes more than 85ft away from you, it disappears.
+On your turn, you can animate it as you direct and move the image to any spot. If the image becomes more than 90ft away from you, it disappears.
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. A creature gets advantage on this check if they notice the image interacting unnaturally with its surroundings. If a creature discerns the illusion for what it is, the creature can see through the image.
 
