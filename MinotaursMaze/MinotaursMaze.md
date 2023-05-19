@@ -906,9 +906,11 @@ Grar licked his lips. “Deeer…” He pushed a kobold forward, speaking in dra
 
 “Don’t interrupt me! Go into that room and keep that big kobold from getting out.”
 
-“Yes, boss.” The kobold ran and stood in the entrance. He came face to face with the unnaturally tall kobold he ever saw. It stared intently at him. He shook in his steps, but stood firm.
+“Yes, boss.” The kobold ran and stood in the entrance. He came face to face with the most unnaturally tall kobold he ever saw. It stared intently at him. He shook in his steps, but stood firm.
 
 “We’re getting some venison today!” Grar picked up the pot and put it back on the campfire.
+
+==========================================================
 
 It was getting to be midday and Frill the kobold was getting hungry. He moved another rock to block the main entrance stairs. He took a rock from Sylla, and heard her tummy rumble.
 
