@@ -1591,3 +1591,57 @@ Astalir shifted to get comfy despite Gra’s arms and closed his eyes, as if to 
 Gra and Sui didn’t fall asleep. Astalir tried to stay awake, but fell asleep after a few hours of getting comfy. He didn’t know what Gra was going to do with him, but he knew he needed to come up with an escape plan. Tomorrow. He will sleep on it and do something tomorrow.
 
 Astalir fell asleep, laying his head on the cave floor.
+
+================================================
+
+An hour or so later, when everyone else was asleep, Gra got up, carrying Astalir with him, and walked to the cave entrance. They both looked up at the moonlit sky. Stroking his head, Gra gently asked Astalir, “Survivor?”
+
+Astalir cocked his head.
+
+“You said that you do is survive. What did you mean by that?”
+
+Astalir looked away. He hung his head in sorrow. Then, a single spark made its way from the base of his antlers all the way to the furthest most tip.
+
+Illuminated by the moonlight, cave drawings appeared on the cave wall. A god arose, holding its hand closed. A brilliant light radiated from within his hand, and when he opened them, several deers stood there in his palm. The deers descended to earth, running around living their best life. Flowers, bushes, trees sprang up around them, becoming a forest. Then the god became cross, and rained lightning on the deers. Many died, and those that didn’t, fled.
+
+Gra’s countenance fell. Astalir refused to look, but his face was contorted, eyes closed, brows furrowed.
+
+The deers that survived ran to a different forest. Humans came, bows at the ready, and hunted the deers down. Of the original deers, only 4 remained. They all ran away, but in separate directions, running off the edge of the cave wall. Finally, one deer remained. That deer shifted into an old man, into a commoner, into a goblin, into a kobold. That deer came across a yellow dragonborn and a pale green orc, and followed them into a cave.
+
+“I see.” Gra nodded. “Gods have done me no favors either.”
+
+A single tear dripped from Astalir’s eye.
+
+Gra set Astalir on the ground, but held a hand on him. “I see now why you distrust people. But I don’t think your avoidance is justified.”
+
+Astalir cocked his head.
+
+“You’re safe here, with us. If you want to stay. None of us here plan on harming you.”
+
+Astalir looked defiantly into Gra’s eyes.
+
+“If I let you go, will you try to trust us and rely on us, at least a little?”
+
+Astalir lowered his eyebrows.
+
+Gra shrugged. “Ok. I get it. But at least check in once in a while, just so I know you’re alive.”
+
+Astalir gave a single nod.
+
+Gra took his hand off Astalir.
+
+Astalir looked around, and up and down Gra. Then he ran away, but didn’t. A deer ran off into the night, and a deer stood there in front of Gra.
+
+“You’re not real, are you?” He asked the deer in front of him.
+
+The deer shook its head, accidentally passing an antler through a wall.
+
+“Can you see through this thing? Is it like a familiar?”
+
+The deer shook its head again. It stomped its front hoof. Below it, a shiny object glimmered in the moonlight.
+
+“What do we have here?” Gra picked it up, receiving a static-shock from it. It was a steel falcata, with the initials “MG” expertly carved into its blade. “Is this for me?”
+
+The deer nodded, then disappeared.
+
+“Thank you, Astalir.” Gra whispered into the night.
