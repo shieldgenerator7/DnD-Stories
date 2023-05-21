@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Astalir",
+        "nicknames": ["deer", "lanky kobold"],
+        "portrait": "",
+        "player": "shieldgenerator7",
+        "race": "Deerkin",
+        "class": "Rogue Arcane Trickster",
+        "age": 25,
+        "height": "5'10\"",
+        "description": "A normal-looking deer walking on all fours, has an attractive pair of antlers.",
+        "specialty": "Reality Bending"
+    },
+    {
+        "name": "Jodi",
+        "nicknames": ["firbolg"],
+        "portrait": "",
+        "player": "Status/Enon",
+        "race": "Firbolg",
+        "class": "Bard",
+        "age": 25,
+        "height": "4'10\"",
+        "description": "Joyful little firbolg who loves to play music",
+        "specialty": "Calming music"
+    },
+    {
+        "name": "Silber Posten",
+        "nicknames": ["robot"],
+        "portrait": "",
+        "player": "Valgard",
+        "race": "Warforge",
+        "class": "Sharpshooter",
+        "age": 25,
+        "height": "5'6\"",
+        "description": "A robot bounty hunter with a reckless disregard for life",
+        "specialty": "Sharpshooting"
+    },
+    {
+        "name": "Micro",
+        "nicknames": ["bugbear"],
+        "player": "Blackdrow662",
+        "race": "Bugbear",
+        "class": "Barbarian",
+        "age": 21,
+        "height": "6'5\"",
+        "description": "Big furry bugbear that worships Yogi bear",
+        "specialty": "Carrying Silber Posten"
+    },
+    {
+        "name": "Dralth",
+        "nicknames": ["cleric"],
+        "portrait": "",
+        "player": "Death",
+        "race": "Dragonborn",
+        "class": "Cleric",
+        "age": 30,
+        "height": "4'0\"",
+        "description": "Short dragonborn that is good at healing",
+        "specialty": "Healing"
+    },
+    {
+        "name": "Sui",
+        "nicknames": ["dragonborn"],
+        "portrait": "",
+        "player": "Trent Soul",
+        "race": "Dragonborn",
+        "class": "Ranger Drakewarden",
+        "age": 30,
+        "height": "6'0\"",
+        "description": "Yellow-scaled dragonborn with a bow and arrow. Lashes out because he's insecure",
+        "specialty": "Rapidfire Bow & Arrow"
+    },
+    {
+        "name": "Grarthta Swanfallow",
+        "nicknames": ["Gra"],
+        "portrait": "",
+        "player": "legomike5",
+        "race": "Orc",
+        "class": "Barbarian",
+        "age": 30,
+        "height": "7'0\"",
+        "description": "Pale green orc, wears a cape of patches, wields a battleaxe, speaks fluent kobold",
+        "specialty": "Recruiting kobolds"
+    },
+    {
+        "name": "Sylla",
+        "nicknames": ["kobold"],
+        "portrait": "",
+        "player": "NPC",
+        "race": "Kobold",
+        "class": "Inspiring Leader",
+        "age": 20,
+        "height": "3'0\"",
+        "description": "Survived the \"Kobold Olympics\", wears a blue cape, inspires others",
+        "specialty": "Inspiring Leader"
+    },
+    {
+        "name": "template",
+        "nicknames": ["temp"],
+        "portrait": "image.png",
+        "player": "the_dm_lol",
+        "race": "Human",
+        "class": "Barbarian",
+        "age": 30,
+        "height": "6'0\"",
+        "description": "template",
+        "specialty": "making_dev_life_easier"
+    }
+]
