@@ -1,4 +1,7 @@
 {
     "story": "MinotaursMaze.md",
-    "characters": "Characters.json"
+    "characters": "Characters.json",
+    "title": "The Minotaur's Maze",
+    "author": "shieldgenerator7",
+    "year": "2023"
 }
