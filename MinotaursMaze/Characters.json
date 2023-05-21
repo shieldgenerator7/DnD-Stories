@@ -1,7 +1,7 @@
 [
     {
         "name": "Astalir",
-        "nicknames": ["deer", "lanky kobold"],
+        "nicknames": ["deer", "lanky"],
         "portrait": "",
         "player": "shieldgenerator7",
         "race": "Deerkin",
@@ -25,7 +25,7 @@
     },
     {
         "name": "Silber Posten",
-        "nicknames": ["robot"],
+        "nicknames": ["robot", "Silber"],
         "portrait": "",
         "player": "Valgard",
         "race": "Warforge",
