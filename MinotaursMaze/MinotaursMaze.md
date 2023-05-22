@@ -1102,7 +1102,7 @@ In the next room, Gra frightened two kobolds, but the last kobold, who could fly
 
 “Prove your loyalty.” Gra placed a hand on each of his two new recruits from that room. “Convince your mate.”
 
-The two kobolds pleaded with the flying kobold to relent. He didn’t. Finally, he gave in, but with some conditions. “I want my own section of kobolds.”
+The two kobolds pleaded with the flying kobold to relent. He didn’t. They offered him bananas, copper coins, a washrag, but nothing worked. Finally they promised not to complain about his orders ever again. He gave in, but with some conditions. “I want my own section of kobolds. A *whole* section.”
 
 “Done. Will these two work?”
 
@@ -1116,7 +1116,7 @@ The kobolds fidgeted.
 
 “But, to prove *your* loyalty, you’re going to tell me where your other kobold friends are hiding.” Gra held his axe up to the flying kobold.
 
-The flying kobold relented and flew up to a perch 10ft off the ground. Behind it, was another tunnel leading to another room.
+The flying kobold reluctantly flew up to a perch 10ft off the ground. Behind it, was another tunnel leading to another room.
 
 “You’ve done well. I’ll make sure you get your section.” Gra climbed up the wall and roared.
 
@@ -1130,11 +1130,11 @@ The deer looked shocked. He continued pointing, ears down.
 
 The lanky kobold ran across the main hub, following the sound of Sui’s shouting. It tripped once, but got back up and entered the next room.
 
-The kobolds there popped the question. “That is one strange kobold.”
+The kobolds there stared at it questionably. “That is one strange kobold.”
 
-“Is that the lanky kobold?”
+“Is it the lanky kobold?”
 
-“I don’t know, it could be a short dragonborn.”
+“I don’t know, it just could be a short dragonborn.”
 
 “Well, should we ask?”
 
@@ -1148,7 +1148,7 @@ The lanky kobold looked down and stared blankly. Then the room flew into chaos. 
 
 A book appeared out from under a pillow. It gently lifted itself into the air, making a journey somewhere else.
 
-“My bedtime stories!” The kobold closest to the book grabbed the book and held it close. It stopped moving on its own.
+“My bedtime stories!” The kobold closest to the book grabbed it and held it close. It stopped moving on its own.
 
 “What’s all that racket?” Sui yelled from the other room.
 
@@ -1160,9 +1160,19 @@ The kobolds gulped. “N-no…”
 
 “I swear, deer.” Sui marched on. “I’ll deal with you later, right now I have more important matters to tend to.” Sui left to go the main hub room.
 
-The lanky kobold moved on to the room with flying kobold leader, and tore that room apart to. From behind the wall, Gra could be heard talking to the last group.
+The lanky kobold moved on to the room with the flying kobold leader, and tore that room apart to. From behind the wall, Gra could be heard talking to the last group.
 
-In that room, there were a bunch of barrels, and more kobolds. One taller kobold with green scales huddled close with his most loyal subjects. But once Gra stepped in, it was every kobold for himself. All his loyalest kobolds sided with Gra out of fear, so the kobold king did too.
+In that room, there were a bunch of barrels, and more kobolds. One taller kobold with green scales huddled close with his most loyal subjects. Once Gra stepped into the room, the other kobolds cowered behind him.
+
+“Who… who are you?” The kobold chieftain stood up to Gra.
+
+“I’m the guy who just took over your entire settlement. So are you going to join the ones standing with me or the ones lying on the floor?” Gra points his axe at the kobold chieftain.
+
+The kobold chieftain flinches.
+
+“I’m taking over entirely. What I say goes. But I’ll need delegates, so you’ll still have authority, somewhat. What say you?”
+
+The kobold chieftain nods. “Ok. Just don’t hurt my subjects.”
 
 “Alright, now that that’s settled, follow me to the campfire. We’re going to have a meeting.”
 
@@ -1182,7 +1192,7 @@ Gra saw the cowering lanky kobold and grabbed at it. It dodged, and jumped away,
 
 “Sylla, what happened?” Another kobold appeared at the top of the wall. It approached.
 
-“Hey!” Sylla yelled.
+“Stop!” Sylla yelled.
 
 The kobold came closer, getting to the edge of the wall.
 
@@ -1192,7 +1202,7 @@ The kobold looked confused. “What?” It shrugged, and hopped down. “Aaaahhh
 
 Sylla gasped. She shut her eyes, so she wouldn’t see what happened to her friend. Blood splattered onto her face, including her eye lids. A scurrying sound came from the other side. It was the last kobold in their section.
 
-“Go away!” Sylla yelled. “Run! Don’t climb! Run!”
+“Go away!” Sylla yelled. “Run! Don’t climb! Run away!”
 
 The kobold stopped climbing and ran away, out of the cave.
 
@@ -1236,13 +1246,13 @@ The five kobolds cowered behind the stone seats around the campfire.
 
 “On second thought, we can’t become dragons if we’re dead.”
 
-“Please, Sylla, understand!” A kobold got his knees. “We can’t beat this guy. Our weapons do nothing.”
+“Please, Sylla, understand!” A kobold got on his knees. “We can’t beat this guy. Our weapons do nothing.”
 
 Sylla sighed, and shelved her fire. “Ok. I’ll join you guys.”
 
 The kobolds sighed. “We’re going to live!”
 
-“We’re going to survive.” Sylla whispered to herself, holding a rock that Frill had given her.
+“We’re going to survive.” Sylla whispered to herself, holding a special rock that Frill had given her.
 
 ===================================================
 
@@ -1262,19 +1272,19 @@ Sui sighed. “Don’t eat him. He’s a magic deer.”
 
 The lanky kobold flickered and turned into a deer.
 
-“I knew it was you.”
+“I knew it was you.” Sui exclaimed.
 
 Gra stomped to the middle of the room, and the kobolds there looked at him expectantly, their mouths drooling. “No, we’re not eating this deer.”
 
 They looked away.
 
-Gra turned to the kobold king. “Gather your kobolds, we’ll have the meeting here.”
+Gra turned to the kobold chieftain. “Gather your kobolds, we’ll have the meeting here.”
 
-The kobold king did as told.
+The kobold chieftain did as told.
 
 The kobolds guarding the yinglet brought him with them, tied up with a single rope around the arms and waist, and held onto it with the rest of the rope, like a leash.
 
-Gra started the meeting once all the kobolds were there. He stood ontop a seat to increase his height advantage. The deer was still tightly held under his arms, which helped grab the kobolds’ attention. “I have an announcement. I am your leader now. You will do as I say and exactly as I say. I will not tolerate insubordination or disrespect towards me,” he motioned to himself and Sui, “or my colleague dragonborn here.”
+Gra started the meeting once all the kobolds were there. He stood ontop a seat to increase his height advantage. The deer was still tightly held under his arms, which helped grab the kobolds’ attention. “I have an announcement. I am your leader now. You will do as I say and exactly as I say it. I will not tolerate insubordination or disrespect towards me,” he motioned to himself and Sui, “or my colleague dragonborn here.”
 
 The kobolds licked their lips. One started setting the pot on the campfire, another went to fetch water.
 
@@ -1358,7 +1368,7 @@ Sui sighed. “You’re not strong enough, are you?”
 
 “No.”
 
-Sui moved the three bodies easily and threw them out of the cave.
+Sui picked up the three dead kobold bodies with ease. Frill’s lifeless arms flung over his shoulder, tapping the heads of the other two kobolds. His eyes stared directly into Sylla’s, dead and lifeless. Sui carried the three bodies out of the cave and dropped them unceremoniously on the ground.
 
 “You can’t just dump the bodies like that!”
 
@@ -1372,7 +1382,7 @@ Sylla stewed. She started digging.
 
 But Sui stopped her. “Come on, we’re going back to the meeting.” He dragged her back to the campfire in the cave.
 
-“And we will be expanding this cave system.” Gra was still giving his speech. “Plans will be drawn soon, and you will follow the plans exactly.”
+“And we will be expanding this cave system.” Gra was still giving his speech. “Plans will be drawn soon, and you will follow the plans. If you have questions, do not be scared to ask me.”
 
 The deer turned into Sui. “What the deck man! Put me down!”
 
@@ -1380,7 +1390,7 @@ Gra raised an eyebrow at the Sui in his arms.
 
 “That stupid deer switched me out! It’s getting away! Put me down so I can go after it!”
 
-“Very clever, deer.” Gra squeezed hard, making the deer drop his disguise. “But you’re not very good at copying Sui’s voice.” He looked back at the kobolds gathered around.
+“Very clever, deer.” Gra squeezed hard, making the deer drop his disguise. “But you’re not very good at copying Sui’s voice. He’s more skiddish.” He looked back at the kobolds gathered around.
 
 Sui returned with Sylla. He seemed to have some news.
 
@@ -1400,7 +1410,7 @@ Sui pulled Sylla forward. “Her friends died chasing that deer. Something about
 
 “Well,” Sui stared into the deer’s face. “I’ve never seen it do that before, but it’s possible. Some spell like Mold Earth or something.”
 
-“Well, deer?” Gra squeezed.
+“Well, deer?” Gra squeezed gently.
 
 The deer hung its head in defeat. A spark flowed up its antler. The ground shook, and Gra braced himself. The column of dirt Gra stood on rose 10ft into the air. Under Sui, the ground dropped 10ft, putting him in a pit.
 
@@ -1422,7 +1432,7 @@ The deer didn’t say anything.
 
 “Stop being difficult! Tell him your name!” Sui yelled.
 
-“Hey don’t scare it!” Gra shut him down. “Come on deer, I know you can talk.”
+“Hey don’t scream at it!” Gra shut him down. “Come on deer, I know you can talk.”
 
 The deer hung its head. A spark flitted up its antler, and letters appeared on the ground in front of Gra.
 
@@ -1462,9 +1472,9 @@ Astalir shook his head no.
 
 “Well, then I’m afraid I don’t quite understand.”
 
-Sui returned with the yinglet.
+Sui returned with the yinglet, standing him in front of Gra.
 
-Gra untied him. “Who are you?”
+Gra turned him around and untied him. “Who are you?”
 
 “This one is called Gale, Gale Wind, of the desert.” The yinglet spoke with a timid voice.
 
@@ -1486,7 +1496,7 @@ Gale sat next to Gra.
 
 Astalir turns into the yinglet.
 
-“What’s that?”
+“What’s that one?”
 
 “Don’t worry about him.” Gra pets Astalir on the head through his disguise. Astalir turns back into a deer.
 
@@ -1510,13 +1520,13 @@ Astalir looked dismayed. His brows furrowed and his ears pinned back. He kicked 
 
 A card floated off the top of the deck and to Astalir. He looked at it. He didn’t feel any different, and nothing seemed to change.
 
-“What that do? This one not see.”
+“What that one do? This one not see.”
 
 “I don’t know, but do you want to draw a card?” Sui held the deck out to Gale.
 
-Gale drew a card. His pupils dilated to fill his whole eye socket. He got down on the ground and wagged his kangaroo-like yinglet tail. His ears flopped. “Bark! Bark!” He put his forepaws on Gra’s lap and panted.
+“This one will give it a try.” Gale drew a card. His pupils dilated to fill his whole eye socket. He got down on the ground and wagged his kangaroo-like yinglet tail. His ears flopped. “Bark! Bark!” He put his forepaws on Gra’s lap and panted.
 
-Gra let out a big laugh. He ruffled Gale’s head a little.
+Gra let out a big laugh. He ruffled Gale’s head a little. “Who’s a good doggy? Who’s a good doggy!”
 
 “He got the dog card! He’s acting like a dog!” Sui pointed.
 
@@ -1532,19 +1542,17 @@ A minute or two later, Gale’s eyes go back to normal. He looks down at the sti
 
 “Blasted cards!” Gale pushed the deck away. “This one will not be doing that again!”
 
-“Shit man, that was probably the hardest I’ve laughed in years! Here, for your troubles.” Gra reached into his bag with his single free hand and pulled out four gold pieces, handing it Gale.
+“Shit man, that was probably the hardest I’ve laughed in years! Here, for your troubles.” Gra reached into his bag with his single free hand and pulled out four gold pieces, handing it to Gale.
 
 “This one did not enjoy this, but is glad you enjoyed it.”
 
 Gra gave him a hearty slap on the back.
 
-“I’m barbarian who grew up in this wilderness. Trust me when I say, I know.”
-
 Astalir’s antler sparked. His pupils grew to fill his eye, his ears flopped to the side of his head, and his tail wagged enthusiastically. “Bark! Bark!”
 
-“You too, AStalir?” Gra turned to Sui. “They both got the same card?”
+“You too, Astalir?” Gra turned to Sui. “They both got the same card?”
 
-“Ha! That one’s a dog minded!” Gale pointed and laughed.
+“Ha! That one’s dog-minded!” Gale pointed and laughed.
 
 “No…” Sui examined the deck. “There’s only one card of each type.”
 
@@ -1560,7 +1568,7 @@ After an hour or so, Gale fell asleep. While Gra and Sui talked, Astalir pulled 
 
 Gra laid down next to the campfire, and Sui did too. Gra held onto Astalir, not letting him get away.
 
-“So what’s your plan for this cave?”
+“So what’s your plan for this cave?” Sui asked.
 
 “Well it’s going to be our new base of operations.”
 
@@ -1598,11 +1606,11 @@ An hour or so later, when everyone else was asleep, Gra got up, carrying Astalir
 
 Astalir cocked his head.
 
-“You said that you do is survive. What did you mean by that?”
+“You said that what you do is survive. What did you mean by that?”
 
 Astalir looked away. He hung his head in sorrow. Then, a single spark made its way from the base of his antlers all the way to the furthest most tip.
 
-Illuminated by the moonlight, cave drawings appeared on the cave wall. A god arose, holding its hand closed. A brilliant light radiated from within his hand, and when he opened them, several deers stood there in his palm. The deers descended to earth, running around living their best life. Flowers, bushes, trees sprang up around them, becoming a forest. Then the god became cross, and rained lightning on the deers. Many died, and those that didn’t, fled.
+Illuminated by the moonlight, cave drawings appeared on the cave wall. A god arose, holding its hand closed. A brilliant light radiated from within his hand, and when he opened them, several deers stood there in his palm. The deers descended to earth, running around living their best lives. Flowers, bushes, trees sprang up around them, becoming a forest. Then the god became cross, and rained lightning on the deers. One by one, the deers fell, and the ones that remained fled.
 
 Gra’s countenance fell. Astalir refused to look, but his face was contorted, eyes closed, brows furrowed.
 
@@ -1610,13 +1618,13 @@ The deers that survived ran to a different forest. Humans came, bows at the read
 
 “I see.” Gra nodded. “Gods have done me no favors either.”
 
-A single tear dripped from Astalir’s eye.
+A single tear dropped from Astalir’s eye.
 
 Gra set Astalir on the ground, but held a hand on him. “I see now why you distrust people. But I don’t think your avoidance is justified.”
 
 Astalir cocked his head.
 
-“You’re safe here, with us. If you want to stay. None of us here plan on harming you.”
+“You’re safe here, with us. If you want to stay, that is. None of us here have any plans of harming you.”
 
 Astalir looked defiantly into Gra’s eyes.
 
@@ -1624,7 +1632,7 @@ Astalir looked defiantly into Gra’s eyes.
 
 Astalir lowered his eyebrows.
 
-Gra shrugged. “Ok. I get it. But at least check in once in a while, just so I know you’re alive.”
+Gra shrugged. “Ok. I get it. But at least check in once in a while, just so I know you’re alive?”
 
 Astalir gave a single nod.
 
@@ -1640,7 +1648,7 @@ The deer shook its head, accidentally passing an antler through a wall.
 
 The deer shook its head again. It stomped its front hoof. Below it, a shiny object glimmered in the moonlight.
 
-“What do we have here?” Gra picked it up, receiving a static-shock from it. It was a steel falcata, with the initials “MG” expertly carved into its blade. “Is this for me?”
+“What do we have here?” Gra picked it up, receiving a static-shock from it. It was a steel falcata, with the initials “MG” expertly carved into the blade. “Is this for me?”
 
 The deer nodded, then disappeared.
 
