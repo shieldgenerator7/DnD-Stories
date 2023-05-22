@@ -95,6 +95,18 @@
         "specialty": "Inspiring Leader"
     },
     {
+        "name": "Gale Winds",
+        "nicknames": ["Gale","yinglet"],
+        "portrait": "",
+        "player": "Theguydude97",
+        "race": "Yinglet",
+        "class": "Paladin",
+        "age": 30,
+        "height": "4'0\"",
+        "description": "Paladin of Light, looks like a tiny kangaroo",
+        "specialty": "This one's talent is light"
+    },
+    {
         "name": "template",
         "nicknames": ["temp"],
         "portrait": "image.png",
