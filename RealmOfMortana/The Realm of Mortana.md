@@ -1085,3 +1085,25 @@ Miyu shot him a smile and patted him on the head.
 [insert armstig training “pinkie-ups” montage scene]
 
 [insert johnny training armstig in sleight of hand montage scene]
+
+# Chapter 4
+
+[scene: armstig trying to catch “big fish” selena]
+
+[scene: miyu finding armstig’s cum nest]
+
+[scene: party finding abandoned ship]
+
+[scene: selena sawing off shipwreck mast and putting it in place of the cumnest mast, with Titus’ shipwright ability]
+
+[scene: miyu and johnny finding treasure chest]
+
+[scene: miyu cleaning “new” mast]
+
+[scene: miyu keeping armstig from going in “new” crows nest]
+
+[scene: party arrives at Auramere]
+
+[scene: miyu takes chest to The General]
+
+[scene: Armstig buys an aurastone]
