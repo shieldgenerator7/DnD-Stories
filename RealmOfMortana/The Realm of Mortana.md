@@ -1088,22 +1088,463 @@ Miyu shot him a smile and patted him on the head.
 
 # Chapter 4
 
-[scene: armstig trying to catch “big fish” selena]
+The party sails on the boat for several weeks.
 
-[scene: miyu finding armstig’s cum nest]
+One morning, while Armstig and Johnny were sitting and balancing on the bowsprit for their daily mediation session, a fish swims under them. Armstig catches it out of the corner of his eye. His concentration breaks and he stares down into the water. A human-size fish swims elegantly below, but the water refraction makes it hard to see.
 
-[scene: party finding abandoned ship]
+“Johnny, look!” Armstig hangs off the bowsprit with one arm, pointing with the other. “It’s a big fish!”
 
-[scene: selena sawing off shipwreck mast and putting it in place of the cumnest mast, with Titus’ shipwright ability]
+Johnny opens one eye, looks down, and goes back to meditating. “Focus, Armpit.”
 
-[scene: miyu and johnny finding treasure chest]
+“Ok.” Johnny climbs back up and sits cross-legged on the bowsprit. His attention isn’t fully back yet, though.
 
-[scene: miyu cleaning “new” mast]
+The big fish jumps out of the water, within Armstig’s view.
 
-[scene: miyu keeping armstig from going in “new” crows nest]
+“Big fish! Big fish!” Armstig points. “AWWWWOOOOOO!”
 
-[scene: party arrives at Auramere]
+“Armpit! Ignore it.”
 
-[scene: miyu takes chest to The General]
+“Ok, ok.”
 
-[scene: Armstig buys an aurastone]
+But he couldn’t. The big fish got closer. Armstig watched but didn’t say anything. Then it touched the boat.
+
+“Big fish! It’s here!”
+
+The “big fish” reached a hand onto the boat, bringing its head out of the water. It looked forward, relaxing in the waves.
+
+“Johnny! Look! The big fish is right there!”
+
+Johnny peeked down. His ears perked. *Danger*.
+
+Armstig’s got wide in the eyes. He looked down to see a very cross Selena staring back up at him.
+
+“What did you call me, Namaste?”
+
+Armstig peeked from behind the bowsprit. “Big fish… lady.”
+
+Selena flew into a rage. She dove into the water, and then jumped with great speed up and onto the deck. “I’m going to beat your ass, Namaste!”
+
+“Namaste over there!” Armstig hid below the bowsprit on the front of the bow.
+
+“What did you say?”
+
+“Uh, namaste. Over there is some dried oranges, if you want some.”
+
+Selena calmed down, and shrugged. “Nah, I don’t eat Vitamin C.”
+
+“Wait, you don’t?” Armstig put his whole head up. “Then how do you prevent scurvy?”
+
+“I’m immune to diseases.”
+
+“Is that because you’re a fish person?”
+
+“No, namaste! It’s because I’m a paladin.”
+
+“Oh…” Armstig looked past Selena. Miyu was climbing the mast. Armstig hopped out of his hiding spot, past Selena, and climbed after Miyu. “Miyu, what are you doing?”
+
+“Investigating that smell.”
+
+“W-what smell?” Armstig looked nervous.
+
+“That smell that’s been hanging around the ship. I thought it was the bathroom, but I just cleaned it and it still smells.”
+
+“What makes you think it’s up there?”
+
+Miyu shrugs. “I’ve checked everywhere else.”
+
+“Uh…” Armstig climbed up and grabbed one of Miyu’s legs. “Please don’t go up there.”
+
+“Why not?” Miyu shakes his hand off.
+
+“It’s… it’s embarrassing.”
+
+“Embarrassing? I gotta see this.” Selena starts climbing the mast too.
+
+“No Selena get down!” Armstig pushes her down with his foot.
+
+“You sure you want to do that?” Selena pushes her face into his foot.
+
+He retracts it. “Please? Please get down?”
+
+“That’s better.” Selena nods. “But no.” She climbs up.
+
+“What is all this?” Miyu says from the crows nest.
+
+“Please don’t look, please don’t look…” Armstig climbs up to the crows nest, ears back, tail between his legs.
+
+At the top, Miyu glared at him.
+
+“Wow, look at this seagull poop! Funny how they all target the crow’s nest, huh?”
+
+Miyu was not amused. “Armstig…?”
+
+Selena popped up. “Wow! What happened here?”
+
+Armstig winced. “Miyu! Why did you put webs all over up here?”
+
+Miyu sighed. “I’m not mad, Armstig, I’m just disappointed.”
+
+“Yeah, Namaste, that was low.”
+
+Armstig hid his face behind the railing.
+
+“Now, Armstig. Tell me what this is.”
+
+“Well… it’s private.” His ears folded back, he looked to the side. “And embarrassing.”
+
+Selena stuck her finger in a fresh pile. “It tastes… fruity. Wait… is this jizz?”
+
+“No?” Armstig lied.
+
+“Ew!” Selena flicked her wrist to get the jizz off her hand. “It is!”
+
+“Armstig.” Miyu shook her head.
+
+“Ew! Gross!” Selena jumped off and dove into the ocean.
+
+“And what is this?” Miyu gestured to the bucket in the corner. Inside was a puke-green sludge with brown chunks and yellow streaks. “Is this your waste?”
+
+“I was going to dump that after meditating today.”
+
+“How long has it been here?”
+
+“Not long… just a few days.”
+
+“Armstig. You know we have a toilet, right?”
+
+“We do?”
+
+“Yeah, let me show you.”
+
+Miyu takes Armstig to the bathroom.
+
+“Oh, I thought that was Johnny’s room.”
+
+“Why?”
+
+“Because I followed him here once and he said don’t come, and then he locked the door.”
+
+“Ok, well now you know. And now you have to clean that mess.” Miyu hands him a (clean) bucket and a mop.
+
+A week goes by, and Armstig still hasn’t finished cleaning the crow’s nest.
+
+“Armstig, what’s the issue?” Miyu climbs up to check on his progress.
+
+“It won’t come off.” He wipes the deck with a rag.
+
+“You have to scrub, and apply pressure. Like this.” Miyu shows him. The dried jizz barely comes off. “Hmm… I see.”
+
+“Shipwreck ahoy!” Johnny yells from the bowsprit. He holds a telescope in his hands. “It’s an unknown vessel.”
+
+“Let’s go!” Selena dives overboard and swims to the shipwreck.
+
+“I’ll be right there.” Miyu calls down from the crow’s nest.
+
+“I’m coming too!” Armstig wags his tail.
+
+“No more cumming for you, not until you clean this mess.”
+
+Armstig whines and gets back to scrubbing.
+
+Miyu climbs down the mast, down the side of the ship, and onto the water. Her spider feet glow blue and she steps lightly on the water.
+
+Johnny splashes into the water and breast strokes away.
+
+Armstig spots the telescope Johnny left behind, and climbs down to grab it before going back up to the crow’s nest. From this height, and through the telescope, he can see the three arrive at the shipwreck.
+
+Miyu, Selena, and Johnny investigate the shipwreck. It was torn in two, both pieces washed onto the beach shore of a tiny island. Johnny finds bodies, but no one he recognizes. No survivors were found.
+
+Selena inspects the mast, consults with Miyu, and then swims back to the ship. She boards it gracefully with a water jump.
+
+“What’s going on?” Armstig calls down to her.
+
+“We’re getting a new mast, Namaste.” Selena goes below deck and comes back out with a saw—the same saw they got from the puzzle cave back on Huudon.
+
+“What’s that for?”
+
+“Get back to cleaning your cum up.” Selena dived and returned to the shipwreck.
+
+The mast on that ship appeared mostly intact, just dirty. Selena got to work sawing it at the base. It didn’t take her long to get the mast falling into the water. She grabbed and dragged it to the ship. It was taking her awhile.
+
+Meanwhile, Miyu had been searching, and found a treasure chest in a crate. Johnny broke it open, taking out his thieves tools. He inserted the pick and got the chest open in a blink of an eye. The inside of the chest was fancy, and a round-looking object rested inside it. Miyu closed the chest and picked it up. She carried it on her back all the way back to the ship, passing Selena with the mast on the way. She crawled aboard up the side of the ship and headed to the lower deck.
+
+“What’s that?”
+
+“Something kind of vase. How’s the cleaning?”
+
+“It’s coming along.”
+
+“It better not be.” Miyu headed below deck.
+
+Johnny climbed a rope dangling over the side of the ship.
+
+“Hey Johnny! What’s with the chest?”
+
+“It was a package being delivered. You wouldn’t have happened to hear of ‘The General’, would you?”
+
+“The General Store?”
+
+“Nevermind.”
+
+“The General?” Slick cut in. He was pulling the anchor up. “Yeah I know of that guy. He’s a wack job.”
+
+“Do you know where to find him?” Miyo returned from the lower deck.
+
+“He lives on the Auramere, the island we’re going to.”
+
+“Hey! A little help!” Selena called from the ocean.
+
+Miyu crawled down and helped Selena carry the mast up.
+
+“What’s going on?” Slick investigated.
+
+“Well, you know about what happened in the crow’s nest?” Miyu asked.
+
+“I wish I didn’t.” Slick cringed.
+
+“Well we’ve decided to replace the mast with this one.”
+
+“I don’t want a rotten mast.”
+
+“No, this one hasn’t been rotting very long.” Johnny reassured. “The shipwreck was relatively recent.”
+
+“So if we do this,” Slick said, “we won’t have to think about the ‘cum’s nest’ anymore?”
+
+“That’s the idea.” Miyu brought the new mast ashore.
+
+Slick sighed. “Ok.”
+
+Selena sawed the old mast off.
+
+“Heeeeeeeeey!” Armstig fell off with the mast, splashing in the water. He climbed around using the swimming rope. “Warn me next time!”
+
+“You didn’t hear me sawing?”
+
+“I thought it was the sound of me scrubbing real hard.”
+
+Selena face palmed.
+
+Miyu retrieved Titus from the lower deck, sobering him up on the way out. Titus instructed the crew on how to put the new mast on, and was instrumental in attaching the new mast. He even got the old sails into their new place on the new mast.
+
+When it was finished, Armstig looked on in approval. “What’s this crow’s nest like?” He climbed up.
+
+But Miyu grabbed him by the foot. “No, Armstig, down.”
+
+Armstig slid down the pole. “Whaaat?”
+
+“You’re forbidden from going up there.”
+
+“I am? Why?”
+
+“Why do you think, Namaste? Because you’re gross!”
+
+“We don’t want you making a mess up there.” Miyu put a hand on his shoulder. “So until we can trust you with that, you’re not allowed up there.”
+
+Armstig looked down.
+
+“That was your mess up there?” Titus punched his arm. “You got guts! I wouldn’t be brave enough to leave it lying around like that.”
+
+“Does everyone know?” Armstig threw his arms up.
+
+“Heh, small ship.” Selena took a bite of a fish she caught. “Kindem ‘ard not too.”
+
+Miyu and Selena clean the mast over the next week, getting all the moss and sand off it. They swap stories and have an overall good time bonding while performing this task.
+
+“Psst.” Johnny talks to Armstig quietly while they meditate on the bowsprit.
+
+“Yeah?” Armstig scooches in closer.
+
+“You want to get in that crow’s nest?”
+
+“Yeah, but Miyu says I can’t.”
+
+“Well, I say you can.”
+
+“Thanks, but I can’t get past Miyu. She catches me everytime I try.”
+
+“Well then you have to be stealthy.”
+
+Armstig’s face scrunches up. “But being stinky is why Miyu is mad at me.”
+
+“No, *stealthy*. As in sneaking around without making any noise.”
+
+“What’s wrong with making noise?”
+
+“Well, if you want to sneak, everything.”
+
+“Ooh.”
+
+“I can teach you how to be stealthy. Training begins at dusk.”
+
+“Wait, helping me get around boat rules? That doesn’t sound like you.”
+
+“A ship needs its lookout, and for this ship, on this voyage, that’s you. We need you up in that crow’s nest.”
+
+“But aren’t you worried that I’ll make a mess again?”
+
+“Well, now that you know where the bathroom is, I could care less about your cum nest.”
+
+“Really?”
+
+“Trust me, being on a marine ship, I’ve seen much worse.”
+
+“Ok, thanks!” Armstig explained.
+
+“Shhh! Armpit, you gotta stay *quiet*.”
+
+“Right right right.”
+
+“Fall’s eye brings great wheat.”
+
+“What?”
+
+“I mean, training begins tonight.”
+
+That night, the two worgens snuck out of their bunks to get on the top deck. Johnny led Armstig in practicing walking across the deck without making any noise. He was really bad at it, but Johnny was able to move across without making any noise.
+
+Armstig looked around. It was dark, and the night was cool. “Time to go up!”
+
+“Shh!”
+
+“Right right.”
+
+Armstig got two arms and a leg onto the mast, when he something held him down.
+
+“Armstig, no.” Miyu grabbed him.
+
+“Miyu! Where’d you come from?” Armstig froze.
+
+“Down, Armstig, down.”
+
+Armstig jumped off the pole and sat on the ground, looking up at Miyo.
+
+“Good boy.” She pat him on the head. “Stay off the mast, ok?” She went back below deck.
+
+Johnny shrugged. “We’ll try tomorrow. You’ll get the hang of it.”
+
+The two worgens went back below deck.
+
+Armstig laid down in his bunk. After a while, his bunk began to shake. “AWOOOO! AWOOOOO!”
+
+“Namaste! Knock it off!” Selena kicked his bunk.
+
+“Armstig, please be quiet.”
+
+“This is why I did it in the crow’s nest!”
+
+“That doesn’t make it better!” Selena slapped her pillow onto her face.
+
+===================================================
+
+A week later, the party arrives in Auramere.
+
+Miyu sets Gary on her back and carries the treasure chest in her arms. Johnny and Armstig follow her. The people of the town stare at Miyu’s spider body.
+
+Miyu asks a shop keeper on the side of the road, “Hello, do you know where The General might be?”
+
+The shopkeeper points, giving her a weird stare. “In that general direction.”
+
+“Thank you.”
+
+Miyu asks another shopkeeper, and they tell her to look for the house that’s made out of an old sailing ship. She thanks them and continues on.
+
+Armstig follows until something catches his eye. “Ooh! What are these?”
+
+“Good morning, my fellow worgen.” The human shopkeeper greets. “Can I interest you in an aurastone?”
+
+“No, because I already am.” Armstig picked up a stone. It was white like marble, but shown brilliantly. Armstig put it up near his eye, and then suffered afterimages for a few seconds.
+
+“These are aurastones, the town’s namesake. Have you heard of them?”
+
+“No, but they’re pretty.” Armstig picked up one that was attached to a silver necklace.
+
+“These stones were mined from the Aura Mountains just north of here. These stones were hand-sanded by a master gemsmith.”
+
+“Who?”
+
+“Why, me, of course!” The shopkeeper boasted.
+
+“Wow, you made these? This is some fine craftsmanship.”
+
+“Why thank you. And they look mighty fine on you, if I may say.”
+
+“Thanks! I really like this one.”
+
+“That’ll be 15gp, please.”
+
+“Here you go.” Armstig absentmindedly plops his bag of gold onto the shopkeeper’s counter, staring at the aurastone. “Take what I owe.”
+
+The shopkeeper counted 15 gold pieces from the bag. “Thank you for your business.”
+
+“Thanks for this gem.” Armstig took the bag back and walked through the shop streets. He bought some fresh fruit and some meat. He came across a stand that sold books.
+
+“Hello, would you be interested in buying a book?”
+
+“Nah.” Armstig shrugged at her.
+
+“What about a book with *pictures*?”
+
+“Books don’t have pictures.”
+
+“This one does.” The shopkeeper opened a book, revealing black and white squares with depictions of people in them.
+
+“What!” Armstig’s mind was blown. He took the book and flipped through its pages. “Specifically Specific Series. Interesting. What else do you have?”
+
+“Well, as that is my brand, that’s all I have. But within the series, I have lots of titles. Take a look.”
+
+Armstig glanced at some of the titles:  
+*So You’ve Been Transformed into a Bear by a Magic Drumset? A Guide*  
+*Help! I’ve Fallen in a Magic Pit and Can’t Get Up! A Tale of Revenge  
+My Girlfriend is a Horny Cat but I’m Incapable of Love: A Tragedy  
+A Disturbed Girl Grabbed My Glowing Hair and Won’t Let Go 2: Into the Nightmare*
+
+One title in particular stood out to Armstig:  
+*I Jizzed in Your Crow’s Nest: A Love Story*
+
+“Ooh! Oh. Aaaaah…” Armstig hesitated at grabbing it.
+
+The shopkeeper smirked. “I see one resonates with you.”
+
+“Are you… are you spying on me?”
+
+“I get asked that a lot.” The shopkeeper chuckled. “The book is 15 silver.” She handed it to Armstig, who tossed her a gold piece. “Thanks for the tip. Don’t worry, your secret is safe with me.” She winked, handing him a brown paper cover.
+
+“Thanks.” Armstig installed the cover on the book, masking what he was reading. He wandered around the streets, engrossed by the pictures and the words in the book. The pictures were graphic, *very* graphic, to the point that Armstig grew a bulge under his shorts. He bumped into someone just then. “Oh, sorry!”
+
+“Are you ok?” It was someone else who was also reading and walking at the same time. Someone with furry spider legs and abdomen.
+
+“Miyu! Oh, I didn’t see you there!” Armstig held his book low, covering his bulge.
+
+“There you are, Armstig. Find anything good?” She lowered her book, which seemed to be about flora on the island.
+
+“Yeah, I found this gem piece.” He raised a hand to lift the aurastone off his chest.
+
+“Very pretty.” Miyu smiled.
+
+Then the book cover slipped off the side of the book that Armstig wasn’t holding, letting the title show.
+
+“I jazzed in your crow’s nest, a love story?” Miyu blushed.
+
+“What? No…” Armstig put the cover back on and hid it behind his back, revealing his bulge. “This is just… uh… something I found on the… ground.” Ears pulled back, he pulled his tail up between his legs to cover his groin.
+
+Miyu laid a hand on his shoulder. “As long as there’s no mess, it’s none of my business, Armstig. Where did you get that aurastone? I need to get this appraised.” She pulled out a giant aurastone ten times the size of Armstig’s.
+
+His eyes went wide. “That’s so pretty!”
+
+“Thank you. I got it from The General. He really appreciated us returning the vase to him.”
+
+“Oh yeah, the return… sorry. I got sidetracked.”
+
+Miyu shrugged. “You didn’t need to go, you’re fine. Where to?”
+
+“Oh yes. This way.” Armstig led her through the streets. “Where’s Johnny?”
+
+“He’s either still back at The General’s house talking about swords and battles, or he’s getting ready for our trip to the Withering Woods.”
+
+“Withering Woods?”
+
+“Yeah, it’s an island near here. There’s remains of a dead civilization there. We’re going to search for artifacts for our dear friend The General.”
+
+“Withering Woods? Sounds gloomy.” Armstig slapped away Gary tentacles that tried to grab his aurastone.
+
+“Dying plants, decaying bodies, undead, and the unsettled. It’ll be dangerous for sure. Make sure you’re prepared.”
