@@ -82,7 +82,7 @@ Miyu’s pet “plant”. She brought him aboard the boat on their sea journey a
 
 He sits in a potted plant with outstretching purple tentacles. In the center, he has a yellow parrot-like beak.
 
-# Chapter 1
+# Chapter 1 – The Errand
 
 “Hurry up!” A Worgen with bluish-black fur ran on all fours through the plain towards town. “We’re going to be late!”
 
@@ -646,7 +646,7 @@ The worgens go to a tavern and sleep in the attic.
 
 “It sure was.” Johnny replies. “I’m looking forward to it.”
 
-# Chapter 2
+# Chapter 2 – The Boat Dock
 
 The morning air wafted in the dusty tavern attic, tingling the nose of a certain worgen.
 
@@ -850,7 +850,7 @@ Johnny, Armstig, and Roth went to see the elder gnome at town hall. The elder gn
 
 The party had sailed for 7 weeks when they found a shipwrecked boat.
 
-# Chapter 3
+# Chapter 3 – The Ghost Pirate Ship
 
 [insert worgen brushing scene]
 
@@ -1086,7 +1086,7 @@ Miyu shot him a smile and patted him on the head.
 
 [insert johnny training armstig in sleight of hand montage scene]
 
-# Chapter 4
+# Chapter 4 – The Cum’s Nest
 
 The party sails on the boat for several weeks.
 
