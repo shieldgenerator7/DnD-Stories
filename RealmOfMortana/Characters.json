@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Armstig Gorsum",
+        "nicknames": [
+            "Armstig",
+            "Armpit"
+        ],
+        "player": "shieldgenerator7",
+        "class": "Monk, Way of the Open Hand",
+        "race": "Worgen",
+        "description": "6’0”. White fur, yellow eyes, wears shorts. Perky wolf ears, likes to wag his tail."
+    },
+    {
+        "name": "Johnny Horshot",
+        "nicknames": [
+            "Johnny"
+        ],
+        "player": "Centaurus",
+        "class": "Swashbuckler Rogue",
+        "race": "Worgen",
+        "description": "6’4”. Bluish black fur, lawful good. Ex-Marine."
+    },
+    {
+        "name": "Miyu Juinkama",
+        "nicknames": [
+            "Miyu",
+            "spider"
+        ],
+        "player": "Valgard",
+        "class": "Cleric",
+        "race": "Spider Lady",
+        "description": "7’4” spider centaur lady. Owns a flower shop on the island. Long black hair, pig tails. Glasses, two red eyes, red clothes"
+    },
+    {
+        "name": "Roth Harkaj",
+        "nicknames": [
+            "Roth",
+            "kobold"
+        ],
+        "player": "Trent Soul",
+        "class": "Barbarian",
+        "race": "Kobold",
+        "description": "Small kobold, 50 lbs"
+    },
+    {
+        "name": "Selena Barus",
+        "nicknames": [
+            "Selena",
+            "fish"
+        ],
+        "player": "ToraLofeGod",
+        "class": "Paladin",
+        "race": "Fish Lady",
+        "description": "6’2” Buff fish lady, piercing, tattoo on anchor on right eye, scantily clad. Beat Armstig at arm wrestling"
+    },
+    {
+        "name": "Titus",
+        "nicknames": [
+            "drunk"
+        ],
+        "player": "Azuledon",
+        "class": "Fighter",
+        "race": "KoboHumanld",
+        "description": "5’9” Red hair anime character. Likes to get drunk and start bar fights"
+    },
+    {
+        "name": "Slick",
+        "nicknames": [
+            "frog"
+        ],
+        "player": "NPC",
+        "class": "Ship Captain",
+        "race": "Frog person",
+        "description": "Small frog person, about same height as Roth. Owns the The Soggy Toad, a dingy boat vessel. He’s also the captain. Prefers to avoid participating in combat and food fights."
+    },
+    {
+        "name": "Garry",
+        "nicknames": [
+            "plant"
+        ],
+        "player": "NPC",
+        "class": "Plant Friend",
+        "race": "Tentacle Plant?",
+        "description": "Miyu’s pet “plant”. She brought him aboard the boat on their sea journey and now he’s an honorary crew member. He sits in a potted plant with outstretching purple tentacles. In the center, he has a yellow parrot-like beak."
+    }
+]
