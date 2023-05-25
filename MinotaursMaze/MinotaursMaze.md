@@ -1660,25 +1660,18 @@ Over the next week, Gra started several projects in the kobold cave: food supply
 
 One night Gra was out hunting. He shot an arrow into a deer’s back and then chased it. It ran all the way to the stream before he managed to grapple it. He pushed it down into the stream and held its shoulder to the flat rocks below. Blood trickled out of the deer’s arrow wound into the water. With his free hand, he headlocked the deer’s neck, despite its protests. Two well-placed fingers held the deer’s eye open and stationary. Gra stared into them.
 
-[scene: astalir sneaking in as sui and investigating last room]
 “Hmm… you don’t look magical to me.”
 
-[scene: gra calling for astalir, astalir giving gra map]
 He then carried the deer out of the water and laid it on dry land, where he stepped on its shoulder to get a clean slice to the head. The deer’s cries of pain instantly stopped. He picked up the deer carcass and walked back with it.
 
-[scene: gra sui gale in rain and dark, crossing river, ambushed by bears]
 Along the way back to the cave, he ran into Sui. “Everything ok?”
 
-[scene: astalir freeze bears, attacked by bears, freeze in river]
 Sui grumbled. “The kobolds peed in the river again. I’m going to go get sanitary drinking water.”
 
-[scene: party takes on bears]
 Gra sighed. “We’re going to have to teach them better hygiene.”
 
-[scene: fake gra comes out and saves them]
 “I’m trying, but they don’t listen to me.”
 
-[scene: gra rescues astalir]
 “I know. But hey, I got something special today. Some fresh venison and some spices I got from town.”
 
 “That sounds delicious.”
@@ -1865,6 +1858,19 @@ The bag of berries dislodged itself from Gra’s grasp and gravitated toward Ast
 
 “Goodnight!”
 
+[scene 2: astalir sneaking in as sui and investigating last room]
+
+[scene 3: gra calling for astalir, astalir giving gra map]
+
+[scene 4: gra sui gale in rain and dark, crossing river, ambushed by bears]
+
+[scene 5: astalir freeze bears, attacked by bears, freeze in river]
+
+[scene 6: party takes on bears]
+
+[scene 7: fake gra comes out and saves them]
+
+[scene 8: gra rescues astalir]
 
 # Chapter 7 – The Cat’s Coat
 
