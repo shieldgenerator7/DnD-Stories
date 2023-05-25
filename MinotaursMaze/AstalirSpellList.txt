@@ -10,7 +10,10 @@ Minotaur's Maze
 
 Reality Bender
 Astalir Feat
-As a bonus action, you may name an Illusion or Transmutation spell and make a DC15 Intelligence saving throw at disadvantage. On a successful save, you cast the spell without expending any spell slots. On a failed save, you don't cast the spell and cannot spend an action to cast it until your next turn. The spell must be one that you know and can cast, and it must have a cast time of 1 action.
+You gain the following effects:
+-You may cast Illusion and Transmutation spells without expending a spell slot.
+-On your turn, you may cast an Illusion or Transmutation spell as a bonus action.
+-If you become unconscious, all effects from your Illusion and Transmutation spells end immediately.
 
 
 
