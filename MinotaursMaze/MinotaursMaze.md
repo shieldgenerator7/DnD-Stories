@@ -1858,8 +1858,6 @@ The bag of berries dislodged itself from Gra’s grasp and gravitated toward Ast
 
 “Goodnight!”
 
-[scene 2: astalir sneaking in as sui and investigating last room]
-
 [scene 3: gra calling for astalir, astalir giving gra map]
 
 [scene 4: gra sui gale in rain and dark, crossing river, ambushed by bears]
