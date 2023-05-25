@@ -1656,23 +1656,215 @@ The deer nodded, then disappeared.
 
 # Chapter 6 – The Aarakocra Map
 
-In the passing weeks, Gra orchestrated several projects in the kobold cave: food supply, entrance maintenance, and education. He hunted deer (non-magical), rabbits, and fish to feed the kobolds. He organized a project to restore the main entrance. He taught the kobolds about how to live among humans without causing problems. Sui helped oversee all these projects.
+Over the next week, Gra started several projects in the kobold cave: food supply, entrance maintenance, and education. He hunted deer (non-magical), rabbits, and fish to feed the kobolds. He organized a project to restore the main entrance. He taught the kobolds about how to live among humans without causing problems. Sui helped oversee all these projects.
 
-One night Gra was coming back from hunting
+One night Gra was out hunting. He shot an arrow into a deer’s back and then chased it. It ran all the way to the stream before he managed to grapple it. He pushed it down into the stream and held its shoulder to the flat rocks below. Blood trickled out of the deer’s arrow wound into the water. With his free hand, he headlocked the deer’s neck, despite its protests. Two well-placed fingers held the deer’s eye open and stationary. Gra stared into them.
 
 [scene: astalir sneaking in as sui and investigating last room]
+“Hmm… you don’t look magical to me.”
 
 [scene: gra calling for astalir, astalir giving gra map]
+He then carried the deer out of the water and laid it on dry land, where he stepped on its shoulder to get a clean slice to the head. The deer’s cries of pain instantly stopped. He picked up the deer carcass and walked back with it.
 
 [scene: gra sui gale in rain and dark, crossing river, ambushed by bears]
+Along the way back to the cave, he ran into Sui. “Everything ok?”
 
 [scene: astalir freeze bears, attacked by bears, freeze in river]
+Sui grumbled. “The kobolds peed in the river again. I’m going to go get sanitary drinking water.”
 
 [scene: party takes on bears]
+Gra sighed. “We’re going to have to teach them better hygiene.”
 
 [scene: fake gra comes out and saves them]
+“I’m trying, but they don’t listen to me.”
 
 [scene: gra rescues astalir]
+“I know. But hey, I got something special today. Some fresh venison and some spices I got from town.”
+
+“That sounds delicious.”
+
+“Yeah I’m going to put it in the pot when I get back to the cave.”
+
+“Just please, don’t use the water from the cave river.”
+
+“Oh right. Would you mind fetching us some clean water?”
+
+“For some venison stew? Alright.” Sui walked off to the stream.
+
+As Gra walked back to the cave, he looked up at the moon lighting the night sky, the same moon that Astalir used to illuminate his cave drawings. Where was he now? Hopefully, wherever he was, he was doing alright.
+
+Gra got close to the cave, and found something peculiar: Sui walking into the cave. “Huh? How did he get back faster than me? Hey Sui!” He yelled, but he was apparently too far from the entrance for Sui to hear.
+
+Sui disappeared into the cave. He didn’t seem to be holding any water containers or anything.
+
+“Have I been staring at the moon for too long?” Gra walked briskly into the cave, passing the side path, and going straight for the metal door he “installed” the first time he entered. He knocked.
+
+“What’s the password?”
+
+“Gra is boss.”
+
+“Oh! It’s you boss!” The smooth metal door opened. Behind it stood a small kobold, standing at command.
+
+“At ease.” Gra walked through. “Tell me, when you opened the door for Sui, did he have water on him?”
+
+“No, boss.” The kobold closed the door. “Sui walked in silently from the side entrance.”
+
+“Ok, I’ll have a word with him. Thank you.”
+
+“You got it, boss.”
+
+Gra carried the deer carcass to the campfire. As he set it down, the kobolds squealed in joy, tugging and tearing at it. Gra shooed them away. “This is for dinner tonight. No touching until the stew’s done.”
+
+The kobolds all pulled their hands back.
+
+“Sylla?”
+
+“Yes, …boss?” Sylla sat on a bench.
+
+“Keep them in line while I go talk to Sui.”
+
+Sylla nodded. “You heard him! Claws off!”
+
+“Did you see where Sui went?”
+
+“He went that way.”
+
+“Thank you, Sylla.”
+
+Gra walked down the north tunnel that led to three different side rooms, the last one being the treasure room. When he heard the sound of coins clinging wildly, he stopped and moved along stealthily. He climbed the barrier to the treasure room and found something odd.
+
+Sui was standing by himself in the treasure room, looking around as coins flew all around him. Coins popped off the ground and into the air, darting left and right, filling the air with a crazy amount of projectiles. Sui stood calm and still in the center, watching as if it was normal.
+
+“Sui?” Gra entered the room.
+
+Sui turned to Gra, a look of panic on his face.
+
+Gra stopped moving. He cocked his head, squinting at Sui. As Sui froze, it became clear: Sui faded into a ghost, and underneath him was a walking deer. “Astalir?”
+
+Astalir dropped the disguise and reared up on his hind legs, swinging his hooves wildly.
+
+“Hey, hey.” Gra waved his arms down. “I just want to talk. I’m not going to grapple you. See?” Gra put his hands behind his back and leaned up against a wall.
+
+Astalir flicked an ear and looked at Gra from the side.
+
+“First of all, it’s good to see you. How’ve you been?”
+
+Astalir made munching motions with his mouth.
+
+“Hungry? How about these?” Gra pulled out some berries and presented them in his palm.
+
+Astalir raised an eyebrow. The berries floated up to him, and one by one he inspected them. Then they floated into random positions around him, and he picked them out of the air with his tongue. As he swallowed, he smiled. His tail wagged.
+
+“Ah, you like those.” Gra’s belt started moving on its own. A bag untied itself from his belt and was floating away. Gra reached out and grabbed it. “Uh-uh. If you want more you have to answer some questions first.”
+
+Astalir huffed, but then waved his nose, looking directly at Gra.
+
+“What are you doing here?”
+
+A flicker of an antler, and a word on the ground.
+
+SEARCHING
+
+“For…?”
+
+INFORMATION
+
+“In the treasure room?”
+
+BERRIES
+
+Astalir got closer, letting his sniffing nose lead the way.
+
+“Not yet.” Gra held the bag close. “What are you doing making a mess in our treasure room?”
+
+Astalir rolled his face dramatically.
+
+SECRETS
+
+“You won’t tell me?”
+
+SECRETS!!
+
+“Oh… you’re *looking* for secrets!”
+
+Astalir nodded.
+
+“Well, I’ve been here for a week, and I haven’t found any secrets yet. So I think you can stop searching.”
+
+OBLIVIOUS
+
+Gra laughed. “Ok, if you think you can do better, have at it.”
+
+Astalir nodded. The room flew into a frenzy again, coins flying everywhere.
+
+Gra held up an arm to block coins from flying into his face.
+
+Finally, after several minutes, the coins settled.
+
+“So?”
+
+EMPTY
+
+“See? Are you ready to come out now?”
+
+Astalir’s antler sparked as he got on two legs, transforming back into Sui.
+
+“I’m going to choose to not see through that this time.” Gra commented to himself. “Ok, Sui, you ready to go?”
+
+“Sui” nodded.
+
+Gra led Sui to a side room, where he told him to wait. He walked into the main hub room.
+
+“Do you think the dragonborn has firebreath?” A kobold asked as he stirred the pot.
+
+“If he did, it’s awfully strange that he never volunteers to light the campfire.”
+
+“Well, maybe he’s got other dragon gifts. Like magic?”
+
+“If you call raising your voice magic, then yeah.”
+
+“I haven’t seen him cast magic, but I believe.”
+
+“I doubt he does. But why do you believe?”
+
+“One day, before we become dragons, we’ll become dragonborns. And when we do, we’ll have some semblance of the power of our elder brethren.”
+
+Another kobold sighed in happiness. “That’ll be the day.”
+
+Gra entered the room. “Have you seen Sui?”
+
+Sylla pointed. “He’s in the fishing room cleaning the pot.”
+
+“Thanks.” Gra peeked in and checked real quick. Sui was indeed in there cleaning the pot. Gra motioned to other Sui to come out.
+
+The kobolds stared as they watched the dragonborn come from the north tunnel and go into the entrance tunnel, scowling at Gra when he passed the deer carcass. They cocked their heads so they could watch him leave through the metal door. Then they all scurried into the fishing room, where they found Sui still cleaning the pot.
+
+“But… he was leaving… how did he get over there?”
+
+“He *is* magic! He *is* magic! Dragonborns are higher beings!” The kobolds ran around cheering and hugging each other.
+
+Even Sylla smiled. “I guess there is hope afterall.”
+
+Outside the cave, Gra and Sui walked into the moonlit field. The gently breeze blowed cool night air across their hair.
+
+“Thanks for stopping by, Astalir. I hope to see you again soon.”
+
+Sui transformed back into Astalir. “Bleat.”
+
+“It’s your voice! It’s good to hear your voice!”
+
+“BLEAT!” Astalir wagged his tail.
+
+Gra smiled and laughed. He loosened his grip on the bag.
+
+The bag of berries dislodged itself from Gra’s grasp and gravitated toward Astalir. “Bleat!” He smiled.
+
+“You’re welcome. Enjoy!”
+
+“Bleeeat!” Astalir ran off, pocketing the berry bag.
+
+“Goodnight!”
+
 
 # Chapter 7 – The Cat’s Coat
 
