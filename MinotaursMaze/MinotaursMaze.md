@@ -1673,3 +1673,53 @@ One night Gra was coming back from hunting
 [scene: fake gra comes out and saves them]
 
 [scene: gra rescues astalir]
+
+# Chapter 7 – The Cat’s Coat
+
+[scene: drath talks to don]
+
+[scene: party has breakfast]
+
+[scene: drath walks in, orders blueberry pancakes]
+
+[scene: arakroca walks in, drath translates, arkrca gives mission to deliver letter]
+
+[scene: gra distributes gold, party and drath introduce]
+
+[scene: party runs into don]
+
+[scene: fake gra hallucinates, craves bagels]
+
+[scene: drath asks gra for gold, gra suspects drath, gra gives gold]
+
+[scene: drath asks fake gra for gold, gives fake gra “bagel”, gra helps]
+
+[scene: gale “tf’s” into tiger, party pets him, fake gra pets “dog” drath]
+
+[scene: gale gives drath 50gp]
+
+[scene: drath buys bubble coat]
+
+[don offers to rent cart for fast travel, gra refuses]
+
+[scene: gra draws -2 AC card, runs into robin hood]
+
+[scene: drath gives robin hood 250 “gold”, party runs]
+
+[scene: lizard shopkeeper feeds party venison]
+
+[scene: drath holding back puking, falls in pit, gra saves drath, questions drath]
+
+[scene: party makes campfire]
+
+[scene: fake gra leaves, reesu returns]
+
+[scene: gra reesu drath gaslight gale]
+
+[scene: drath inquires reesu]
+
+[scene: drath pulls gra aside, becomes astalir]
+
+[scene: astalir updates map, gra gives astalir gold]
+
+[scene: astalir finds some place to sleep]
