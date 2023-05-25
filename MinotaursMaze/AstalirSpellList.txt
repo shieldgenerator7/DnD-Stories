@@ -14,6 +14,7 @@ You gain the following effects:
 -You may cast Illusion and Transmutation spells without expending a spell slot.
 -On your turn, you may cast an Illusion or Transmutation spell as a bonus action.
 -If you become unconscious, all effects from your Illusion and Transmutation spells end immediately.
+-A creature that succeeds on an ability check or saving throw against one of your spell effects has advantage on ability checks and saving throws against that spell effect for a week.
 
 
 
