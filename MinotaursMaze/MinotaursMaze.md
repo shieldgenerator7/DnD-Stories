@@ -1653,3 +1653,23 @@ The deer shook its head again. It stomped its front hoof. Below it, a shiny obje
 The deer nodded, then disappeared.
 
 “Thank you, Astalir.” Gra whispered into the night.
+
+# Chapter 6 – The Aarakocra Map
+
+In the passing weeks, Gra orchestrated several projects in the kobold cave: food supply, entrance maintenance, and education. He hunted deer (non-magical), rabbits, and fish to feed the kobolds. He organized a project to restore the main entrance. He taught the kobolds about how to live among humans without causing problems. Sui helped oversee all these projects.
+
+One night Gra was coming back from hunting
+
+[scene: astalir sneaking in as sui and investigating last room]
+
+[scene: gra calling for astalir, astalir giving gra map]
+
+[scene: gra sui gale in rain and dark, crossing river, ambushed by bears]
+
+[scene: astalir freeze bears, attacked by bears, freeze in river]
+
+[scene: party takes on bears]
+
+[scene: fake gra comes out and saves them]
+
+[scene: gra rescues astalir]
