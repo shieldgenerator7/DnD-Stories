@@ -1806,7 +1806,7 @@ Astalir’s antler sparked as he got on two legs, transforming back into Sui.
 
 “Sui” nodded.
 
-Gra led Sui to a side room, where he told him to wait. He walked into the main hub room.
+Gra led Sui to a side room, where he told him to wait. He walked into the main hub room, where some kobolds were preparing dinner.
 
 “Do you think the dragonborn has firebreath?” A kobold asked as he stirred the pot.
 
@@ -1814,7 +1814,7 @@ Gra led Sui to a side room, where he told him to wait. He walked into the main h
 
 “Well, maybe he’s got other dragon gifts. Like magic?”
 
-“If you call raising your voice magic, then yeah.”
+“Yeah but he only knows the spell, ‘Raise Voice’,” a kobold scoffed.
 
 “I haven’t seen him cast magic, but I believe.”
 
@@ -1858,9 +1858,229 @@ The bag of berries dislodged itself from Gra’s grasp and gravitated toward Ast
 
 “Goodnight!”
 
-[scene 3: gra calling for astalir, astalir giving gra map]
+Over the course of the next few weeks, Gra made significant progress on the kobold cave. The main entrance was easily accessible, the side path was blocked off, the kobolds had plenty of food, the kobolds practiced better hygiene, and they were starting to make tradable goods. Gra was quite pleased.
 
-[scene 4: gra sui gale in rain and dark, crossing river, ambushed by bears]
+Every night, Gra stood outside the cave entrance, waiting for a deer call. When Astalir came, Gra gave him some berries. Astalir usually took the berries and ran off, bleating happily away. As the weeks went on, Astalir went from running off with the berries, to eating the berries in front of Gra, to eating them straight out of his hand. His sniffing nose tickled Gra’s hand. And after a while, Astalir even let Gra stroke his head fur while he ate the berries. Every night Gra would feed him berries, and every night Astalir would grow a little closer to him, and then bleat off into the woods.
+
+One night, about 5 weeks after Astalir first snuck into the treasure room, Gra stood outside the cave entrance like usual. But this night, Astalir was a little late.
+
+Gra decided to call for Astalir. “BLeAt!” He gasped. “bLeeEEaaaT.” He didn’t quite get the sound right.
+
+“What’s going on out there?” Sui yelled from inside.
+
+“Just practicing my deer call.” Gra yelled back. “Everything’s ok.”
+
+“Ok, goodnight.”
+
+“BLEEEEEaat!” Gra tried. He failed miserably.
+
+A light chuckle came from the edge of the forest.
+
+“Huh?” Gra investigated. A small tree shook uncontrollably. He poked it.
+
+The tree toppled over onto the ground, chuckling all the way. On the ground, it turned into none other than Gra’s favorite magical deer.
+
+“Astalir!”
+
+“BLEEEaaT! BLeeeeAAAAttt!” Astalir mocked, rolling around on the ground.
+
+Gra chuckled. “It’s good to see you too.”
+
+“Bleat! Bleat!” Astalir stood up on all fours.
+
+Gra patted his head. “How you doing buddy?”
+
+“Bleat! Bleat!” Astalir pointed his nose up, ears perked, tail wagging.
+
+“I got your favorite.” Gra opened the bag of holding, pulling out a pile of blueberries.
+
+Astalir pulled his nose back in shock, furrowing his brow.
+
+“What’s wrong?”
+
+Astalir sniffed into Gra’s bag of holding. He pulled out a chunk of deer carcass.
+
+“Oh. Sorry, I forgot to wrap that. The smell bothers you, doesn’t it?”
+
+Astalir stared at him, side-eying.
+
+“Hmm, you probably don’t like me eating deer meet, huh? I’m sorry, Astalir, but I have to feed my kobolds. But don’t worry, I only eat non-magical deer. And I only hunt for survival.”
+
+Astalir stared for a second, then relaxed his expression. He licked Gra’s hand, and then presented his forehead, shoving the deer carcass back into the bag of holding.
+
+“I’m glad you’re not mad at me.” Gra petted his head.
+
+Astalir ate the berries from Gra’s hand, then licked his hand clean of berry juice. “Bleat.”
+
+“Glad you liked it! What have you been up to lately?”
+
+“Bleat.” A book appeared in front of Astalir, opening itself. Astalir scanned the pages as they flipped past, and then the book closed and disappeared.
+
+“You’ve been reading? About what?”
+
+A winged bird humanoid appeared, flying through the air. When it landed, Astalir pointed a hoof at it.
+
+“Some kind of bird humanoid?”
+
+A map floated out of Astalir’s fur and into Gra’s hands. It was hand drawn in ink on parchment; a painstakingly-drawn, yet incomplete, rendering of the surrounding area and a route to a mountain range. A thin, dotted line led to an X at a point called “Wind’s Crossing”. The X lit up on the page.
+
+Gra nodded. “This is where the bird people are going?”
+
+Astalir shook his head. He pointed a hoof to Gra, and then to himself, and then to a silent image of a mountain.
+
+“Us? *We’re* going there?”
+
+Astalir nodded.
+
+“So you’re asking for my help?”
+
+Astalir nodded.
+
+Gra grunted, squinting at the map. “Astalir, this is a long journey, by the looks of it. We’re still working on the kobold cave. We can’t just leave.”
+
+Astalir stared into his eyes. “Bleat?” He faced down but looked up.
+
+“It’s important, huh?”
+
+“Bleat.” Astalir nodded.
+
+“Ok. I’ll make some arrangements. When do we leave?”
+
+“Bleat-bleat.” Astalir reared up and did a 180. Gra’s hand pulled him forward.
+
+“Now?” Gra stood his ground. “Hold on Astalir, let me go make some preparations.”
+
+“Bleat.” The map floated up to Gra’s face, and a dot labeled “The Fiery Inn” glowed. “Bleeat.”
+
+“Meet you at the tavern?”
+
+“Bleat bleat.” Astalir nodded.
+
+“Ok, I’ll meet you there within the next two hours, ok?”
+
+“Bleat bleat.” Astalir jumped away. “Bleeeeaat!”
+
+“See you soon!” Gra waved.
+
+A drop hit his hand.
+
+“Looks like rain.”
+
+Gra gathered some supplies for the trip, and let the kobolds know that they will be going on a long trip. He put the kobold chieftain in charge, with Sylla as second-in-command. Sui and Gale accompanied him when he left for the tavern.
+
+It was pouring rain and lightning as Gra and Sui trekked through the night.
+
+“Can’t this wait until morning?” Sui complained, running behind Gra.
+
+“No.” Gra ran in front, leading the way.
+
+“Why not?”
+
+“I don’t know.”
+
+“Well I don’t see why we’re going on this mission in the first place.”
+
+A lightning flash revealed a stream coming up ahead.
+
+“Just trust me.” Gra grabbed Gale and jumped clear over the stream, landing in the mud on the other side. He set Gale down gently.
+
+“This one wishes we wait for after storm passed.”
+
+“Me too.” Sui agrees, landing next to Gra.
+
+A lightning flash, a rumbling, and a roar.
+
+Gra puts an arm out, holding the party back. “Wait here.”
+
+Sui readied his bow and arrow, and Gale drew his scimitar. They scanned the environment.
+
+Gra approached a bush. He swiped a hand across it, but nothing was in it. “I swear I heard something.”
+
+*SNAP! ROOOOAARR!*
+
+An owlbear charged out from behind a tree at Sui! It bit into his side with its beak, and slashed at his shoulder with its claws, leaving a deep gash. It stepped forward, pushing Sui to the ground. It raised a claw to hit him again.
+
+Gra bumrushed the owlbear, knocking it off balance, and off Sui. He pulled his battleaxe off his back and slashed its side.
+
+The owlbear roared in pain.
+
+Gale laid his hands on Sui, helping him to his feet. His hands glowed, sealing the shoulder gash and the stomache wound.
+
+“Thanks.” Sui charged an arrow and unloaded into the owl bear.
+
+The owlbear roared again, but this time, it sounded more like a cry for help. Four roars replied.
+
+Gale turned to the sound. In the dark rainy night, four round shapes approached along the river. Lightning flash. Four bears snarled, their eyes angry.
+
+Gale jumped. “This one advises getting out of here!”
+
+“You stay off my friend!” Gra didn’t hear Gale as he battled the owl bear.
+
+Gale ran up and tagged Gra in the stomache. “These ones should get going!”
+
+Gra swung his axe, nearly hitting Gale. “I don’t advise touching me right now.” When he turned, he noticed the four bears approaching. “Oh shit.”
+
+The bears had gotten close enough that they were basically surrounded.
+
+“Sorry, Gale, it looks like we have to fight this one out.”
+
+“This on will fight to dead!” Gale yelled. But then his tone became fearful. “But hopes he has not to.”
+
+Sui gulped, feet shaking. He missed two arrows aimed at the bears. “I can’t see shit!”
+
+“Yeah now would be a good time to turn on your darkvision.”
+
+The bears took off in a sprint at the party, charging the party.
+
+A flash of light, but no thunder. Suddenly the muddy water around the bear’s feet hardened up their legs. The bears tripped on their faces. The mud turned into ice, freezing them in place. A flash of lightning revealed the source: a deer with sparking antlers just on the other side of the stream.
+
+“*Astalir*!” Gra gasped to himself. “Sui! Gale! Focus this owlbear!” Gra roared, landing a hefty blow onto the owl bear.
+
+Gale slashed its legs with his scimitar, slowing it down.
+
+Sui shot at it with his bow, but kept missing. “Screw it!” He dropped his bow and pulled out his shortsword. “RAAHHH!” He charged forward, until he felt a beak and fur. He plunged his sword into the beast’s flesh, wherever he could find it. He punctured a major artery and it started bleeding.
+
+Gra kept an eye on the bears. They struggled to break free of the ice, but being as strong as they are, it didn’t take them long. Two bears broke free and swam against the stream to get to the other side. One broke free and charged the party, heading straight for Gale.
+
+Gra gave the owlbear one last slash before lunging forward to punch the charging bear in the face. Bone cracking assured Gra he had shortened the bear’s snout.
+
+It stumbled back, but didn’t dawdle. It got on two feet and came down onto Gra’s shoulder, biting deep into his shoulder.
+
+“RROOOOOAAAAAHH!” Gra roared in rage. His muscles bulged, the veins on his head popped, and his eyes filled with red. He swung his axe wildly at the bear. “ROH! ROH! ROOOH!”
+
+The bear bled with each slice. It fell down, trying to get up.
+
+One of the bears that crossed the river, choking, but making great time. It rammed its frozen friend, breaking it free from the ice. The two bears roared as they approached, igniting the fire in the wounded bear’s eyes.
+
+It got up and slashed Gra in the shoulder. The two other bears charged up from behind it and grabbed each of his hands in between their teeth.
+
+Gra’s grip failed him and he dropped his axe.
+
+“This one holds your candle!” Gale thrust his yinglet hand forward at Gra, streaming golden light onto his back. That light flowed over Gra, presenting itself as holy golden armor plates.
+
+“ROOOHH!” Grar yelled. He clenched his fists, grabbing the tongues of each bear. He twisted and pulled the tongues, forcing the bears to move at his discretion. He crashed them right into each other. Water droplets sprayed up, creating a mist.
+
+The bears let go of his hands, stunned on the ground for a moment. The third bear reared up and slashed at him, but its attack just glanced off the golden armor on his chest.
+
+“ROOOH!” Gra picked up his battleaxe. He lifted it up and thrust it into the bear’s skull, splitting it in two.
+
+“Bleat! Bleeeat!” A painful cry came from across the river.
+
+Gra turned to look. Astalir was being cornered by the fourth bear. A splash off water hit the bear, swallowing itself into the bear’s mouth.
+
+The bear choked and gagged, but made one last swipe at Astalir, knocking him into the river. The river iced up around where Astalir fell.
+
+“Astalir!” Gra yelled. The red drained from his eyes as fear and worry filled his thoughts.
+
+Meanwhile, the two bears got up from the ground. They lept onto Gra while he was distracted, knocking him to the ground. The golden light armor protected him a few attacks, but the bears broke through it.
+
+Gra, holding on to the last of his rage, reached up with a single hand and squeezed a bear’s neck. He held it in place, choking it.
+
+The bear gagged, but didn’t stop swiping at him.
+
+Gale stepped in, stabbing it through the heart.
+
+The bear collapsed to the ground, breathing heavily, but otherwise not moving.
 
 [scene 5: astalir freeze bears, attacked by bears, freeze in river]
 
