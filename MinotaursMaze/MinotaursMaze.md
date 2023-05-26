@@ -2066,7 +2066,7 @@ The bears let go of his hands, stunned on the ground for a moment. The third bea
 
 “Bleat! Bleeeat!” A painful cry came from across the river.
 
-Gra turned to look. Astalir was being cornered by the fourth bear. A splash off water hit the bear, swallowing itself into the bear’s mouth.
+Gra turned to look. Astalir was being cornered by the fourth bear. A splash of water hit the bear, swallowing itself into the bear’s mouth.
 
 The bear choked and gagged, but made one last swipe at Astalir, knocking him into the river. The river iced up around where Astalir fell.
 
@@ -2074,23 +2074,103 @@ The bear choked and gagged, but made one last swipe at Astalir, knocking him int
 
 Meanwhile, the two bears got up from the ground. They lept onto Gra while he was distracted, knocking him to the ground. The golden light armor protected him a few attacks, but the bears broke through it.
 
-Gra, holding on to the last of his rage, reached up with a single hand and squeezed a bear’s neck. He held it in place, choking it.
+Gra was taking blow after blow. His chest looked like it had gone through a meat slicer, and his hands were mangled meat twigs.
 
-The bear gagged, but didn’t stop swiping at him.
+“Graaaa!” A voice raged from behind a tree. With a slam and pound, the bear miraculously rose off the ground.
 
-Gale stepped in, stabbing it through the heart.
+The bear screeched and clawed at the air, but was unable to hit Gra. One by one, its limbs clung to its body, becoming completely immobilized.
 
-The bear collapsed to the ground, breathing heavily, but otherwise not moving.
+Gra got out from under the bear, seeing a familiar face standing next to the bear. It was none other than… *him*! “Thanks, Gra!”
 
-[scene 5: astalir freeze bears, attacked by bears, freeze in river]
+“You’re welcome, Gra!” His clean, uninjured face smiled back at him.
 
-[scene 6: party takes on bears]
+The bear roared.
 
-[scene 7: fake gra comes out and saves them]
+“Oh shut up!” New Gra snapped. He looked at the bear aggressively, and it started choking, its esophagus visibly collapsing.
 
-[scene 8: gra rescues astalir]
+A roar replied from across the river. Gra turned to look. The fourth bear slashed the ice structure in the river, and then swam across.
+
+Out of the ice structure floated a hump with a bunch of sticks attached to it. Gra gasped. It wasn’t moving, not even a little.
+
+“Astaliiiir!” Gra ran to the river, jumped in, and grabbed the hump of flesh. It was deer in form, complete with a set of antlers. Gra grabbed it in his arms, ignoring the pain from the multiple lacerations on his arms. He refused to let his broken fingers let go. Gra brought the hump of flesh onto land, and gently laid it down. “Come on, Astalir, come on.”
+
+Gra put a hand on the lump of flesh. It was cold, like an ice cube. Its chest was torn open, ribs poking out. Its legs were mangled and frost-covered. The hump didn’t show any signs of motion, save for a faint heartbeat. It got slower and slower.
+
+Gra’s heart beat rapidly in his chest. “Astalir, come on Astalir. What do you need? Um, you’re cold! Your cold.” Gra picked him up, letting his own broken index finger snap backwards. He hugged him close. The lump’s head leaned up against his. Its cold, dead eyes stared into his own desperate eyes. He stared into them. “Show me a sign you’re alive!” But there was no magic in those eyes. “Help!”
+
+Gale rushed over. “Is that one dead?”
+
+“No! No! No! Help!” Gra laid the lump down so Gale could lay his hands on it.
+
+Gale did so, but his hands flickered out when he lit them up. “This one is out.”
+
+“Suuii!”
+
+“Would an acid potion help?” He poured one onto his leg, and it healed instantly.
+
+“Is this deer your friend?” New Gra approached.
+
+“YES!”
+
+“I will help.” New Gra stood next to the lump, and it lifted into the air. The frost fell off and the lump melted. Its neck, once frozen stiff, now let the head lean to one side. The torso contracted and convulsed. The lump gagged and water spewed from its mouth.
+
+The deer’s lungs moved the chest in and out in a rapid cycle. Its breathing was rapid and frantic.
+
+New Gra looked at Gra’s open arms, and the deer floated down into them. “It’s stable, but it needs medical attention ASAP.”
+
+Gra reached for his cloak to peel off a patch. His broken fingers wouldn’t cooperate. “Gra, this one!”
+
+New Gra nodded and ripped off the patch in question. It was a maroon patch in the shape of a potion bottle. As it leapt off the cloak, it expanded into a round potion bottle with a red bubbling liquid. New Gra held it firmly in his hand as he flicked off the cork and poured the contents down the throat of the deer.
+
+The deer blinked. It looked around.
+
+“Astalir?” Gra whispered to it.
+
+Astalir looked at him, eyes wide.
+
+“Deer? You ok?” New Gra asked.
+
+Astalir looked at New Gra, and then back at Gra. He squirmed in Gra’s arms, rolling out onto the ground, landing on all fours. He jumped left, and he jumped right. Two deer landed in the mud a few feet from Gra and ran away, limping heavily.
+
+Gra waved to both of them with his messed up hands. “Bye!”
+
+“Will it be ok?” New Gra asked, getting ready to chase one.
+
+Gra motioned to stop. “It’s fine. Let him go. He can take care of himself from here.”
+
+Gale groaned.
+
+Gra stood up. “Oh right! Party check! Is everyone alright?”
+
+Sui joined up. “I’m fine, but…” He turned an empty vial upside down. “I’m all out of acid.”
+
+“You do acid?” New Gra asked.
+
+“Well, yes… but you don’t have to phrase it like that.”
+
+“This one is injured, needs rest.”
+
+“Let me see.” Gra inspected the wound. “Looks like a night of rest should fix that right up.”
+
+“Is there a tavern near here?” New Gra looked around.
+
+“This way.” Gra led.
+
+Gra, Sui, Gale, and New Gra journeyed through the rain and dark to the tavern. They tended to their wounds. Gra got his fingers bandaged up until Gale had a good rest. They got some food and ale, had some fun getting the edge off after a stressful encounter, and then headed to bed. Gra paid for the rooms.
+
+After everyone had gone to bed, Gra walked out to the tavern porch. He let the rain pelt him as he stepped in the light puddles. He looked at the staircase. There was no old man there asking for loose change, just an empty spot of dirt.
+
+Gra leaned on the porch railing and called out, “BLEeeeEEAAAaaaT!”
+
+He listened, but there was no reply. No friendly bleat, no mocking laughter, no approaching deer friend.
+
+Astalir was supposed to meet them there at the tavern that night, but he was nowhere to be found.
+
+Gra sighed. “I hope you’re alright out there, wherever you are.”
 
 # Chapter 7 – The Cat’s Coat
+
+This section is under construction. Don’t read if you don’t want spoilers.
 
 [scene: drath talks to don]
 
