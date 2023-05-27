@@ -2170,9 +2170,83 @@ Gra sighed. “I hope you’re alright out there, wherever you are.”
 
 # Chapter 7 – The Cat’s Coat
 
-This section is under construction. Don’t read if you don’t want spoilers.
+On the side of the road this fine summer’s day, a little old shopkeeper, who was most definitely your average shopkeeper, set up shop along the side of the road. His wagon of supplies was parked and blocked, his display table was set up, and his most lucrative items were on full display. Now all he needed was some guinea pigs—uh, customers. He needed customers.
 
-[scene: drath talks to don]
+The first one of the day made a grand entrance: a blue swirling smoke sphere grew into a portal between some trees, and out stepped a humanoid silhouette. In a brilliant flash of light, the portal vanished. A black-furred tabaxi with green eyes, wearing a hood, approached the shopkeeper’s stand.
+
+“Welcome to Don JeLancie’s Department of Joy. What can I do for you today?” The shopkeeper motioned to his display items.
+
+“What do you have in winter clothing?”
+
+“Going someplace cold, I see? How about this winter coat bundle? It includes everything you need: gloves, pants, boots, the works.”
+
+“This is exactly what I need…”
+
+“And?”
+
+“But it’s not magical. Do you have any magical coats?”
+
+“I don’t *have* any, but I can make one. What do you need it to do?”
+
+“I want it to go in the air.”
+
+“A airborne winter coat?” Don JeLancie laughed.
+
+“Why? Is it ridiculous?”
+
+“Yes.” Don JeLancie settled down. “Which is just my style.” He took the coat back, holding it from the collar. “Who do I have the pleasure of enchanting this chaotic item for?”
+
+“Drathalion Treescorn, the famous interplanar traveler.”
+
+“The *famous* interplanar traveler? How have I never heard of you?”
+
+Drathalion shrugged. “I try to keep to myself.”
+
+“Uh-huh. I’ll be right back.” Don took the coat into his wagon and shut the door behind him. Drathalion perked an ear to listen in. A hint of light squeaked through the seems in the door. Then Don emerged with the coat. “Here you go, one enchanted coat that lets you go in the air.”
+
+Drathalion grabbed an edge and felt it. She could feel magic running through it. “Thank you.”
+
+“That’ll be 500 gold.”
+
+“Five… hundred?”
+
+“Yes.”
+
+Drathalion took out her coin purse, counting her coins. “How’s 200 sound?”
+
+“Like not enough.” Don took the coat back. “Come back when you have the coin.”
+
+“Hold that item for me. When Drathalion, the great interplanar explorer returns, she’ll want that.”
+
+“Very well. You have 24 hours before I sell it.”
+
+Drathalion nodded and walked down the path.
+
+When her back was turned, Don snapped his fingers, and a fly appeared from a bright flash. The fly was tiny, but upon close inspection, one could make out Don’s face on the fly’s head. Don flicked the fly, hitting Drathalion on the shoulder. The fly was so light she didn’t feel it.
+
+Don snapped his fingers again, causing a pair of fly-eyed goggles to appear on his face. Inside, he could see out of the fly’s human face.
+
+“Let’s see who this “interplanar” visitor is, hmm?”
+
+He watched as Drathalion walked down the path for an hour or so to the nearest town, where she came upon a tavern. She seemed to know her way around the town, as if she had been there before. The tavern was empty on the front, but there were several people inside. Drathalion entered.
+
+“So who is this deer anyway?”
+
+Drathalion’s ear pricked. A pale green half-orc sat a table with 3 other members, one of whom was another pale green half-orc.
+
+The second half-orc sighed. “He’s a friend.”
+
+“So where is he?” A yellow dragonborn took an angry sip from his mug.
+
+“I’ve been calling for him, but since what happened last night, he hasn’t answered any of my calls.” The second half-orc said.
+
+“We can wait for him for a little while longer, see if he shows.” The half-orc said.
+
+“I can’t believe he’s been keeping us waiting this long.” The dragonborn grumbled.
+
+Drathalion pulled her hood further over her face. She sat on a bar stool at the counter.
+
+=== This section is under construction. Don’t read if you don’t want spoilers. ===
 
 [scene: party has breakfast]
 
