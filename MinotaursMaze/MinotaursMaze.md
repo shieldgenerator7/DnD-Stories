@@ -2248,48 +2248,48 @@ Drathalion pulled her hood further over her face. She sat on a bar stool at the 
 
 === This section is under construction. Don’t read if you don’t want spoilers. ===
 
-[scene: party has breakfast]
+[scene 2: party has breakfast]
 
-[scene: drath walks in, orders blueberry pancakes]
+[scene 3: drath walks in, orders blueberry pancakes]
 
-[scene: arakroca walks in, drath translates, arkrca gives mission to deliver letter]
+[scene 4: arakroca walks in, drath translates, arkrca gives mission to deliver letter]
 
-[scene: gra distributes gold, party and drath introduce]
+[scene 5: gra distributes gold, party and drath introduce]
 
-[scene: party runs into don]
+[scene 6: party runs into don]
 
-[scene: fake gra hallucinates, craves bagels]
+[scene 7: fake gra hallucinates, craves bagels]
 
-[scene: drath asks gra for gold, gra suspects drath, gra gives gold]
+[scene 8: drath asks gra for gold, gra suspects drath, gra gives gold]
 
-[scene: drath asks fake gra for gold, gives fake gra “bagel”, gra helps]
+[scene 9: drath asks fake gra for gold, gives fake gra “bagel”, gra helps]
 
-[scene: gale “tf’s” into tiger, party pets him, fake gra pets “dog” drath]
+[scene 10: gale “tf’s” into tiger, party pets him, fake gra pets “dog” drath]
 
-[scene: gale gives drath 50gp]
+[scene 11: gale gives drath 50gp]
 
-[scene: drath buys bubble coat]
+[scene 12: drath buys bubble coat]
 
-[don offers to rent cart for fast travel, gra refuses]
+[scene 13: don offers to rent cart for fast travel, gra refuses]
 
-[scene: gra draws -2 AC card, runs into robin hood]
+[scene 14: gra draws -2 AC card, runs into robin hood]
 
-[scene: drath gives robin hood 250 “gold”, party runs]
+[scene 15: drath gives robin hood 250 “gold”, party runs]
 
-[scene: lizard shopkeeper feeds party venison]
+[scene 16: lizard shopkeeper feeds party venison]
 
-[scene: drath holding back puking, falls in pit, gra saves drath, questions drath]
+[scene 17: drath holding back puking, falls in pit, gra saves drath, questions drath]
 
-[scene: party makes campfire]
+[scene 18: party makes campfire]
 
-[scene: fake gra leaves, reesu returns]
+[scene 19: fake gra leaves, reesu returns]
 
-[scene: gra reesu drath gaslight gale]
+[scene 20: gra reesu drath gaslight gale]
 
-[scene: drath inquires reesu]
+[scene 21: drath inquires reesu]
 
-[scene: drath pulls gra aside, becomes astalir]
+[scene 22: drath pulls gra aside, becomes astalir]
 
-[scene: astalir updates map, gra gives astalir gold]
+[scene 23: astalir updates map, gra gives astalir gold]
 
-[scene: astalir finds some place to sleep]
+[scene 24: astalir finds some place to sleep]
