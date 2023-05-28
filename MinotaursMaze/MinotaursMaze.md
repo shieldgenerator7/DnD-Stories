@@ -2250,15 +2250,123 @@ The first half-orc sighed. “He’s a friend.”
 
 Drathalion pulled her hood further over her face. She sat on a bar stool at the counter.
 
+“How can I help you?” The dwarf behind the counter asked.
+
+“I’ll have a berry… omelet.” Drathalion leaned in.
+
+The dwarf looked puzzled. “We don’t have that.”
+
+“It’s a flat food, golden brown, with blueberries.”
+
+“Pancake.” The half-orc came to the bar.
+
+“Yes, blueberry pancakes.” Drathalion tossed some coins on the counter.
+
+“I’ll get you a full stack. And you sir?” The dwarf turned to the half-orc.
+
+“Just a question. Have you seen the old man today?”
+
+“That beggar on the front porch? Thankfully, not today.”
+
+“Ok, thanks.” The half-orc returned to his table.
+
+Soon, the dwarf brought out the pancakes, and Drathalion ate them.
+
+Then the tavern doors burst open, and an exasperated bird person hobbled in. It spoke in tweets and caws, seemingly at the whole tavern. It looked around, its eyes landing on the party with the half-orc. It squeaked and cawed frantically, as if it was trying to tell them something, waving a letter around, written in a foreign script.
+
+“Anyone know what this guy is saying?” The half-orc asked.
+
+“No, Gra, I don’t.” The second half-orc shrugged.
+
+“I’m sorry, we don’t understand.” Gra tried to shoo the bird person away.
+
+Drathalion’s eyes lit up. She approached the table. “I have flown a great distance to deliver this letter.” She held a hand to her perked ear.
+
+The party turned to her and listened. The bird person cheered and continued its message.
+
+“I need to find one named Ast… uh, Revali. Have you seen him in this town? He should be her… uh, in the aarakocra village of Wind’s Crossing. I need to deliver this letter to him.”
+
+Gra looked puzzled. “So is he here or not?”
+
+“Uh, no.” Drathalion corrected. “He’s in Wind’s Crossing.”
+
+The aarakocra squawked and smiled and Gra, holding out the letter.
+
+“Will you take this to him? I’ll give you 200 gold.” Drathalion changed tone. “Oh! Negotiate for 300!”
+
+Gra held up 3 fingers. “3 gold?”
+
+The aarkocra eagerly nodded, and held up 3 feathers. He pulled out a pouch and cawed.
+
+“Does this look right?”
+
+Gra held the coin pouch in his hand, tossing it in the air. The coins came down with a satisfying *clink-clink*. “Yeah this should do.” He nodded and shook the aarakocra’s feathered hand.
+
+He tweeted.
+
+“Thank you. Happy flights!”
+
+The aarakocra left.
+
+“Thanks for translating.” Gra addressed Drathalion. “That was very helpful.”
+
+Drathalion bowed. “My pleasure.”
+
+“Where we’re going, we’re going to need a translator. Mind tagging along?”
+
+“I’d be delighted to.”
+
+Gra stuck his hand out to shake.
+
+Drathalion hesitated, but then offered her right hand too. When it came out of the sleeve, the cast was clearly visible. It covered her palm and stretched up to her elbow.
+
+Gra shook it carefully. “What happened to you?”
+
+Drathalion shrugged. “Got in a fight. You should’ve seen the other creature.”
+
+“What did you do?”
+
+“I’m an archer, like Sui here. I shot it in the face, and it died. Put simply.”
+
+“Well it sounds like I can count on you in a fight, I like that.” Gra emptied the gold onto the table and split it into 5 piles, one for each party member, including Drathalion.
+
+Each one took their share of gold, but Drathalion’s slid to her across the table, falling off the ledge into her bag below.
+
+Gra also handed the letter to the other pale-green half-orc. “Keep this safe.”
+
+“Of course, Gra.”
+
+The party introduced themselves: Gra the half-orc, Sui the dragonborn, Gale the Yinglet, and Gra the half-orc (the second one).
+
+“Before we get going,” Drathalion warned. “We have to stop and get some winter clothing. There’s a shop along the way, I’ll show you. Do you have the map?”
+
+“How do you know I have a map?” Gra took it out.
+
+“I assumed the aarakocra gave you one?”
+
+Gra eyed her. “I have it.” He placed it on the table.
+
+Drathalion took out a pen and marked a dot on the map. “It’s here. Let’s go.” She stood up.
+
+Gra pushed her back into her seat. “No we have to wait for the deer.”
+
+Drathalion looked to the side, then pointed out the window. “What’s that old man doing out there?”
+
+“Old man?” Gra turned. He got out of his chair and went out to the porch, looking for the old man.
+
+The old man in shaggy clothes with a tin can was in his usual spot, but this time he was dancing like a mad man.
+
+“Astalir, it’s good to see you.”
+
+The old man turned to Gra, gave a thumbs up, then ran around the side of the building.
+
+Gra followed, but he didn’t find any trace of him. He sighed, leaning on his knees. “Back to your old tricks, huh?” He stood back up. “Ok, I’ll take that as the sign.”
+
+Gra gathered the party members up, and they set off towards Wind’s Crossing.
+
+“That was most informative.” Don JeLancie rubbed his hands together, still looking through the fly-eyed goggles. “They’ll be here soon. This’ll be quite fun.” He chuckled to himself.
+
 === This section is under construction. Don’t read if you don’t want spoilers. ===
-
-[scene 2: party has breakfast]
-
-[scene 3: drath walks in, orders blueberry pancakes]
-
-[scene 4: arakroca walks in, drath translates, arkrca gives mission to deliver letter]
-
-[scene 5: gra distributes gold, party and drath introduce]
 
 [scene 6: party runs into don]
 
