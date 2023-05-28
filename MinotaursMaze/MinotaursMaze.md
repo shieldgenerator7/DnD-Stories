@@ -2228,19 +2228,23 @@ Don snapped his fingers again, causing a pair of fly-eyed goggles to appear on h
 
 “Let’s see who this “interplanar” visitor is, hmm?”
 
-He watched as Drathalion walked down the path for an hour or so to the nearest town, where she came upon a tavern. She seemed to know her way around the town, as if she had been there before. The tavern was empty on the front, but there were several people inside. Drathalion entered.
+He watched as Drathalion walked down the path for an hour or so to the nearest town, where she came upon a tavern. She seemed to know her way around the town, as if she had been there before. The tavern was empty on the front, but there were several people inside. Drathalion entered. The dining room was full of people eating breakfast.
 
-“So who is this deer anyway?”
+“What are we waiting for?”
+
+“The deer.”
 
 Drathalion’s ear pricked. A pale green half-orc sat a table with 3 other members, one of whom was another pale green half-orc.
 
-The second half-orc sighed. “He’s a friend.”
+“Who is this deer anyway?” The second half-orc asked.
+
+The first half-orc sighed. “He’s a friend.”
 
 “So where is he?” A yellow dragonborn took an angry sip from his mug.
 
-“I’ve been calling for him, but since what happened last night, he hasn’t answered any of my calls.” The second half-orc said.
+“I’ve been calling for him, but since what happened last night, he hasn’t answered any of my calls.” The first half-orc said.
 
-“We can wait for him for a little while longer, see if he shows.” The half-orc said.
+“We can wait for him for a little while longer, see if he shows.” The second half-orc said.
 
 “I can’t believe he’s been keeping us waiting this long.” The dragonborn grumbled.
 
