@@ -2364,27 +2364,355 @@ Gra gathered the party members up, and they set off towards Wind’s Crossing.
 
 “That was most informative.” Don JeLancie rubbed his hands together, still looking through the fly-eyed goggles. “They’ll be here soon. This’ll be quite fun.” He chuckled to himself.
 
+“Um, hello?”
+
+Don lifted his fly-eyed goggles. A customer stood before him.
+
+He was wearing green sleeves and leggings, a brown vest, and a green hat with a feather.
+
+“Ah, yes, how can I help you?”
+
+“My grandma is getting really old, and we fear for her health.”
+
+“Ah, I have just the thing!” Don reached under the counter and pulled out a health potion. “One moment please.” Don entered his wagon and shut the door behind him. He held the potion in one hand and snapped his fingers with the other. A brilliant flash of light appeared for a brief moment, and when it was gone, the potion sparkled and was extra bubbly. Don emerged from his wagon and presented the potion to the customer. “This potion is what you need, mister…?”
+
+“Robin Hood.”
+
+“Mr. Robin Hood. This is the potion you need.”
+
+“What does it do?”
+
+“Just have her drink this and she’ll get better in no time.”
+
+“Thank you!” Robin Hood took the potion.
+
+Don held it back. “That’ll be 1000 gold.”
+
+“Oh, of course.” Robin Hood pulled a bag from his belt and tossed it on the counter. “That should be enough.”
+
+Don counted real quick. “My, my. There’s only 800 gold here.”
+
+“Will you accept 800 gold?”
+
+“Hmm…” Don thought. “No. The price is still 1025 gold.”
+
+“You just increased the price!”
+
+“No, the price has always been 10*50* gold.” Don smugly smiled.
+
+Robin Hood became cross. “I see what you’re doing, and I don’t like it. But I’ll get you that 1050 gold.” He stormed off.
+
+“Hagglers.” Don muttered as he put his fly-eyed goggles back on and leaned back in his chair. Drathalion and her party were still on their way to his shop.
+
+It wasn’t long before they arrived.
+
+“Greetings! Welcome to Don JeLancie’s Department of Joy. What can I do for you?”
+
+Gra looked over the items displayed on the counter. “Do you have an winter attire?”
+
+“That I do, my friend.” Don pulled a winter coat out from under the counter. “This will keep you warm even in the coldest of places. It comes with gloves, leggings, and hat included.”
+
+“That’s great!” Gra took the coat, inspecting it. “We’ll take 5.”
+
+“Ok, that’ll be 100 gold.”
+
+“100 gold each?!” Sui yelled. “Stop ripping us off!” Sui grabbed Don’s coat.
+
+A bell on Don’s chest rang. With a flash of light, Sui was shrunk down to the size of a coconut. Don caught him in his palm. “You shouldn’t have done that.”
+
+“Put him down.” Gra commanded.
+
+“Not until he apologizes.”
+
+“Gra said put him down!” Other Gra said. Don started floating into the air.
+
+The bell rang, the light flashed, and Other Gra look hungry. Don fell back to the ground.
+
+Other Gra rubbed his stomach and drooled from his mouth. “Bagels.”
+
+“You’ll put my friends back to normal right now!” Gra slammed his fist on the counter.
+
+With a ring and a flash, Gra’s skin flattened and became see-through. His muscles were visible.
+
+“Gah!” Gra pinched his skin, causing himself to bleed. “My thick skin!”
+
+Drathalion took advantage of the commotion. Eying a particular coat with bubbly features, she snatched it.
+
+“Nuh uh uh.” Don’s bell rang and a light flashed. Drathalion was now a dog person instead of a cat person.
+
+“Ah!” She screamed. She ran her fingers along her dog tail. It was real, and it was long. She felt her groin, and blushed in surprise. She felt her dog muzzle, which was also long. She felt the top of her head, which had nothing pointy sticking out of it. Her ears drooped to the side of her head. She flicked her fingers. Golden energy flowed through it. She still had her magic.
+
+“Good puppy!” Other Gra petted Dog Drathalion’s head. “Does doggy have bagels?”
+
+“This one is so confused. What is happened?”
+
+The bell rang and the light flashed. Gale was now a tiger.
+
+“This one not understand. Why is tiger?”
+
+Don shrugged. “Didn’t want you to feel left out.”
+
+Gra settled down. “I’m sorry my associate took aggressive action against you. But can we all settle down and conduct business civilly?”
+
+“Sure, if you keep your friend here in check.” Don tossed Sui to Other Gra.
+
+Other Gra caught Sui. “Are you a bagel?”
+
+“No! Put me down!” Sui protested.
+
+“Ok, so you said 100 gold *total* for the 5 coats?” Gra counted out the gold.
+
+“Yes, that is correct.”
+
+Gra and Don exchanged gold for coats. Gra went to hand each member a coat, but found it difficult to. One was too small to hold it, one was a tiger, and one was too busy craving bagels to think about coats. Except Dog Drathalion: she had gotten over her sudden transformation and was thinking.
+
+“Coat?” Gra handed it to her.
+
+“Thanks.” Dog Drathalion accepted it. “Can I borrow 200 gold?”
+
+“What? No. I barely know you.”
+
+“Well I am your guide and translator, consider a prepayment for my services.”
+
+“Well we don’t need a guide. I have this map.” Gra pulled it out of his bag. “Besides, what do you need 200 gold for?”
+
+“There’s this item I want to buy. With it, I’ll be able to keep us safe.”
+
+“Ok, what does it do?”
+
+“It lets me fly.”
+
+“Just you? How about us?”
+
+“Well, no, just me. But if I can fly, I can carry you one person at a time anywhere.”
+
+“Hmm… no.”
+
+“It’ll be very useful for protection.”
+
+“I don’t think we’ll need to worry about that. We have a secret weapon.” Gra crossed his arms.
+
+“Secret weapon?” Dog Drathalion cocked her head.
+
+“Yes, whenever we get in trouble, something comes in and keeps us safe.”
+
+“Would this secret weapon happen to be a dear friend of yours?”
+
+“Deer friend? No one said anything about deer.”
+
+Dog Drathalion squinted. “I’ve heard rumors that this friend of yours had a very bad accident and is out of commission.”
+
+“How would you know?” Gra stared into Dog Drathalion’s eyes. If this was one of Astalir’s illusions, he would know it. But no, Dog Drathalion did not fade or go transparent. “Huh?” Gra stewed. He looked away.
+
+“Ok, how about 50 gold?”
+
+“50 gold? Ok.” Gra gave it to Dog Drathalion.
+
+“Thank you.”
+
+“Gra?” Other Gra was worried.
+
+“Yes, Gra?”
+
+“Don’t look now, but there’s a tiger right beside us.”
+
+“Oh, don’t worry about him, he’s a party member.”
+
+“We have a tiger in our party?”
+
+“Yes.”
+
+“Does he have bagels?”
+
+“This one, unfortunately does not.” Tiger Gale responded.
+
+“He speaks!” Other Gra exclaimed.
+
+“Yes, he is a speaking tiger.” Gra confirmed.
+
+“What is his name?”
+
+“This one’s name is Gale.”
+
+“Gale? I think I know a kangaroo named Gale.”
+
+“Yinglet, but yes.” Tiger Gale corrected.
+
+“Wow, what a coincidence! You’ve got to meet my friend Gale, Gale. I think you two would get along famously.”
+
+“This one would be delighted.”
+
+“Gale?”
+
+“Yes?”
+
+“Do you have any bagels?”
+
+“This one does not, but would like some.”
+
+“I’ve got bagels!” Dog Drathalion pulled some bagels out of her coat. She held one out to Other Gra.
+
+“Yay!” Other Gra grabbed at it, but Dog Drathalion swiped it away.
+
+“50 gold.” She waved it in his face.
+
+“Uh!” Other Gra whined. “I want it, but 50 gold? That’s a bit steep, don’t you think?”
+
+“Stop ripping us off!” Sui yelled helplessly from Other Gra’s palm.
+
+“Shush, shush.” Other Gra put a finger over Sui’s mouth. “Here’s 50 gold.”
+
+“Thank you.” Dog Drathalion gave the bagel to Other Gra.
+
+“What is this? It’s got blue dots all in inside it.”
+
+“Those are blueberries. They’re blueberry bagels.”
+
+“Blueberries, huh? How do they taste?”
+
+“Like… blue?”
+
+“Ok.” Other Gra took a bite. He looked disgusted. “This… doesn’t taste… like bagels.”
+
+“It’s a new flavor. A bit experimental.” Dog Drathalion encouraged. “Just keep chewing, it’ll get better.”
+
+“If you say so.” Other Gra munched a bit more. “No, this definitely doesn’t taste like… wait! Pancakes?” Other Gra swallowed. “It tastes like pancakes!”
+
+Dog Drathalion nodded. “Yes, it’s blueberry pancake flavor. It’s a new bagel flavor.”
+
+“What a weird flavor.”
+
+“Can this one try?” Tiger Gale opened his mouth.
+
+“Sure. That’ll be 50 gold.”
+
+“Ok.” Tiger Gale agreed.
+
+Dog Drathalion pulled out another bagel and tossed it at Tiger Gale. She missed, and the bagel landed on Tiger Gale’s back.
+
+“Oh. I can’t reach it.”
+
+“I got it.” Gra went to grab the bagel, but stopped. Upon closer inspection, it interacted weirdly with Tiger Gale’s tiger fur. Fur was depressed where the bagel hole was supposed to be. He tried sticking his finger in the bagel hole, but felt something soft and squishy that definitely wasn’t tiger fur. He stared intently at it, and it faded away. Beneath the bagel was a blueberry pancake. “Odd.” He picked it up and plopped it into Tiger Gale’s mouth. “Here you go.”
+
+“Thanks.” Tiger Gale munched it happily.
+
+“No problem.” Gra rubbed Tiger Gale’s head. “Wow, your fur is so soft!”
+
+“Let me try!” Other Gra rubbed Tiger Gale’s shoulders. “Wow, it is!”
+
+Gra and Other Gra pet Tiger Gale all over: on the head, behind the ears, the shoulders, along the back, and on the chest.
+
+“This one likes this.” Tiger Gale smiled as he leaned into the pets.
+
+Dog Drathalion approached the counter. “I’ve got enough for the bubble coat now.” She placed the gold on the counter.
+
+“Ah, but your attempt at a five-finger discount is going to cost you… um, 25 gold.
+
+Dog Drathalion rolled her eyes, but put an extra 25 gold on the counter.
+
+“Ah, yes, very nice.” Don collected the gold. “Here is your bubble coat, which lets you go in the air.”
+
+“Thank you. How do I activate it?” Dog Drathalion took the coat.
+
+“I think you’ll find it quite intuitive.”
+
+“But—”
+
+“Good day.” Don nodded at her, clearly trying to get her to go away. “It has been much fun watching you all react to your changes, but I hope you’ve learned your lesson?”
+
+Gra nodded. “We will not attempt to aggress you again, Mr. JeLancie.”
+
+“Very well. I accept your apology.”
+
+“Now will you turn us back to normal?”
+
+“No, but worry not. Your changes will automatically revert in 1 hour.” Don assured.
+
+“Ok.” Gra motioned to the party. “Let’s go.”
+
+“Would you like to rent a cart with horses? It’s a long travel.” Don held out an ad.
+
+“No, we can walk.” Gra waved him off.
+
+The party left. Gra led the way with his map, followed closely by Dog Drathalion. Other Gra held tiny Sui in one hand, and Tiger Gale’s furry shoulders in the other.
+
+Don JeLancie looked on with a huge smile. He chuckled as he donned his fly-eyed goggles again. “That was quite fun. Indeed, this ‘Drathalion Treescorn’ is going to make one lovely guinea pig. Or maybe her companions would be more fun. We shall see…” Don snapped his fingers and he and his cart faded away, leaving an empty lot where it was once sitting.
+
+The party ventured along the trail. Before the hour was up, they trekked into a deep dark forest. Crickets and birds chirped and trilled. Up ahead, Gra spotted a lone man wearing green clothes and hat.
+
+“Hey, that’s Robin Hood!” Gra pointed him out.
+
+“Is he dangerous?" Dog Drathalion asked.
+
+“He steals from the rich and gives to the poor.”
+
+“Rich? I just got 1000 gold from the cards last night.” Sui admitted. “Does that make me rich?”
+
+“I don’t know.” Gra shrugged. “That’s for Robin Hood and his merry men to decide.”
+
+“Merry men?” Dog Drathalion’s eyes darted around, looking for anyone hiding.
+
+“Yeah,” Gra said. “Robin Hood’s band of guys who help he achieve his heists. Good people.”
+
+“Are they here?” Dog Drathalion drew her bow.
+
+“It’s ok.” Gra pointed her bow down. “We don’t want to fight. Don’s curses, remember?” Gra pinched his skin again, showing that it still bleeds.
+
+“Right.” Dog Drathalion put her bow away.
+
+The party approached Robin Hood.
+
+“Hello, I am Robin Hood. And who might you be?”
+
+Gra introduced the party to Robin Hood.
+
+“You seem like good people.” He greeted. “Where are you headed?”
+
+“We’re delivering a letter.”
+
+“To where?”
+
+“The mountains.” Gra waved the map.
+
+“Ah, yes, those mountains. They’re right down this trail to the left. It’s not hard. But before you go, I have a favor to ask.”
+
+Gra put the map away. “Yes?”
+
+“Would you perhaps have any change to spare? I need help with a loved one who is sick.”
+
+“How much do you need?” Gra asked.
+
+“200 gold should be fine.” Robin Hood said.
+
+“Ok, let me see.” Gra rummaged around in his bag of holding.
+
+Dog Drathalion’s ears twitched. “I don’t like this.” She secretly picked up some rocks and put them in a bag. She held them to Robin Hood. “Here’s around 200 to 300 gold.” She opened the bag. Gold coins sparkled in the light that pierced through the treetops. “Gra, confirm?” She tossed the bag at Gra.
+
+Gra tossed the bag in the air and let it land in his palm. “Feels like the weight of 250 gold.” He pulled the drawstring shut and handed it to Robin Hood.
+
+Robin Hood took it eagerly. “Thank you so much! This is going to help a lot. You may now pass.”
+
+Dog Drathalion fake smiled and nodded.
+
+The party walked passed.
+
+Dog Drathalion whispered to Gra, “When we get out of range, run.”
+
+Gra raised an eyebrow, but agreed anyway. “Ok.”
+
+When they got 90 feet away, Gra sprinted ahead. Dog Drathalion sprinted behind him, and the rest of the party followed suit. A mile later, they stopped.
+
+“Why are we running?” Gra asked.
+
+“Let’s just say that wasn’t a bag of gold.” Dog Drathalion answered.
+
+“Rocks?”
+
+“Yeah, how’d you know?”
+
+“…Lucky guess.”
+
 === This section is under construction. Don’t read if you don’t want spoilers. ===
-
-[scene 6: party runs into don]
-
-[scene 7: fake gra hallucinates, craves bagels]
-
-[scene 8: drath asks gra for gold, gra suspects drath, gra gives gold]
-
-[scene 9: drath asks fake gra for gold, gives fake gra “bagel”, gra helps]
-
-[scene 10: gale “tf’s” into tiger, party pets him, fake gra pets “dog” drath]
-
-[scene 11: gale gives drath 50gp]
-
-[scene 12: drath buys bubble coat]
-
-[scene 13: don offers to rent cart for fast travel, gra refuses]
-
-[scene 14: gra draws -2 AC card, runs into robin hood]
-
-[scene 15: drath gives robin hood 250 “gold”, party runs]
 
 [scene 16: lizard shopkeeper feeds party venison]
 
