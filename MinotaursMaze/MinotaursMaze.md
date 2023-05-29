@@ -2286,11 +2286,7 @@ Drathalion’s eyes lit up. She approached the table. “I have flown a great di
 
 The party turned to her and listened. The bird person cheered and continued its message.
 
-“I need to find one named Ast… uh, Revali. Have you seen him in this town? He should be her… uh, in the aarakocra village of Wind’s Crossing. I need to deliver this letter to him.”
-
-Gra looked puzzled. “So is he here or not?”
-
-“Uh, no.” Drathalion corrected. “He’s in Wind’s Crossing.”
+“I need to find one named Revali. He should be in the aarakocra village of Wind’s Crossing. I need to deliver this letter to him.”
 
 The aarakocra squawked and smiled and Gra, holding out the letter.
 
