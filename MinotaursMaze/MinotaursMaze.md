@@ -2172,6 +2172,8 @@ Gra sighed. “I hope you’re alright out there, wherever you are.”
 
 # Chapter 7 – The Cat’s Coat
 
+=== This chapter is under construction. Wait for the official announcement of completion please ===
+
 On the side of the road this fine summer’s day, a little old shopkeeper, who was most definitely your average shopkeeper, set up shop along the side of the road. His wagon of supplies was parked and blocked, his display table was set up, and his most lucrative items were on full display. Now all he needed was some guinea pigs—uh, customers. He needed customers.
 
 The first one of the day made a grand entrance: a blue swirling smoke sphere grew into a portal between some trees, and out stepped a humanoid silhouette. In a brilliant flash of light, the portal vanished. A black-furred tabaxi with green eyes, wearing a hood, approached the shopkeeper’s stand.
@@ -2712,11 +2714,23 @@ When they got 90 feet away, Gra sprinted ahead. Dog Drathalion sprinted behind h
 
 “…Lucky guess.”
 
+The party venture onward, and eventually revert back to normal. Sui returned to normal size, but still had to wrestle himself out of Other Gra’s grip. Other Gra no longer craved bagels, and Gra’s skin returned to normal.
+
+Dog Drathalion noticed the changes reverting and ran into the forest alone. She cowered in her cloak as she transformed back into her old self. Her hood stretched up to over twice her head size, her tail shortened, and her voice changed. Then with a flickering spark, she returned to her normal self. She emerged from the woods once again a cat.
+
+Oh, and Tiger Gale transformed back into yinglet Gale.
+
+“This one still wants pets though.”
+
+“Of course!” Other Gra scritched him behind the ears.
+
 === This section is under construction. Don’t read if you don’t want spoilers. ===
 
 [scene 16: lizard shopkeeper feeds party venison]
 
 [scene 17: drath holding back puking, falls in pit, gra saves drath, questions drath]
+
+[scene 17b: robin hood goes to don’s shop again]
 
 [scene 18: party makes campfire]
 
