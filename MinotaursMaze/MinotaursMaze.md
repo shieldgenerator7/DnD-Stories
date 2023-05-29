@@ -1658,13 +1658,13 @@ The deer nodded, then disappeared.
 
 Over the next week, Gra started several projects in the kobold cave: food supply, entrance maintenance, and education. He hunted deer (non-magical), rabbits, and fish to feed the kobolds. He organized a project to restore the main entrance. He taught the kobolds about how to live among humans without causing problems. Sui helped oversee all these projects.
 
-One night Gra was out hunting. He shot an arrow into a deer’s back and then chased it. It ran all the way to the stream before he managed to grapple it. He pushed it down into the stream and held its shoulder to the flat rocks below. Blood trickled out of the deer’s arrow wound into the water. With his free hand, he headlocked the deer’s neck, despite its protests. Two well-placed fingers held the deer’s eye open and stationary. Gra stared into them.
+One night Gra was out hunting. He shot an arrow at a deer, which landed in its back. And then he chased it. It ran all the way to the stream before he managed to grapple it. He pushed it down into the stream and held its shoulder to the flat rocks below. Blood trickled out of the deer’s arrow wound into the water. With his free hand, he headlocked the deer’s neck, despite its protests. Two well-placed fingers held the deer’s eye open and stationary. Gra stared into them.
 
 “Hmm… you don’t look magical to me.”
 
-He then carried the deer out of the water and laid it on dry land, where he stepped on its shoulder to get a clean slice to the head. The deer’s cries of pain instantly stopped. He picked up the deer carcass and walked back with it.
+He then carried the deer out of the water and laid it on dry land, where he stepped on its shoulder to get a clean slice to the head. “I’m sorry.” The deer’s cries of pain instantly stopped. “Please rest in peace.” He picked up the deer carcass and walked back with it.
 
-Along the way back to the cave, he ran into Sui. “Everything ok?”
+Along the way back to the cave, he ran into Sui. “Everything ok?” Gra asked.
 
 Sui grumbled. “The kobolds peed in the river again. I’m going to go get sanitary drinking water.”
 
@@ -1672,7 +1672,7 @@ Gra sighed. “We’re going to have to teach them better hygiene.”
 
 “I’m trying, but they don’t listen to me.”
 
-“I know. But hey, I got something special today. Some fresh venison and some spices I got from town.”
+“I know. But hey, I got something special today. Some fresh venison and some spices I got from town.” Gra enthusiastically opened his bag of holding to him.
 
 “That sounds delicious.”
 
@@ -1690,7 +1690,7 @@ Gra got close to the cave, and found something peculiar: Sui walking into the ca
 
 Sui disappeared into the cave. He didn’t seem to be holding any water containers or anything.
 
-“Have I been staring at the moon for too long?” Gra walked briskly into the cave, passing the side path, and going straight for the metal door he “installed” the first time he entered. He knocked.
+“Have I been staring at the moon for that long?” Gra walked briskly into the cave, passing the side path, and going straight for the metal door he “installed” the first time he entered. He knocked.
 
 “What’s the password?”
 
@@ -1706,11 +1706,11 @@ Sui disappeared into the cave. He didn’t seem to be holding any water containe
 
 “You got it, boss.”
 
-Gra carried the deer carcass to the campfire. As he set it down, the kobolds squealed in joy, tugging and tearing at it. Gra shooed them away. “This is for dinner tonight. No touching until the stew’s done.”
+Gra carried the deer carcass to the campfire. As he set it down, the kobolds squealed in joy, tugging and tearing at it. Gra shooed them away. “This is for dinner tonight. No touching until the stew is done.”
 
 The kobolds all pulled their hands back.
 
-“Sylla?”
+“Sylla?” Gra turned to a blue-hooded kobold.
 
 “Yes, …boss?” Sylla sat on a bench.
 
@@ -1724,7 +1724,7 @@ Sylla nodded. “You heard him! Claws off!”
 
 “Thank you, Sylla.”
 
-Gra walked down the north tunnel that led to three different side rooms, the last one being the treasure room. When he heard the sound of coins clinging wildly, he stopped and moved along stealthily. He climbed the barrier to the treasure room and found something odd.
+Gra walked down the north tunnel that led to three different side rooms, the last one being the treasure room. When he heard the sound of coins clinging wildly, he stopped and moved along stealthily. He climbed the wall and into the tunnel that led to the treasure room and found something odd.
 
 Sui was standing by himself in the treasure room, looking around as coins flew all around him. Coins popped off the ground and into the air, darting left and right, filling the air with a crazy amount of projectiles. Sui stood calm and still in the center, watching as if it was normal.
 
@@ -1816,7 +1816,7 @@ Gra led Sui to a side room, where he told him to wait. He walked into the main h
 
 “Yeah but he only knows the spell, ‘Raise Voice’,” a kobold scoffed.
 
-“I haven’t seen him cast magic, but I believe.”
+“I haven’t seen him cast magic, but I believe he can.”
 
 “I doubt he does. But why do you believe?”
 
@@ -1838,7 +1838,7 @@ The kobolds stared as they watched the dragonborn come from the north tunnel and
 
 Even Sylla smiled. “I guess there is hope afterall.”
 
-Outside the cave, Gra and Sui walked into the moonlit field. The gently breeze blowed cool night air across their hair.
+Outside the cave, Gra and Sui walked into the moonlit field. The gentle breeze blowed cool night air across their hair.
 
 “Thanks for stopping by, Astalir. I hope to see you again soon.”
 
@@ -1966,9 +1966,9 @@ A drop hit his hand.
 
 “Looks like rain.”
 
-Gra gathered some supplies for the trip, and let the kobolds know that they will be going on a long trip. He put the kobold chieftain in charge, with Sylla as second-in-command. Sui and Gale accompanied him when he left for the tavern.
+Gra gathered some supplies for the trip, and let the kobolds know that they would be going on a long trip. He put the kobold chieftain in charge, with Sylla as second-in-command. Sui and Gale accompanied him when he left for the tavern.
 
-It was pouring rain and lightning as Gra and Sui trekked through the night.
+It was pouring rain and lightning as Gra, Sui, and Gale trekked through the night.
 
 “Can’t this wait until morning?” Sui complained, running behind Gra.
 
@@ -2006,7 +2006,7 @@ The owlbear roared in pain.
 
 Gale laid his hands on Sui, helping him to his feet. His hands glowed, sealing the shoulder gash and the stomache wound.
 
-“Thanks.” Sui charged an arrow and unloaded into the owl bear.
+“Thanks.” Sui drew an arrow and unloaded into the owl bear.
 
 The owlbear roared again, but this time, it sounded more like a cry for help. Four roars replied.
 
@@ -2022,7 +2022,7 @@ Gra swung his axe, nearly hitting Gale. “I don’t advise touching me right no
 
 The bears had gotten close enough that they were basically surrounded.
 
-“Sorry, Gale, it looks like we have to fight this one out.”
+“Sorry, Gale, it looks like we have to fight this one out.” Gra tightened his grip on his battleaxe’s now slippery wet handle.
 
 “This on will fight to dead!” Gale yelled. But then his tone became fearful. “But hopes he has not to.”
 
@@ -2034,7 +2034,7 @@ The bears took off in a sprint at the party, charging the party.
 
 A flash of light, but no thunder. Suddenly the muddy water around the bear’s feet hardened up their legs. The bears tripped on their faces. The mud turned into ice, freezing them in place. A flash of lightning revealed the source: a deer with sparking antlers just on the other side of the stream.
 
-“*Astalir*!” Gra gasped to himself. “Sui! Gale! Focus this owlbear!” Gra roared, landing a hefty blow onto the owl bear.
+“*Astalir*!” Gra gasped to himself. “Sui! Gale! Focus on the owlbear!” Gra roared, landing a hefty blow onto the owl bear.
 
 Gale slashed its legs with his scimitar, slowing it down.
 
@@ -2050,7 +2050,7 @@ It stumbled back, but didn’t dawdle. It got on two feet and came down onto Gra
 
 The bear bled with each slice. It fell down, trying to get up.
 
-One of the bears that crossed the river, choking, but making great time. It rammed its frozen friend, breaking it free from the ice. The two bears roared as they approached, igniting the fire in the wounded bear’s eyes.
+One of the bears that crossed the river came back across it, choking, but making great time. It rammed its frozen friend, breaking it free from the ice. The two bears roared as they approached, igniting the fire in the wounded bear’s eyes.
 
 It got up and slashed Gra in the shoulder. The two other bears charged up from behind it and grabbed each of his hands in between their teeth.
 
@@ -2062,7 +2062,7 @@ Gra’s grip failed him and he dropped his axe.
 
 The bears let go of his hands, stunned on the ground for a moment. The third bear reared up and slashed at him, but its attack just glanced off the golden armor on his chest.
 
-“ROOOH!” Gra picked up his battleaxe. He lifted it up and thrust it into the bear’s skull, splitting it in two.
+“ROOOH!” Gra picked up his battleaxe. He lifted it up and swung it into the bear’s skull, splitting it in two.
 
 “Bleat! Bleeeat!” A painful cry came from across the river.
 
@@ -2072,7 +2072,7 @@ The bear choked and gagged, but made one last swipe at Astalir, knocking him int
 
 “Astalir!” Gra yelled. The red drained from his eyes as fear and worry filled his thoughts.
 
-Meanwhile, the two bears got up from the ground. They lept onto Gra while he was distracted, knocking him to the ground. The golden light armor protected him a few attacks, but the bears broke through it.
+Meanwhile, the two bears got up from the ground. They lept onto Gra while he was distracted, knocking him to the ground. The golden light armor protected him from a few attacks, but the bears broke through it.
 
 Gra was taking blow after blow. His chest looked like it had gone through a meat slicer, and his hands were mangled meat twigs.
 
@@ -2080,13 +2080,15 @@ Gra was taking blow after blow. His chest looked like it had gone through a meat
 
 The bear screeched and clawed at the air, but was unable to hit Gra. One by one, its limbs clung to its body, becoming completely immobilized.
 
-Gra got out from under the bear, seeing a familiar face standing next to the bear. It was none other than… *him*! “Thanks, Gra!”
+Gra got out from under the bear, seeing a familiar face standing next it. It was none other than… *himself*! “Thanks, Gra!”
 
 “You’re welcome, Gra!” His clean, uninjured face smiled back at him.
 
 The bear roared.
 
 “Oh shut up!” New Gra snapped. He looked at the bear aggressively, and it started choking, its esophagus visibly collapsing.
+
+Gra swung his axe through the air, killing it instantly.
 
 A roar replied from across the river. Gra turned to look. The fourth bear slashed the ice structure in the river, and then swam across.
 
