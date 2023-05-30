@@ -2724,24 +2724,276 @@ Oh, and Tiger Gale transformed back into yinglet Gale.
 
 “Of course!” Other Gra scritched him behind the ears.
 
-=== This section is under construction. Don’t read if you don’t want spoilers. ===
+The party ventured onward. They ventured mostly uneventfully through the forest. Along the way, Drathalion spotted a rabbit. She blinked and a blue paw print appeared on the rabbit. She drew her bow and shot at it. She missed and the rabbit ran off, taking the blue glowing pawprint with it, until it got out of range.
 
-[scene 16: lizard shopkeeper feeds party venison]
+When they got a few miles from the mountains, they came across a shop on the side of the road. It was run by a lizardfolk and served mostly fresh meats. “What can I get for you today?”
 
-[scene 17: drath holding back puking, falls in pit, gra saves drath, questions drath]
+“Do you have clams?” Gale asked.
 
-[scene 17b: robin hood goes to don’s shop again]
+“Yes I do.” The lizardfolk said.
 
-[scene 18: party makes campfire]
+“You should get that checked out.” Other Gra retorted.
 
-[scene 19: fake gra leaves, reesu returns]
+“You’re thinking of crabs.” Gra corrected.
 
-[scene 20: gra reesu drath gaslight gale]
+“This one will have clams.”
 
-[scene 21: drath inquires reesu]
+“Here you go.” The lizardfolk gave Gale a bowl of clams.
 
-[scene 22: drath pulls gra aside, becomes astalir]
+Other Gra stepped to the counter. “I would like some bagels. And they better not be a pancake.”
 
-[scene 23: astalir updates map, gra gives astalir gold]
+“Why would it be a pancake?” The lizardfolk asked quizzically.
 
-[scene 24: astalir finds some place to sleep]
+“I got ripped off last time.”
+
+“Ok, would you like it toasted or buttered?”
+
+“Both.”
+
+The lizardfolk made a bagel for Other Gra and handed it to him.
+
+“And what about for you?” The lizardfolk asked Gra.
+
+“I’ll have…” he looked around, making sure Astalir wasn’t near by. He didn’t seem to be hiding in any of the trees. “Venison.”
+
+Drathalion scowled.
+
+“Oh! Me too!” Other Gra chimed in.
+
+Drathalion grumbled and pulled her hood over her face.
+
+“Would you also like venison?” The lizardfolk asked Drathalion.
+
+Drathalion put a hand over her mouth like she was trying to keep from puking. She turned around and ran to the other side of the path. There, she stepped on a strange twig and a hole opened up beneath her. She twisted around and managed to grab the edge of the pit. Gra rushed to get her out.
+
+The lizardfolk listened in on their conversation.
+
+“What’s wrong, Drathalion?” Gra grabbed her hand and pulled her out of the pit.
+
+She winced as he pulled on her casted hand.
+
+“Do you not like venison? Or is there some other reason…” Gra got right up in her face. “…Astalir?”
+
+Drathalion panicked and waved her arms in front of her. “It’s not me! It’s not me!”
+
+Gra gave a slight nod. “Ok, I’m with you. Drathalion.”
+
+Drathalion calmed down. “Thank you.”
+
+The lizardfolk gave the party some food, and then the party left. As they walked away, the lizardfolk food wagon faded away.
+
+And then Don JeLancie’s Department of Joy faded in. And he already had a customer.
+
+“I got the 1000 gold!” Robin Hood exclaimed, pouring coins out of bags on the counter. So far so good, a huge pile of gold. Then he poured the last bag. A bunch of rocks came tumbling out. “What?”
+
+“Nice try,” smirked Don. “But I don’t accept merrymen currency.”
+
+“Merrymen? No, this was supposed to be gold. I got it from that dog person with the pet tiger.”
+
+“Ah, the dog person, yes.” Don chuckled.
+
+“I can’t believe they tricked me like this! Even after knowing I needed it to help my sick grandma!”
+
+“You must be so upset.”
+
+“Indeed I am!” Robin Hood kicked a rock.
+
+“Well, it’s also unfortunate that you tried to offer me counterfeit change, which is against the rules.”
+
+“What are you going to do?”
+
+“A test.” Don’s bell rang and a flash of light struck Robin Hood.
+
+“AAARGGH!” Robin Hood’s silhouette grew twice as large and contorted into a less-than-humanoid shape.
+
+“How delightful!” Don exclaimed at his new creation. “Now, Robin Hood, if that is still your name, you have until dawn to enact your revenge.” Don reached under the table and produced a compass. “Oh! And here is something to help you find them.” He handed the compass to Robin Hood. It had a picture of Drathalion behind the needle.
+
+Robin Hood stomped off down the path.
+
+Hours later, the party found a nice place next to a river. Gra started a campfire and Other Gra started a conversation.
+
+“These people are trustworthy, right?” Other Gra whispered to Gra.
+
+“Yeah, I think so.”
+
+“None play tricks on us?”
+
+“Well…” Gra poked the fire. “None more than usual, and none maliciously.”
+
+“Good enough for me.” Other Gra turned to Gale. “Hey Gale, what would you do if you saw a mythical creature?”
+
+“It would be delightful, maybe.” Gale sat next to Other Gra, petitioning him for pets. “This one holds no grudge against any creature.”
+
+“You have grudges?”
+
+“This one only wishes to kill the undead.”
+
+“Understandable.” Other Gra stroked Gale’s head and shoulders. “What about you, cat?”
+
+“Me?” Drathalion leaned up against a tree. “I would run away.”
+
+“What? Are you a scaredy cat?”
+
+“I mean… run away to get in optimal shooting range. I am a ranger, after all.”
+
+“I see…”
+
+Gra pushed a twig back into the fire. “I would befriend it.” He looked at Drathalion. He groaned.
+
+“You ok?” Drathalion asked.
+
+“Yeah, I just got a splitting headache. Something probably took the chance and got through my skin when it was thin.”
+
+“Well you know the one way to stop it, right?” Other Gra continued petting Gale.
+
+“What’s that?”
+
+“Step on a sharp rock. That way you feel the pain of the rock more than your headache.”
+
+“Good one.”
+
+“Speaking of which, I have to go.”
+
+“And find a sharp rock?”
+
+“Yeah, so I can piss on it.”
+
+“Ah, I gotcha.” Gra let Other Gra go.
+
+Other Gra went deeper into the forest, out of sight of the party.
+
+Gale scooched up next to Gra, asking for pets. As Gra obliged, Gale smiled.
+
+“Want to draw a card?” Gra asked.
+
+“Sure.” Gale drew one, and a top hat appeared on his head. “This one feels fancy.”
+
+“Wow, that’s a nice hat.”
+
+“Thanks! More pets?”
+
+“Sorry, I can’t pet your head when there’s a hat on it.”
+
+“This one laments getting hat.”
+
+Out of the bushes, something came through. It wasn’t Other Gra, but a little girl.
+
+“Who is that one?” Gale pointed.
+
+“Her? She’s been with us this entire time.” Gra stated.
+
+“I don’t remember them.” Drathalion looked puzzled.
+
+“They’ve been, here, this entire, time.” Gra winked at her.
+
+“Oh!” Drathalion’s eyes lit up. “Right! Yes, they *have* been here this whole time!”
+
+Gra nodded.
+
+Gale stared at her. “What?”
+
+“Can you remind me your name?” Drathalion asked.
+
+“You forgot already?” The girl asked.
+
+“My memory is bad.”
+
+“This one confuse. This one Gra?”
+
+“No I’m Gra.”
+
+“But she Gra, too.”
+
+“No, she’s Reesu.”
+
+“What?” Gale was getting flustered. “Come pet this one now. This one will find truth instantly.”
+
+Reesu sat next to Gale. Her hands didn’t move, but Gale’s fur bent and swayed like he was being petted.
+
+“Ah yes! She pet like Gra. This one Gra. No no Reesu, two Gras.”
+
+Gra crossed his arms. “She was with us at the battle with the owlbear.”
+
+“No, this one remembers two gras.” Gale gave in to the pets. “Ok, ok. As long as you give good pets, this one no question.”
+
+“Maybe you’ll remember me tomorrow.” Reesu pet Gale as his eyes got heavy.
+
+“Sleep on it.” Gra agreed.
+
+“This one will go to sleep, yes, and then….” Gale fell asleep, head resting in Reesu’s lap.
+
+Drathalion sat next to Reesu and whispered to her. “How do you do that?”
+
+“It’s easy,” Reesu explained. “Just pet him very gently and he’ll go right to sleep.”
+
+“No, not that. How do you change your voice?”
+
+Reesu laughed. “I can’t change my voice.”
+
+Drathalion stared at her. “Hmm… ok. Do you know who I am?”
+
+“You’re a cat.”
+
+“Yes, good.” Drathalion motioned to Gra. “I need a word with you.” She led him to a tree that blocked the party’s sight of her.
+
+Gra accompanied her.
+
+Drathalion disappeared, and underneath, a deer took her place. The deer got down on all fours, then lifted its front right leg up. It had a cast on it that had been wrapped by a friend who had affectionately written “\<3 Jodi”. The deer breathed a sigh of relief. “Thank you.”
+
+“Astalir!” Gra whispered. He petted the top of his head. “You’re speaking with me, that’s new, and very welcome. How are you holding up?”
+
+“Healing is slow, it’s scarred.” He pumped his casted leg. “Can I see the map?”
+
+Gra took it out and it floated over to Astalir. A pen floated out of his fur and they both pinned against a tree. The pen drew an angry face in the forest where they encountered Robin Hood. Then the pen flew back to Astalir, and the map floated back into Gra’s hand.
+
+“You don’t want to run into Robin Hood again?” Gra lightly chuckled.
+
+“I don’t think he’d be pleased to run into us again either.”
+
+“Speaking of sharing the wealth, here’s your cut.” Gra handed him a bag with 200 gold. “This is for the kobold quest.”
+
+“Thanks, but I didn’t actually help you with it.”
+
+Gra shrugged. “Eh, ok, think of it as a thank you for saving our butts from the bears.” Gra sat down against the tree.
+
+Astalir laughed. “Ok, that works. By the way, here’s your 50 gold back.” Astalir floated 50 gold into Gra’s hands as he laid down next to Gra. He rested his head against the corner where Gra and the tree met.
+
+“Thanks.”
+
+“Hey, Gra?”
+
+“Yeah?”
+
+“I can’t… I can’t…”
+
+“It’s ok, Astalir, you can trust me.”
+
+“I can’t sleep.”
+
+“Why not?”
+
+“If I go to sleep, I lose my disguise. I don’t trust the party to know I’m Astalir.”
+
+“I’m sure it’ll be ok…”
+
+“I don’t trust them.”
+
+“Ok, it’s ok, Astalir.” Gra patted him on the head. “I’ll stand guard for you, make sure they don’t see you.”
+
+“Thank you.”
+
+“I can’t sleep either.”
+
+“Paranoia too?”
+
+“Just got a cup of coffee with that keeps me up.”
+
+“Must’ve been one strong cup.”
+
+“Yeah, it was.” Gra patted his back. “You go on to sleep now. I’ll keep you safe.”
+
+“Thanks, Gra.”
+
+“Sleep well, buddy.”
+
+Don JeLancie clasped his hands enthusiastically. He was still viewing Astalir through the fly-eyed goggles. “Oh ho ho! This’ll be quite entertaining! I can’t wait for Robin Hood to get there!”
