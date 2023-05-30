@@ -72,7 +72,7 @@
     },
     {
         "name": "Grarthta Swanfallow",
-        "nicknames": ["Gra"],
+        "nicknames": ["Gra","half-orc"],
         "portrait": "",
         "player": "legomike5",
         "race": "Orc",
@@ -105,6 +105,42 @@
         "height": "4'0\"",
         "description": "Paladin of Light, looks like a tiny kangaroo",
         "specialty": "This one's talent is light"
+    },
+    {
+        "name": "Reesu",
+        "nicknames": ["Other","New"],
+        "portrait": "",
+        "player": "Meldia",
+        "race": "Oni",
+        "class": "Warlock",
+        "age": 20,
+        "height": "5'1\"",
+        "description": "Little woman who can inexplicably grapple and lift bears",
+        "specialty": "Immobilizing enemies"
+    },
+    {
+        "name": "Don JeLancie",
+        "nicknames": ["Don","JeLancie","shopkeeper"],
+        "portrait": "",
+        "player": "Centaurus (DM)",
+        "race": "Human?",
+        "class": "Shopkeeper",
+        "age": 75,
+        "height": "6'0\"",
+        "description": "Well-kept shopkeeper with a crazy style and a crooked grin",
+        "specialty": "Enchanting items that he sells"
+    },
+    {
+        "name": "Robin Hood",
+        "nicknames": ["Robin","Hood","merry","merrymen"],
+        "portrait": "",
+        "player": "Centaurus (DM)",
+        "race": "Human",
+        "class": "Ranger",
+        "age": 35,
+        "height": "5'9\"",
+        "description": "Wears green clothes and hat with feather in it. Never goes anywhere without his merrymen.",
+        "specialty": "Taking from the rich to give to the poor."
     },
     {
         "name": "template",
