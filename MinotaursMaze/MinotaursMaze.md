@@ -2172,8 +2172,6 @@ Gra sighed. “I hope you’re alright out there, wherever you are.”
 
 # Chapter 7 – The Cat’s Coat
 
-=== This chapter is under construction. Wait for the official announcement of completion please ===
-
 On the side of the road this fine summer’s day, a little old shopkeeper, who was most definitely your average shopkeeper, set up shop along the side of the road. His wagon of supplies was parked and blocked, his display table was set up, and his most lucrative items were on full display. Now all he needed was some guinea pigs—uh, customers. He needed customers.
 
 The first one of the day made a grand entrance: a blue swirling smoke sphere grew into a portal between some trees, and out stepped a humanoid silhouette. In a brilliant flash of light, the portal vanished. A black-furred tabaxi with green eyes, wearing a hood, approached the shopkeeper’s stand.
