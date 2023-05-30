@@ -119,6 +119,18 @@
         "specialty": "Immobilizing enemies"
     },
     {
+        "name": "Drathalion Treescorn",
+        "nicknames": ["Drathalion","cat"],
+        "portrait": "",
+        "player": "shieldgenerator7",
+        "race": "Tabaxi",
+        "class": "Ranger",
+        "age": 34,
+        "height": "5'10\"",
+        "description": "A black, hooded cat with green eyes",
+        "specialty": "Sniping from the shadows"
+    },
+    {
         "name": "Don JeLancie",
         "nicknames": ["Don","JeLancie","shopkeeper"],
         "portrait": "",
