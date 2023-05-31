@@ -1473,6 +1473,14 @@ Miyu shrugged. “You didn’t need to go, you’re fine. Where to?”
 
 # Chapter 5 – The Enchanted Feast
 
+=== ===
+
+=== This chapter under construction. ===
+
+=== Please wait for the official completion announcement ===
+
+=== ===
+
 While Miyu and Johnny went to meet The General, and Armstig went shopping for an aurastone, Selena journeyed to the forest.
 
 She walked through the dense foliage, bushes, and grass, in search of some large animal to hunt. And she found it: two bears and their two cubs.
@@ -1490,3 +1498,29 @@ She could barely stand up, and her wounds hurt really bad. She trudged away as f
 “That was really stupid, Selena,” she scolded herself. “Hunting bears by yourself? What were you thinking?”
 
 She walked all the way back to town.
+
+=== UNDER CONSTRUCTION ===
+
+[scene 2: roth goes to The General’s house]
+
+[scene 3: johnny and roth find selena, johnny takes her to healer]
+
+[scene 4: roth finds miyu]
+
+[scene 5: miyu eats at Enchanted Feast and feeds Garry]
+
+[scene 6: miyu goes to plant shop]
+
+[scene 7: armstig finds party]
+
+[scene 8: party hires enchanted fiest chef]
+
+[scene 9: party doesn’t hire mage]
+
+[scene 10: party hires captain navigator]
+
+[scene 11: armstig finds johnny and selena and brings them to ship]
+
+[scene 12: titus gets booze, roth gets jerky]
+
+[scene 13: party sets sail to withering woods]
