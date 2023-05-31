@@ -85,7 +85,7 @@
     {
         "name": "Grarthta Swanfallow",
         "nicknames": ["Gra","half-orc"],
-        "portrait": "",
+        "portrait": "portraits/grarthta_swanfallow.png",
         "player": "legomike5",
         "race": "Orc",
         "class": "Barbarian Path of the Berzerker",
@@ -133,7 +133,7 @@
     {
         "name": "Drathalion Treescorn",
         "nicknames": ["Drathalion","cat"],
-        "portrait": "",
+        "portrait": "portraits/DrathalionTreescorn.png",
         "player": "shieldgenerator7",
         "race": "Tabaxi",
         "class": "Ranger",
@@ -141,6 +141,18 @@
         "height": "5'10\"",
         "description": "A black, hooded cat with green eyes",
         "specialty": "Sniping from the shadows"
+    },
+    {
+        "name": "Max G",
+        "nicknames": ["centaur", "Max"],
+        "portrait": "portraits/max.png",
+        "player": "Centaurus (DM)",
+        "race": "Centaur",
+        "class": "Quest giver",
+        "age": 23,
+        "height": "5'9\"",
+        "description": "White centaur with blue and green hair",
+        "specialty": "Giving quests, shooting lightning"
     },
     {
         "name": "Don JeLancie",
