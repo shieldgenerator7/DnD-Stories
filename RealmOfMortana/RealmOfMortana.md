@@ -114,9 +114,9 @@ Johnny and Armstig browse the shop while she cleans up.
 
 “What’s this?” Selena points to a blob with tentacles sitting in a pot.
 
-Miyu dropped some flies into its beak. “Oh this? This is Gary.”
+Miyu dropped some flies into its beak. “Oh this? This is Garry.”
 
-“I see.” Selena watched “Gary” eat the flies.
+“I see.” Selena watched “Garry” eat the flies.
 
 Miyu the Spider Lady cleaned up her shop and met them outside. Then she notices a red-haired human getting kicked out of a bar across the street. “Titus!”
 
@@ -1360,7 +1360,7 @@ Armstig laid down in his bunk. After a while, his bunk began to shake. “AWOOOO
 
 A week later, the party arrives in Auramere.
 
-Miyu sets Gary on her back and carries the treasure chest in her arms. Johnny and Armstig follow her. The people of the town stare at Miyu’s spider body.
+Miyu sets Garry on her back and carries the treasure chest in her arms. Johnny and Armstig follow her. The people of the town stare at Miyu’s spider body.
 
 Miyu asks a shop keeper on the side of the road, “Hello, do you know where The General might be?”
 
@@ -1467,6 +1467,6 @@ Miyu shrugged. “You didn’t need to go, you’re fine. Where to?”
 
 “Yeah, it’s an island near here. There’s remains of a dead civilization there. We’re going to search for artifacts for our dear friend The General.”
 
-“Withering Woods? Sounds gloomy.” Armstig slapped away Gary tentacles that tried to grab his aurastone.
+“Withering Woods? Sounds gloomy.” Armstig slapped away Garry tentacles that tried to grab his aurastone.
 
 “Dying plants, decaying bodies, undead, and the unsettled. It’ll be dangerous for sure. Make sure you’re prepared.”
