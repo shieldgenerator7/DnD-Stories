@@ -1470,3 +1470,23 @@ Miyu shrugged. “You didn’t need to go, you’re fine. Where to?”
 “Withering Woods? Sounds gloomy.” Armstig slapped away Garry tentacles that tried to grab his aurastone.
 
 “Dying plants, decaying bodies, undead, and the unsettled. It’ll be dangerous for sure. Make sure you’re prepared.”
+
+# Chapter 5 – The Enchanted Feast
+
+While Miyu and Johnny went to meet The General, and Armstig went shopping for an aurastone, Selena journeyed to the forest.
+
+She walked through the dense foliage, bushes, and grass, in search of some large animal to hunt. And she found it: two bears and their two cubs.
+
+“This’ll last us for months!” Selena wielded her maul in both hands and charged in on the four bears.
+
+The blade of her axe hit the mama bear clean in the back. A lightning bolt arced from the maul to the bear, singing it, and a beam of light struck the bear in the spot, burning it.
+
+The bear staggered, nearly dead. But its partner was angry. It ran at Selena, biting her shoulder, and slashing her side. The injured bear came back and slashed at her too. The first bear grabbed her in its mouth and tossed her up against a tree.
+
+Selena examined the situation. The two cubs were just fine, one of the big bears was uninjured, and one was within one shot range. But so was she.
+
+She could barely stand up, and her wounds hurt really bad. She trudged away as fast as she could, leaving a bloody trail behind her.
+
+“That was really stupid, Selena,” she scolded herself. “Hunting bears by yourself? What were you thinking?”
+
+She walked all the way back to town.
