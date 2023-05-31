@@ -6,6 +6,7 @@
             "Armpit",
             "Namaste"
         ],
+        "portrait": "portraits/armstig.png",
         "player": "shieldgenerator7",
         "class": "Monk, Way of the Open Hand",
         "race": "Worgen",
@@ -17,6 +18,7 @@
         "nicknames": [
             "Johnny"
         ],
+        "portrait": "portraits/johnny.png",
         "player": "Centaurus",
         "class": "Swashbuckler Rogue",
         "race": "Worgen",
