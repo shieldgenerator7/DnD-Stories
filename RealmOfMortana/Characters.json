@@ -9,7 +9,7 @@
         "player": "shieldgenerator7",
         "class": "Monk, Way of the Open Hand",
         "race": "Worgen",
-        "height":"6'0\"",
+        "height": "6'0\"",
         "description": "White fur, yellow eyes, wears shorts. Perky wolf ears, likes to wag his tail."
     },
     {
@@ -20,7 +20,7 @@
         "player": "Centaurus",
         "class": "Swashbuckler Rogue",
         "race": "Worgen",
-        "height":"6'4\"",
+        "height": "6'4\"",
         "description": "Bluish black fur, lawful good. Ex-Marine."
     },
     {
@@ -32,7 +32,7 @@
         "player": "Valgard",
         "class": "Cleric",
         "race": "Spider Lady",
-        "height":"7'4\"",
+        "height": "7'4\"",
         "description": "Owns a flower shop on the island. Long black hair, pig tails. Glasses, two red eyes, red clothes"
     },
     {
@@ -44,7 +44,7 @@
         "player": "Trent Soul",
         "class": "Barbarian",
         "race": "Kobold",
-        "height":"2'11\"",
+        "height": "2'11\"",
         "description": "Small kobold, 50 lbs"
     },
     {
@@ -56,7 +56,7 @@
         "player": "ToraLofeGod",
         "class": "Paladin",
         "race": "Fish Lady",
-        "height":"6'2\"",
+        "height": "6'2\"",
         "description": "Piercings, tattoo on anchor on right eye, scantily clad. Beat Armstig at arm wrestling"
     },
     {
@@ -67,7 +67,7 @@
         "player": "Azuledon",
         "class": "Fighter",
         "race": "KoboHumanld",
-        "height":"5'9\"",
+        "height": "5'9\"",
         "description": "Red hair anime character. Likes to get drunk and start bar fights"
     },
     {
@@ -78,7 +78,7 @@
         "player": "NPC",
         "class": "Ship Captain",
         "race": "Frog person",
-        "height":"3'1\"",
+        "height": "3'1\"",
         "description": "Small frog person, about same height as Roth. Owns the The Soggy Toad, a dingy boat vessel. He’s also the captain. Prefers to avoid participating in combat and food fights."
     },
     {
@@ -89,7 +89,7 @@
         "player": "NPC",
         "class": "Plant Friend",
         "race": "Tentacle Plant?",
-        "height":"1'0\"?",
+        "height": "1'0\"?",
         "description": "Miyu’s pet “plant”. She brought him aboard the boat on their sea journey and now he’s an honorary crew member. He sits in a potted plant with outstretching purple tentacles. In the center, he has a yellow parrot-like beak."
     }
 ]
