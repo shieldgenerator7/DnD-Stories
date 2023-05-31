@@ -59,13 +59,25 @@
         "specialty": "Healing"
     },
     {
+        "name": "Trent",
+        "nicknames": [],
+        "portrait": "",
+        "player": "Trent Soul",
+        "race": "Dragonborn",
+        "class": "Ranger",
+        "age": 20,
+        "height": "6'0\"",
+        "description": "undescript dragonborn",
+        "specialty": "interrupting challenges"
+    },
+    {
         "name": "Sui",
         "nicknames": ["dragonborn"],
         "portrait": "",
         "player": "Trent Soul",
         "race": "Dragonborn",
         "class": "Ranger Drakewarden",
-        "age": 30,
+        "age": 20,
         "height": "6'0\"",
         "description": "Yellow-scaled dragonborn with a bow and arrow. Lashes out because he's insecure",
         "specialty": "Rapidfire Bow & Arrow"
