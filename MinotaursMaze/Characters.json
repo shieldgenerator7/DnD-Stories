@@ -2,7 +2,7 @@
     {
         "name": "Astalir",
         "nicknames": ["deer", "lanky"],
-        "portrait": "",
+        "portrait": "astalir.png",
         "player": "shieldgenerator7",
         "race": "Deerkin",
         "class": "Rogue Arcane Trickster",
