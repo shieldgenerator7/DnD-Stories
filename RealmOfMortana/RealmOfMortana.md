@@ -1008,6 +1008,8 @@ Miyu shot him a smile and patted him on the head.
 
 # Chapter 4 – The Cum’s Nest
 
+CONTENT WARNING: mild bodily fluid gross out
+
 The party sails on the boat for several weeks.
 
 One morning, while Armstig and Johnny were sitting and balancing on the bowsprit for their daily mediation session, a fish swims under them. Armstig catches it out of the corner of his eye. His concentration breaks and he stares down into the water. A human-size fish swims elegantly below, but the water refraction makes it hard to see.
