@@ -1429,7 +1429,7 @@ The shopkeeper smirked. “I see one resonates with you.”
 
 “Are you… are you spying on me?”
 
-“I get asked that a lot.” The shopkeeper chuckled. “The book is 15 silver.” She handed it to Armstig, who tossed her a gold piece. “Thanks for the tip. Don’t worry, your secret is safe with me.” She winked, handing him a brown paper cover.
+“I get asked that a lot.” The shopkeeper chuckled. “The book is 10 silver.” She handed it to Armstig, who tossed her a gold piece. “Thanks for the business. Don’t worry, your secret is safe with me.” She winked, handing him a brown paper cover.
 
 “Thanks.” Armstig installed the cover on the book, masking what he was reading. He wandered around the streets, engrossed by the pictures and the words in the book. The pictures were graphic, *very* graphic, to the point that Armstig grew a bulge under his shorts. He bumped into someone just then. “Oh, sorry!”
 
@@ -1449,7 +1449,7 @@ Then the book cover slipped off the side of the book that Armstig wasn’t holdi
 
 “What? No…” Armstig put the cover back on and hid it behind his back, revealing his bulge. “This is just… uh… something I found on the… ground.” Ears pulled back, he pulled his tail up between his legs to cover his groin.
 
-Miyu laid a hand on his shoulder. “As long as there’s no mess, it’s none of my business, Armstig. Where did you get that aurastone? I need to get this appraised.” She pulled out a giant aurastone ten times the size of Armstig’s.
+Miyu laid a hand on his shoulder. “As long as there’s no mess, and you’re not doing it in public, it’s none of my business, Armstig. Where did you get that aurastone? I need to get this appraised.” She pulled out a giant aurastone ten times the size of Armstig’s.
 
 His eyes went wide. “That’s so pretty!”
 
