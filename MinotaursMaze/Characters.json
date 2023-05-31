@@ -1,7 +1,10 @@
 [
     {
         "name": "Astalir",
-        "nicknames": ["deer", "lanky"],
+        "nicknames": [
+            "deer",
+            "lanky"
+        ],
         "portrait": "portraits/astalir.png",
         "player": "shieldgenerator7",
         "race": "Deerkin",
@@ -13,7 +16,9 @@
     },
     {
         "name": "Jodi",
-        "nicknames": ["firbolg"],
+        "nicknames": [
+            "firbolg"
+        ],
         "portrait": "",
         "player": "Status/Enon",
         "race": "Firbolg",
@@ -25,7 +30,10 @@
     },
     {
         "name": "Silber Posten",
-        "nicknames": ["robot", "Silber"],
+        "nicknames": [
+            "robot",
+            "Silber"
+        ],
         "portrait": "",
         "player": "Valgard",
         "race": "Warforge",
@@ -37,7 +45,9 @@
     },
     {
         "name": "Micro",
-        "nicknames": ["bugbear"],
+        "nicknames": [
+            "bugbear"
+        ],
         "player": "Blackdrow662",
         "race": "Bugbear",
         "class": "Barbarian",
@@ -48,7 +58,9 @@
     },
     {
         "name": "Dralth",
-        "nicknames": ["cleric"],
+        "nicknames": [
+            "cleric"
+        ],
         "portrait": "",
         "player": "Death",
         "race": "Dragonborn",
@@ -72,7 +84,9 @@
     },
     {
         "name": "Sui",
-        "nicknames": ["dragonborn"],
+        "nicknames": [
+            "dragonborn"
+        ],
         "portrait": "",
         "player": "Trent Soul",
         "race": "Dragonborn",
@@ -84,7 +98,10 @@
     },
     {
         "name": "Grarthta Swanfallow",
-        "nicknames": ["Gra","half-orc"],
+        "nicknames": [
+            "Gra",
+            "half-orc"
+        ],
         "portrait": "portraits/grarthta_swanfallow.png",
         "player": "legomike5",
         "race": "Orc",
@@ -96,7 +113,9 @@
     },
     {
         "name": "Sylla",
-        "nicknames": ["kobold"],
+        "nicknames": [
+            "kobold"
+        ],
         "portrait": "",
         "player": "NPC",
         "race": "Kobold",
@@ -108,7 +127,10 @@
     },
     {
         "name": "Gale Winds",
-        "nicknames": ["Gale","yinglet"],
+        "nicknames": [
+            "Gale",
+            "yinglet"
+        ],
         "portrait": "",
         "player": "Theguydude97",
         "race": "Yinglet",
@@ -120,7 +142,10 @@
     },
     {
         "name": "Reesu",
-        "nicknames": ["Other","New"],
+        "nicknames": [
+            "Other",
+            "New"
+        ],
         "portrait": "",
         "player": "Meldia",
         "race": "Oni",
@@ -132,7 +157,10 @@
     },
     {
         "name": "Drathalion Treescorn",
-        "nicknames": ["Drathalion","cat"],
+        "nicknames": [
+            "Drathalion",
+            "cat"
+        ],
         "portrait": "portraits/DrathalionTreescorn.png",
         "player": "shieldgenerator7",
         "race": "Tabaxi",
@@ -144,7 +172,10 @@
     },
     {
         "name": "Max G",
-        "nicknames": ["centaur", "Max"],
+        "nicknames": [
+            "centaur",
+            "Max"
+        ],
         "portrait": "portraits/max.png",
         "player": "Centaurus (DM)",
         "race": "Centaur",
@@ -156,7 +187,11 @@
     },
     {
         "name": "Don JeLancie",
-        "nicknames": ["Don","JeLancie","shopkeeper"],
+        "nicknames": [
+            "Don",
+            "JeLancie",
+            "shopkeeper"
+        ],
         "portrait": "",
         "player": "Centaurus (DM)",
         "race": "Human?",
@@ -168,7 +203,12 @@
     },
     {
         "name": "Robin Hood",
-        "nicknames": ["Robin","Hood","merry","merrymen"],
+        "nicknames": [
+            "Robin",
+            "Hood",
+            "merry",
+            "merrymen"
+        ],
         "portrait": "",
         "player": "Centaurus (DM)",
         "race": "Human",
@@ -180,7 +220,9 @@
     },
     {
         "name": "template",
-        "nicknames": ["temp"],
+        "nicknames": [
+            "temp"
+        ],
         "portrait": "image.png",
         "player": "the_dm_lol",
         "race": "Human",
