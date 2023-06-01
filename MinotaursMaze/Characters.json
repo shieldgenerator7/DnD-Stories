@@ -132,7 +132,8 @@
             "Gale",
             "yinglet"
         ],
-        "portrait": "",
+        "portrait": "portraits/gale_winds.png",
+        "portraitCredit":"WelcomeTaco (for Theguydude97)",
         "player": "Theguydude97",
         "race": "Yinglet",
         "class": "Paladin",
