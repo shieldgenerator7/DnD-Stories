@@ -2158,7 +2158,7 @@ Sui joined up. “I’m fine, but…” He turned an empty vial upside down. “
 
 “This way.” Gra led.
 
-Gra, Sui, Gale, and New Gra journeyed through the rain and dark to the tavern. They tended to their wounds. Gra got his fingers bandaged up until Gale had a good rest. They got some food and ale, had some fun getting the edge off after a stressful encounter, and then headed to bed. Gra paid for the rooms.
+Gra, Sui, Gale, and New Gra journeyed through the rain and dark to the tavern. They tended to their wounds. Gra got his fingers bandaged up until Gale could have a good rest. They got some food and ale, had some fun getting the edge off after a stressful encounter, and then headed to bed. Gra paid for the rooms.
 
 After everyone had gone to bed, Gra walked out to the tavern porch. He let the rain pelt him as he stepped in the light puddles. He looked at the staircase. There was no old man there asking for loose change, just an empty spot of dirt.
 
