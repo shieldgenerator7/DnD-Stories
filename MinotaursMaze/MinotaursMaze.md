@@ -2995,3 +2995,57 @@ Astalir laughed. “Ok, that works. By the way, here’s your 50 gold back.” A
 “Sleep well, buddy.”
 
 Don JeLancie clasped his hands enthusiastically. He was still viewing Astalir through the fly-eyed goggles. “Oh ho ho! This’ll be quite entertaining! I can’t wait for Robin Hood to get there!”
+
+# Chapter 8 – Robin Hood
+
+=== 2023-05-31 ===
+
+=== this chapter under construction ===
+
+=== please wait for the official announcement of completion ===
+
+[scene 1: bandits attack gra and astalir, gra sneaks weapon out]
+
+[scene 2: astalir gets shot, turns into drathalion, climbs tree]
+
+[scene 3: assassin dodges attacks from gra and drath]
+
+[scene 4: sui gets surrounded, uses acid potion, shoots and scares off 2 bandits]
+
+[scene 5: bandits miss sleeping gale]
+
+[scene 6: reesu hides behind rock, eldritch blasts bandits, tidal waves a group]
+
+[scene 7: reesu crosses stream, thundersteps a bandit, teleports to assassin, grapples assassin]
+
+[scene 8: gra drath dmg assassin, reesu hugs her to death]
+
+[scene 9: party finishes off bandits]
+
+[scene 10: robin hood approaches party, asks for money]
+
+[scene 11: party cripples robin hood]
+
+[scene 12: robin hood calls merry men]
+
+[scene 13: reesu tidal waves all merry men away]
+
+[scene 14: party beats up robin hood, sui headshots him]
+
+[scene 15: reesu pulls head off robin hood, stuffs it in gra’s bag]
+
+[scene 16: don appears with his wagon]
+
+[scene 17: reesu drath search bodies, reesu finds gold, drath finds map: Canadia]
+
+[scene 18: gra sui go to don to upgrade weapons, gra uses 2 gold patches from cloak]
+
+[scene 19: drath buys winter tent from don]
+
+[scene 20: reesu gets stone from don, don turns it into arrowhead necklace]
+
+[scene 21: don cleans blood from party, takes robin hood’s body]
+
+[scene 22: drath sets up tent, turns into astalir, goes to sleep]
+
+[scene 23: gale wakes up, wonders what happened]
