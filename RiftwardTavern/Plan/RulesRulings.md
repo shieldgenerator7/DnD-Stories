@@ -79,6 +79,10 @@ Credit: <https://www.youtube.com/watch?v=5FiThfhnPJs&lc=Ugzj6cmr524mZyoOcNJ4AaAB
 
 A player may willingly fail any saving throw or ability check they make, except for Constitution saving throws.
 
+A player may exert themselves to add their level to a saving throw or ability check, taking 1 point of exhaustion.
+
+You gain a bonus to saving throws and ability checks equal to your sated points divided by 5, rounded up.
+
 # Conditions
 
 ## Rooted
@@ -118,7 +122,17 @@ Example: 3 crit points gives you +3 to hit, and rolling a 17, 18, 19, or 20 on y
 
 ## Exhaustion
 
-Each point of exhaustion causes you to suffer -1 to hit and -1 CON. If exhaustion causes your CON to go to 0, you die.
+Each point of exhaustion causes you to suffer -1 to hit and -1 CON. If exhaustion causes your CON to go to 0, you die. It also reduces your movement speed by -1ft. Your movement speed is rounded down to the nearest 5ft, with a minimum of 10ft.
+
+## Sated
+
+Sated points track how well-nourished you are.
+
+You gain a bonus to saving throws and ability checks equal to your sated points divided by 5, rounded up.
+
+Whenever you gain sated points, if your sated points are higher than your Constitution plus your Constitution modifier, you must succeed on a Constitution saving throw with a DC equal to your sated points, or puke up your food and lose half of your sated points.
+
+At the end of every hour, you lose 1 sated point.
 
 # Exertion
 
@@ -130,8 +144,52 @@ Example: A paladin wants to cast Divine Smite at 4th level, but doesn’t have a
 When you make a weapon attack, you can exert yourself to double your attack roll. Then you gain X points of exhaustion, where X is the resulting attack value divided by 10, rounded up.  
 Example: A rogue rolls a 12 for attack, but it won’t hit, so the rogue exerts himself to double his attack roll to 24, which hits. Then he takes 3 points of exhaustion.
 
+You may exert yourself to add your level to a saving throw or ability check, taking 1 point of exhaustion. You can only exert yourself once per saving throw or ability check.
+
+You lose points of exhaustion when you finish a short or long rest.
+
 # Magic Items
 
 A lot of magic items have words written on them that activate them. In order activate them, you must be touching the magic item and say the magic words. You do not need to be touching the magic words on the item.
 
 When an item mentions being activated by magic words, remember that you need to be touching the item for it to activate.
+
+# Ties
+
+When an attack roll ties with an AC, the attack hits.
+
+When a grapple check ties with the dodging Acrobatics check, the grapple check wins.
+
+When a saving throw ties with a saving throw, the saving throw is a success.
+
+In general, when an ability check ties with the DC, the ability check succeeds.
+
+# Hit Dice
+
+Hit dice can be spent to increase an attack roll. When you make an attack roll, you can spent a hit die to add its maximum value to the attack roll.
+
+When you get hit by an attack, you can spend a hit die to add its maximum value to your AC until the beginning of your next turn.
+
+When you finish a short rest you can spend any number of hit dice. You heal for their total maximum value.
+
+When you finish a long rest you can spend any number of hit dice. You heal for their total maximum value plus your Constitution modifier.
+
+You can regain hit dice from a long rest or by eating.
+
+# Resting
+
+## Short Rest
+
+A short rest is at least 1 hour long total, with no more than 10 minutes of interruption total.
+
+When you finish a short rest you can spend any number of hit dice. You heal for their total maximum value. You lose 1 point of exhaustion. You can spend sated points up to your Constitution modifier to heal for the amount of sated points spent.
+
+## Long Rest
+
+A long rest is at least 8 hours long total, with no more than 1 hour of interruption total.
+
+When you finish a long rest you can spend any number of hit dice. You heal for their total maximum value plus your Constitution modifier. Then you regain 1 hit die. You lose 4 points of exhaustion. Then, if you have no points of exhaustion, you regain 1 hit die. You may then spend any number of sated points to heal for the same amount. If your sated points were equal to or greater than you Constitution when you started the long rest, you regain 1 additional hit die and lose an additional 4 points of exhaustion.
+
+# Eating & Drinking
+
+As an action, you can eat food or drink water to gain 1 sated point.
