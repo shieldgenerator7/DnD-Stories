@@ -2,33 +2,35 @@
 
 Items that will be helpful on the journey.
 
+Some items are given to you at the start of the adventure. These are marked as starting items.
+
 Some items are legendary and have a legendary item attunement requirement. The first player to meet this requirement gains a level. Other players may also attune to the item by meeting the requirement afterwards, but they don’t gain a level from it.
 
 ## Riftward Tavern Handkerchief
 
-Uncommon
+Starting Item, Uncommon
 
-Protects against magic radiation for 24 hours. Return to a Riftward Tavern location to reset the duration.
+Protects against magic radiation for 24 hours. Return to a Riftward Tavern location to refresh the duration.
 
-If you take lethal damage, it casts Teleport on you and takes you to the last Riftward Tavern location you visited.
+It has a magic word written on it. As an action, you may touch the handkerchief and speak the magic word. Then 1 minute later, the handkerchief teleports every creature touching or wearing it, dead or alive, to the last Riftward Tavern that refreshed it.
 
-Upon leaving a Riftward Tavern location, it becomes boosted for 1 hour, granting you Passage Protection. While moving towards a non-boosted Riftward Tavern Handkerchief, you gain 5x your normal walk speed and +10 to all saving throws. It stops being boosted if time runs out, if you move within 100 ft of a non-boosted Riftward Tavern Handkerchief, or if you deal damage.
+Upon leaving a Riftward Tavern location, it becomes boosted for 1 hour, granting you Passage Protection. While moving towards other Riftward Tavern Handkerchiefs, you gain 5x your normal walk speed and +10 to all saving throws. It stops being boosted if time runs out, if you move within 100ft of a non-boosted Riftward Tavern Handkerchief, or if you deal damage.
 
 Requires attunement. When attuned, it may take the form of a scarf, wristband, collar, belt, or other article of clothing of your choice that has a similar surface area.
 
-*This item is designed to protect travelers from magic radiation and death, and facilitate regrouping after getting picked off.*
+*This item is designed to protect travelers from magic radiation and facilitate regrouping, whether back at the tavern or another location.*
 
 ## Riftward Tavern Map
 
-Rare
+Starting Item, Rare
 
 A paper map that magically updates whenever you enter a Riftward Tavern location. The map shows the area in the vicinity of the tavern. It also shows you where you are on the map.
 
 ## Riftward Tavern Door Knob
 
-Legendary
+Starting Item, Legendary
 
-When placed in a door, it casts Dimension Door on it. The door’s frame then contains a portal to any door also effected by this knob. By knocking on the door and saying the name of the location you want to go to, you can change which Riftward Tavern location the portal opens to. This works even after the doorknob has been removed from the door.
+When placed in a door, it attaches to it and casts Dimension Door on it. The door’s frame then contains a portal to any door also effected by this knob. By knocking on the door and saying the name of the location you want to go to, you can change which Riftward Tavern location the portal opens to. This works even after the doorknob has been removed from the door.
 
 *This is the artifact you use to reconnect the taverns.*
 
@@ -36,18 +38,9 @@ When placed in a door, it casts Dimension Door on it. The door’s frame then co
 
 Uncommon (3), Rare (5), Very Rare (7), Legendary (9)
 
-Requires attunement. When you attune to this ring, choose a spell level up to this ring’s max spell level (based on its rarity). You gain 1 spell slot in that level. Choose a spell from your class’s spell list of that level or below. You may memorize and cast that spell even if you don’t meet the level requirement.
+Requires attunement. When you attune to this ring, choose a spell level up to this ring’s max spell level (based on its rarity). You gain 1 spell slot in that level. Choose a spell from your class’s spell list of that level or below. You may memorize and cast that spell even if you don’t meet the requirements.
 
 Once you expend the spell slot of this ring, you don’t get it back until you complete a long rest.
-
-## Hamgorg’s Hammer
-
-Hammer – Legendary  
-Damage: 1d12 Bludgeoning
-
-\+10 to attack against targets that can’t move
-
-Whenever you attack a target that can’t move with this hammer, make a Strength check with a DC equal to the target’s armor rating. If you succeed, you knock a hole in the target if it is a wall, destroy it if it is a pillar, or cripple it if it is a creature.
 
 ## Lantern of Revealing
 
@@ -57,7 +50,7 @@ Stealth rolls in range have disadvantage, and checks to perceive stealthed creat
 
 Speak the words written on the top in common to turn it on. Speak the words written on the bottom in common to turn it off.
 
-## Tremor Hammer
+## Hamgorg’s Tremor Hammer
 
 1d8 Bludgeoning
 
