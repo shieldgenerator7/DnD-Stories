@@ -1,6 +1,4 @@
-Riftward Tavern Item and Effect Library
-
-# Bosses
+# Riftward Tavern Boss Library
 
 ## Drathalion Treescorn
 
