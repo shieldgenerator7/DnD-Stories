@@ -71,9 +71,9 @@ Your jump height is 3 plus your Strength modifier. You can make this jump from s
 
 # Falling
 
-If a creature would start falling outside their turn, they only fall 10ft, and then fall the remaining distance at the end of their turn. Normal fall distance is capped at 200ft per turn.
+If a creature would start falling outside their turn, they only fall 10ft, and then fall the remaining distance at the end of their turn. Normal fall distance is capped at 40ft per turn.
 
-Credit: <https://youtu.be/5FiThfhnPJs>
+Credit: <https://www.youtube.com/watch?v=5FiThfhnPJs&lc=Ugzj6cmr524mZyoOcNJ4AaABAg>
 
 # Saving Throws & Ability Checks
 
