@@ -2386,21 +2386,21 @@ He was wearing green sleeves and leggings, a brown vest, and a green hat with a 
 
 “Thank you!” Robin Hood took the potion.
 
-Don held it back. “That’ll be 1000 gold.”
+Don held it back. “That’ll be 1700 gold.”
 
 “Oh, of course.” Robin Hood pulled a bag from his belt and tossed it on the counter. “That should be enough.”
 
-Don counted real quick. “My, my. There’s only 800 gold here.”
+Don counted real quick. “My, my. There’s only 1500 gold here.”
 
-“Will you accept 800 gold?”
+“Will you accept 1500 gold?”
 
-“Hmm…” Don thought. “No. The price is still 1025 gold.”
+“Hmm…” Don thought. “No. The price is still 1725 gold.”
 
 “You just increased the price!”
 
-“No, the price has always been 10*50* gold.” Don smugly smiled.
+“No, the price has always been 17*50* gold.” Don smugly smiled.
 
-Robin Hood became cross. “I see what you’re doing, and I don’t like it. But I’ll get you that 1050 gold.” He stormed off.
+Robin Hood became cross. “I see what you’re doing, and I don’t like it. But I’ll get you that 1750 gold.” He stormed off.
 
 “Hagglers.” Don muttered as he put his fly-eyed goggles back on and leaned back in his chair. Drathalion and her party were still on their way to his shop.
 
@@ -2780,9 +2780,11 @@ Drathalion calmed down. “Thank you.”
 
 The lizardfolk gave the party some food, and then the party left. As they walked away, the lizardfolk food wagon faded away.
 
+=============
+
 And then Don JeLancie’s Department of Joy faded in. And he already had a customer.
 
-“I got the 1000 gold!” Robin Hood exclaimed, pouring coins out of bags on the counter. So far so good, a huge pile of gold. Then he poured the last bag. A bunch of rocks came tumbling out. “What?”
+“I got the 1700 gold!” Robin Hood exclaimed, pouring coins out of bags on the counter. So far so good, a huge pile of gold. Then he poured the last bag. A bunch of rocks came tumbling out. “What?”
 
 “Nice try,” smirked Don. “But I don’t accept merrymen currency.”
 
@@ -2802,11 +2804,13 @@ And then Don JeLancie’s Department of Joy faded in. And he already had a custo
 
 “A test.” Don’s bell rang and a flash of light struck Robin Hood.
 
-“AAARGGH!” Robin Hood’s silhouette grew twice as large and contorted into a less-than-humanoid shape.
+“AAARGGH!” Robin Hood’s silhouette grew twice as large as his legs and torso stretched to the sky.
 
-“How delightful!” Don exclaimed at his new creation. “Now, Robin Hood, if that is still your name, you have until dawn to enact your revenge.” Don reached under the table and produced a compass. “Oh! And here is something to help you find them.” He handed the compass to Robin Hood. It had a picture of Drathalion behind the needle.
+“How delightful!” Don exclaimed at his new creation. “Now, Robin Hood, you have about an hour to enact your revenge.” Don reached under the table and produced a compass. “Oh! And here is something to help you find them.” He handed the compass to Robin Hood. It had a picture of Drathalion behind the needle. “Have fun!”
 
 Robin Hood stomped off down the path.
+
+===========
 
 Hours later, the party found a nice place next to a river. Gra started a campfire and Other Gra started a conversation.
 
