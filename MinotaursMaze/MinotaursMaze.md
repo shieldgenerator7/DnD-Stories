@@ -2404,11 +2404,13 @@ Robin Hood became cross. “I see what you’re doing, and I don’t like it. Bu
 
 “Hagglers.” Don muttered as he put his fly-eyed goggles back on and leaned back in his chair. Drathalion and her party were still on their way to his shop.
 
+==================
+
 It wasn’t long before they arrived.
 
 “Greetings! Welcome to Don JeLancie’s Department of Joy. What can I do for you?”
 
-Gra looked over the items displayed on the counter. “Do you have an winter attire?”
+Gra looked over the items displayed on the counter. “Do you have any winter attire?”
 
 “That I do, my friend.” Don pulled a winter coat out from under the counter. “This will keep you warm even in the coldest of places. It comes with gloves, leggings, and hat included.”
 
@@ -2416,45 +2418,65 @@ Gra looked over the items displayed on the counter. “Do you have an winter att
 
 “Ok, that’ll be 100 gold.”
 
-“100 gold each?!” Sui yelled. “Stop ripping us off!” Sui grabbed Don’s coat.
+“100 gold each?!” Sui yelled. “Stop ripping us off!” Sui grabbed Don’s coat and attempted to lift him up.
 
 A bell on Don’s chest rang. With a flash of light, Sui was shrunk down to the size of a coconut. Don caught him in his palm. “You shouldn’t have done that.”
 
-“Put him down.” Gra commanded.
+=== THIS SECTION UNDER CONSTRUCTION FOR REWRITING ===
 
-“Not until he apologizes.”
+“Put me down!”
 
-“Gra said put him down!” Other Gra said. Don started floating into the air.
+“Not until you apologize.”
 
-The bell rang, the light flashed, and Other Gra looked hungry. Don fell back to the ground.
+“Eh! Eh!” Sui loaded his bow and shot a tiny arrow at Don, which bounced uselessly off his clothes.
+
+“Here, I got him.” Gra put his hands out, and Don dropped Sui into his hands. “Sorry for my associate’s aggressive behaviour.”
+
+“Not a problem, as long as you keep him in check.”
+
+“So, about those coats, 90 gold for all 5?”
+
+“The price is still 125 for all 5.”
+
+“But you said it was 100 before.”
+
+“No, I always said it was 150 for all 5.”
+
+Gra stared at him, dismayed. “I’ve got a feeling you’re not being honest with me.”
+
+“Look, can you just lower the price back to 100 gold?” Other Gra butted in.
+
+“No, I will not lower the price below 175.”
+
+Other Gra stood next to the counter, and Don’s jacket scrunched up and he floated into the air. “Look, we just want the jackets. Don’t punish us for our dragonborn’s mistake. We don’t listen to him anyways.”
+
+Don felt around his stomache. His hands couldn’t quite touch his ribs. “Ooh! This is interesting. But yes, you have a point. I will give you a 75 gold discount.”
+
+“That’s not what I—”
+
+Gra laid his hand on Other Gra, cutting him off. “That’s very gracious of you, thank you.”
+
+Other Gra relaxed and Don floated back to the ground.
+
+“I’m glad we could settle that. But, you still broke the rules.” The bell rang and a light flashed. “Perhaps you will learn to keep your hands off me.”
+
+“Are you ok?” Gra asked Other Gra.
 
 Other Gra rubbed his stomach and drooled from his mouth. “Bagels.”
 
-“You’ll put my friends back to normal right now!” Gra slammed his fist on the counter.
-
-With a ring and a flash, Gra’s skin flattened and became see-through. His muscles were visible.
-
-“Gah!” Gra pinched his skin, causing himself to bleed. “My thick skin!”
-
 Drathalion took advantage of the commotion. Eying a particular coat with bubbly features, she snatched it.
 
-“Nuh uh uh.” Don’s bell rang and a light flashed. Drathalion was now a dog person instead of a cat person.
+“Nuh uh uh.” Don’s bell rang and a light flashed.
 
-“Ah!” She screamed. She ran her fingers along her dog tail. It was real, and it was long. She felt her groin, and blushed in surprise. She felt her dog muzzle, which was also long. She felt the top of her head, which had nothing pointy sticking out of it. Her ears drooped to the side of her head. She flicked her fingers. Golden energy flowed through it. She still had her magic.
+Drathalion dropped the bubble coat on the ground. Her fingers hung in a neutral position. She stared at them. “I can’t feel my hands!”
 
-“Good puppy!” Other Gra petted Dog Drathalion’s head. “Does doggy have bagels?”
+“Well that’s what you get for trying to steal.”
 
-“This one is so confused. What is happened?”
+She tried moving her fingers, but they only twitched.
 
-The bell rang and the light flashed. Gale was now a tiger.
+Gra settled down. “I’m sorry for my associate.” He eyed Drathalion. “But can we continue with the purchase?”
 
-“This one not understand. Why is tiger?”
-
-Don shrugged. “Didn’t want you to feel left out.”
-
-Gra settled down. “I’m sorry my associate took aggressive action against you. But can we all settle down and conduct business civilly?”
-
-“Sure, if you keep your friend here in check.” Don tossed Sui to Other Gra.
+“Yes. Let’s.”
 
 Other Gra caught Sui. “Are you a bagel?”
 
@@ -2633,6 +2655,8 @@ Gra nodded. “We will not attempt to aggress you again, Mr. JeLancie.”
 “Would you like to rent a cart with horses? It’s a long travel.” Don held out an ad.
 
 “No, we can walk.” Gra waved him off.
+
+=== END REWRITING CONSTRUCTION ZONE ===
 
 The party left. Gra led the way with his map, followed closely by Dog Drathalion. Other Gra held tiny Sui in one hand, and Tiger Gale’s furry shoulders in the other.
 
@@ -3002,11 +3026,13 @@ Don JeLancie clasped his hands enthusiastically. He was still viewing Astalir th
 
 # Chapter 8 – Robin Hood
 
-=== 2023-05-31 ===
+=== 2023-06-01 ===
 
 === this chapter under construction ===
 
 === please wait for the official announcement of completion ===
+
+“I can’t believe they gave me fake change!” Robin Hood stomped along the path towards Drathalion’s location. His merry men followed closely behind him.
 
 [scene 1: bandits attack gra and astalir, gra sneaks weapon out]
 
