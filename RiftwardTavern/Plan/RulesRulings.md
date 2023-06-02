@@ -6,6 +6,8 @@
 
 When a creature uses its movement to move out of melee range of another hostile creature, the hostile creature may use its reaction to make a melee weapon attack against the moving creature. This reaction may only be taken against a creature that has made an attack against the reacting creature within the last 2 rounds, or against a creature that the reacting creature has made an attack against within the last 2 rounds, or if the reacting creature has not made any melee attacks nor been the target of any melee attacks for the last 2 rounds. The reacting creature must also be conscious and not prone.
 
+When a creature fumbles an attack roll within your melee range, you can use your reaction to make a melee weapon attack against the fumbling creature. You must be conscious and not prone.
+
 ## Initiative
 
 Any player can declare they’re rolling for initiative at any time, in addition to the dm.
@@ -14,15 +16,34 @@ Initiative is automatically rolled when a creature deals damage to another witho
 
 Initiative doesn’t stop once all monsters are dead. Initiative only stops when all players agree to stop initiative.
 
+## Attacking
+
+When you attack with a melee or ranged weapon, you may spend one of your hit dice to add its max value to your attack roll. You may do this before or after it has been determined whether or not the attack hits.
+
 ## Crits
 
 A crit on an attack roll is an automatic success, but you must still check to see if it beats the target’s AC. If the crit does not beat the target’s AC, roll damage like normal. If the crit beats the target’s AC, then the damage roll is automatically set to its max value.
 
-A crit grants you +1 atk against the target, and it lowers the number requirement for a crit by 1.
+Each crit gives you 1 crit point on the target. For each crit point you have on a target, you have +1 to hit against that target, and it lowers the number requirement to crit against that target by 1.  
+Example: 3 crit points on an owlbear gives you +3 to hit against that owlbear, and now rolling a 17, 18, 19, or 20 on your attack roll count as a crit against that owlbear.
+
+If the attack roll is not a crit, but is double the target’s AC or more, it becomes a crit.
 
 ## Fumbles
 
-A fumble on an attack roll is not an automatic failure. It can still beat the target’s AC. If a fumble beats the target’s AC, roll damage like normal, but the target takes half damage.
+A fumble on an attack roll is not an automatic failure. It can still beat the target’s AC. If a fumble beats the target’s AC, roll damage like normal, but the damage is halved, rounded down.
+
+When you fumble, creatures within melee range of you can use their reaction to make a melee weapon attack against you.
+
+If the fumble is double the target’s AC or more, it does not become a crit.
+
+## Dying
+
+When a player drops to 0 hit points, they fall unconscious. If they don’t receive medical attention by the end of their third turn dead, they die.
+
+This rule applies to mobs and bosses as well.
+
+When a creature receives medical attention, their hit points goes up to at least 1. Any amount of healing on a dying creature restores hit points and stabilizes them. When a dying creature is stabilized, they gain the Sleeping status.
 
 ## Death
 
@@ -47,6 +68,12 @@ Standing long jump: Make an Athletics check and half it, rounding down to the ne
 ## High Jump
 
 Your jump height is 3 plus your Strength modifier. You can make this jump from standing or from a running start.
+
+# Falling
+
+If a creature would start falling outside their turn, they only fall 10ft, and then fall the remaining distance at the end of their turn. Normal fall distance is capped at 200ft per turn.
+
+Credit: <https://youtu.be/5FiThfhnPJs>
 
 # Saving Throws & Ability Checks
 
@@ -76,3 +103,35 @@ You lose this status when the following things happen:
 -   Your cover or other method of hiding becomes unavailable to you
 
 If a creature that notices you reveals you to another creature, that other creature gets advantage on their Perception ability check to notice you.
+
+# Stacks
+
+Creatures can gain stacks of an effect. These stacks can come from game mechanics (ex: crit points), items (ex: attunement points), or other things.
+
+By default, you lose all stacks of everything on death.
+
+## Crit Points
+
+Each crit point gives you +1 to hit and +1 crit range.
+
+Example: 3 crit points gives you +3 to hit, and rolling a 17, 18, 19, or 20 on your attack roll count as a crit.
+
+## Exhaustion
+
+Each point of exhaustion causes you to suffer -1 to hit and -1 CON. If exhaustion causes your CON to go to 0, you die.
+
+# Exertion
+
+You can exert yourself in tight situations to give yourself a temporary edge, and then gain points of exhaustion.
+
+If you know a spell but don’t have a spell slot to cast it, you can exert yourself to cast it. When the spell is done casting, you take X points of exhaustion, where X is the spell slot used to cast the spell.  
+Example: A paladin wants to cast Divine Smite at 4th level, but doesn’t have any 4th level spell slots available, so he exerts himself to cast the spell. Then he takes 4 points of exhaustion.
+
+When you make a weapon attack, you can exert yourself to double your attack roll. Then you gain X points of exhaustion, where X is the resulting attack value divided by 10, rounded up.  
+Example: A rogue rolls a 12 for attack, but it won’t hit, so the rogue exerts himself to double his attack roll to 24, which hits. Then he takes 3 points of exhaustion.
+
+# Magic Items
+
+A lot of magic items have words written on them that activate them. In order activate them, you must be touching the magic item and say the magic words. You do not need to be touching the magic words on the item.
+
+When an item mentions being activated by magic words, remember that you need to be touching the item for it to activate.
