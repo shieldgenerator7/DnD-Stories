@@ -2178,7 +2178,7 @@ The first one of the day made a grand entrance: a blue swirling smoke sphere gre
 
 “Welcome to Don JeLancie’s Department of Joy. What can I do for you today?” The shopkeeper motioned to his display items.
 
-“What do you have in winter clothing?”
+“What do you have in winter clothing?” The tabaxi looked over the items.
 
 “Going someplace cold, I see? How about this winter coat bundle? It includes everything you need: gloves, pants, boots, the works.”
 
@@ -2192,7 +2192,7 @@ The first one of the day made a grand entrance: a blue swirling smoke sphere gre
 
 “I want it to go in the air.”
 
-“A airborne winter coat?” Don JeLancie laughed.
+“An airborne winter coat?” Don JeLancie laughed.
 
 “Why? Is it ridiculous?”
 
@@ -2288,7 +2288,7 @@ The party turned to her and listened. The bird person cheered and continued its 
 
 “I need to find one named Revali. He should be in the aarakocra village of Wind’s Crossing. I need to deliver this letter to him.”
 
-The aarakocra squawked and smiled and Gra, holding out the letter.
+The aarakocra squawked and smiled at Gra, holding out the letter.
 
 “Will you take this to him? I’ll give you 200 gold.” Drathalion changed tone. “Oh! Negotiate for 300!”
 
@@ -2328,7 +2328,7 @@ Drathalion shrugged. “Got in a fight. You should’ve seen the other creature.
 
 “Well it sounds like I can count on you in a fight, I like that.” Gra emptied the gold onto the table and split it into 5 piles, one for each party member, including Drathalion.
 
-Each one took their share of gold, but Drathalion’s slid to her across the table, falling off the ledge into her bag below.
+Each one grabbed their share of gold, but Drathalion’s share slid to her across the table, falling off the ledge into her bag below.
 
 Gra also handed the letter to the other pale-green half-orc. “Keep this safe.”
 
@@ -2386,7 +2386,7 @@ He was wearing green sleeves and leggings, a brown vest, and a green hat with a 
 
 “Thank you!” Robin Hood took the potion.
 
-Don held it back. “That’ll be 1700 gold.”
+But Don held it back. “That’ll be 1700 gold.”
 
 “Oh, of course.” Robin Hood pulled a bag from his belt and tossed it on the counter. “That should be enough.”
 
@@ -2426,7 +2426,7 @@ A bell on Don’s chest rang. With a flash of light, Sui was shrunk down to the 
 
 “Gra said put him down!” Other Gra said. Don started floating into the air.
 
-The bell rang, the light flashed, and Other Gra look hungry. Don fell back to the ground.
+The bell rang, the light flashed, and Other Gra looked hungry. Don fell back to the ground.
 
 Other Gra rubbed his stomach and drooled from his mouth. “Bagels.”
 
@@ -2472,7 +2472,7 @@ Gra and Don exchanged gold for coats. Gra went to hand each member a coat, but f
 
 “What? No. I barely know you.”
 
-“Well I am your guide and translator, consider a prepayment for my services.”
+“Well I am your guide and translator, consider it a prepayment for my services.”
 
 “Well we don’t need a guide. I have this map.” Gra pulled it out of his bag. “Besides, what do you need 200 gold for?”
 
@@ -2498,7 +2498,7 @@ Gra and Don exchanged gold for coats. Gra went to hand each member a coat, but f
 
 “Would this secret weapon happen to be a dear friend of yours?”
 
-“Deer friend? No one said anything about deer.”
+“Deer friend? No, no one said anything about a deer.”
 
 Dog Drathalion squinted. “I’ve heard rumors that this friend of yours had a very bad accident and is out of commission.”
 
@@ -2688,7 +2688,7 @@ Gra put the map away. “Yes?”
 
 Dog Drathalion’s ears twitched. “I don’t like this.” She secretly picked up some rocks and put them in a bag. She held them to Robin Hood. “Here’s around 200 to 300 gold.” She opened the bag. Gold coins sparkled in the light that pierced through the treetops. “Gra, confirm?” She tossed the bag at Gra.
 
-Gra tossed the bag in the air and let it land in his palm. “Feels like the weight of 250 gold.” He pulled the drawstring shut and handed it to Robin Hood.
+Gra tossed the bag in the air and let it land in his palm. “Feels like it weighs about… like it’s about 250 gold.” He pulled the drawstring shut and handed it to Robin Hood.
 
 Robin Hood took it eagerly. “Thank you so much! This is going to help a lot. You may now pass.”
 
@@ -2698,11 +2698,11 @@ The party walked passed.
 
 Dog Drathalion whispered to Gra, “When we get out of range, run.”
 
-Gra raised an eyebrow, but agreed anyway. “Ok.”
+Gra agreed. “Ok.”
 
 When they got 90 feet away, Gra sprinted ahead. Dog Drathalion sprinted behind him, and the rest of the party followed suit. A mile later, they stopped.
 
-“Why are we running?” Gra asked.
+“Why are we running?” Other Gra asked.
 
 “Let’s just say that wasn’t a bag of gold.” Dog Drathalion answered.
 
@@ -2712,7 +2712,7 @@ When they got 90 feet away, Gra sprinted ahead. Dog Drathalion sprinted behind h
 
 “…Lucky guess.”
 
-The party venture onward, and eventually revert back to normal. Sui returned to normal size, but still had to wrestle himself out of Other Gra’s grip. Other Gra no longer craved bagels, and Gra’s skin returned to normal.
+The party ventured onward, and eventually reverted back to normal. Sui returned to normal size, but still had to wrestle himself out of Other Gra’s grip. Other Gra no longer craved bagels, and Gra’s skin returned to normal.
 
 Dog Drathalion noticed the changes reverting and ran into the forest alone. She cowered in her cloak as she transformed back into her old self. Her hood stretched up to over twice her head size, her tail shortened, and her voice changed. Then with a flickering spark, she returned to her normal self. She emerged from the woods once again a cat.
 
@@ -2722,25 +2722,25 @@ Oh, and Tiger Gale transformed back into yinglet Gale.
 
 “Of course!” Other Gra scritched him behind the ears.
 
-The party ventured onward. They ventured mostly uneventfully through the forest. Along the way, Drathalion spotted a rabbit. She blinked and a blue paw print appeared on the rabbit. She drew her bow and shot at it. She missed and the rabbit ran off, taking the blue glowing pawprint with it, until it got out of range.
+The party ventured onward. They ventured mostly uneventfully through the forest. Along the way, Drathalion spotted a rabbit. She blinked and a blue paw print appeared on the rabbit. She drew her bow and shot at it. She missed and the rabbit ran off, taking the blue glowing pawprint with it, until it was out of range.
 
 When they got a few miles from the mountains, they came across a shop on the side of the road. It was run by a lizardfolk and served mostly fresh meats. “What can I get for you today?”
 
-“Do you have clams?” Gale asked.
+“Do you have any clams?” Gale asked.
 
 “Yes I do.” The lizardfolk said.
 
 “You should get that checked out.” Other Gra retorted.
 
-“You’re thinking of crabs.” Gra corrected.
+“No, you’re thinking of crabs.” Gra corrected.
 
-“This one will have clams.”
+“This one will have *clams*. Just the clams.”
 
 “Here you go.” The lizardfolk gave Gale a bowl of clams.
 
-Other Gra stepped to the counter. “I would like some bagels. And they better not be a pancake.”
+Other Gra stepped to the counter. “I would like some bagels. And they better not be pancakes.”
 
-“Why would it be a pancake?” The lizardfolk asked quizzically.
+“Why would they be pancakes?” The lizardfolk asked quizzically.
 
 “I got ripped off last time.”
 
@@ -2752,7 +2752,7 @@ The lizardfolk made a bagel for Other Gra and handed it to him.
 
 “And what about for you?” The lizardfolk asked Gra.
 
-“I’ll have…” he looked around, making sure Astalir wasn’t near by. He didn’t seem to be hiding in any of the trees. “Venison.”
+“I’ll have…” Gra looked directly at Drathalion. “Venison.”
 
 Drathalion scowled.
 
@@ -2762,13 +2762,13 @@ Drathalion grumbled and pulled her hood over her face.
 
 “Would you also like venison?” The lizardfolk asked Drathalion.
 
-Drathalion put a hand over her mouth like she was trying to keep from puking. She turned around and ran to the other side of the path. There, she stepped on a strange twig and a hole opened up beneath her. She twisted around and managed to grab the edge of the pit. Gra rushed to get her out.
+Drathalion put a hand over her mouth like she was trying to keep from puking. She turned around and ran to the other side of the path. There, she stepped on a strange twig and a hole opened up beneath her. She twisted around and managed to grab the edge of the pit. Gra casually walked over to check on her.
 
 The lizardfolk listened in on their conversation.
 
-“What’s wrong, Drathalion?” Gra grabbed her hand and pulled her out of the pit.
+“What’s wrong, Drathalion?” Gra grabbed her good hand and pulled her out of the pit.
 
-She winced as he pulled on her casted hand.
+She dusted herself off at the top of the pit.
 
 “Do you not like venison? Or is there some other reason…” Gra got right up in her face. “…Astalir?”
 
@@ -2784,7 +2784,7 @@ The lizardfolk gave the party some food, and then the party left. As they walked
 
 And then Don JeLancie’s Department of Joy faded in. And he already had a customer.
 
-“I got the 1700 gold!” Robin Hood exclaimed, pouring coins out of bags on the counter. So far so good, a huge pile of gold. Then he poured the last bag. A bunch of rocks came tumbling out. “What?”
+“I got the 1700 gold!” Robin Hood exclaimed, pouring coins out of bags on the counter. So far so good, a huge pile of gold. Then he poured out the last bag. A bunch of rocks came tumbling out. “What?”
 
 “Nice try,” smirked Don. “But I don’t accept merrymen currency.”
 
@@ -2794,7 +2794,7 @@ And then Don JeLancie’s Department of Joy faded in. And he already had a custo
 
 “I can’t believe they tricked me like this! Even after knowing I needed it to help my sick grandma!”
 
-“You must be so upset.”
+Don smiled evilly. “You must be so upset.”
 
 “Indeed I am!” Robin Hood kicked a rock.
 
