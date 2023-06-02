@@ -37,3 +37,22 @@ Melee +6 atk, 1d8+4 piercing
 ## Claws
 
 Melee +6 atk, 2d6+4 slashing
+
+# Warhorse
+
+18-12-13-2-12-7
+
+| 11 AC | 19 HP | 60ft |
+|-------|-------|------|
+
+Passive perception 11
+
+(2023-06-01 [https://roll20.net/compendium/dnd5e/Warhorse\#content](https://roll20.net/compendium/dnd5e/Warhorse#content))
+
+## Trampling Charge
+
+If the horse moves at least 20 ft. straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
+
+## Hooves
+
+Melee +6 atk, 2d6+4 bludgeoning
