@@ -6,7 +6,7 @@ Some items are given to you at the start of the adventure. These are marked as s
 
 Some items are legendary and have a legendary item attunement requirement. The first player to meet this requirement gains a level. Other players may also attune to the item by meeting the requirement afterwards, but they don’t gain a level from it.
 
-## Riftward Tavern Handkerchief
+# Riftward Tavern Handkerchief
 
 Starting Item, Uncommon
 
@@ -20,13 +20,13 @@ Requires attunement. When attuned, it may take the form of a scarf, wristband, c
 
 *This item is designed to protect travelers from magic radiation and facilitate regrouping, whether back at the tavern or another location.*
 
-## Riftward Tavern Map
+# Riftward Tavern Map
 
 Starting Item, Rare
 
 A paper map that magically updates whenever you enter a Riftward Tavern location. The map shows the area in the vicinity of the tavern. It also shows you where you are on the map.
 
-## Riftward Tavern Door Knob
+# Riftward Tavern Door Knob
 
 Starting Item, Legendary
 
@@ -34,7 +34,7 @@ When placed in a door, it attaches to it and casts Dimension Door on it. The doo
 
 *This is the artifact you use to reconnect the taverns.*
 
-## Ring of Accessibility
+# Ring of Accessibility
 
 Uncommon (3), Rare (5), Very Rare (7), Legendary (9)
 
@@ -42,7 +42,7 @@ Requires attunement. When you attune to this ring, choose a spell level up to th
 
 Once you expend the spell slot of this ring, you don’t get it back until you complete a long rest.
 
-## Lantern of Revealing
+# Lantern of Revealing
 
 Magical lantern that provides dim light in a radius of 60ft.
 
@@ -50,13 +50,13 @@ Stealth rolls in range have disadvantage, and checks to perceive stealthed creat
 
 Speak the words written on the top in common to turn it on. Speak the words written on the bottom in common to turn it off.
 
-## Hamgorg’s Tremor Hammer
+# Hamgorg’s Tremor Hammer
 
 1d8 Bludgeoning
 
 Whenever you hit an attack with this hammer, make a DC 15 Strength check. If you pass, the hammer creates a tremor in a 15ft radius of the target struck. All creatures in range must make a DC (1d4 + 10) Dexterity saving throw or be knocked prone. You have advantage on this saving throw, and the target struck has disadvantage. Creatures that get knocked prone and that are within 5ft of a ledge must make a DC 15 Constitution saving throw. If they fail, they fall off the ledge.
 
-## Mud Scoop
+# Mud Scoop
 
 1d4 Bludgeoning
 
@@ -64,23 +64,23 @@ A metal shovel designed for scooping mud. The mud that is scraped off this shove
 
 If the mud is thrown at a creature, that creature takes 1d4 water damage, and must make a DC 12 Strength check or be rooted. At the beginning of their turn, they may make this check again, and break free when they succeed.
 
-## Cleave Sword
+# Cleave Sword
 
 2d6+4 Slashing
 
 When you swing the sword, make a DC13 Wisdom ability check. On a success, everything in a cone in front of you takes 1d6+4 slashing damage, even if behind cover. The cone’s length and width is equal to 10 plus your Wisdom modifier.
 
-## True Sight Scope
+# True Sight Scope
 
 As an object interaction on your turn, or as a reaction, you may put the True Sight Scope up to your eye until the beginning of your next turn. Illusions in a cone in front of you become transparent, and secret doors and traps are revealed. The cone length and radius are both equal to your Intelligence modifier times 10.
 
-## Stockholm Cuffs
+# Stockholm Cuffs
 
 Place these cuffs on a creature that is not under any mental effects, and place the other end on a creature that is under a mental effect. At the end of every hour, the sane creature makes a DC35 Charisma ability check. On a failure, the DC lowers by 1 until the cuffs are removed from the effected creature. On a success, the effected creature becomes free from all mental effects on it, including Cold Stare.  
 While wearing these cuffs, both creatures must remain with 5ft of each other. If they try to separate, they make contested Strength checks. The one who loses gets moved to the closest position within 5ft of the other. If they tie, the creature trying to move gets their movement cancelled, expending that 5ft of movement. Either creature may intentionally fail this check.  
 The two creatures in these cuffs have advantage on melee attacks against each other, and disadvantage on saving throws from spells cast by the other creature.
 
-## Concrete Boots
+# Concrete Boots
 
 \+2AC -5ft
 
@@ -94,7 +94,7 @@ When you or an ally within 5ft of you has to make a saving throw to not be force
 
 When you use the Dash action on your turn, you must make a DC10 Strength check. On a failure, you instead fall prone and your movement becomes 0 until the end of your turn.
 
-## Camo Pants
+# Camo Pants
 
 \+2 AC
 
@@ -104,7 +104,7 @@ As a bonus action, you can freeze in place, becoming invisible until the start o
 
 The pants magically form to fit its wearer.
 
-## Necromancer’s Shovel
+# Necromancer’s Shovel
 
 \+2 atk 2d4 bludgeoning damage
 
@@ -112,7 +112,7 @@ When within 10ft of a dead body, it pulls itself towards it.
 
 As an action, you can stick the shovel in the ground. If it hits a dead body, that dead body rises up as an undead that does as you command.
 
-## Boop-erang
+# Boop-erang
 
 \+5 atk 2d6 slashing damage Thrown (30/60)
 
@@ -120,7 +120,7 @@ When you throw this boomerang, make an Athletics skill check. If it hits its tar
 
 If it misses its target on the way out, you may have it make a second attack on the same target on the way back. If the second attack hits, the boomerang falls to the ground 5ft from its target.
 
-## Glove of Holding
+# Glove of Holding
 
 \+1 AC +1 Lvl2 Spell Slot
 
@@ -130,7 +130,7 @@ When a creature within 60ft of you moves at least 5ft, you may use your reaction
 
 While concentrating on a spell, your movement speed is 0.
 
-## Dragon’s Belt
+# Dragon’s Belt
 
 \+5 STR +5 CON
 
@@ -138,7 +138,7 @@ While wearing this belt, you have a dragon tail about 10ft long.
 
 Whenever you change your facing direction, your tail swipes all creatures behind you in a 10ft radius. They must succeed on a DC12 Dexterity saving throw or take 1d6 bludgeoning damage and be knocked prone.
 
-## Blindstep Bandana
+# Blindstep Bandana
 
 You are blinded, but you have advantage on Dexterity saving throws and ability checks relying on sound.
 
@@ -146,7 +146,7 @@ If you have to make a saving throw, you can use your reaction to instead telepor
 
 You can use your reaction to teleport to a random position up to 30ft away.
 
-## Orbweaver
+# Orbweaver
 
 \+3 atk 1d6+1 bludgeoning damage Thrown (30/60)
 
@@ -156,7 +156,7 @@ If it hits it target, it rapidly spins a web around them. The target must succee
 
 The spider remains on its target until picked up. If it missed its target, it waits as a trap for the next creature that comes within 5ft of it. It does not spring the trap on the creature it’s loyal too, nor does it restrain the creature it’s loyal to.
 
-## Drathalion’s Longbow
+# Drathalion’s Longbow
 
 Reward for defeating Drathalion Treescorn
 
@@ -174,7 +174,7 @@ Legendary Attunement Requirement:
 Get bonus damage of 5 or more.  
 One shot a creature with at least 20 max hp from 50% hp or more.
 
-## Timmy’s Axe
+# Timmy’s Axe
 
 Reward for defeating Timmy the Minotaur
 
@@ -188,7 +188,7 @@ Saving throw: Constitution DC15
 Legendary Attunement Requirement:  
 Lower the interact DC to 0.
 
-## Larkwren’s Shield
+# Larkwren’s Shield
 
 Reward for defeating Larkwren
 
@@ -201,7 +201,7 @@ The shield grows plants on it, many of which are poisonous. As a bonus action, y
 Legendary Attunement Requirement:  
 End combat with all other allies 50% hp or more
 
-## Cloverbraid’s Harness
+# Cloverbraid’s Harness
 
 Reward for defeating Cloverbraid
 
@@ -232,7 +232,7 @@ While transformed, and not wearing the harness, a creature has -10 INT (minimum 
 Legendary Attunement Requirement:  
 Transform into a horse and accept the transformation as permanent. Once done, taking the harness off no longer turns you back to what you were before.
 
-## Cloverbraid’s Necklace of Vitality
+# Cloverbraid’s Necklace of Vitality
 
 Reward for defeating Cloverbraid
 
@@ -243,7 +243,7 @@ If you have an Intelligence of 20 or more, the radius is increased to 30ft and t
 Legendary Attunement Requirement:  
 Succeed on a DC23 Intelligence check at the end of a long rest.
 
-## Astalir’s Antlers
+# Astalir’s Antlers
 
 Reward for defeating Astalir
 

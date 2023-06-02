@@ -1,6 +1,6 @@
-# Mobs
+# Riftward Tavern Mob Library
 
-## Villager
+# Villager
 
 10-10-10-10-10-10
 

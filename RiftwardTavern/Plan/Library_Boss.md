@@ -1,22 +1,22 @@
 # Riftward Tavern Boss Library
 
-## Drathalion Treescorn
+# Drathalion Treescorn
 
 This is based on a player character I played in another campaign.
 
 11 (+0) 18 (+4) 13 (+1) 7 (-2) 16 (+3) 11 (+0)
 
-### Passive
+## Passive
 
 Cat Stealth  
 Whenever Drathalion relocates, she automatically makes a Stealth check.
 
-### Actions
+## Actions
 
 \*\*Extra Attack  
 \*\*Drathalion attacks with her bow twice: +7 atk, 1d8+4 piercing damage
 
-### Bonus Actions
+## Bonus Actions
 
 \*\*Hunter’s Mark  
 \*\*A target is marked. If she hits the target, it takes an extra 1d6 damage. If the target dies, the hunter’s mark moves to the next closest enemy. Drathalion always knows where the hunter’s mark target is.
@@ -24,12 +24,12 @@ Whenever Drathalion relocates, she automatically makes a Stealth check.
 \*\*Misty Step  
 \*\*She teleports up to 30ft away.
 
-### Reactions
+## Reactions
 
 **Dodge**  
 If an enemy misses an attack against her, she can use her reaction to move / climb up to 10ft away.
 
-### Villian Actions
+## Villian Actions
 
 **Relocate**  
 Drathalion uses her movement to relocate. She can use Misty Step in addition to this movement. She automatically gets the max long jump and high jump distance she can achieve, even without a running start. She can climb with a movement speed of 30ft.
@@ -42,7 +42,7 @@ Drathalion causes vines to spring out of the ground, causing a 20ft square of di
 
 Saving throw: Strength DC15
 
-### Minions
+## Minions
 
 **Cordon of Arrows**  
 Drathalion has pre-planted arrows in the ground as traps. Each trap consists of 3 arrows. When an enemy first comes within 15ft of a trap, it shoots an arrow at them for 1d6 damage.  
@@ -51,7 +51,7 @@ If in dim light or darker, the trap is hidden until it gets triggered.
 
 Saving throw: Dexterity DC18
 
-### Environment
+## Environment
 
 **Fog**  
 Heavy fog that makes it difficult to see. In no light, creatures that end their turn in it are automatically stealthed. In dim light, creatures in it have advantage on stealth rolls. In bright light, creatures that don’t move on their turn have advantage on stealth rolls.
@@ -67,7 +67,7 @@ If fighting at day, the sun provides bright light over the entire battlefield, a
 **Trees**  
 Trees block light around the edge of the battlefield. Any square within 10ft of the battlefield’s edge has its light dimmed: Bright light into dim light, and dim light into no light.
 
-## Timmy the Minotaur
+# Timmy the Minotaur
 
 This is based on a character by my friend, Centaurus.
 
@@ -75,7 +75,7 @@ Timmy is a Minotaur that can change size.
 
 18-13-14-9-10-12 17AC 30ft 36hp
 
-### Passives
+## Passives
 
 **Mobile Tank**  
 While moving, Timmy has +5 AC and resistance to bludgeoning, slashing, and piercing damage.
@@ -86,7 +86,7 @@ Timmy can detect any movement within the maze.
 **Trap Attunement**  
 Timmy automatically succeeds any saving throw against the traps in the maze.
 
-### Actions
+## Actions
 
 **Greataxe**  
 Timmy attacks with greataxe: +6 atk 2d12+4 slashing damage
@@ -100,17 +100,17 @@ On successful hit, the target gets knocked back 10ft and falls prone.
 This movement gives away his position to everyone in the maze.  
 Saving throw: Strength DC20
 
-### Bonus Actions
+## Bonus Actions
 
 **Move Wall**  
 Timmy has control of the maze and knows how to activate the walls. Timmy creates / destroys up to 3 10ft maze walls anywhere within the maze.
 
-### Reactions
+## Reactions
 
 **Roar**  
 If Timmy gets CC’d, he can use his reaction to gain advantage on any saving throws to avoid getting CC’d or break free of CC.
 
-### Villian Actions
+## Villian Actions
 
 **Cut Off**  
 Timmy creates up to 5 maze walls so that only one target has line of sight of him.
@@ -121,7 +121,7 @@ Timmy changes the maze to corner a single target in a dead end.
 **Enlarge**  
 Timmy changes size from medium to large, getting -2 AC, +2 atk, +5ft of range, and resistance to slashing, bludgeoning, and piercing damage. Timmy grows to 15ft and can now see above all walls.
 
-### Minions
+## Minions
 
 **Pit Trap**  
 When an enemy walks on this square, it falls in a 10ft pit, taking 1d10 bludgeoning damage. Its movement is reduced to 0 until the end of its turn.  
@@ -139,7 +139,7 @@ Saving throw: Dexterity DC12
 These walls are built in 10ft long sections and are 10ft high. They are 1ft thick. They have 5hp but are immune to slashing, piercing, and fire damage. If a wall blocks a target from getting moved the full amount, that target takes 1d10 bludgeoning damage for each 5ft it stopped.  
 Saving throw: Constitution D15
 
-### Environment
+## Environment
 
 **Maze**  
 The maze is built underground in a square cavern with a 20ft ceiling.
@@ -147,7 +147,7 @@ The maze is built underground in a square cavern with a 20ft ceiling.
 **Overhang**  
 Rocks continually grow down. Certain areas of the maze have its ceiling decreased by 10ft.
 
-## Larkwren & Cloverbraid
+# Larkwren & Cloverbraid
 
 This is based on characters I played in another campaign
 
@@ -157,7 +157,7 @@ Larkwren is a paladin that rides on his warhorse, Cloverbraid, who is also a pal
 
 20-14-18-16-12-20 12AC 60ft 35hp
 
-### Passives
+## Passives
 
 Hammer of Warning  
 Larkwren & Cloverbraid can’t be ambushed.
@@ -177,7 +177,7 @@ Larkwren and allies within 10ft get +5 to all saving throws.
 Divine Health  
 Larkwren and Cloverbraid are immune to poison and disease, and are immune to poison damage.
 
-### Actions
+## Actions
 
 Extra Attack  
 Larkwren attacks with his battleaxe twice: +5 atk 1d10+1 slashing damage
@@ -190,12 +190,12 @@ Saving throw: Strength DC15
 Hoof Attack  
 Cloverbraid hits a target near her: +6 atk 2d6+4 bludgeoning damage
 
-### Bonus Actions
+## Bonus Actions
 
 Lay on Hands  
 Larkwren and Cloverbraid can heal each other for 5hp.
 
-### Reactions
+## Reactions
 
 Misty Step  
 If Larkwren is not mounted on Cloverbraid, if he is within 10ft of her, he can teleport on top of her.
@@ -203,7 +203,7 @@ If Larkwren is not mounted on Cloverbraid, if he is within 10ft of her, he can t
 Shield  
 Larkwren can use his reaction to impose disadvantage on an attack on him or an ally within 5ft.
 
-### Villian Actions
+## Villian Actions
 
 Run  
 Cloverbraid runs up to 120ft away, repositioning to a more tactically advantageous position.  
@@ -222,14 +222,14 @@ Cloverbraid kicks up and launches Larkwren forward a number of feet equal to her
 Larkwren lands on an area within range, and all enemies within 5ft take 2d10 bludgeoning damage and get knocked prone.  
 Saving throw: Dexterity DC20
 
-### Minions
+## Minions
 
 Gopher  
 AC10 30ft 1hp  
 Burrow: Make tunnel with a hole on both ends. A creature that steps on the hole falls prone.  
 Saving throw: Dexterity DC10
 
-### Environment
+## Environment
 
 Hill  
 A long, 100ft wide hill with a dropoff on one side and a cliff on the other.
@@ -241,7 +241,7 @@ Ditch
 A 5ft deep ditch that was water flowing through it. A creature that ends its turn here is moved 10ft towards the dropoff side.  
 Saving throw: Strength DC10
 
-## Astalir
+# Astalir
 
 A magical deer from the Minotaur’s Maze campaign. This particular deer might be another deer of the same species, and not necessarily the same Astalir.
 
@@ -249,7 +249,7 @@ In a forest with lots to eat, there’s a large herd of deer. But they’re susp
 
 17-18-15-20-14-19 14AC 100HP 40ft
 
-### Passives
+## Passives
 
 **Quadrupedism**  
 Astalir can walk on 2 legs or 4 legs. When on 4 legs, he gains +10ft of movement, +5ft of jump height, +30ft of jump distance.
@@ -260,7 +260,7 @@ Astalir can cast any illusion or transmutation action as a bonus action.
 **Reality Shaper**  
 Astalir’s transmutation effects are permanent until he reverses them, even if he falls unconscious.
 
-### Actions
+## Actions
 
 **Charge**  
 Astalir runs at least 10ft toward a target, dealing damage and knocking them back 10ft: +4 atk 1d4+2  
@@ -272,13 +272,13 @@ If the illusion is of Astalir, it can do Astalir’s charge action
 As an action, a creature can attempt to discern if a particular illusion is real or not by making an Investigation (Intelligence) check with a DC20. On a success, they can tell that particular illusion is an illusion, and it becomes transparent to them.  
 When the illusion dies, it dissolves into the ground, growing the plants in that square. That square becomes difficult terrain.
 
-### Bonus Actions
+## Bonus Actions
 
 **Mage Antler**  
 Astalir can target any creature within 100ft of him and move it 10ft in any direction.  
 Saving throw: Strength DC12
 
-### Reactions
+## Reactions
 
 **Ice Shield**  
 Astalir can form an ice shield around himself or another target if that target is within 100ft of Astalir and within 10ft of a water source. The ice shield has 5AC and 5HP. The target is restrained until the ice shield is destroyed or Astalir dismisses it as a free action.
@@ -286,7 +286,7 @@ Astalir can form an ice shield around himself or another target if that target i
 **Parry**  
 Astalir parries a melee attack with his antlers, making a counter attack with 10ft reach: +4 atk 1d4+2
 
-### Villian Actions
+## Villian Actions
 
 **Chasm**  
 Astalir raises a plateau in a 100ft square, and lowers a chasm of 10 10ft squares in a line 30ft down. This process continually happens over the course of a round after each player’s turn.  
@@ -304,12 +304,12 @@ Restrain Saving throw: Dexterity DC10
 Trap Saving throw: Strength DC15  
 Crush Saving throw: Constitution D20
 
-### Minions
+## Minions
 
 **Illusions**  
 These illusions can attack with +4 atk 1d4+2 and can interact with the environment. They can also use Astalir’s charge action.
 
-### Environment
+## Environment
 
 **Meadow**  
 A meadow with a few trees around it. Thick grass grows up all around inside it, making the entire area difficult terrain. If the thick grass is cut, the ground becomes normal terrain again.
