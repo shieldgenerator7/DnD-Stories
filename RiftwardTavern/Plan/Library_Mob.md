@@ -4,8 +4,9 @@
 
 10-10-10-10-10-10
 
-12hp
+| 8 AC | 12 HP | 20ft |
+|------|-------|------|
 
-Move speed: 20ft
+## Fist
 
-**Fist** – Deal 1d4 damage
+Melee +1 atk, 1d4 bludgeoning
