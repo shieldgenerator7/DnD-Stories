@@ -1,17 +1,5 @@
 Riftward Tavern Item and Effect Library
 
-# Mobs
-
-## Villager
-
-10-10-10-10-10-10
-
-12hp
-
-Move speed: 20ft
-
-**Fist** – Deal 1d4 damage
-
 # Bosses
 
 ## Drathalion Treescorn
