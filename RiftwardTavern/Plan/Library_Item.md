@@ -156,6 +156,14 @@ If it hits it target, it rapidly spins a web around them. The target must succee
 
 The spider remains on its target until picked up. If it missed its target, it waits as a trap for the next creature that comes within 5ft of it. It does not spring the trap on the creature it’s loyal too, nor does it restrain the creature it’s loyal to.
 
+# Deck of Many Beasts
+
+A 52-card deck that looks suspiciously like the Deck of Many Things.
+
+The deck is cohesive and the cards stick together, except when a creature intentionally draws a card.
+
+When a card is drawn, it turns into the creature on the face of the card. It is a wild animal and likely to attack anything close to it for 1 minute after spawning.
+
 # Drathalion’s Longbow
 
 Reward for defeating Drathalion Treescorn
