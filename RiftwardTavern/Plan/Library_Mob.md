@@ -4,8 +4,10 @@
 
 10-10-10-10-10-10
 
-| 8 AC | 12 HP | 20ft |
-|------|-------|------|
+| 8 AC | 12 HP | 20ft | 10pz |
+|------|-------|------|------|
+
+Languages: Common
 
 ## Fist
 
@@ -15,12 +17,10 @@ Melee +1 atk, 1d4 bludgeoning
 
 18-15-16-2-13-8
 
-| 12 AC | 59 HP | 30ft, fly 80ft |
-|-------|-------|----------------|
+| 12 AC | 59 HP | 30ft, fly 80ft | 15pz |
+|-------|-------|----------------|------|
 
 Perception +5
-
-Passive perception 15
 
 Darkvision 60ft, Keen Sight
 
@@ -42,10 +42,8 @@ Melee +6 atk, 2d6+4 slashing
 
 18-12-13-2-12-7
 
-| 11 AC | 19 HP | 60ft |
-|-------|-------|------|
-
-Passive perception 11
+| 11 AC | 19 HP | 60ft | 11pz |
+|-------|-------|------|------|
 
 (2023-06-01 [https://roll20.net/compendium/dnd5e/Warhorse\#content](https://roll20.net/compendium/dnd5e/Warhorse#content))
 
