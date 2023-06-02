@@ -13,6 +13,19 @@ Languages: Common
 
 Melee +1 atk, 1d4 bludgeoning
 
+# Merchant
+
+10-10-10-12-12-12
+
+| 9 AC | 20 HP | 30ft | 11pz |
+|------|-------|------|------|
+
+Languages: Common, Any (optional)
+
+## Tool
+
+Melee +2 atk, 1d6 bludgeoning
+
 # Griffon
 
 18-15-16-2-13-8
