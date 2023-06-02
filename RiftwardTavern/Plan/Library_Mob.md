@@ -191,3 +191,42 @@ Melee +4 atk, 1d6+2 piercing
 ## Claws
 
 Melee +4 atk, 1d6+2 slashing
+
+# Leech
+
+3-13-10-1-7-1
+
+| 8 AC | 8 HP | 5ft, swim 10ft | 0pz |
+|------|------|----------------|-----|
+
+Weak: Lightning
+
+Resist: Water
+
+Immune: Charmed, Frightened, Paralyzed, Prone, Restrained
+
+Keen Smell, Blindsight 10ft, Water Walking
+
+(2023-06-01: copied from Cave Spider)
+
+## Water Hiding
+
+It gets advantage on Stealth rolls while in the water.
+
+## Bite
+
+Melee +3 atk, 1d4 piercing
+
+On a miss, it gains 1 crit point against that target.
+
+It can only do this while not attached.
+
+## Attach
+
+If it hits a Bite attack, it attaches to its host and sucks blood.
+
+## Suck
+
+It steals 1d4 sated points, then it gains temporary hit points equal to the sated points stolen.
+
+It can only do this while attached.
