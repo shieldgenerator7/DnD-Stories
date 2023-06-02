@@ -2478,6 +2478,10 @@ Gra settled down. “I’m sorry for my associate.” He eyed Drathalion. “But
 
 “Yes. Let’s.”
 
+“Let get out my 100 gold.” Gra rummaged around in his bag of holding.
+
+Tiny Sui peeked in. “You got the deck of random oddities in there?”
+
 Other Gra caught Sui. “Are you a bagel?”
 
 “No! Put me down!” Sui protested.
