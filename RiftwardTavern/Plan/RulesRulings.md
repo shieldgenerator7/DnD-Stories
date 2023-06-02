@@ -134,6 +134,10 @@ Whenever you gain sated points, if your sated points are higher than your Consti
 
 At the end of every hour, you lose 1 sated point.
 
+## Temporary Hit Points
+
+Temporary hit points can be stacked.
+
 # Exertion
 
 You can exert yourself in tight situations to give yourself a temporary edge, and then gain points of exhaustion.
