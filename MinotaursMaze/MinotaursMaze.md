@@ -3030,27 +3030,81 @@ Don JeLancie clasped his hands enthusiastically. He was still viewing Astalir th
 
 # Chapter 8 – Robin Hood
 
-=== 2023-06-01 ===
+=== 2023-06-03 ===
 
 === this chapter under construction ===
 
 === please wait for the official announcement of completion ===
 
-“I can’t believe they gave me fake change!” Robin Hood stomped along the path towards Drathalion’s location. His merry men followed closely behind him.
+“I can’t believe they gave me fake change!” Robin Hood stomped along the path towards Drathalion’s location. His merry men followed closely behind him. “I’m going to make them pay! In gold, this time!”
 
-[scene 1: bandits attack gra and astalir, gra sneaks weapon out]
+Robin Hood’s unusually long, slender legs gave him the impression of using stilts. But no, this was Don’s doing. Robin Hood had to make good use of this while he could, although he wasn’t comfortable fighting in this state.
 
-[scene 2: astalir gets shot, turns into drathalion, climbs tree]
+“My knees feel way too vulnerable.”
 
-[scene 3: assassin dodges attacks from gra and drath]
+Finally they caught up to Drathalion and her party. They were making camp and talking to each other. Robin Hood stood behind a large tree and observed the camp from his tall height, waiting for an opportune time to strike.
 
-[scene 4: sui gets surrounded, uses acid potion, shoots and scares off 2 bandits]
+Drathalion the cat talked with a pale green half-orc alone by a tree. Even in the dark, Robin Hood could see them with his temporary dark vision eyes, which also gave him 20/20 vision, even at this far range.
 
-[scene 5: bandits miss sleeping gale]
+The cat turned into a deer, which was a surprise, but not enough to deter Robin Hood. The half-orc gave Drathalion a bag of gold, and this bag looked to be full of actual gold.
 
-[scene 6: reesu hides behind rock, eldritch blasts bandits, tidal waves a group]
+“Perfect! That’s just what I need.” He reached down and tapped Marigold the assassin on the head. “Go.”
 
-[scene 7: reesu crosses stream, thundersteps a bandit, teleports to assassin, grapples assassin]
+Marigold the assassin sneaked through the bushes until she was in pouncing range of the half-orc. With a coordinated effort from some fellow bandits, she jumped out of the bush and held a knife to the half-orc’s neck. Another bandit held a fully charge arrow shot to the deer’s face.
+
+“Give us the gold, and no one gets hurt.” Marigold snarled. “And don’t you even think about yelling for help.” She pressed the knife a little harder up against his neck.
+
+“Sure, let me get that for you.” The half-orc slowly reached into his bag of holding. “I know I have it in here somewhere.
+
+The deer didn’t say anything, but dumped his backpack on the ground. All sorts of items came pouring out, but a bag of gold was not one of them.
+
+Meanwhile, Robin Hood was directing his other bandits to surround the entire party. A dwarf bandit snuck up on the tiny kangaroo, who was sleeping on a rock. Several bandits set up behind trees, bows aimed at the dragonborn. Several more archers took aim at the half-orc and deer.
+
+The pale-orc took his sweet time producing the gold as his eyes dart left and right, assessing the situation. “Oh! Here it is! Here you GO!” The pale-orc drew out a battle axe from his bag of holding and swiped at Marigold.
+
+Marigold’s armor protected her from the attack, but she staggered backward into the bush.
+
+The other bandits all fired, starting confrontations all over the camp.
+
+The archer shot the deer in the face, but the arrow slowed down considerably, only getting stuck in the deer’s nose. The deer then transformed back into the cat and climbed the tree, knifing a bandit or two that tried to grab it as it went up. The cat pointed at a bandit, and a blue pawprint appeared on his chest. The cat landed an arrow in the bandit, hitting it right on the pawprint. The bandit fell over, dead, and the pawprint moved to a new target.
+
+Bandits surrounded the half-orc, who swung his axe in a circle, beheading two bandits in one swing. The cat shot a bandit in the back, and the half-orc plowed his blade into his chest.
+
+The dragonborn took one shot to the back, but seemed unphased. The bandits swarmed him with daggers. So he reached into a pocket and pulled out a potion of green liquid.
+
+“That’s not what I think it is?” Robin Hood’s mouth dropped.
+
+The dragonborn took a swig of the green liquid and then splashed the bottle on the ground, which shattered and splashed its contents everywhere.
+
+The bandits cried in pain as their clothes, skin, and flesh dissolved before their eyes, which also dissolved. The dragonborn, on the other hand, was completely unscathed, and in fact, seemed to have healed all the arrow wounds.
+
+“He must be an acid dragon.” Robin Hood commented to himself. “We’ll have to outrange him.”
+
+The archer bandits shot arrows at him, several of them hitting. One hit him in the neck.
+
+The dragonborn didn’t fall. He removed the arrow from his neck, put it in his dragonbow, and then took aim at two of the archers who shot him. “Wanna try that again?” He let the arrow loose, and it whizzed by the closer archer, slicing his ear in half. That archer and the one next to him dropped their bows and ran off.
+
+“That guy’s tough. We’re going to need more man power to take him down.” Robin Hood turned his attention to the sleeping kangaroo. “Ah, this should be easy!”
+
+The kangaroo slept on a rock near the river bank. He lay in a rather awakward-looking position. A sneaky bandit snuck up on him as he slept. The bandit drew his dagger and plunged it into the kang—
+
+The kangaroo rolled over in his sleep, just as the bandit was stabbing him, causing the dagger to get stuck in the rock.
+
+The bandit kept his cool, and got his bow out instead. From point-blank range, he shot the kang—
+
+He missed. The arrow went right over the kangaroo’s head, and into campfire, where it promptly burned up.
+
+“He’s asleep! How did you miss??”
+
+A small woman crossed the river behind the bandit. She tapped him on the shoulder, and then as soon as he turned around, she let out a shockwave and disappeared. That shockwave disintegrated the bandit, splashing his blood all over the kangaroo and his rock. The small woman ended up right behind Marigold.
+
+Marigold was battling the half-orc. True to her skill, she was dodging battle axe swings and cat arrows, using her armor as a useful defensive tool.
+
+“At least one of my group is competent.”
+
+Marigold took advantage of the half-orc’s openings and plunged her poison-tipped dagger into his shoulder, his belly, and his ribs. He was tough, but little by little, she was wearing him down.
+
+“Just like she wore me down, haha.” Robin Hood chuckled.
 
 [scene 8: gra drath dmg assassin, reesu hugs her to death]
 
