@@ -3030,7 +3030,7 @@ Don JeLancie clasped his hands enthusiastically. He was still viewing Astalir th
 
 # Chapter 8 – Robin Hood
 
-=== 2023-06-03 ===
+=== 2023-06-05 ===
 
 === this chapter under construction ===
 
@@ -3106,21 +3106,109 @@ Marigold took advantage of the half-orc’s openings and plunged her poison-tipp
 
 “Just like she wore me down, haha.” Robin Hood chuckled.
 
-[scene 8: gra drath dmg assassin, reesu hugs her to death]
+The half-orc swung his axe at Marigold, but she blocked it with her dagger. A blue pawprint appeared on her chest, and she reacted by directing the axe blade in front of her, blocking an arrow from the tree. She slid past the axe and stabbed the half-orc in the gut. Green and red oozed out of his wounds.
 
-[scene 9: party finishes off bandits]
+The half-orc yelled in pain, and his eyes became bloodshot. He swung his axe wildly, forcing Marigold to back away. She dodged nimbly, but couldn’t find an opening to attack.
 
-[scene 10: robin hood approaches party, asks for money]
+And that’s when the small woman boomed across the battlefield, appearing in a dazzling flash of lightning right behind Marigold. She cut her off, and before she could dodge, Marigold was lifted up into the air.
 
-[scene 11: party cripples robin hood]
+Marigold struggled as she rose. She stabbed at the air, but her arms got pulled to her side before she could free herself.
 
-[scene 12: robin hood calls merry men]
+“Grandma!” Robin Hood slid out from behind the tall tree and stepped over some smaller trees. “I’m coming!”
 
-[scene 13: reesu tidal waves all merry men away]
+But before he could get there, he watched over the treetops as the small woman smiled evilly. Grandma dropped her dagger as she leaned forward. Her face crept closer and closer to her feet, until—
 
-[scene 14: party beats up robin hood, sui headshots him]
+*SNAP*
 
-[scene 15: reesu pulls head off robin hood, stuffs it in gra’s bag]
+The sound of bones cracking sent a chill down Robin Hood’s back. Grandma’s lower back burst open as her spine snapped in two. Her cold, dead eyes hung on her face as she plopped to the ground.
+
+“Oops.” The small woman giggled. “Guess I’m stronger than I realized.”
+
+“You killed my grandma!” Robin Hood lifted a foot high above the small woman’s head and stepped down onto her.
+
+“Oh look! I found a foot!”
+
+Robin Hood’s foot slammed into the ground faster than he anticipated. He went to lift it back up, but it was stuck on the ground. He tried to lift his other one.
+
+“I found another one!”
+
+“What? What is this?” Robin Hood yelled down from his stilts-for-legs vantage point.
+
+“Oh! They’re yours!”
+
+“Let me go!”
+
+“No, I don’t think I will.”
+
+“I’ll kill you! I’ll kill you all!”
+
+“Not if I kill you first!” The half-orc, still red-eyed, swung his axe into Robin Hood’s ankles, slicing them to the point of uselessness.
+
+A blue pawprint appeared on Robin Hood’s chest, and an arrow followed soon after.
+
+Robin Hood was taking a beating, but thanks to his larger size, he was also more durable. But it still hurt. “Oh merry men!”
+
+A whole dozen bandits appeared out from behind the trees.
+
+“Attack!”
+
+The bandits charged toward the group, yelling at the top of their lungs.
+
+“Incoming!” The dragonborn threw a green potion at the bandits. It was another acid potion!
+
+Before it could splash down, the small lady spit into the air, and then flicked a glowing finger at it, flinging the magic spit wad at the acid potion. The acid potion exploded mid-air above the bandits! And the magic spit wad became a deluge of water, raining down on the bandits.
+
+The bandits scream as their clothes melted off their skin, their skin melted off their flesh, and their flesh melted off their bones. When the acid rain finally stopped, the bandits were nothing more than a pile of bones and weapons.
+
+“I knew I should have hired that necromancer!” Robin Hood cursed. He knelt down to punch the small lady into the ground.
+
+But the half-orc swung his battle axe into his fingers, chopping them off. He swung at his legs even more, making it hard for him to keep his balance.
+
+Finally, an arrow shot right through his larger-than-normal skull.
+
+“Ughhhhh…” Robin Hood groaned as he lost consciousness. He fell to the ground.
+
+*THTHTHUUUDDD!*
+
+The ground shook as he landed. Just at the moment, his hour expired. He shrank back down to his normal size, spewing blood from his mouth as he went down.
+
+===========
+
+“I claim his head!” Reesu stood next to his neck. It stretched, tearing itself apart. The head popped off, taking the spine with it. Blood and veins spilled out of the neck wound. “Hmm… now I need a place to store it. Gra?”
+
+“Get that bloody thing away from me.” He held onto his bag of holding.
+
+“Come on.” Reesu grappled Gra to get to his bag of holding, but he clenched his fist tight around the bag, so she couldn’t grab it.
+
+“Reesu.”
+
+“Ok…” Reesu let go.
+
+Then the yinglet approached. “What is happen? Why this one covered in blood?”
+
+“You didn’t see?”
+
+“This one just woke up.”
+
+“Wow, you’re a heavy sleeper.” Gra commented.
+
+Reesu took advantage of the momentary distraction to slip Robin Hood’s head into Gra’s bag of holding. He didn’t notice.
+
+Gra knelt down in pain.
+
+“That one ok?”
+
+“I’m fine, just need to walk it off.”
+
+“This one heals you.” Gale laid a paw on Gra, glowing the pain away. Green ooze boiled away and his wounds closed.
+
+“Thanks.”
+
+“Oh ho ho!” A voice rang out, seemingly from nowhere.
+
+The party looked around, but no one was there.
+
+“That was quite entertaining, far exceeding my expectations.” Out of a flash of light, Don JeLancie appeared.
 
 [scene 16: don appears with his wagon]
 
