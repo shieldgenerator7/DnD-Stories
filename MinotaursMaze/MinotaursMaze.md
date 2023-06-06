@@ -3174,9 +3174,17 @@ The ground shook as he landed. Just at the moment, his hour expired. He shrank b
 
 ===========
 
-“I claim his head!” Reesu stood next to his neck. It stretched, tearing itself apart. The head popped off, taking the spine with it. Blood and veins spilled out of the neck wound. “Hmm… now I need a place to store it. Gra?”
+“I claim his head!” Reesu stood next to his neck. It stretched, tearing itself apart. The head popped off, taking the spine with it. Blood and veins spilled out of the neck wound.
 
-“Get that bloody thing away from me.” He held onto his bag of holding.
+“Your bad habits are rearing up again.” Gra scolded.
+
+“What? You don’t want to do this too?” Reesu gleefully held up the head, making the jaw move as she spoke. “Come and rip me apart, Gra. It’s fun! Come one Gra!” Then she tossed the head to Gra.
+
+It bounced in Gra’s hands for a bit before he tossed it back. “Keep it to yourself, Reesu.”
+
+“Hmm… now I need a place to store it. Gra?”
+
+“Reesu, no.” He held onto his bag of holding.
 
 “Come on.” Reesu grappled Gra to get to his bag of holding, but he clenched his fist tight around the bag, so she couldn’t grab it.
 
@@ -3192,7 +3200,7 @@ Then the yinglet approached. “What is happen? Why this one covered in blood?�
 
 “Wow, you’re a heavy sleeper.” Gra commented.
 
-Reesu took advantage of the momentary distraction to slip Robin Hood’s head into Gra’s bag of holding. He didn’t notice.
+Reesu took advantage of the momentary distraction to slip Robin Hood’s head into Gra’s bag of holding. He didn’t notice. Then she skipped around the acid-splashed bones and picked up all the gold pieces she could find.
 
 Gra knelt down in pain.
 
@@ -3204,11 +3212,19 @@ Gra knelt down in pain.
 
 “Thanks.”
 
-“Oh ho ho!” A voice rang out, seemingly from nowhere.
+“Oh ho ho!” A voice rang out, seemingly from nowhere. A slow clap followed.
 
 The party looked around, but no one was there.
 
 “That was quite entertaining, far exceeding my expectations.” Out of a flash of light, Don JeLancie appeared.
+
+“What are you doing here?” Sui asked.
+
+“Nothing, nothing at all. I’m just here to thank you for taking care of that rapscallion Robin Hood. I couldn’t stand that fellow.”
+
+“Yeah, he was bothering us too.” Gra wiped the blood off his axe.
+
+“Say, how about a discount on store merchandise? The least I can do for you after such help.” Don snapped his finger and his cart appeared in the middle of their camp. This time, it was an enclosed area the size of half a living room, with a countered window and an outside shelf for the customer. “What can I get for you?”
 
 [scene 16: don appears with his wagon]
 
