@@ -34,6 +34,8 @@ This game is going to be very combat-heavy, so I want it to go as smoothly as po
 
 Sometimes damage rolls get modified based on the target’s conditions, like when a barbarian takes half damage from rage. When I tell someone how much damage they take, the number will be already halved. So I will do the halving, and not the player. All the player needs to do is decrease their health bar by the amount that I tell them.
 
+It is ok to remind of effects that effect damage calculations if you think I might have forgotten.
+
 # Inspiration
 
 Inspiration points will last until the end of the session that they’re granted. Keeping them temporary gives the players more incentive to use them, imo.
