@@ -20,6 +20,10 @@ Initiative doesn’t stop once all monsters are dead. Initiative only stops when
 
 When you attack with a melee or ranged weapon, you may spend one of your hit dice to add its max value to your attack roll. You may do this before or after it has been determined whether or not the attack hits.
 
+## Range
+
+It’s harder to hit things at range. For every 30ft away the target is from you, the target gets +1 AC against your attacks.
+
 ## Crits
 
 A crit on an attack roll is an automatic success, but you must still check to see if it beats the target’s AC. If the crit does not beat the target’s AC, roll damage like normal. If the crit beats the target’s AC, then the damage roll is automatically set to its max value.
@@ -194,8 +198,12 @@ When you finish a short rest you can spend any number of hit dice. You heal for 
 
 A long rest is at least 8 hours long total, with no more than 1 hour of interruption total.
 
-When you finish a long rest you can spend any number of hit dice. You heal for their total maximum value plus your Constitution modifier. Then you regain 1 hit die. You lose 4 points of exhaustion. Then, if you have no points of exhaustion, you regain 1 hit die. You may then spend any number of sated points to heal for the same amount. If your sated points were equal to or greater than you Constitution when you started the long rest, you regain 1 additional hit die and lose an additional 4 points of exhaustion.
+When you finish a long rest you can spend any number of hit dice. You heal for their total maximum value plus your Constitution modifier. Then you regain 1 hit die. You lose 4 points of exhaustion. Then, if you have no points of exhaustion, you regain 1 hit die. You may then spend any number of sated points to heal for the same amount. If you were full when you started the long rest, you regain 1 additional hit die and lose an additional 4 points of exhaustion.
 
 # Eating & Drinking
 
 As an action, you can eat food or drink water to gain 1 sated point.
+
+Sated points give you bonuses to saving throws and ability checks, can be spent to heal during rests, and help regain hit dice and recover from exhaustion after a long rest.
+
+You are considered full if your sated points plus your Constitution modifier is equal to or greater than your Constitution.
