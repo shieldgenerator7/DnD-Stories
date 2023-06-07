@@ -3226,6 +3226,24 @@ The party looked around, but no one was there.
 
 “Say, how about a discount on store merchandise? The least I can do for you after such help.” Don snapped his finger and his cart appeared in the middle of their camp. This time, it was an enclosed area the size of half a living room, with a countered window and an outside shelf for the customer. “What can I get for you?”
 
+“I have everything I need right here.” Gra pats his battle axe.
+
+“How about an enhancement?”
+
+Gra looked at his battle axe. It was getting dull from the battles he was fighting, and it had a few nicks and scrapes. It needed it. “Sure. How much?” Gra pulled out his great axe as well and placed both axes on the counter.
+
+“For both axes, that’ll be 12,000.”
+
+“What about the Robin Hood discount?”
+
+“10,000.”
+
+“Hmm… that’s steep. Hold on.” Gra hid around the side of the cart so Sui didn’t see. He pulled two patches off his cloak that looked like lumps of yellow. In his hand, they turned into bags of gold. He brought out even more gold from his bag of holding. “How’s this?”
+
+Don took it all and counted it up. “Hold on just one second.” Don grabbed the two weapons and pulled a metal barrier down from the ceiling, concealing what he was doing. A moment later, he opened the barrier and handed Gra his two axes.
+
+They both looked shiny new, and had a magical shimmer to them. Gra swung them one in each hand. “Feels good.” He put them in his bag of holding.
+
 [scene 16: don appears with his wagon]
 
 [scene 17: reesu drath search bodies, reesu finds gold, drath finds map: Canadia]
