@@ -134,6 +134,8 @@ Whenever you gain sated points, if your sated points are higher than your Consti
 
 At the end of every hour, you lose 1 sated point.
 
+If your sated points plus your Constitution modifier is equal to or greater than your Constitution, you are considered full.
+
 ## Temporary Hit Points
 
 Temporary hit points can be stacked.
