@@ -1,0 +1,17 @@
+Roll,Crit,Fumb
+1,Gain an extra crit point against that target,"Hit a target behind, make an attack on that target"
+2,"Pierce through the target to one behind, make an attack on that target","Hit a target to the side, make an attack on that target"
+,"Cleave through the target to one on the side, make an attack on that target",Lose a crit point on that target
+,Gain an extra bonus action this turn,Target gains +1 AC against your attacks
+,Gain an extra action this turn,You get -1 to hit against that target
+,Gain an extra reaction until the end of your next turn,The target gets +2 to hit on their next attack if they attack you
+,The target bleeds for 1d6 at the start of their turn until they receive healing,Your AC is lowered by 2 until your next turn
+,Lower the target's AC by 1 permanently,Take 1 point of exhaustion
+,The target suffers -1 to hit,Reroll your attack die with a +0 atk
+,The target goes prone (save: DEX DC15),Reroll your attack die with a +5 atk
+,The target gets knocked 5ft back (save: STR DC15),Reroll your attack die with a -5 atk
+,Double your attack damage,You have disadvantage on ability checks and saving throws against that target until your next turn
+,Deal damage equal to the target's maximum health,Your movement becomes 0 until the end of your next turn
+,The target goes unconscious (save: CHA DC15),You drop your weapon
+,The target becomes paralyzed (save: CON DC15),"Your weapon chips, suffering permanent -1 atk"
+,The target becomes afraid of you (save: WIS DC15),Nothing happens
