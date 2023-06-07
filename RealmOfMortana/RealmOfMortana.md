@@ -1524,3 +1524,59 @@ She walked all the way back to town.
 [scene 12: titus gets booze, roth gets jerky]
 
 [scene 13: party sets sail to withering woods]
+
+# Chapter 6
+
+=== 2023-06-06 ===
+
+=== This chapter under construction ===
+
+=== Please wait for the official completion announcement ===
+
+[scene 1: party sails to whithering woods]
+
+[scene 2: party arrives, searches beach]
+
+[scene 3: armstig finds chest, opens it, and howls to get attention]
+
+[scene 4: roth gets hand stuck in mimic, johnny armstig roth fight mimic]
+
+[scene 5: mimic knocks out armstig]
+
+[scene 6: johnny defeats mimic, stablizies armstig]
+
+[scene 7: armstig goes back to ship, drinks ale with titus]
+
+[scene 8: johnny and roth find miyu, they search a city]
+
+[scene 9: 1 hour later, johnny comes to get armstig]
+
+[scene 10: party searches city, find gauntlet, golem orb, ray gun]
+
+[scene 11: johnny roth take ray gun back to ship]
+
+[scene 12: miyu armstig encounter mystery man, armstig howls]
+
+[scene 13: mystery man attacks, armstig miyu hug him]
+
+[scene 14: miyu casts silence]
+
+[scene 15: johnny roth arrive]
+
+[scene 16: johnny disarms mystery man, runs to ship]
+
+[scene 17: roth gets big and grapples mystery man]
+
+[scene 18: mystery man shrinks to get out of grapples, but fails]
+
+[scene 19: miyu armstig pet mystery man]
+
+[scene 20: roth suffocates mystery man]
+
+[scene 21: mystery man breaks free of armstig]
+
+[scene 22: miyu breaks silence, gives mystery man golem orb]
+
+[scene 23: roth lets go of mystery man, shrinks]
+
+[scene 24: mystery man agrees to talk]
