@@ -71,19 +71,21 @@ You have an uncanny ability to survive certain death, gaining you the following 
 
 # Brawler
 
-You get better in the heat of combat, gaining you the following benefits when you hit a crit on a target:
+You get better in the heat of combat, gaining you the following benefits:
 
--   When you hit a target, you knock them back 5ft (save: STR DC = your attack roll)
--   When you hit a crit on a target, you gain 1 crit point on any other target and can use your reaction to attack that target
--   Your AC goes up by the total crit points you have
+-   When you get hit by a melee attack, you gain 1 crit point against the attacker
+-   When you hit a melee attack on a target you have a crit point on, you can use your reaction to make a melee attack on another target at advantage
+-   Your AC against melee attacks goes up by the total crit points you have on creatures within your melee range
+
+*The more they attack you, the harder you can hit them, and the harder it is for them to hit you.*
 
 # Good Shot
 
 You are good at predicting enemy movements, gaining you the following benefits:
 
--   If a creature has moved at least 10ft since the beginning of its last turn, you have +5 atk against it with ranged weapons
--   If a creature is in the air, you have +5 atk against it with ranged weapons
--   Once per turn, you may give yourself advantage on a ranged weapon attack
+-   When a creature you can see moves 10ft or more, you can use your reaction to gain 1 crit point against it
+-   As a bonus action, you can gain 1 crit point on a creature you have a crit point on
+-   You have advantage when making a ranged weapon attack against a creature that you have a crit point on
 
 # Kiter
 
@@ -97,9 +99,11 @@ You are good at keeping your distance from your enemy, gaining you the following
 
 You love the thrill of battle, gaining you the following benefits:
 
--   As an action, you can gain 1 point of Exhaustion to gain temporary hp equal to your sated points. This temporary hp lasts until Initiative is stopped.
+-   As an action, you can gain 1 point of Exhaustion to gain temporary hp equal to your sated points. This temporary hp lasts until you gain another point of Exhaustion.
 -   Your movement speed increases by 1ft for each temporary hp you have, rounded up to the nearest 5ft
 -   While you have temporary hp, you impose disadvantage on all opportunity attacks against you
+
+When Initiative is stopped, if you have temporary hp, you gain 1 point of Exhaustion.
 
 # Destroyer
 
