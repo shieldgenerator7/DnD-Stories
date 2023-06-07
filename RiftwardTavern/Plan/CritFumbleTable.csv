@@ -1,17 +1,101 @@
 Roll,Crit,Fumb
-1,Gain an extra crit point against that target,"Hit a target behind, make an attack on that target"
-2,"Pierce through the target to one behind, make an attack on that target","Hit a target to the side, make an attack on that target"
-,"Cleave through the target to one on the side, make an attack on that target",Lose a crit point on that target
-,Gain an extra bonus action this turn,Target gains +1 AC against your attacks
-,Gain an extra action this turn,You get -1 to hit against that target
-,Gain an extra reaction until the end of your next turn,The target gets +2 to hit on their next attack if they attack you
-,The target bleeds for 1d6 at the start of their turn until they receive healing,Your AC is lowered by 2 until your next turn
-,Lower the target's AC by 1 permanently,Take 1 point of exhaustion
-,The target suffers -1 to hit,Reroll your attack die with a +0 atk
-,The target goes prone (save: DEX DC15),Reroll your attack die with a +5 atk
-,The target gets knocked 5ft back (save: STR DC15),Reroll your attack die with a -5 atk
-,Double your attack damage,You have disadvantage on ability checks and saving throws against that target until your next turn
-,Deal damage equal to the target's maximum health,Your movement becomes 0 until the end of your next turn
-,The target goes unconscious (save: CHA DC15),You drop your weapon
-,The target becomes paralyzed (save: CON DC15),"Your weapon chips, suffering permanent -1 atk"
-,The target becomes afraid of you (save: WIS DC15),Nothing happens
+1,Gain an extra crit point against that target,"Your weapon chips, suffering permanent -1 atk"
+2,"Pierce through the target to one behind, make an attack on that target",Take 1 point of exhaustion
+3,"Cleave through the target to one on the side, make an attack on that target",Take 1 point of exhaustion
+4,Gain an extra bonus action this turn,Take 1 point of exhaustion
+5,Gain an extra action this turn,Take 1 point of exhaustion
+6,Gain an extra reaction until the end of your next turn,You drop your weapon on your space
+7,The target bleeds for 1d6 at the start of their turn until they receive healing,You drop your weapon in front of you
+8,Lower the target's AC by 1 permanently,You drop your weapon behind you
+9,The target suffers -1 to hit,You drop your weapon to your side
+10,The target goes prone (save: DEX DC15),Lose a crit point on that target
+11,The target gets knocked 5ft back (save: STR DC15),Lose a crit point on that target
+12,Double your attack damage,Lose a crit point on that target
+13,Deal damage equal to the target's maximum health,Lose a crit point on that target
+14,The target goes unconscious (save: CHA DC15),Lose a crit point on that target
+15,The target becomes paralyzed (save: CON DC15),Lose a crit point on that target
+16,The target becomes afraid of you (save: WIS DC15),Lose a crit point on that target
+17,,Lose a crit point on that target
+18,,Lose a crit point on that target
+19,,Lose a crit point on that target
+20,,Target gains +1 AC against your attacks
+21,,Target gains +1 AC against your attacks
+22,,Target gains +1 AC against your attacks
+23,,Target gains +1 AC against your attacks
+24,,Target gains +1 AC against your attacks
+25,,Target gains +1 AC against your attacks
+26,,Target gains +1 AC against your attacks
+27,,Target gains +1 AC against your attacks
+28,,Target gains +1 AC against your attacks
+29,,Target gains +1 AC against your attacks
+30,,You get -1 to hit against that target
+31,,You get -1 to hit against that target
+32,,You get -1 to hit against that target
+33,,You get -1 to hit against that target
+34,,You get -1 to hit against that target
+35,,You get -1 to hit against that target
+36,,Your AC is lowered by 2 until your next turn
+37,,Your AC is lowered by 2 until your next turn
+38,,Your AC is lowered by 2 until your next turn
+39,,Your AC is lowered by 2 until your next turn
+40,,Your AC is lowered by 2 until your next turn
+41,,Your AC is lowered by 2 until your next turn
+42,,Your AC is lowered by 2 until your next turn
+43,,You have disadvantage on ability checks and saving throws against that target until your next turn
+44,,You have disadvantage on ability checks and saving throws against that target until your next turn
+45,,You have disadvantage on ability checks and saving throws against that target until your next turn
+46,,You have disadvantage on ability checks and saving throws against that target until your next turn
+47,,You have disadvantage on ability checks and saving throws against that target until your next turn
+48,,The target gets +3 to hit on their next attack if they attack you
+49,,The target gets +2 to hit on their next attack if they attack you
+50,,The target gets +2 to hit on their next attack if they attack you
+51,,The target gets +2 to hit on their next attack if they attack you
+52,,The target gets +2 to hit on their next attack if they attack you
+53,,The target gets +1 to hit on their next attack if they attack you
+54,,The target gets +1 to hit on their next attack if they attack you
+55,,Your movement becomes 0 until the end of your next turn
+56,,Your movement becomes 0 until the end of your next turn
+57,,Your movement becomes 0 until the end of your next turn
+58,,Your movement becomes 0 until the end of your next turn
+59,,Your movement is reduce by half until the end of your next turn
+60,,"Hit a target behind, make an attack on that target"
+61,,"Hit a target to the side, make an attack on that target"
+62,,"Hit a target behind, make an attack on that target"
+63,,"Hit a target to the side, make an attack on that target"
+64,,"Hit a target behind, make an attack on that target"
+65,,"Hit a target to the side, make an attack on that target"
+66,,"Hit a target behind, make an attack on that target"
+67,,"Hit a target to the side, make an attack on that target"
+68,,"Hit a target behind, make an attack on that target"
+69,,"Hit a target to the side, make an attack on that target"
+70,,Nothing happens
+71,,Nothing happens
+72,,Nothing happens
+73,,Nothing happens
+74,,Nothing happens
+75,,Nothing happens
+76,,Nothing happens
+77,,Nothing happens
+78,,Nothing happens
+79,,Nothing happens
+80,,Nothing happens
+81,,Reroll your attack die with a -5 atk
+82,,Reroll your attack die with a -5 atk
+83,,Reroll your attack die with a -5 atk
+84,,Reroll your attack die with a -5 atk
+85,,Reroll your attack die with a -5 atk
+86,,Reroll your attack die with a -5 atk
+87,,Reroll your attack die with a -5 atk
+88,,Reroll your attack die with a +0 atk
+89,,Reroll your attack die with a +0 atk
+90,,Reroll your attack die with a +0 atk
+91,,Reroll your attack die with a +0 atk
+92,,Reroll your attack die with a +0 atk
+93,,Reroll your attack die with a +0 atk
+94,,Reroll your attack die with a +0 atk
+95,,Reroll your attack die with a +5 atk
+96,,Reroll your attack die with a +5 atk
+97,,Reroll your attack die with a +5 atk
+98,,Reroll your attack die with a +5 atk
+99,,Reroll your attack die with a +5 atk
+100,,Reroll your attack die with a +10 atk
