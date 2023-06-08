@@ -3030,13 +3030,13 @@ Don JeLancie clasped his hands enthusiastically. He was still viewing Astalir th
 
 # Chapter 8 – Robin Hood
 
-=== 2023-06-05 ===
-
-=== this chapter under construction ===
-
-=== please wait for the official announcement of completion ===
-
 “I can’t believe they gave me fake change!” Robin Hood stomped along the path towards Drathalion’s location. His merry men followed closely behind him. “I’m going to make them pay! In gold, this time!”
+
+“Don’t worry honey, we’ll get payback from them!” His grandma consoled. She brandished two poison-tipped daggers in her hands.
+
+“Thanks, Grandma Marigold.”
+
+Robin Hood, his grandma, his merry men, and his grandma’s goons hunted down Drathalion using the compass Don gave him.
 
 Robin Hood’s unusually long, slender legs gave him the impression of using stilts. But no, this was Don’s doing. Robin Hood had to make good use of this while he could, although he wasn’t comfortable fighting in this state.
 
@@ -3048,11 +3048,11 @@ Drathalion the cat talked with a pale green half-orc alone by a tree. Even in th
 
 The cat turned into a deer, which was a surprise, but not enough to deter Robin Hood. The half-orc gave Drathalion a bag of gold, and this bag looked to be full of actual gold.
 
-“Perfect! That’s just what I need.” He reached down and tapped Marigold the assassin on the head. “Go.”
+“Perfect! That’s just what I need.” He reached down and tapped his grandma on the head. “Go.”
 
-Marigold the assassin sneaked through the bushes until she was in pouncing range of the half-orc. With a coordinated effort from some fellow bandits, she jumped out of the bush and held a knife to the half-orc’s neck. Another bandit held a fully charge arrow shot to the deer’s face.
+Grandma Marigold snuck through the bushes until she was in pouncing range of the half-orc. With a coordinated effort from some fellow bandits, she jumped out of the bush and held a knife to the half-orc’s neck. Another bandit held a fully charge arrow shot to the deer’s face.
 
-“Give us the gold, and no one gets hurt.” Marigold snarled. “And don’t you even think about yelling for help.” She pressed the knife a little harder up against his neck.
+“Give us the gold, and no one gets hurt.” Grandma Marigold snarled. “And don’t you even think about yelling for help.” She pressed the knife a little harder up against his neck.
 
 “Sure, let me get that for you.” The half-orc slowly reached into his bag of holding. “I know I have it in here somewhere.
 
@@ -3098,29 +3098,29 @@ He missed. The arrow went right over the kangaroo’s head, and into campfire, w
 
 A small woman crossed the river behind the bandit. She tapped him on the shoulder, and then as soon as he turned around, she let out a shockwave and disappeared. That shockwave disintegrated the bandit, splashing his blood all over the kangaroo and his rock. The small woman ended up right behind Marigold.
 
-Marigold was battling the half-orc. True to her skill, she was dodging battle axe swings and cat arrows, using her armor as a useful defensive tool.
+Grandma Marigold was battling the half-orc. True to her skill, she was dodging battle axe swings and cat arrows, using her armor as a useful defensive tool.
 
-“At least one of my group is competent.”
+“Go Grandma Marigold! Get him!.”
 
-Marigold took advantage of the half-orc’s openings and plunged her poison-tipped dagger into his shoulder, his belly, and his ribs. He was tough, but little by little, she was wearing him down.
+Grandma Marigold took advantage of the half-orc’s openings and plunged her poison-tipped dagger into his shoulder, his belly, and his ribs. He was tough, but little by little, she was wearing him down.
 
-“Just like she wore me down, haha.” Robin Hood chuckled.
+“Just like she wears me down,” Robin Hood chuckled.
 
-The half-orc swung his axe at Marigold, but she blocked it with her dagger. A blue pawprint appeared on her chest, and she reacted by directing the axe blade in front of her, blocking an arrow from the tree. She slid past the axe and stabbed the half-orc in the gut. Green and red oozed out of his wounds.
+The half-orc swung his axe at Grandma Marigold, but she blocked it with her dagger. A blue pawprint appeared on her chest, and she reacted by directing the axe blade in front of her, blocking an arrow from the tree. She slid past the axe and stabbed the half-orc in the gut. Green and red oozed out of his wounds.
 
-The half-orc yelled in pain, and his eyes became bloodshot. He swung his axe wildly, forcing Marigold to back away. She dodged nimbly, but couldn’t find an opening to attack.
+The half-orc yelled in pain, and his eyes became bloodshot. He swung his axe wildly, forcing Grandma Marigold to back away. She dodged nimbly, but couldn’t find an opening to attack.
 
-And that’s when the small woman boomed across the battlefield, appearing in a dazzling flash of lightning right behind Marigold. She cut her off, and before she could dodge, Marigold was lifted up into the air.
+And that’s when the small woman boomed across the battlefield, appearing in a dazzling flash of lightning right behind Marigold. She cut her off, and before she could dodge, Grandma Marigold was lifted up into the air.
 
-Marigold struggled as she rose. She stabbed at the air, but her arms got pulled to her side before she could free herself.
+Grandma Marigold struggled as she rose. She stabbed at the air, but her arms got pulled to her side before she could free herself.
 
-“Grandma!” Robin Hood slid out from behind the tall tree and stepped over some smaller trees. “I’m coming!”
+“Grandma Marigold!” Robin Hood slid out from behind the tall tree and stepped over some smaller trees. “I’m coming!”
 
-But before he could get there, he watched over the treetops as the small woman smiled evilly. Grandma dropped her dagger as she leaned forward. Her face crept closer and closer to her feet, until—
+But before he could get there, he watched over the treetops as the small woman smiled evilly. Grandma Marigold dropped her dagger as she leaned forward. Her face crept closer and closer to her feet, until—
 
 *SNAP*
 
-The sound of bones cracking sent a chill down Robin Hood’s back. Grandma’s lower back burst open as her spine snapped in two. Her cold, dead eyes hung on her face as she plopped to the ground.
+The sound of bones cracking sent a chill down Robin Hood’s back. Grandma Marigold’s lower back burst open as her spine snapped in two. Her cold, dead eyes hung on her face as she plopped to the ground.
 
 “Oops.” The small woman giggled. “Guess I’m stronger than I realized.”
 
@@ -3304,11 +3304,9 @@ Gra came up behind her. “You mean a house?”
 
 “Thanks.” Drathalion gave him the gold.
 
+The party had all done their business with Don, so he left. He and his cart simply faded away.
+
 Drathalion set up the tent on the edge of the campground behind some trees. She set up some arrows pointing straight up out of the ground, cast some magic on them, and retired into the tent.
-
-The party had all done their business with Don, so he left. He and his cart simply faded away. The vacancy left by the vanishing shop created a pressure vacuum that put the campfire out.
-
-Gale woke up. He noticed the dead bodies everywhere. “What is happen? Why is this one covered in blood?”
 
 # Chapter 9
 
