@@ -3259,3 +3259,71 @@ They both looked shiny new, and had a magical shimmer to them. Gra swung them on
 [scene 22: drath sets up tent, turns into astalir, goes to sleep]
 
 [scene 23: gale wakes up, wonders what happened]
+
+# Chapter 9
+
+=== 2023-06-07 ===
+
+=== this chapter under construction ===
+
+=== please wait for the official completion announcement ===
+
+[scene 1: silber micro in sticky bucket, jodi serves them, hands shaking]
+
+[scene 2: don shows up, gives silber a mission]
+
+[scene 3: silber arrives at winds crossing, challenges Revali]
+
+[scene 4: silber out guns Revali, wins contest, puts Revali to shame]
+
+[scene 5: Revali flies off, disheartened]
+
+[scene 6: don appears and slow claps]
+
+[scene 7: party at night tries to go to sleep]
+
+[scene 8: reesu pranks gale]
+
+[scene 9: reesu pranks astalir, sees astalir’s deer form]
+
+[scene 10: astalir wakes up, spits out prank, pukes, covers tent in boulder illusion]
+
+[scene 11: gra goes thru illusion into tent, tells astalir who pranked him]
+
+[scene 12: astalir turns into drathalion, climbs tree, turns into tree branch]
+
+[scene 13: astalir rifles through reesu’s person, pulls out daggers, obsidian stone]
+
+[scene 14: astalir throw reesu’s stuff in fire]
+
+[scene 15: reesu pours alcohol on fire]
+
+[scene 16: astalir puts flaming log on reesu, reesu deflects]
+
+[scene 17: reesu darknesses astalir, astalir color sphere, climbs up tree, sleeps]
+
+[scene 18: party wakes up next morning, drath is missing]
+
+[scene 19: party walks by graveyard, finds Bob the dark elf]
+
+[scene 20: bob joins the party
+
+[scene 21: party arrives in canadia, gra gives bob a coat (prev for drath)]
+
+[scene 22: party arrives at Sticky Bucket tavern, drath comes down from bedroom]
+
+[scene 23: drath talks to jodi, gra helps drath order pancakes]
+
+[scene 24: party orders food]
+
+[scene 25: party draws cards, reesu leaves table join drath jodi at bar]
+
+[scene 26: jodi tells drath about silber posten, drath accepts quest]
+
+[scene 27: reesu gives jodi hug]
+
+[scene 28: reesu jodi join party at table, draws cards]
+
+[scene 29: cards: gra gold move speed, bob large, jodi -1 finger large, sui -2 AC]
+
+[scene 30: drath treks on ahead of the party]
