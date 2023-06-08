@@ -3242,23 +3242,73 @@ Gra looked at his battle axe. It was getting dull from the battles he was fighti
 
 Don took it all and counted it up. “Hold on just one second.” Don grabbed the two weapons and pulled a metal barrier down from the ceiling, concealing what he was doing. A moment later, he opened the barrier and handed Gra his two axes.
 
-They both looked shiny new, and had a magical shimmer to them. Gra swung them one in each hand. “Feels good.” He put them in his bag of holding.
+They both looked shiny new, and had a magical shimmer to them. Gra swung them one in each hand. “Feels good.” He looks down at the handle. “Heh, looks like I got blood on it already.”
 
-[scene 16: don appears with his wagon]
+“I can fix that.” Don said. He touched Gra on the shoulder, and the blood instantly vanished. He touched Sui too, cleaning him up instantly.
 
-[scene 17: reesu drath search bodies, reesu finds gold, drath finds map: Canadia]
+“Thanks.” Gra put his axes in his bag of holding. Then he turned to a munching sound.
 
-[scene 18: gra sui go to don to upgrade weapons, gra uses 2 gold patches from cloak]
+Reesu was kneeling next to Robin Hood’s decapitated corpse gnawing on his leg bone.
 
-[scene 19: drath buys winter tent from don]
+“What are you doing?” Gra asked.
 
-[scene 20: reesu gets stone from don, don turns it into arrowhead necklace]
+“Oh I’m sorry.” Reesu turned to Gra, mouth dripping with blood. “Did you want some?”
 
-[scene 21: don cleans blood from party, takes robin hood’s body]
+Gra gave her a face.
 
-[scene 22: drath sets up tent, turns into astalir, goes to sleep]
+Don exited his shop and walked up to Robin Hood. “Why, don’t mind if I do!” He touched Robin Hood’s corpse and it disappeared. Then he went around, poking everyone with blood on them, and cleaning them in an instant. Then he went back to his shop.
 
-[scene 23: gale wakes up, wonders what happened]
+Reesu approached, stuffing gold into her pockets.
+
+“What can I get for you?”
+
+“Can I have something because you like me?”
+
+“Well I don’t normally do this, but…” Don reached under the counter and produced a small obsidian stone. “You can have this, free of charge.”
+
+“It’s pretty!” Reesu cheered. “But kind of lumpy.”
+
+“I can fix that.” Don put the barrier up and a second later put it back down. The rock was now in the shape of an arrowhead, and it was tied around a silver necklace.
+
+“Thank you so much, Mr. Don!” Reesu put it around her neck. As she left, Drathalion came up to the counter.
+
+Drathalion folded a map with a drop of blood still on it.
+
+“What can I get for you?”
+
+“Do you have any… um…” Drathalion put a hand to her mouth. “Mobile caves?”
+
+“Not in your price range.”
+
+“No, uh… it’s a small structure that folds out. And it has a flapping door.”
+
+“What?”
+
+Gra came up behind her. “You mean a house?”
+
+“Yeah! A house, but one you can take with you.”
+
+“Tortoise shell?”
+
+“But not hard and doesn’t have to be on your back. It has walls that touch at the top, so not much of a ceiling.”
+
+“Oh! A tent?”
+
+“Yeah that’s it!”
+
+“Yes I do.” Don pulled up a bag full of tent parts. “1 gold.”
+
+“Is it rated for subzero temperatures?”
+
+“Hold on.” Don took the tent into his private shop and came back. The tent was now much fluffier and more insulated. “It is now. 4 gold.”
+
+“Thanks.” Drathalion gave him the gold.
+
+Drathalion set up the tent on the edge of the campground behind some trees. She set up some arrows pointing straight up out of the ground, cast some magic on them, and retired into the tent.
+
+The party had all done their business with Don, so he left. He and his cart simply faded away. The vacancy left by the vanishing shop created a pressure vacuum that put the campfire out.
+
+Gale woke up. He noticed the dead bodies everywhere. “What is happen? Why is this one covered in blood?”
 
 # Chapter 9
 
