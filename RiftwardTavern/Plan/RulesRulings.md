@@ -79,6 +79,8 @@ A player may exert themselves to add their relevant ability modifier to a saving
 
 You gain a bonus to saving throws and ability checks equal to your sated points divided by 5, rounded up.
 
+The minimum value for a DC is 0. If the DC is 0, the creature automatically succeeds without rolling any dice.
+
 # Conditions
 
 ## Rooted
@@ -158,9 +160,15 @@ You lose points of exhaustion when you finish a short or long rest.
 
 # Magic Items
 
+## Magic Words
+
 Some magic items have words written on them that activate them. In order to activate them, you must be touching the magic item and say the magic words. You do not need to be touching the magic words on the item.
 
 When an item mentions being activated by magic words, remember that you need to be touching the item for it to activate.
+
+## Attunement Points
+
+Some magic items give you attunement points, which effect how the item behaves for you over time. Attunement points are between that particular player and that particular item. A player can have attunement points for more than one item, and those attunement points are separate. More than one player can have attunement points for the same item, but those attunement points are separate.
 
 # Ties
 
