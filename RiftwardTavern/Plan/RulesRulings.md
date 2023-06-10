@@ -87,7 +87,7 @@ The minimum value for a DC is 0. If the DC is 0, the creature automatically succ
 
 This is another name for Restrained.
 
-## Sleeping
+## Sleeping / Asleep
 
 A sleeping creature is unconscious. When they take damage, they regain consciousness.
 
@@ -173,6 +173,10 @@ When an item mentions being activated by magic words, remember that you need to 
 ## Attunement Points
 
 Some magic items give you attunement points, which effect how the item behaves for you over time. Attunement points are between that particular player and that particular item. A player can have attunement points for more than one item, and those attunement points are separate. More than one player can have attunement points for the same item, but those attunement points are separate.
+
+## Removing Worn Items
+
+Some items can be worn. Normally, only the creature wearing the item is able to take it off or put it on. But, if the creature wearing the item is willing, any creature may remove the item from the wearer.
 
 # Ties
 

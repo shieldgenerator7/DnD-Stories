@@ -217,6 +217,196 @@ The deck is cohesive and the cards stick together, except when a creature intent
 
 When a card is drawn, it turns into the creature on the face of the card. It is a wild animal and likely to attack anything close to it for 1 minute after spawning.
 
+# Black Hole Globe
+
+A small snow globe that contains a black hole.
+
+While holding this snow globe in one hand, you can cast any spell that teleports or opens portals without expending a spell slot, including: Misty Step, Blink Step, Dimension Door, Plane Shift and others. You must know the spell already.
+
+The snow globe has 25AC, 100HP, and resistance to all damage, except Bludgeoning. It is vulnerable to Bludgeoning damage.
+
+When the snow globe is destroyed, its black hole is unleashed. It gets its own turn in the turn order, and consumes everything in its range. Its consume radius starts at 5ft. On its turn, it increases its radius by 1ft and consumes everything within its radius, rounded up to the nearest 5ft. The black hole has 1AC, 1000HP, and absorption to all damage, except Lightning. It is vulnerable to Lightning damage. It is immune to all conditions, and cannot be dispelled by Dispel Magic.
+
+# Rod of Suffering
+
+Melee +1 atk 1d4 Bludgeoning
+
+A magic rod about 5ft long.
+
+It has magic words written on its handle. As a reaction, you may activate it. It deals 1d10 Lightning damage to you and all creatures touching it. If this damage kills a creature, you gain an electrocution point. The damage of this rod increases by 1d10 for each electrocution point you have.
+
+# Marbles of Illusion
+
+A bag of 10 magic marbles.
+
+As a bonus action, you may throw a marble to a location within 30ft of you that the marble can move in a straight line towards. When the marble touches the ground, it produces a Silent Image of you doing an action that you choose. This silent image moves with its marble. Once the spell ends, that magic marble loses its magic and reverts to being a regular marble.
+
+# Goggles of Fear
+
+\+2 WIS
+
+A pair of goggles that makes you see things.
+
+When you put on these goggles, a monster from your worst nightmare appears that only you can see. This monster follows you wherever you go and always spends its movement to get into your line of sight, but stays out of your melee range.
+
+While wearing these goggles, if you see the monster, you become feared until the end of your next turn.  
+**Saving throw**: Wisdom DC13
+
+# Teleportation Grenade
+
+A ridged rock with glowing runes painted on it.
+
+As an action, you may speak the magic words and throw the grenade to a point within 60ft of you.
+
+All creatures within 15ft of its destination get teleported to a random location 30ft from their starting location. If that space is already occupied, they take 1d10 Force damage and get shunted to the closest unoccupied space.
+
+# Dehydrated Gelatinous Cube
+
+A tiny cube that looks like salt.
+
+If you eat it, after 1 hour, you puke it out.
+
+When you puke it out, it deals 2d10 acid damage to you, and you lose all your sated points.  
+Saving throw: Constitution DC15
+
+As it gets water, it slowly grows. Once it reaches 5ft in width, it is able to consume flesh. It eventually grows into a full-size gelatinous cube.
+
+# Watch
+
+A regular wrist watch, but with magic words instead of a display.
+
+When you say the magic words, it loudly announces the time, producing a sound audible out to a range of 100ft.
+
+Once every hour, on the hour, it loudly announces the time, producing a sound audible out to a range of 100ft.
+
+# Griffin Feather
+
+While holding this feather, you gain the following benefits:
+
+-   Keen Sight
+-   You know the spell Feather Fall
+-   You have a flying speed equal to half your walking speed
+
+# Wand of Desaturation
+
+A grey wand with black and white magic words.
+
+As an action, bonus action, and reaction, you may say the magic words to remove all color from a target and their possessions. They turn greyscale. This effect lasts until sunlight touches them.
+
+# Flappy Word
+
+A tablet with magic words written on it.
+
+As a bonus action, you may say the magic words. All creatures within 90ft of the tablet and in line of sight of the tablet get t-posed.  
+**Saving throw**: Wisdom DC15
+
+While t-posed, your arms involuntarily outstretch to your side. You unable to move your hands or arms. If a quadruped creature gets t-posed, this effects only their front most legs. You don’t suffer any penalties to your movement, but when you move, your legs don’t seem to animate.
+
+This effect lasts until the tablet breaks or until the magic words are spoken again.
+
+# Bandana of Snickery
+
+A bandana with an evil smile scribbled on it.
+
+While wearing this bandana, you have +1 to Stealth checks.
+
+Whenever you snicker, you gain +1 AC until the next time you are attacked, and +1 atk until your next attack. Snickering multiple times doesn’t cause the bonuses to stack.
+
+# Animal Collar
+
+A human-sized cat collar with a bell on it.
+
+While wearing this collar, you are unable to make noises that can be interpreted as speech. Instead, you can only make animal noises.
+
+This collar is unable to be removed by hand. Instead, saying the magic words causes the collar to come off.
+
+# Door of Whodunit
+
+A door with the Magic Mouth spell permanently attached to it, and that can’t be dispelled.
+
+Whenever someone opens the door, it screams “Whodunit?!” at a volume audible from 200ft.
+
+Whenever someone closes the door, it screams “You dun did it!” at a volume audible from 200ft.
+
+# Bedtime Mimic
+
+A normal-looking chest. When opened, it casts Suggestion on you, forcing you to get inside the chest, close the lid, and then go to sleep, becoming Asleep.  
+**Saving throw**: Wisdom DC15
+
+Once entering the chest, you gain 1 mimic digestion point. While you’re inside the chest, at the end of every hour, you gain 1 mimic digestion point. When you wake up from your sleep, you take 1d6 Acid damage for each mimic digestion point you have, then you lose all your mimic digestion points.
+
+The mimic cannot cast Suggestion while a creature is inside it that has at least 1 mimic digestion point.
+
+If the mimic dies before you wake up, you lose all mimic digestion points.
+
+# Portal Chest
+
+A normal-looking chest.
+
+When opened, it creates a portal to a random location 1 mile from it. When closed, the portal closes.
+
+When it creates a portal, it has a 50% chance of choosing a location it has chosen before.
+
+# Glue Chest
+
+A normal-looking chest. It has lots of gold inside, stacked in weird ways that don’t seem to obey the laws of gravity. Some are stuck to the walls and other coins. None are floating in the air.
+
+When you touch the inside of the chest or anything that touches the inside of the chest, you become glued to the inside or thing that you touched.
+
+If you’re wearing gloves, you can leave the glove behind to rescue your hand. Otherwise, if you touched it with bare skin, the effect is permanent.
+
+If the chest gets destroyed, the effect ends, and everything becomes unglued.
+
+# Bathtub Chest
+
+A normal-looking chest.
+
+While open, it slowly fills up with water, seemingly from nowhere. Closer inspection reveals that a rune on the chest floor produces the water.
+
+While closed, it slowly drains the water.
+
+The chest is heavier while it is full of water.
+
+# Golden Apple Chest
+
+A normal-looking chest.
+
+When any object that is an apple touches the inside of the chest, it is turned to solid gold. This effect lasts until the object is removed from the chest.
+
+# Onyx Scepter
+
+Melee +2 atk 1d6+2 Bludgeoning
+
+A scepter with an onyx stone attached to its end.
+
+When a creature is hit with the scepter, they get Petrified.  
+**Saving throw**: Charisma DC10
+
+For each petrified creature within 30ft of it, the scepter gets +1 atk and +1 DC, up to 20.
+
+# Stone Breastplate
+
+\+6 AC, -5ft, -5 Stealth
+
+A breastplate made of stone.
+
+As a bonus action, if you’re not petrified, you can speak the magic words to petrify yourself and one creature you touch.  
+**Saving throw**: Charisma DC15
+
+If you get Petrified, you can use your reaction to have the Stone Breastplate cast Magic Mouth on you, and you can control the spell as it gets cast.
+
+As a bonus action, you can speak the magic words to unpetrify all creatures touching the Stone Breastplate. You must be able to speak to do this.
+
+# Stone Protection Amulet
+
+\+1 AC, +1 CHA
+
+If you would take damage, the amulet Petrifies you until the end of your next turn.
+
+Whenever you get Petrified, the amulet grants you temporary hit points equal to your current hit points.
+
+If the amulet is removed from you, you lose all temporary hit points.
+
 # Drathalion’s Longbow
 
 Reward for defeating Drathalion Treescorn
