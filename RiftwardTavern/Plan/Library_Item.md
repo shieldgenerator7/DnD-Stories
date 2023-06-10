@@ -10,7 +10,7 @@ Some items are legendary and have a legendary item attunement requirement. The f
 
 Starting Item, Uncommon
 
-It has a magic word written on it. As an action, you may touch the handkerchief and speak the magic word. Then 1 minute later, the handkerchief teleports every creature touching or wearing it, dead or alive, to the last Riftward Tavern that it visited.
+It has magic words written on it. As an action, you may say the magic words. Then 1 minute later, the handkerchief teleports every creature touching or wearing it, dead or alive, to the last Riftward Tavern that it visited.
 
 Upon leaving a Riftward Tavern location, it becomes boosted for 1 hour, granting you Passage Protection. While moving towards other Riftward Tavern Handkerchiefs, you gain 5x your normal walk speed and +10 to all saving throws. It stops being boosted if time runs out, if you move within 100ft of a non-boosted Riftward Tavern Handkerchief, or if you deal damage.
 
@@ -50,49 +50,90 @@ Magical words on the top turn it on. Magical words on the bottom turn it off.
 
 # Hamgorg’s Tremor Hammer
 
-1d8 Bludgeoning
+Melee +1 atk 1d8 Bludgeoning
 
-Whenever you hit an attack with this hammer, make a DC 15 Strength check. If you succeed, the hammer creates a tremor in a 15ft radius of the target struck. All creatures in range must make a DC (1d4 + 10) Dexterity saving throw or be knocked prone. You have advantage on this saving throw, and the target struck has disadvantage. Creatures that get knocked prone and that are within 5ft of a ledge must make a DC 15 Constitution saving throw. If they fail, they fall off the ledge.
+Whenever you hit a target with this hammer, the hammer creates a tremor in a 15ft radius of the target.  
+Ability check: Strength DC15
+
+All creatures in the tremor range get knocked prone.   
+Saving throw: Dexterity DC = 1d4 + 10  
+Advantage: You  
+Disadvantage: The target
+
+Creatures that get knocked prone by the tremor and that are within 5ft of a ledge fall off the edge.  
+Saving throw: Dexterity DC15
 
 # Mud Scoop
 
-1d4 Bludgeoning
+Melee +2 atk 1d4 Bludgeoning
 
-A metal shovel designed for scooping mud. The mud that is scraped off this shovel can be thrown. On impact, the mud will take its new shape and harden into rock instantly.
+A metal shovel designed for scooping mud.
 
-If the mud is thrown at a creature, that creature takes 1d4 water damage, and must make a DC 12 Strength check or be rooted. At the beginning of their turn, they may make this check again, and break free when they succeed.
+**Dig**  
+As an action, if there is mud on your space, dig some mud out of the ground. As a reaction, you may Mud Sling. Then the newly-made hole fills up with mud.
+
+**Mud Sling**  
+As an action, while the shovel has mud in it, make a (30/60) ranged attack: +5 atk 1d4 Water
+
+On impact, the mud flung from this shovel will take its new shape and harden into rock instantly. A creature hit by this attack becomes rooted.  
+Saving throw: Strength DC12
+
+As an action, a rooted creature may break free of the hardened mud.  
+Ability check: Strength DC12
 
 # Cleave Sword
 
 2d6+4 Slashing
 
-When you swing the sword, make a DC13 Wisdom ability check. On a success, everything in a cone in front of you takes 1d6+4 slashing damage, even if behind cover. The cone’s length and width is equal to your Wisdom modifier times 5, plus 5.
+When you swing the sword, everything in a cone in front of you takes 1d6+4 Slashing damage, even if behind cover. The cone’s width and radius are both equal to your Wisdom modifier times 5, minimum of 5.  
+Ability check: Wisdom DC13
 
 # True Sight Scope
 
-As an object interaction on your turn, or as a reaction, you may put the True Sight Scope up to your eye until the beginning of your next turn. Illusions in a cone in front of you become transparent, and secret doors and traps are revealed. The cone length and radius are both equal to your Intelligence modifier times 10, plus 10.
+As an object interaction on your turn, or as a reaction, you may put the True Sight Scope up to your eye until the beginning of your next turn. Illusions in a cone in front of you become transparent, and secret doors and traps are revealed. The cone’s width and radius are both equal to your Intelligence modifier times 10, minimum of 10.
 
 # Stockholm Cuffs
 
-Place one end of these cuffs on a creature that is not under any mental effects, and place the other end on a creature that is under a mental effect. At the end of every hour, the sane creature makes a DC35 Charisma ability check. On a failure, the DC lowers by 1 until the cuffs are removed from the effected creature. On a success, the effected creature becomes free from all mental effects on it, including Cold Stare.  
-While wearing these cuffs, both creatures must remain with 5ft of each other. If they try to separate, they make contested Strength checks. The one who loses gets moved to the closest position within 5ft of the other. If they tie, the creature trying to move gets their movement cancelled, expending that 5ft of movement. Either creature may intentionally fail this check.  
-The two creatures in these cuffs have advantage on melee attacks against each other, and disadvantage on saving throws from spells cast by the other creature.
+If you are not under any mental effects, place one end of these cuffs on you, and place the other end on a creature that is under one or more mental effects.
+
+At the end of every hour, you attempt to free the other creature from mental effects.  
+**Ability check**: Charisma DC = 35 minus the other creature’s mental cuff points  
+**Success**: The other creature becomes free from all mental effects on it, including Cold Stare.  
+**Failure**: The creature gains 1 mental cuff point.
+
+If the cuffs are removed from the other creature, they lose all mental cuff points.
+
+While wearing these cuffs, you must remain within 5ft of the other creature.
+
+If you move 10ft or more from the other creature, you drag them along with you. They make a Strength ability check.  
+**Ability check**: Strength DC = the result of their Strength ability check minus their mental cuff points  
+**Success**: You drag them along with you, to the closest empty space with 5ft of you.  
+**Failure**: Your movement is cancelled, expending the attempted movement.
+
+If the other creature moves 10ft or more from you, they drag you along with them. They make a Strength ability check.  
+**Saving throw**: Strength DC = the result of their Strength ability check minus their mental cuff points  
+**Success**: Their movement is cancelled, expending the attempted movement.  
+**Failure**: They drag you along with them, to the closest space within 5ft of them.
+
+You have advantage on melee attacks against the other creature, and they have disadvantage on saving throws from spells you cast.
+
+The other creature has advantage on melee attacks against you, and you have disadvantage on saving throws from spells they cast.
 
 # Concrete Boots
 
-\+2AC -5ft
+Melee +3 atk 1d10+5 Crushing
 
-The wearer gets advantage on Strength and Constitution ability checks and saving throws, but disadvantage on Dexterity ability checks and saving throws.
+\+2AC, -5ft
 
-Stomp  
-As an action, you may stomp on the foot of a creature next to you to make a melee weapon attack: +3 atk 1d10+5 crushing damage.  
-On hit, the creature suffers -5ft move speed for 1 minute.  
-Saving throw: Constitution DC12
+While wearing these boots, you get advantage on Strength and Constitution ability checks and saving throws, but disadvantage on Dexterity ability checks and saving throws.
 
-When you or an ally within 5ft of you has to make a saving throw to not be forcefully moved, you can use your reaction to decrease the DC by 5 for you and creatures you choose within 5ft of you.
+A creature hit by these boots suffers -5ft move speed for 1 minute.  
+**Saving throw**: Constitution DC12
+
+When you or an ally within 5ft of you has to make a saving throw to not be forcefully moved, you can use your reaction to decrease the DC by 5 for you and allies within 5ft of you.
 
 When you use the Dash action on your turn, you instead fall prone and your movement becomes 0 until the end of your turn.  
-Saving throw: Strength DC10
+**Saving throw**: Strength DC10
 
 # Camo Pants
 
@@ -106,7 +147,7 @@ The pants magically form to fit its wearer.
 
 # Necromancer’s Shovel
 
-\+2 atk 2d4 Bludgeoning
+Melee +2 atk 2d4 Bludgeoning
 
 When within 10ft of a dead body, the shovel pulls itself towards the body.
 
@@ -114,14 +155,19 @@ As an action, you can stick the shovel in the ground. If it hits a dead body, th
 
 # Boop-erang
 
-\+5 atk 2d6 Slashing, Thrown (30/60)
+Thrown (30/60) +5 atk 1d6 Slashing
 
-When you throw this boomerang, make an Athletics skill check. If it hits its target, the target gets knocked back a distance equal to your Strength modifier times 5.  
-Saving throw: Strength DC = the result of your Athletics skill check
+As an action, you can throw this boomerang to a point within range. Make an Athletics skill check, this will be the boomerang’s boop strength. The boomerang makes an attack on all creatures in a line to its destination, booping them away from you.
 
-If it misses its target on the way out, you may have it make a second attack on the way back.
+A creature hit by this boomerang gets knocked back a distance equal to your Strength modifier times 5.  
+**Saving throw**: Strength DC = the boomerang’s boop strength
 
-If it hits its target either time, the boomerang falls to the ground 5ft from its target.
+As a reaction, if you threw it since the beginning of your last turn, you may recall the boomerang back to you. It makes an attack on all creatures in a line back to you, booping them towards you.
+
+When the boomerang returns to you, you catch it.  
+**Skill check**: Acrobatics DC = the boomerang’s boop strength  
+**Success**: You catch it.  
+**Failure**: The boomerang makes an attack on you and falls to the ground on the space you were at when you recalled it.
 
 # Glove of Holding
 
@@ -135,7 +181,7 @@ While concentrating on a spell, your movement speed is 0.
 
 # Dragon’s Belt
 
-\+5 STR +5 CON
+\+5 STR, +5 CON
 
 While wearing this belt, you have a dragon tail about 10ft long.
 
@@ -145,23 +191,21 @@ Whenever you change your facing direction, your tail swipes all creatures behind
 
 While wearing this bandana, you are blinded, but you have advantage on Dexterity saving throws and all ability checks relying on sound.
 
-If you have to make a saving throw, you can use your reaction to instead teleport to a random position up to 30ft away.
-
-You can use your reaction to teleport to a random position up to 30ft away.
+As a reaction, you can teleport to a random position up to 30ft away, automatically succeeding on any current saving throws.
 
 # Orbweaver
 
-\+3 atk 1d6+1 Bludgeoning, Thrown (30/60)
+Thrown (30/60) +3 atk 1d6+1 Bludgeoning
 
 A spider curled in a ball. Very furry, likes pets. Remains loyal to the creature that gave it the best pets within the last 24 hours.
 
 If it hits it target, it rapidly spins a web around them. The target becomes restrained.  
-Saving throw: Dexterity DC15.
+**Saving throw**: Dexterity DC15.
 
 A creature restrained by this effect may use an action on its turn to free itself.  
-Ability check: Strength DC15  
-Success: No longer restrained  
-Failure: the DC goes up by 1, to a maximum of 20
+**Ability check**: Strength DC = 15 plus the creature’s web restrained points.  
+**Success**: The creature is no longer restrained and loses all web restrained points.  
+**Failure**: The creature gains 1 web restrained point.
 
 The spider remains on its target until picked up. If it missed its target, it waits as a trap for the next creature that comes within 5ft of it. It does not spring the trap on the creature it’s loyal too, nor does it restrain the creature it’s loyal to.
 
@@ -177,12 +221,12 @@ When a card is drawn, it turns into the creature on the face of the card. It is 
 
 Reward for defeating Drathalion Treescorn
 
-Longbow +7 atk 1d8+4 Piercing
+Ranged (150/600) +7 atk 1d8+4 Piercing
 
-Heavy, Two-Handed, Ranged (150/600)
+Heavy, Two-Handed
 
 When you deal damage to a target with this bow, the bow deals additional Piercing damage equal to the target’s missing HP.  
-Saving throw (at advantage): Constitution DC = your Dexterity
+**Saving throw** (at advantage): Constitution DC = your Dexterity
 
 When a target is below 50% hp, a hunter’s mark appears on it and you have advantage on checks to find it.
 
@@ -200,31 +244,31 @@ The bonus damage is increased to +2 per kill, and the bonus damage decreases by 
 
 Reward for defeating Timmy the Minotaur
 
-Greataxe +6 atk 1d12+4 Slashing
+Melee +6 atk 1d12+4 Slashing
 
 Heavy, Two-Handed
 
-As an object interaction or a reaction, you can interact with the interface on the axe’s handle. A maze wall appears within 15ft of you.  
+As an object interaction or a reaction, you can interact with the interface on the axe’s handle. A maze wall spawns within 15ft of you.  
 **Ability check**: Intelligence DC = 30 – your attunement points  
-**Success**: You choose the location and orientation the maze wall appears at. You gain 2 attunement points for this weapon.  
-**Failure**: The location and orientation the maze wall appears at is random. You gain 1 attunement point for this weapon.
+**Success**: You choose the location and orientation the maze wall spawns at. You gain 2 attunement points.  
+**Failure**: The location and orientation of the maze wall is random. You gain 1 attunement point.
 
 The maze walls that spawn can be horizontally or vertically placed. They are 10ft tall, 10ft long, and 1ft thick. They have 5AC and 10HP. They are immune to Slashing, Piercing, and Fire damage.
 
 If a creature gets involuntarily moved into a maze wall, the maze wall deals 1d10 Bludgeoning damage to it.  
-Saving throw: Constitution DC15
+**Saving throw**: Constitution DC15
 
 Legendary Attunement Requirement:  
-Lower the interact DC to 0.
+Gain 30 attunement points.
 
 Legendary Attunement Ability:  
-The maze wall appear range is increased to 30ft
+The maze wall spawn range is increased by 30ft
 
 # Larkwren’s Shield
 
 Reward for defeating Larkwren
 
-Shield +5AC
+\+5AC
 
 As a reaction, you may teleport up to 30ft to a location you can see, and that is within 5ft of a creature. This movement does not provoke opportunity of attack. Then you may cause an attack targeting that creature to target you instead. If the attack does no damage, heal that creature for 2d6 healing.
 
@@ -232,7 +276,7 @@ Legendary Attunement Requirement:
 End combat with all other allies 50% hp or more
 
 Legendary Attunement Ability:  
-Increase the teleport range to 60ft, and the healing to 4d6
+Increase the teleport range by 30ft, and the healing by 2d6
 
 # Cloverbraid’s Harness
 
@@ -241,11 +285,11 @@ Reward for defeating Cloverbraid
 \+2 AC, +30ft, +10 INT
 
 While wearing this harness, at the end of every hour, if you’re not a horse, you start transforming into a horse.  
-Saving throw: Constitution DC5 + your attunement points  
-Success: You gain 1 attunement point.  
-Failure: You gain 1 horse transformation point.
+**Saving throw**: Constitution DC5 plus your attunement points  
+**Success**: You gain 1 attunement point.  
+**Failure**: You gain 1 horse transformation point.
 
-For each horse transformation point you have, your features become more horse-like. When you gain your 3rd horse transformation point, you get stunned and gain immunity to all damage for 1 round as you transform completely into a horse. You are a horse. Anything you’re wearing gets magically transformed to fit your new body. If you’re wearing the harness, it magically moves itself to your muzzle, if it was not already there.
+For each horse transformation point you have, your features become more horse-like. When you gain your 3rd horse transformation point, you become Transforming for 1 round as you transform completely into a horse. You are a horse. Anything you’re wearing gets magically transformed to fit your new body. If you’re wearing the harness, it magically moves itself to your muzzle, if it was not already there.
 
 While you are a horse, you have the following benefits: resistance to all damage, an additional +10 INT, and the following abilities:
 
@@ -254,7 +298,7 @@ Melee +6 atk 2d6+4 Bludgeoning
 
 **Charge**  
 If you move at least 10ft toward a target and hit it with a Hoof Attack, it gets knocked prone.  
-Saving throw: Strength DC15
+**Saving throw**: Strength DC15
 
 **Trample**  
 Whenever you make a Hoof Attack against a prone enemy, you get +5 atk and +7 crit range.  
@@ -272,11 +316,11 @@ While you are a horse but not wearing the harness, you have -10 INT (minimum of 
 **Success**: You lose 1 horse transformation point and lose 5 attunement points.  
 **Failure**: You lose 1 attunement point.
 
-For each horse transformation point you lose, your features become less horse-like. When you lose your last horse transformation point, you are stunned and gain immunity to all damage for 1 round as you transform completely back into your original form, ending the effect. Putting the harness back on resets both the DC and the successes, transforming the creature completely back into a horse.
+For each horse transformation point you lose, your features become less horse-like. When you lose your last horse transformation point, you become Transforming for 1 round as you transform completely back into your original form, ending the effect.
 
 While you have horse transformation points, but you are not a horse, and you are not wearing the harness, at the end of every hour, you lose 1 horse transformation point.
 
-While have less than 3 horse transformation points, but you are a horse, and you are wearing the harness, you gain 1 horse transformation point and 5 attunement points.
+While you have less than 3 horse transformation points, but you are a horse, and you are wearing the harness, you gain 1 horse transformation point and 5 attunement points.
 
 There are magic words etched onto the harness. If you are a horse and are wearing the harness, but do not have legendary attunement, you may speak the magic words as a free action. Doing so increases your horse transformation points by 27, and your attunement points by 100.
 
@@ -288,9 +332,9 @@ You retain the benefits of the harness for 1 hour after it was removed, and do n
 If you are not wearing the harness, you may activate its magic words to have it move itself onto you.  
 While you are wearing the harness, you have the following ability:
 
-\*\*Herd Leader  
-\*\*As an action, you may activate its magic words. Creatures within 10ft of you gain 1 horse transformation point.  
-Saving throw (at disadvantage): Constitution DC5
+**Herd Leader**  
+As an action, you may activate its magic words. Creatures within 10ft of you gain 1 horse transformation point.  
+**Saving throw** (at disadvantage): Constitution DC5 plus your Intelligence modifier
 
 # Cloverbraid’s Necklace of Vitality
 
@@ -300,9 +344,9 @@ Reward for defeating Cloverbraid
 At the start of your turn, you and allies within 5ft of you heal for 1d6 heals.
 
 **Mental Puzzle**  
-There are magic words on the back of the gem. As an action, once per hour, you can activate the magic words, and a puzzling question appears in your head, and you may answer.  
-Ability check: Intelligence DC = 23 minus your attunement points  
-Success: You gain 1 attunement point. Activate Heal Aura.
+There are magic words on the back of the gem. As an action, once per hour, you can activate the magic words, and a puzzling question appears in your head, which you may answer.  
+**Ability check**: Intelligence DC = 23 minus your attunement points  
+**Success**: You gain 1 attunement point. Activate Heal Aura.
 
 Legendary Attunement Requirement:  
 Gain 3 attunement points
@@ -319,7 +363,7 @@ Melee Reach 10ft +4 atk 1d4+4 Piercing
 
 \-2 AC, +2 CON, +2 CHA
 
-While the antlers are not attached to a creature and you touch them, they crawl up your skin to your head, where they plant themselves in your skull.
+While the antlers are not attached to a creature and you touch the two antlers, they crawl up your skin to your head, where they plant themselves in your skull.
 
 While the antlers are attached to you, you have a craving for bark, leaves, and grass, and are magically able to digest it. If you have eaten bark, leaves, or grass in the last 12 hours, and you have at least 1 temporary hit point, you are considered deer sated.
 
@@ -329,7 +373,7 @@ As an action, you can eat bark, leaves, or grass within 5ft of you to gain +1 te
 
 While you are deer sated, you can sleep for 10 minutes to get the benefits of a short rest, and sleep for 1 hour to get the benefits of a long rest.
 
-The antlers fall off at the end of winter and don’t respond to touch until the end of spring.
+The antlers fall off at the end of winter and don’t respond to touch until the end of spring. If you die, the antlers fall off.
 
 This item may have additional effects depending on how the player wants to change their environment.
 
@@ -337,7 +381,7 @@ Legendary Attunement Requirement:
 Gain the max temporary hit points.
 
 Legendary Attunement Ability:  
-You know 1 Transmutation spell or 1 Illusion spell of your choice, of any level. You must chose this spell once you earn Legendary Attunement.  
+You know 1 Transmutation spell or 1 Illusion spell of your choice, of any level. You must choose this spell once you earn Legendary Attunement.  
 While you are deer sated, you have the following ability:
 
 **Reality Warper**  

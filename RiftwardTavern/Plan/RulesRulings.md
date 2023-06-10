@@ -79,7 +79,7 @@ A player may exert themselves to add their relevant ability modifier to a saving
 
 You gain a bonus to saving throws and ability checks equal to your sated points divided by 5, rounded up.
 
-The minimum value for a DC is 0. If the DC is 0, the creature automatically succeeds without rolling any dice.
+The minimum value for a DC is 0. If the DC is 0, the creature automatically succeeds without rolling any dice. A creature may not intentionally fail a saving throw or ability check with a DC of 0.
 
 # Conditions
 
@@ -89,7 +89,11 @@ This is another name for Restrained.
 
 ## Sleeping
 
-The creature is unconscious. When they take damage, they regain consciousness.
+A sleeping creature is unconscious. When they take damage, they regain consciousness.
+
+## Transforming
+
+A transforming creature is stunned and immune to all damage. Their stats don’t change to the new form’s stats until the Transforming condition ends.
 
 ## Stealthed X
 
