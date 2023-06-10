@@ -3310,7 +3310,7 @@ Drathalion set up the tent on the edge of the campground behind some trees. She 
 
 # Chapter 9
 
-=== 2023-06-07 ===
+=== 2023-06-09 ===
 
 === this chapter under construction ===
 
@@ -3328,29 +3328,217 @@ Drathalion set up the tent on the edge of the campground behind some trees. She 
 
 [scene 6: don appears and slow claps]
 
-[scene 7: party at night tries to go to sleep]
+With Gale and Drathalion asleep, and Sui resting by the campfire, only Gra was up to interact with Reesu.
 
-[scene 8: reesu pranks gale]
+“Hey Gra, wanna see how high we can stack these bandit bodies?”
 
-[scene 9: reesu pranks astalir, sees astalir’s deer form]
+“Nah, I’m pooped.” Gra flopped onto the ground, looking up at the night sky.
 
-[scene 10: astalir wakes up, spits out prank, pukes, covers tent in boulder illusion]
+“Come on, Gra! It’ll be fun!” Reesu tugged on his arm.
 
-[scene 11: gra goes thru illusion into tent, tells astalir who pranked him]
+“I’m super sore from that last battle. Gale’s heals helped, but I still need time to recover.”
 
-[scene 12: astalir turns into drathalion, climbs tree, turns into tree branch]
+“Awww…”
 
-[scene 13: astalir rifles through reesu’s person, pulls out daggers, obsidian stone]
+“Why don’t you also take a rest? Recover from exerting yourself.”
 
-[scene 14: astalir throw reesu’s stuff in fire]
+“But the battle charged me up. I’m bored.”
 
-[scene 15: reesu pours alcohol on fire]
+“Do target practice or something.”
 
-[scene 16: astalir puts flaming log on reesu, reesu deflects]
+“Hmm… ok. Can I see your bag?”
 
-[scene 17: reesu darknesses astalir, astalir color sphere, climbs up tree, sleeps]
+“What for?”
 
 [scene 18: party wakes up next morning, drath is missing]
+“Don’t you have arrows?”
+
+“I do. Here you go.”
+
+“Thanks.” Reesu pulled Robin Hood’s head out of Gra’s bag of holding. She tossed it in the air 30 feet from her, and a tentacle appeared on the ground where it would land, and tossed it back to her. She played catch with herself for a few minutes. Then Robin Hood’s eye popped out of its socket.
+
+“Eehhhyi! Eehhhyi!” Gale turned onto his other side in his sleep.
+
+Reesu smiled evilly. She caught Robin Hood’s head one last time and dismissed her tentacle. She snuck up to Gale’s rock. He seemed to be having a nightmare of some sort, but he was completely unaware of her presence. She laid Robin Hood’s head next to Gale’s, its ghastly agape mouth and hanging eyeball laying inches from his face. Reesu chuckled silently to herself.
+
+Then she realized she was hungry. She raided Gra’s bag of holding and found a treasure trove of deer jerky. She munched happily on it. And then a thought crossed her mind. “What if I made the deer eat deer jerky?” She stood over Gra and poked him on the chest. “Hey Gra?”
+
+“What do you want?”
+
+“Where’s the deer?”
+
+“You the *cat*?”
+
+“Oh yeah, where’s the cat?”
+
+Gra pointed in a direction.
+
+“Thanks.” Reesu explored the camp, and found a tent on the edge of it behind a tree. In front of it were four arrows sticking point-up out of the ground. Reesu squinted at them, but they didn’t disappear. “The deer knows the Cordon of Arrows spell?” She tiptoed closer. When she got to the range of the spell, she put a tentacle in. Nothing happened. She stepped in the spell’s range with a foot. Nothing happened. She took a whole step or two with her whole body, and prepared for impact. Nothing happened. She walked right up to the arrows and pulled one out of the ground. “Huh, non-magical. Clever, deer.”
+
+Reesu silently opened the tent’s entrance. Inside, she found Drathalion the cat, fully in the nude. She instinctively shut the tent flap, blushing. Then she remembered that the cat is probably just an illusion. She took another peek inside, and squinted at the cat until it faded away, and showed the deer underneath. She quietly snuck inside.
+
+The deer breathed regularly for a sleeping deer. Its ears pricked at one of her footsteps, then immediately relaxed again.
+
+Reesu took a bit of deer jerky in her tentacle and slowly slipped it into the deer’s mouth. She stifled a giggle as she savored the moment. Then she slipped out.
+
+As she left, the tent was making noises.
+
+*cough cough REEEEETCH! PUGH! REEEEEEEEEETCH! cough cough*
+
+A rancid smell emanated from the tent.
+
+Reesu giggled all the way back to the campfire, where she pretended to have been sitting this whole time.
+
+“What was that?” Gra asked.
+
+“Oh, Sui was having a bad acid trip.”
+
+“What about me?” Sui turned around.
+
+“Oh, I said I hope you’re having a nice trip.”
+
+“Well, all things considered, I’ve had worse.”
+
+Gra grumbled and closed his eyes again.
+
+Reesu poked at the campfire with a tentacle, enjoying how the embers sparked and crackled.
+
+Out of the corner of her eye, she saw something black creep to the tree next to her and climb up it. She looked in the tree, but saw nothing but tree branches.
+
+All of a sudden, things from her pocket floated up and out. Her two daggers twirled in the air and the obsidian arrow head she got from Don flew straight into the fire. She was mildly annoyed, but more amused than anything. Finally, someone to play with.
+
+She inspected the fire. The two daggers were barely getting red-hot, and the obsidian stone was just fine. She took out a bottle of alcohol, popped the cork out, and stared up into the tree as she poured out the contents. The fire lit ablaze, heating up her items even more. She looked among the tree branches, but couldn’t see Drathalion or the deer.
+
+Then a spark of light came from the tree branches, and something hit her head. It burned her head and hair. “Ack!” She brushed it off with a fireproof tentacle. Then she turned back to the tree. After a bit of looking around, she noticed one branch was not like the others. Squinting at it revealed that it was actually the deer!
+
+Reesu smiled evilly. She took a chunk of coal from the fire and spoke, “The depths envelope!” A dark cloud formed around the deer, completely blocking light from getting in or out. But Reesu could still see into just fine.
+
+The deer scrambled, shaking the branch it was on. Its antlers sparked and a brilliant, blinding ball of light blinked into existence, but only for a moment. The dark cloud around the deer swallowed up the ball of light the instant it appeared. The deer felt around the tree and climbed slowly to the top.
+
+Reesu ate deer jerky as she watched the deer breathe rapidly in the darkness at the top of the tree. It was more entertaining than watching Sui down bottles of acid.
+
+“What’s that smell?” Gra asked.
+
+Reesu sniffed the air. The wind was blowing the puke smell from the tent. “Oh, it’s just Sui’s acid potions.”
+
+“What about me?” Sui asked.
+
+“Oh, um… I see you’re running out of acid potions.”
+
+“Yeah. When are we going back to town? I have to buy more.”
+
+“I don’t know.” Reesu shrugged. Then she smiled evilly. “But I can get you some more acid right now.”
+
+“Really? Then do it.”
+
+“Ok, but first, I’ll need something to store it in.”
+
+“Fine, you can use my empty bottles.” Sui handed Reesu a few empty potion bottles. “I guess getting a refill is worth not smashing them.”
+
+Reesu took the bottles in her tentacles.
+
+Sui stared at her.
+
+“What?” Reesu asked.
+
+“The bottles are floating in midair.”
+
+“Yeah, so?”
+
+Sui shrugged and turned back to the fire. “I guess it’s not the weirdest thing I’ve seen since the deer joined.”
+
+“Yeah.”
+
+Reesu tiptoed gleefully to the tent. She opened a flap and was greeted by the most awful-smelling beat stew imaginable. It was all over *everything*! The walls, the ground, the bedroll. Chunks of food and slimy stomach fluid covered it all. Reesu tried not to retch as she covered her nose with a tentacle.
+
+She used her acid-proof tentacles to scrape as much fluid into the potion bottles as she could. She shook them up a bit to hopefully dissolve the bigger chunks, but she could only do so much.
+
+Eventually, she puked as well, which just provided more ammo to her potion bottles. Still, the potions looked a bit too much like puke and not enough like acid. “Nothing a minor illusion can’t fix.” She smiled as stuck a strand of fleece on each of the bottles. “What you see is not what you get!” The potions turned from dark brown with bits of orange into a smooth, solid green. “Perfect…” She brought the three potion bottles to Sui.
+
+“What is that?” He plugged his nose.
+
+“Acid potion, just like you wanted.”
+
+“That doesn’t smell like acid potion.”
+
+“It’s a stronger acid, that’s why the smell is different.”
+
+“It’s not just different, it’s just plain *bad*.”
+
+“Well, I got it for you. So here you go.”
+
+“Thanks…” Sui hesitantly accepted the potions.
+
+“Well?”
+
+“Well what?”
+
+“Aren’t you going to use them?”
+
+“I’m… saving them for later.” Sui patted his bag. “I’m all healed up for now.”
+
+“Oh, I see.” Reesu grabbed a dagger from the fire with a tentacle and slashed Sui’s legs with it.
+
+“HEY!” Sui yelled. “What was that for?”
+
+“So you can test the potions.”
+
+“Fine, I’ll test it out.”
+
+Reesu eagerly waited for Sui to pour the contents onto his leg wound, but she didn’t anticipate what Sui was going to do.
+
+Sui uncorked the “acid” potion, lifted it to his mouth, gave it a good sniff, and scowled. “You sure this is acid?”
+
+“Yep!”
+
+“Ok…” He plugged his nose and then straight up chugged it! The whole thing! “BLEH! What is that!” Sui threw the bottle on the ground, shattering it. He looked at his leg wound. It indeed was healing, albeit slower than a normal acid potion.
+
+Reesu burst out laughing. She fell onto the ground and rolled around. “You— you drank— you drank it!” She laughed uncontrollably.
+
+“What is it? What did I drink?”
+
+Reesu sat up, regaining some composure. “It’s not acid! Well, it contains acid, but it’s not!” She wiped a tear from her eye with a tentacle. “It’s from the deer.”
+
+“The deer keeps acid potions?”
+
+“No, it’s from the deer’s stomach. It’s puke!”
+
+“Eh! It’s a *stomach* acid potion!” Sui tossed all the stomach acid potions at Reesu, who caught them with her tentacles. “You’re disgusting!”
+
+Reesu laughed even harder.
+
+“Reesu.” Gra bellowed from the ground. “Why was the deer puking?”
+
+Reesu got quiet. “Uh, no reason.”
+
+“What did you do?”
+
+“Nothing, I just gave it a snack.”
+
+“What did you feed it?”
+
+“Just some jerky.”
+
+Gra got up from his spot. “What kind?”
+
+“D… eer?”
+
+“Reesu, you disgusting vile creature. You apologize right now.”
+
+“Ok, Gra.” Reesu huffed. She looked up at the tree where she left the deer. But the dark cloud was nowhere to be found. “Huh, has it been 10 minutes already?” She scanned the tree, but didn’t find the deer anywhere. “Gra, have you seen the deer?”
+
+“Not recentl—I mean, not since the bear attack.”
+
+“Wait… how did you get the deer’s puke if you haven’t seen it?” Sui gagged. “Have you been lugging its puke around this whole time?”
+
+Gra stared at Reesu.
+
+Reesu shrugged and laughed. “Uh, yeah! Just been waiting for the right time to prank you!”
+
+“You’re sick.” Sui turned his back to Reesu.
+
+Reesu entertained herself by squinting at all the dead bodies, trees, and bushes, seeing which one might turn into a deer. But none of them did.
+
 
 [scene 19: party walks by graveyard, finds Bob the dark elf]
 
