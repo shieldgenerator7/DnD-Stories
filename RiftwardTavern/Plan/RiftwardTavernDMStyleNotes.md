@@ -30,6 +30,14 @@ As you know, when I, shieldgenerator7, play D&D, I take notes and write up a nov
 
 This game is going to be very combat-heavy, so I want it to go as smoothly as possible. To this end, I’m going to set a time limit of player turns. If a player takes too long to say what they’re going to do, I’m going to say their character automatically takes the dodge action. I’ll try to also say who’s up next so that it’s easier for players to get their actions ready.
 
+## Initiative
+
+Any player can declare they’re rolling for initiative at any time, in addition to the dm.
+
+Initiative is automatically rolled when a creature deals damage to another without killing it.
+
+Initiative doesn’t stop once all monsters are dead. Initiative only stops when all players agree to stop initiative.
+
 ## Damage
 
 Sometimes damage rolls get modified based on the target’s conditions, like when a barbarian takes half damage from rage. When I tell someone how much damage they take, the number will be already halved. So I will do the halving, and not the player. All the player needs to do is decrease their health bar by the amount that I tell them.
@@ -49,3 +57,5 @@ I plan on implementing custom rules for crits and fumbles, detailed in the custo
 I plan on using crit and fumble tables for both players and NPCs. But don’t worry, I’m using a custom table for both. The fumble table has a 20% chance of letting you reroll, a 10% chance of doing nothing, and a 70% chance of mildly inconveniencing you. There are no grave dangers like breaking your weapon or damaging yourself by accident.
 
 NPCs roll the crit table at disadvantage, and players roll the fumble table at advantage. This way, NPCs get rewarded less for crits, and players get punished less for fumbles.
+
+If you fumble, but the attack still hits, then you don’t roll on the fumble table.

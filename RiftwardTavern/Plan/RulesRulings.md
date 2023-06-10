@@ -4,17 +4,9 @@
 
 ## Opportunity of Attack
 
-When a creature uses its movement to move out of melee range of another hostile creature, the hostile creature may use its reaction to make a melee weapon attack against the moving creature. This reaction may only be taken against a creature that has made an attack against the reacting creature within the last 2 rounds, or against a creature that the reacting creature has made an attack against within the last 2 rounds, or if the reacting creature has not made any melee attacks nor been the target of any melee attacks for the last 2 rounds. The reacting creature must also be conscious and not prone.
+When a hostile creature uses its movement to move out of your melee range, you may use your reaction to make a melee weapon attack against the moving creature. This reaction may only be taken against a creature that you have attacked since the beginning of your last turn, or a creature that has attacked you since the beginning of your last turn. You can still take this reaction if you have not made any melee attacks nor been the target of any melee attacks since the beginning of your last turn.
 
-When a creature fumbles an attack roll within your melee range, you can use your reaction to make a melee weapon attack against the fumbling creature. You must be conscious and not prone.
-
-## Initiative
-
-Any player can declare they’re rolling for initiative at any time, in addition to the dm.
-
-Initiative is automatically rolled when a creature deals damage to another without killing it.
-
-Initiative doesn’t stop once all monsters are dead. Initiative only stops when all players agree to stop initiative.
+When a creature fumbles an attack roll within your melee range, you can use your reaction to make a melee weapon attack against the fumbling creature.
 
 ## Attacking
 
@@ -43,7 +35,7 @@ If the fumble is double the target’s AC or more, it does not become a crit.
 
 ## Dying
 
-When a player drops to 0 hit points, they fall unconscious. If they don’t receive medical attention by the end of their third turn dead, they die.
+When a player drops to 0 hit points, they fall unconscious. If they don’t receive medical attention by the end of their third turn unconscious, they die.
 
 This rule applies to mobs and bosses as well.
 
@@ -83,7 +75,7 @@ Credit: <https://www.youtube.com/watch?v=5FiThfhnPJs&lc=Ugzj6cmr524mZyoOcNJ4AaAB
 
 A player may willingly fail any saving throw or ability check they make, except for Constitution saving throws.
 
-A player may exert themselves to add their level to a saving throw or ability check, taking 1 point of exhaustion.
+A player may exert themselves to add their relevant ability modifier to a saving throw or ability check, taking 1 point of exhaustion.
 
 You gain a bonus to saving throws and ability checks equal to your sated points divided by 5, rounded up.
 
@@ -92,6 +84,10 @@ You gain a bonus to saving throws and ability checks equal to your sated points 
 ## Rooted
 
 This is another name for Restrained.
+
+## Sleeping
+
+The creature is unconscious. When they take damage, they regain consciousness.
 
 ## Stealthed X
 
@@ -126,7 +122,7 @@ Example: 3 crit points gives you +3 to hit, and rolling a 17, 18, 19, or 20 on y
 
 ## Exhaustion
 
-Each point of exhaustion causes you to suffer -1 to hit and -1 CON. If exhaustion causes your CON to go to 0, you die. It also reduces your movement speed by -1ft. Your movement speed is rounded down to the nearest 5ft, with a minimum of 10ft.
+Each point of exhaustion causes you to suffer -1 to hit and -1 CON. If exhaustion causes your CON to go to 0, you die. It also reduces your movement speed by -5ft, with a minimum of 10ft.
 
 ## Sated
 
@@ -154,13 +150,15 @@ Example: A paladin wants to cast Divine Smite at 4th level, but doesn’t have a
 When you make a weapon attack, you can exert yourself to double your attack roll. Then you gain X points of exhaustion, where X is the resulting attack value divided by 10, rounded up.  
 Example: A rogue rolls a 12 for attack, but it won’t hit, so the rogue exerts himself to double his attack roll to 24, which hits. Then he takes 3 points of exhaustion.
 
-You may exert yourself to add your level to a saving throw or ability check, taking 1 point of exhaustion. You can only exert yourself once per saving throw or ability check.
+You may exert yourself to add your relevant ability modifier to a saving throw or ability check, taking 1 point of exhaustion. You can only exert yourself once per saving throw or ability check.
+
+When you exert yourself, you may ignore all effects of Exhaustion for the roll you exert yourself for.
 
 You lose points of exhaustion when you finish a short or long rest.
 
 # Magic Items
 
-A lot of magic items have words written on them that activate them. In order activate them, you must be touching the magic item and say the magic words. You do not need to be touching the magic words on the item.
+Some magic items have words written on them that activate them. In order to activate them, you must be touching the magic item and say the magic words. You do not need to be touching the magic words on the item.
 
 When an item mentions being activated by magic words, remember that you need to be touching the item for it to activate.
 
@@ -170,7 +168,7 @@ When an attack roll ties with an AC, the attack hits.
 
 When a grapple check ties with the dodging Acrobatics check, the grapple check wins.
 
-When a saving throw ties with a saving throw, the saving throw is a success.
+When a saving throw ties with a saving throw DC, the saving throw is a success.
 
 In general, when an ability check ties with the DC, the ability check succeeds.
 
@@ -184,7 +182,7 @@ When you finish a short rest you can spend any number of hit dice. You heal for 
 
 When you finish a long rest you can spend any number of hit dice. You heal for their total maximum value plus your Constitution modifier.
 
-You can regain hit dice from a long rest or by eating.
+You can regain hit dice from a long rest.
 
 # Resting
 
