@@ -3350,7 +3350,6 @@ With Gale and Drathalion asleep, and Sui resting by the campfire, only Gra was u
 
 “What for?”
 
-[scene 18: party wakes up next morning, drath is missing]
 “Don’t you have arrows?”
 
 “I do. Here you go.”
@@ -3539,8 +3538,49 @@ Reesu shrugged and laughed. “Uh, yeah! Just been waiting for the right time to
 
 Reesu entertained herself by squinting at all the dead bodies, trees, and bushes, seeing which one might turn into a deer. But none of them did.
 
+The next morning, Gra found the puke-covered tent. He made Reesu pack it up, clean it, and store it in the bag of holding.
 
-[scene 19: party walks by graveyard, finds Bob the dark elf]
+Gale woke up and screamed immediately. “This one is going to have more nightmares.”
+
+Reesu got a kick out of it, but no one else did.
+
+Gra and Reesu searched for Drathalion, but she was nowhere to be seen.
+
+Gra shrugged. “Knowing *her*, she’ll probably be around.”
+
+================
+
+The party traveled along the road. The road took them into a valley, where there was lots of fog. The walked through a gate of sorts, with steel poles making up the doors. They creaked as they blew in the wind.
+
+Reesu stuck a wet tentacle in the air. There was barely any wind.
+
+The path turned from the regular gravel path, to all grass. Or, what seemed to be grass. On further inspection, it *was* grass, but very dead and dry, and more dirt than anything.
+
+A purple light shone through the fog. The party got closer. When they got close enough, they realized it was a giant glowing flower thing, but it moved in response to their footsteps.
+
+Reesu waved her hand back and forth, shoving clouds of fog to the side, revealing the purple plant even more. It also revealed several carved stones sticking up out of the ground. “Are those… tombstones?”
+
+Gra inspected one. “This is a graveyard!” He proclaimed.
+
+A purple flower grew up out of the ground in front of the stone Gra inspected. Then a rotting hand protruded from the earth. A low groan came from the earth, as a zombie dug itself out.
+
+“Retreat!” Gra yelled, leading the party to the exit.
+
+But the path led them to a stone wall. Zombies followed closely behind, arms outstretched.
+
+“This way!”
+
+Gra led the party along the path into a corner.
+
+Reesu crouched in the corner. “Everyone get in here.” She pulled everyone into the corner with her with her tentacles. Then she grabbed the air with her hands and pulled it in, too. The fog thickened around them.
+
+“What is happen?”
+
+“Shhh!” Reesu shushed them.
+
+They listened as the confused, moaning zombies stopped and wandered away.
+
+“Heh, what are we crouching for, eh?” A raspy voice
 
 [scene 20: bob joins the party
 
