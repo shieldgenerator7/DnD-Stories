@@ -50,7 +50,7 @@ Magical words on the top turn it on. Magical words on the bottom turn it off.
 
 # Hamgorg’s Tremor Hammer
 
-Melee +1 atk 1d8 Bludgeoning
+Melee 1d8 Bludgeoning
 
 Whenever you hit a target with this hammer, the hammer creates a tremor in a 15ft radius of the target.  
 Ability check: Strength DC15
@@ -65,7 +65,7 @@ Saving throw: Dexterity DC15
 
 # Mud Scoop
 
-Melee +2 atk 1d4 Bludgeoning
+Melee 1d4 Bludgeoning
 
 A metal shovel designed for scooping mud.
 
@@ -73,20 +73,27 @@ A metal shovel designed for scooping mud.
 As an action, if there is mud on your space, dig some mud out of the ground. As a reaction, you may Mud Sling. Then the newly-made hole fills up with mud.
 
 **Mud Sling**  
-As an action, while the shovel has mud in it, make a (30/60) ranged attack: +5 atk 1d4 Water
+As an action, while the shovel has mud in it, make a (30/60) ranged attack:  
+1d4 Water  
+You can add your weapon’s modifiers to this attack.
 
 On impact, the mud flung from this shovel will take its new shape and harden into rock instantly. A creature hit by this attack becomes rooted.  
-Saving throw: Strength DC12
+**Saving throw**: Strength DC12
 
 As an action, a rooted creature may break free of the hardened mud.  
-Ability check: Strength DC12
+**Ability check**: Strength DC12
 
 # Cleave Sword
 
-2d6+4 Slashing
+2d6 Slashing
 
-When you swing the sword, everything in a cone in front of you takes 1d6+4 Slashing damage, even if behind cover. The cone’s width and radius are both equal to your Wisdom modifier times 5, minimum of 5.  
-Ability check: Wisdom DC13
+Heavy, Two-Handed
+
+When you swing the sword, a psychic wave flings out in a cone in front of you. The cone’s width and radius are both equal to your Wisdom modifier times 5, minimum of 5.  
+**Ability check**: Wisdom DC13
+
+Each creature hit by the psychic wave takes 1d6 Slashing damage, even if behind cover. You can add your weapon’s modifiers to this damage.  
+**Saving throw**: Wisdom DC13
 
 # True Sight Scope
 
@@ -121,14 +128,15 @@ The other creature has advantage on melee attacks against you, and you have disa
 
 # Concrete Boots
 
-Melee +3 atk 1d10+5 Crushing
+Melee 1d10 Crushing
 
 \+2AC, -5ft
 
 While wearing these boots, you get advantage on Strength and Constitution ability checks and saving throws, but disadvantage on Dexterity ability checks and saving throws.
 
 A creature hit by these boots suffers -5ft move speed for 1 minute.  
-**Saving throw**: Constitution DC12
+**Saving throw**: Constitution DC12  
+**Disadvantage**: The creature if the attack was a crit
 
 When you or an ally within 5ft of you has to make a saving throw to not be forcefully moved, you can use your reaction to decrease the DC by 5 for you and allies within 5ft of you.
 
@@ -155,7 +163,7 @@ As an action, you can stick the shovel in the ground. If it hits a dead body, th
 
 # Boop-erang
 
-Thrown (30/60) +5 atk 1d6 Slashing
+Thrown (30/60) 1d6 Slashing
 
 As an action, you can throw this boomerang to a point within range. Make an Athletics skill check, this will be the boomerang’s boop strength. The boomerang makes an attack on all creatures in a line to its destination, booping them away from you.
 
@@ -185,7 +193,10 @@ While concentrating on a spell, your movement speed is 0.
 
 While wearing this belt, you have a dragon tail about 10ft long.
 
-Whenever you change your facing direction, your tail swipes all creatures behind you in a 10ft radius. They must succeed on a DC12 Dexterity saving throw or take 1d6 Bludgeoning damage and be knocked prone.
+Whenever you change your facing direction, your tail swipes all creatures behind you in a 10ft radius. They take 1d6 Bludgeoning damage and get knocked prone.  
+**Saving throw**: Dexterity DC12
+
+You can spend 5ft of movement to turn 90 degrees without moving to another space.
 
 # Blindstep Bandana
 
@@ -195,7 +206,7 @@ As a reaction, you can teleport to a random position up to 30ft away, automatica
 
 # Orbweaver
 
-Thrown (30/60) +3 atk 1d6+1 Bludgeoning
+Thrown (30/60) 1d6 Bludgeoning
 
 A spider curled in a ball. Very furry, likes pets. Remains loyal to the creature that gave it the best pets within the last 24 hours.
 
@@ -229,7 +240,9 @@ When the snow globe is destroyed, its black hole is unleashed. It gets its own t
 
 # Rod of Suffering
 
-Melee +1 atk 1d4 Bludgeoning
+Melee 1d6 Bludgeoning
+
+Versatile (1d8)
 
 A magic rod about 5ft long.
 
@@ -267,7 +280,7 @@ A tiny cube that looks like salt.
 If you eat it, after 1 hour, you puke it out.
 
 When you puke it out, it deals 2d10 acid damage to you, and you lose all your sated points.  
-Saving throw: Constitution DC15
+**Saving throw**: Constitution DC15
 
 As it gets water, it slowly grows. Once it reaches 5ft in width, it is able to consume flesh. It eventually grows into a full-size gelatinous cube.
 
@@ -306,7 +319,7 @@ This effect lasts until the tablet breaks or until the magic words are spoken ag
 
 # Bandana of Snickery
 
-A bandana with an evil smile scribbled on it.
+A bandana with an evil smile scribbled on it. When you put it on, you hear a snickering sound. Whenever you get hit, you hear a snickering sound.
 
 While wearing this bandana, you have +1 to Stealth checks.
 
@@ -351,9 +364,9 @@ When it creates a portal, it has a 50% chance of choosing a location it has chos
 
 A normal-looking chest. It has lots of gold inside, stacked in weird ways that don’t seem to obey the laws of gravity. Some are stuck to the walls and other coins. None are floating in the air.
 
-When you touch the inside of the chest or anything that touches the inside of the chest, you become glued to the inside or thing that you touched.
+When something touches the inside of the chest, or something inside the chest, it becomes glued to it. If something glued to the inside of the chest sticks out of the chest, touching the sticking out part does not cause things to be glued to it.
 
-If you’re wearing gloves, you can leave the glove behind to rescue your hand. Otherwise, if you touched it with bare skin, the effect is permanent.
+When you touch the inside of the chest or anything that touches the inside of the chest, you become glued to the inside or thing that you touched.
 
 If the chest gets destroyed, the effect ends, and everything becomes unglued.
 
@@ -375,7 +388,7 @@ When any object that is an apple touches the inside of the chest, it is turned t
 
 # Onyx Scepter
 
-Melee +2 atk 1d6+2 Bludgeoning
+Melee +1 atk 1d6 Bludgeoning
 
 A scepter with an onyx stone attached to its end.
 
@@ -475,7 +488,7 @@ Reward for defeating Cloverbraid
 \+2 AC, +30ft, +10 INT
 
 While wearing this harness, at the end of every hour, if you’re not a horse, you start transforming into a horse.  
-**Saving throw**: Constitution DC5 plus your attunement points  
+**Saving throw**: Constitution DC = 5 plus your attunement points  
 **Success**: You gain 1 attunement point.  
 **Failure**: You gain 1 horse transformation point.
 
