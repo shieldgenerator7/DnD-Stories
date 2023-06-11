@@ -14,7 +14,7 @@ When you attack with a melee or ranged weapon, you may spend one of your hit dic
 
 ## Range
 
-It’s harder to hit things at range. For every 30ft away the target is from you, the target gets +1 AC against your attacks.
+It’s harder to hit things at range. For every 60ft away the target is from you, the target gets +1 AC against your attacks.
 
 ## Crits
 
@@ -23,23 +23,29 @@ A crit on an attack roll is an automatic success, but you must still check to se
 Each crit gives you 1 crit point on the target. For each crit point you have on a target, you have +1 to hit against that target, and it lowers the number requirement to crit against that target by 1.  
 Example: 3 crit points on an owlbear gives you +3 to hit against that owlbear, and now rolling a 17, 18, 19, or 20 on your attack roll count as a crit against that owlbear.
 
-If the attack roll is not a crit, but is double the target’s AC or more, it becomes a crit.
+When you roll a crit on an attack roll, process the hit and then roll on the d100 Crit table. Do what the Crit table says.
 
 ## Fumbles
+
+The first thing you do when you roll a fumble on an attack roll is to roll on the d100 Fumble table. Players have advantage on this roll. If the Fumble table says to reroll, reroll the attack d20, and if it doesn’t roll a fumble, then the attack is no longer a fumble. If the Fumble table does not say to reroll, then do what it says and proceed with the following rules.
 
 A fumble on an attack roll is not an automatic failure. It can still beat the target’s AC. If a fumble beats the target’s AC, roll damage like normal, but the damage is halved, rounded down.
 
 When you fumble, creatures within melee range of you can use their reaction to make a melee weapon attack against you.
 
-If the fumble is double the target’s AC or more, it does not become a crit.
+If you fumble a saving throw, you get 1 point of Exhaustion. If you fumble an ability check, nothing special happens.
 
 ## Dying
 
-When a player drops to 0 hit points, they fall unconscious. If they don’t receive medical attention by the end of their third turn unconscious, they die.
+When a player drops to 0 hit points, they fall unconscious. Each turn, they privately roll a death saving throw to the DM. If they get a 5 or below, they fail a death saving throw. If they crit, they remove a failed death saving throw. If they fumble, they fail 3 death saving throws. When they fail 3 death saving throws, they die. This continues until they die or until they receive medical attention.
 
 This rule applies to mobs and bosses as well.
 
-When a creature receives medical attention, their hit points goes up to at least 1. Any amount of healing on a dying creature restores hit points and stabilizes them. When a dying creature is stabilized, they gain the Sleeping status.
+When a creature receives medical attention, their hit points goes up to at least 1. Any amount of healing on a dying creature restores hit points and stabilizes them. When a dying creature is stabilized, they are no longer dying and they gain the Sleeping status.
+
+When a dying creature takes damage, it instantly dies.
+
+If a creature gets dropped to its hitpoint maximum in the negative, it dies instantly.
 
 ## Death
 
@@ -67,7 +73,7 @@ Your jump height is 3 plus your Strength modifier. You can make this jump from s
 
 # Falling
 
-If a creature would start falling outside their turn, they only fall 10ft, and then fall the remaining distance at the end of their turn. Normal fall distance is capped at 40ft per turn.
+If a creature would start falling outside their turn, they only fall 10ft, and then fall the remaining distance at the end of their turn. Normal fall distance is capped at 100ft per turn.
 
 Credit: <https://www.youtube.com/watch?v=5FiThfhnPJs&lc=Ugzj6cmr524mZyoOcNJ4AaABAg>
 
@@ -75,11 +81,13 @@ Credit: <https://www.youtube.com/watch?v=5FiThfhnPJs&lc=Ugzj6cmr524mZyoOcNJ4AaAB
 
 A player may willingly fail any saving throw or ability check they make, except for Constitution saving throws.
 
-A player may exert themselves to add their relevant ability modifier to a saving throw or ability check, taking 1 point of exhaustion.
+A player may exert themselves to add their relevant ability modifier to a saving throw or ability check, taking 2 points of exhaustion.
 
 You gain a bonus to saving throws and ability checks equal to your sated points divided by 5, rounded up.
 
 The minimum value for a DC is 0. If the DC is 0, the creature automatically succeeds without rolling any dice. A creature may not intentionally fail a saving throw or ability check with a DC of 0.
+
+If you fumble a saving throw, you get 1 point of Exhaustion.
 
 # Conditions
 
@@ -112,13 +120,11 @@ You lose this status when the following things happen:
 -   You voluntarily reveal yourself
 -   Your cover or other method of hiding becomes unavailable to you
 
-If a creature that notices you reveals you to another creature, that other creature gets advantage on their Perception ability check to notice you.
+If a creature that notices you reveals you to another creature, that other creature gets +5 and advantage on their Perception ability check to notice you.
 
 # Stacks
 
 Creatures can gain stacks of an effect. These stacks can come from game mechanics (ex: crit points), items (ex: attunement points), or other things.
-
-By default, you lose all stacks of everything on death.
 
 ## Crit Points
 
@@ -128,7 +134,14 @@ Example: 3 crit points gives you +3 to hit, and rolling a 17, 18, 19, or 20 on y
 
 ## Exhaustion
 
-Each point of exhaustion causes you to suffer -1 to hit and -1 CON. If exhaustion causes your CON to go to 0, you die. It also reduces your movement speed by -5ft, with a minimum of 10ft.
+Each point of exhaustion causes you to suffer the following drawbacks:
+
+-   \-1 atk
+-   \-1 to saving throws and ability checks
+-   \-1 CON. If exhaustion causes your CON to go to 0, you die.
+-   \-5ft move speed, with a minimum of 10ft.
+
+The most common way to get Exhaustion is through exertion, where you push your body to its limits to ensure success. You also get exhaustion by fumbling saving throws, and it’s possible to get exhaustion by fumbling an attack roll, and other special circumstances.
 
 ## Sated
 
@@ -142,6 +155,10 @@ At the end of every hour, you lose 1 sated point.
 
 If your sated points plus your Constitution modifier is equal to or greater than your Constitution, you are considered full.
 
+## Attunement Points
+
+Some items give you attunement points, which effect how the item behaves when you activate it. Attunement points are specific to each player and each item. A player has a different set of attunement points for each item they use, and each player has a different set of attunement points for an item that they all use.
+
 ## Temporary Hit Points
 
 Temporary hit points can be stacked.
@@ -154,9 +171,9 @@ If you know a spell but don’t have a spell slot to cast it, you can exert your
 Example: A paladin wants to cast Divine Smite at 4th level, but doesn’t have any 4th level spell slots available, so he exerts himself to cast the spell. Then he takes 4 points of exhaustion.
 
 When you make a weapon attack, you can exert yourself to double your attack roll. Then you gain X points of exhaustion, where X is the resulting attack value divided by 10, rounded up.  
-Example: A rogue rolls a 12 for attack, but it won’t hit, so the rogue exerts himself to double his attack roll to 24, which hits. Then he takes 3 points of exhaustion.
+Example: A rogue rolls a 12 for attack, but thinks it’s too low to hit, so the rogue exerts himself to double his attack roll to 24, which he thinks will hit. Then he takes 3 points of exhaustion.
 
-You may exert yourself to add your relevant ability modifier to a saving throw or ability check, taking 1 point of exhaustion. You can only exert yourself once per saving throw or ability check.
+You may exert yourself to add your relevant ability modifier to a saving throw or ability check, taking 2 points of exhaustion. You can only exert yourself once per saving throw or ability check.
 
 When you exert yourself, you may ignore all effects of Exhaustion for the roll you exert yourself for.
 
@@ -172,7 +189,7 @@ When an item mentions being activated by magic words, remember that you need to 
 
 ## Attunement Points
 
-Some magic items give you attunement points, which effect how the item behaves for you over time. Attunement points are between that particular player and that particular item. A player can have attunement points for more than one item, and those attunement points are separate. More than one player can have attunement points for the same item, but those attunement points are separate.
+Some magic items give you attunement points, which effect how the item behaves for you over time. Attunement points are between that particular player and that particular item. A player can have attunement points for more than one item, but those attunement points are separate. More than one player can have attunement points for the same item, but those attunement points are separate.
 
 ## Removing Worn Items
 
@@ -206,13 +223,25 @@ You can regain hit dice from a long rest.
 
 A short rest is at least 1 hour long total, with no more than 10 minutes of interruption total.
 
-When you finish a short rest you can spend any number of hit dice. You heal for their total maximum value. You lose 1 point of exhaustion. You can spend sated points up to your Constitution modifier to heal for the amount of sated points spent.
+When you finish a short rest, you gain the following benefits, in order:
+
+1.  You may spend any number of hit dice. You heal for their total maximum value.
+2.  You lose 1 point of exhaustion.
+3.  You may spend sated points up to your Constitution modifier to heal for the amount of sated points spent.
 
 ## Long Rest
 
 A long rest is at least 8 hours long total, with no more than 1 hour of interruption total.
 
-When you finish a long rest you can spend any number of hit dice. You heal for their total maximum value plus your Constitution modifier. Then you regain 1 hit die. You lose 4 points of exhaustion. Then, if you have no points of exhaustion, you regain 1 hit die. You may then spend any number of sated points to heal for the same amount. If you were full when you started the long rest, you regain 1 additional hit die and lose an additional 4 points of exhaustion.
+When you finish a long rest, you gain the following benefits, in order:
+
+1.  You may spend any number of hit dice. You heal for their total maximum value plus your Constitution modifier.
+2.  You regain 1 hit die.
+3.  You lose 5 points of exhaustion.
+4.  If you have no points of exhaustion, you regain 1 hit die.
+5.  You may spend any number of sated points to heal for the same amount.
+6.  If you were full when you started the long rest, you regain 1 additional hit die and lose an additional 5 points of exhaustion.
+7.  You recover all spell slots.
 
 # Eating & Drinking
 
