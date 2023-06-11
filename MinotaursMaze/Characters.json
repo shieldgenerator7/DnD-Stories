@@ -148,12 +148,12 @@
             "Other",
             "New"
         ],
-        "portrait": "",
+        "portrait": "portraits/reesu.png",
         "player": "Meldia",
         "race": "Oni",
         "class": "Warlock",
-        "age": 20,
-        "height": "5'1\"",
+        "age": 924,
+        "height": "4'5\"",
         "description": "Little woman who can inexplicably grapple and lift bears",
         "specialty": "Immobilizing enemies"
     },
