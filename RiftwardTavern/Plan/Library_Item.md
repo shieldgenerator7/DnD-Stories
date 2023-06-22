@@ -8,7 +8,7 @@ Some items are legendary and have a legendary item attunement requirement. The f
 
 # Riftward Tavern Handkerchief
 
-Starting Item, Uncommon
+Starting Item, Uncommon, Attunement
 
 It has magic words written on it. As an action, you may say the magic words. Then 1 minute later, the handkerchief teleports every creature touching or wearing it, dead or alive, to the last Riftward Tavern that it visited.
 
@@ -20,21 +20,21 @@ While worn, it may take the form of a scarf, wristband, collar, belt, or other a
 
 # Riftward Tavern Map
 
-Starting Item, Rare
+Starting Item, Rare, Attunement
 
 A paper map that magically updates whenever you enter a Riftward Tavern location. The map shows the area in the vicinity of the tavern and the areas you’ve been to. It also shows you where you are on the map.
 
 # Riftward Tavern Door Knob
 
-Starting Item, Legendary
+Starting Item, Legendary, Attunement
 
 When placed in a door, it attaches to it and casts Dimension Door on it. The door’s frame then contains a portal to any door also effected by this knob. By knocking on the door and saying the name of the location you want to go to, you can change which Riftward Tavern location the portal opens to. This works even after the doorknob has been removed from the door.
 
-*This is the artifact you use to reconnect the taverns.*
+*This is the item you use to reconnect the taverns.*
 
 # Ring of Accessibility
 
-Uncommon (3), Rare (5), Very Rare (7), Legendary (9)
+Uncommon (3), Rare (5), Very Rare (7), Legendary (9), Attunement
 
 While wearing this ring, you gain a spell slot of the level of this ring’s rarity.
 
@@ -50,12 +50,14 @@ Magical words on the top turn it on. Magical words on the bottom turn it off.
 
 # Hamgorg’s Tremor Hammer
 
+Rare, Attunement
+
 Melee 1d8 Bludgeoning
 
 Whenever you hit a target with this hammer, the hammer creates a tremor in a 15ft radius of the target.  
 Ability check: Strength DC15
 
-All creatures in the tremor range get knocked prone.   
+All creatures in the tremor range get knocked prone.  
 Saving throw: Dexterity DC = 1d4 + 10  
 Advantage: You  
 Disadvantage: The target
@@ -64,6 +66,8 @@ Creatures that get knocked prone by the tremor and that are within 5ft of a ledg
 Saving throw: Dexterity DC15
 
 # Mud Scoop
+
+Common
 
 Melee 1d4 Bludgeoning
 
@@ -85,6 +89,8 @@ As an action, a rooted creature may break free of the hardened mud.
 
 # Cleave Sword
 
+Rare, Attunement
+
 2d6 Slashing
 
 Heavy, Two-Handed
@@ -95,11 +101,15 @@ When you swing the sword, a psychic wave flings out in a cone in front of you. T
 Each creature hit by the psychic wave takes 1d6 Slashing damage, even if behind cover. You can add your weapon’s modifiers to this damage.  
 **Saving throw**: Wisdom DC13
 
-# True Sight Scope
+# Illusion Seeing Scope
+
+Uncommon, Attunement
 
 As an object interaction on your turn, or as a reaction, you may put the True Sight Scope up to your eye until the beginning of your next turn. Illusions in a cone in front of you become transparent, and secret doors and traps are revealed. The cone’s width and radius are both equal to your Intelligence modifier times 10, minimum of 10.
 
 # Stockholm Cuffs
+
+Rare, Attunement
 
 If you are not under any mental effects, place one end of these cuffs on you, and place the other end on a creature that is under one or more mental effects.
 
@@ -128,6 +138,8 @@ The other creature has advantage on melee attacks against you, and you have disa
 
 # Concrete Boots
 
+Uncommon
+
 Melee 1d10 Crushing
 
 \+2AC, -5ft
@@ -145,6 +157,8 @@ When you use the Dash action on your turn, you instead fall prone and your movem
 
 # Camo Pants
 
+Rare
+
 \+2 AC
 
 At the end of your turn, if you didn’t spend any movement during your turn, you become invisible until the start of your next turn.
@@ -155,6 +169,8 @@ The pants magically form to fit its wearer.
 
 # Necromancer’s Shovel
 
+Uncommon, Attunement
+
 Melee +2 atk 2d4 Bludgeoning
 
 When within 10ft of a dead body, the shovel pulls itself towards the body.
@@ -163,48 +179,59 @@ As an action, you can stick the shovel in the ground. If it hits a dead body, th
 
 # Boop-erang
 
+Common
+
 Thrown (30/60) 1d6 Slashing
 
-As an action, you can throw this boomerang to a point within range. Make an Athletics skill check, this will be the boomerang’s boop strength. The boomerang makes an attack on all creatures in a line to its destination, booping them away from you.
+As an action, you can throw this boomerang to a point within range. Make an Athletics skill check, this will be the boomerang’s boop DC. The boomerang makes an attack on all creatures in a line to its destination, booping them away from you.
 
 A creature hit by this boomerang gets knocked back a distance equal to your Strength modifier times 5.  
-**Saving throw**: Strength DC = the boomerang’s boop strength
+**Saving throw**: Strength DC = the boomerang’s boop DC
 
 As a reaction, if you threw it since the beginning of your last turn, you may recall the boomerang back to you. It makes an attack on all creatures in a line back to you, booping them towards you.
 
 When the boomerang returns to you, you catch it.  
-**Skill check**: Acrobatics DC = the boomerang’s boop strength  
+**Skill check**: Acrobatics DC = the boomerang’s boop DC  
 **Success**: You catch it.  
 **Failure**: The boomerang makes an attack on you and falls to the ground on the space you were at when you recalled it.
 
 # Glove of Holding
 
-\+1 AC, +1 Lvl2 Spell Slot
+Uncommon, Attunement
+
+\+1 AC, +1 Lvl 2 Spell Slot
 
 You know the spell Hold Person while wearing this single glove.
 
-When a creature within 60ft of you moves at least 5ft, you may use your reaction to reduce its movement to 0 until the start of its next turn.
+When a creature within 60ft of you moves at least 5ft, you may use your reaction to reduce its movement to 0 until the start of its next turn.  
+Saving throw: Wisdom DC15
 
 While concentrating on a spell, your movement speed is 0.
 
 # Dragon’s Belt
 
+Very Rare, Attunement
+
 \+5 STR, +5 CON
 
 While wearing this belt, you have a dragon tail about 10ft long.
 
-Whenever you change your facing direction, your tail swipes all creatures behind you in a 10ft radius. They take 1d6 Bludgeoning damage and get knocked prone.  
+Whenever you change your facing direction, your tail swipes all creatures behind you in a 10ft radius. They take 1d8 Bludgeoning damage and get knocked prone.  
 **Saving throw**: Dexterity DC12
 
 You can spend 5ft of movement to turn 90 degrees without moving to another space.
 
 # Blindstep Bandana
 
+Rare, Attunement
+
 While wearing this bandana, you are blinded, but you have advantage on Dexterity saving throws and all ability checks relying on sound.
 
 As a reaction, you can teleport to a random position up to 30ft away, automatically succeeding on any current saving throws.
 
 # Orbweaver
+
+Uncommon
 
 Thrown (30/60) 1d6 Bludgeoning
 
@@ -222,6 +249,8 @@ The spider remains on its target until picked up. If it missed its target, it wa
 
 # Deck of Many Beasts
 
+Common
+
 A 52-card deck that looks suspiciously like the Deck of Many Things.
 
 The deck is cohesive and the cards stick together, except when a creature intentionally draws a card.
@@ -229,6 +258,8 @@ The deck is cohesive and the cards stick together, except when a creature intent
 When a card is drawn, it turns into the creature on the face of the card. It is a wild animal and likely to attack anything close to it for 1 minute after spawning.
 
 # Black Hole Globe
+
+Very Rare, Attunement
 
 A small snow globe that contains a black hole.
 
@@ -240,6 +271,8 @@ When the snow globe is destroyed, its black hole is unleashed. It gets its own t
 
 # Rod of Suffering
 
+Rare
+
 Melee 1d6 Bludgeoning
 
 Versatile (1d8)
@@ -250,11 +283,15 @@ It has magic words written on its handle. As a reaction, you may activate it. It
 
 # Marbles of Illusion
 
+Uncommon
+
 A bag of 10 magic marbles.
 
 As a bonus action, you may throw a marble to a location within 30ft of you that the marble can move in a straight line towards. When the marble touches the ground, it produces a Silent Image of you doing an action that you choose. This silent image moves with its marble. Once the spell ends, that magic marble loses its magic and reverts to being a regular marble.
 
 # Goggles of Fear
+
+Uncommon, Attunement, Cursed?
 
 \+2 WIS
 
@@ -267,6 +304,8 @@ While wearing these goggles, if you see the monster, you become feared until the
 
 # Teleportation Grenade
 
+Rare
+
 A ridged rock with glowing runes painted on it.
 
 As an action, you may speak the magic words and throw the grenade to a point within 60ft of you.
@@ -274,6 +313,8 @@ As an action, you may speak the magic words and throw the grenade to a point wit
 All creatures within 15ft of its destination get teleported to a random location 30ft from their starting location. If that space is already occupied, they take 1d10 Force damage and get shunted to the closest unoccupied space.
 
 # Dehydrated Gelatinous Cube
+
+Common
 
 A tiny cube that looks like salt.
 
@@ -286,6 +327,8 @@ As it gets water, it slowly grows. Once it reaches 5ft in width, it is able to c
 
 # Watch
 
+Common
+
 A regular wrist watch, but with magic words instead of a display.
 
 When you say the magic words, it loudly announces the time, producing a sound audible out to a range of 100ft.
@@ -294,7 +337,9 @@ Once every hour, on the hour, it loudly announces the time, producing a sound au
 
 # Griffin Feather
 
-While holding this feather, you gain the following benefits:
+Rare, Attunement
+
+While holding and attuned to this feather, you gain the following benefits:
 
 -   Keen Sight
 -   You know the spell Feather Fall
@@ -302,11 +347,15 @@ While holding this feather, you gain the following benefits:
 
 # Wand of Desaturation
 
+Common
+
 A grey wand with black and white magic words.
 
 As an action, bonus action, and reaction, you may say the magic words to remove all color from a target and their possessions. They turn greyscale. This effect lasts until sunlight touches them.
 
 # Flappy Word
+
+Common
 
 A tablet with magic words written on it.
 
@@ -319,6 +368,8 @@ This effect lasts until the tablet breaks or until the magic words are spoken ag
 
 # Bandana of Snickery
 
+Uncommon, Attunement
+
 A bandana with an evil smile scribbled on it. When you put it on, you hear a snickering sound. Whenever you get hit, you hear a snickering sound.
 
 While wearing this bandana, you have +1 to Stealth checks.
@@ -326,6 +377,8 @@ While wearing this bandana, you have +1 to Stealth checks.
 Whenever you snicker, you gain +1 AC until the next time you are attacked, and +1 atk until your next attack. Snickering multiple times doesn’t cause the bonuses to stack.
 
 # Animal Collar
+
+Common
 
 A human-sized cat collar with a bell on it.
 
@@ -335,6 +388,8 @@ This collar is unable to be removed by hand. Instead, saying the magic words cau
 
 # Door of Whodunit
 
+Common
+
 A door with the Magic Mouth spell permanently attached to it, and that can’t be dispelled.
 
 Whenever someone opens the door, it screams “Whodunit?!” at a volume audible from 200ft.
@@ -342,6 +397,8 @@ Whenever someone opens the door, it screams “Whodunit?!” at a volume audible
 Whenever someone closes the door, it screams “You dun did it!” at a volume audible from 200ft.
 
 # Bedtime Mimic
+
+Rare
 
 A normal-looking chest. When opened, it casts Suggestion on you, forcing you to get inside the chest, close the lid, and then go to sleep, becoming Asleep.  
 **Saving throw**: Wisdom DC15
@@ -354,6 +411,8 @@ If the mimic dies before you wake up, you lose all mimic digestion points.
 
 # Portal Chest
 
+Rare
+
 A normal-looking chest.
 
 When opened, it creates a portal to a random location 1 mile from it. When closed, the portal closes.
@@ -361,6 +420,8 @@ When opened, it creates a portal to a random location 1 mile from it. When close
 When it creates a portal, it has a 50% chance of choosing a location it has chosen before.
 
 # Glue Chest
+
+Uncommon
 
 A normal-looking chest. It has lots of gold inside, stacked in weird ways that don’t seem to obey the laws of gravity. Some are stuck to the walls and other coins. None are floating in the air.
 
@@ -372,6 +433,8 @@ If the chest gets destroyed, the effect ends, and everything becomes unglued.
 
 # Bathtub Chest
 
+Uncommon
+
 A normal-looking chest.
 
 While open, it slowly fills up with water, seemingly from nowhere. Closer inspection reveals that a rune on the chest floor produces the water.
@@ -382,11 +445,15 @@ The chest is heavier while it is full of water.
 
 # Golden Apple Chest
 
+Common
+
 A normal-looking chest.
 
 When any object that is an apple touches the inside of the chest, it is turned to solid gold. This effect lasts until the object is removed from the chest.
 
 # Onyx Scepter
+
+Rare, Attunement
 
 Melee +1 atk 1d6 Bludgeoning
 
@@ -395,9 +462,11 @@ A scepter with an onyx stone attached to its end.
 When a creature is hit with the scepter, they get Petrified.  
 **Saving throw**: Charisma DC10
 
-For each petrified creature within 30ft of it, the scepter gets +1 atk and +1 DC, up to 20.
+For each petrified creature within 30ft of it, the scepter gets +1 atk and +1 DC, up to 10.
 
 # Stone Breastplate
+
+Very Rare
 
 \+6 AC, -5ft, -5 Stealth
 
@@ -412,6 +481,8 @@ As a bonus action, you can speak the magic words to unpetrify all creatures touc
 
 # Stone Protection Amulet
 
+Legendary, Attunement
+
 \+1 AC, +1 CHA
 
 If you would take damage, the amulet Petrifies you until the end of your next turn.
@@ -421,6 +492,8 @@ Whenever you get Petrified, the amulet grants you temporary hit points equal to 
 If the amulet is removed from you, you lose all temporary hit points.
 
 # Drathalion’s Longbow
+
+Artifact, Attunement
 
 Reward for defeating Drathalion Treescorn
 
@@ -438,12 +511,14 @@ Whenever the bow kills a target, it gets a bonus +1 to the initial arrow impact 
 This bow generates magical ammo and doesn’t consume arrows.
 
 Legendary Attunement Requirement:  
-Deal 30 damage to a creature with one shot.
+Deal 40 damage to a creature with one shot.
 
 Legendary Attunement Ability:  
 The bonus damage is increased to +2 per kill, and the bonus damage decreases by 1 every hour instead of resetting to 0 after no kills.
 
 # Timmy’s Axe
+
+Artifact, Attunement
 
 Reward for defeating Timmy the Minotaur
 
@@ -469,6 +544,8 @@ The maze wall spawn range is increased by 30ft
 
 # Larkwren’s Shield
 
+Artifact, Attunement
+
 Reward for defeating Larkwren
 
 \+5AC
@@ -482,6 +559,8 @@ Legendary Attunement Ability:
 Increase the teleport range by 30ft, and the healing by 2d6
 
 # Cloverbraid’s Harness
+
+Artifact, Attunement (remove resitence to psychic)
 
 Reward for defeating Cloverbraid
 
@@ -541,6 +620,8 @@ As an action, you may activate its magic words. Creatures within 10ft of you gai
 
 # Cloverbraid’s Necklace of Vitality
 
+Artifact, Attunement
+
 Reward for defeating Cloverbraid
 
 **Heal Aura**  
@@ -559,6 +640,8 @@ Heal Aura’s radius is increased by your Intelligence modifier times 5, and its
 You may activate Mental Puzzle as a bonus action instead of an action.
 
 # Astalir’s Antlers
+
+Legendary
 
 Reward for defeating Astalir
 

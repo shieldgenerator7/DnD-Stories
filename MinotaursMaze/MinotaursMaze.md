@@ -2,6 +2,10 @@
 
 This is a novelization of a D&D campaign, told more or less from the perspective of my character, Astalir.
 
+Chapter 0 – Prologue
+
+[scene: backstory]
+
 # Chapter 1 – Good Hunting
 
 A robot, a bugbear, and a dragonborn walk into a bar.
@@ -3334,9 +3338,17 @@ With Gale and Drathalion asleep, and Sui resting by the campfire, only Gra was u
 
 “Nah, I’m pooped.” Gra flopped onto the ground, looking up at the night sky.
 
-“Come on, Gra! It’ll be fun!” Reesu tugged on his arm.
+“Come on, Gra! It’ll be fun!” Reesu sat on his face.
 
-“I’m super sore from that last battle. Gale’s heals helped, but I still need time to recover.”
+“Hmt mof my mace.” Gra mumbled under Reesu.
+
+“What was that?” Reesu crouched over his face.
+
+“Get off my face.”
+
+Reesu stood up. “Ok, now do you want to do stuff?”
+
+“No, I’m super sore from that last battle. Gale’s heals helped, but I still need time to recover.”
 
 “Awww…”
 
@@ -3374,7 +3386,7 @@ Gra pointed in a direction.
 
 “Thanks.” Reesu explored the camp, and found a tent on the edge of it behind a tree. In front of it were four arrows sticking point-up out of the ground. Reesu squinted at them, but they didn’t disappear. “The deer knows the Cordon of Arrows spell?” She tiptoed closer. When she got to the range of the spell, she put a tentacle in. Nothing happened. She stepped in the spell’s range with a foot. Nothing happened. She took a whole step or two with her whole body, and prepared for impact. Nothing happened. She walked right up to the arrows and pulled one out of the ground. “Huh, non-magical. Clever, deer.”
 
-Reesu silently opened the tent’s entrance. Inside, she found Drathalion the cat, fully in the nude. She instinctively shut the tent flap, blushing. Then she remembered that the cat is probably just an illusion. She took another peek inside, and squinted at the cat until it faded away, and showed the deer underneath. She quietly snuck inside.
+Reesu silently opened the tent’s entrance. Inside, she found Drathalion the cat, fully in the nude. “Wow, that’s one hot cat,” she whispered to herself. Then she remembered that the cat is probably just an illusion. She took a good, long look at the nude tabaxi until it faded away, and revealed the deer underneath. She quietly snuck inside.
 
 The deer breathed regularly for a sleeping deer. Its ears pricked at one of her footsteps, then immediately relaxed again.
 
@@ -3402,15 +3414,15 @@ Gra grumbled and closed his eyes again.
 
 Reesu poked at the campfire with a tentacle, enjoying how the embers sparked and crackled.
 
-Out of the corner of her eye, she saw something black creep to the tree next to her and climb up it. She looked in the tree, but saw nothing but tree branches.
+Out of the corner of her eye, she saw something black creep up to the tree next to her and climb up it. She looked into the tree, but saw nothing but tree branches.
 
-All of a sudden, things from her pocket floated up and out. Her two daggers twirled in the air and the obsidian arrow head she got from Don flew straight into the fire. She was mildly annoyed, but more amused than anything. Finally, someone to play with.
+All of a sudden, things from her pocket floated up and out. Her two daggers twirled in the air and the obsidian arrowhead she got from Don flew straight into the fire. She was mildly annoyed, but more amused than anything. Finally, someone to play with.
 
 She inspected the fire. The two daggers were barely getting red-hot, and the obsidian stone was just fine. She took out a bottle of alcohol, popped the cork out, and stared up into the tree as she poured out the contents. The fire lit ablaze, heating up her items even more. She looked among the tree branches, but couldn’t see Drathalion or the deer.
 
 Then a spark of light came from the tree branches, and something hit her head. It burned her head and hair. “Ack!” She brushed it off with a fireproof tentacle. Then she turned back to the tree. After a bit of looking around, she noticed one branch was not like the others. Squinting at it revealed that it was actually the deer!
 
-Reesu smiled evilly. She took a chunk of coal from the fire and spoke, “The depths envelope!” A dark cloud formed around the deer, completely blocking light from getting in or out. But Reesu could still see into just fine.
+Reesu smiled evilly. She took a chunk of coal from the fire and spoke, “The depths envelope!” A dark cloud formed around the deer, completely blocking light from getting in or out. But Reesu could still see into it just fine.
 
 The deer scrambled, shaking the branch it was on. Its antlers sparked and a brilliant, blinding ball of light blinked into existence, but only for a moment. The dark cloud around the deer swallowed up the ball of light the instant it appeared. The deer felt around the tree and climbed slowly to the top.
 
@@ -3580,11 +3592,141 @@ Reesu crouched in the corner. “Everyone get in here.” She pulled everyone in
 
 They listened as the confused, moaning zombies stopped and wandered away.
 
-“Heh, what are we crouching for, eh?” A raspy voice
+“Heh, what are we crouching for, eh?” A raspy voice said.
 
-[scene 20: bob joins the party
+“Shhh! Reesu, be quiet.” Gra said.
 
-[scene 21: party arrives in canadia, gra gives bob a coat (prev for drath)]
+“What?” Reesu asked, in her normal voice.
+
+“Would you like some zombie jerky?” The raspy voice said again.
+
+“Reesu that’s gross!” Gra said. “And this is no time for your practical jokes.”
+
+“That wasn’t me!” Reesu defended herself. “Well, not this time, at least.”
+
+“It’s really good, trust me.” The raspy voice said as a gloved hand shoved a decayed strip of meat in Reesu’s face.
+
+“WHAT THE FLIPPER!” Reesu screamed.
+
+“What? It’s good jerky.” The raspy voice revealed itself to be a drow wearing black leather armor. He was munching on something, presumably the “zombie jerky”.
+
+Reesu instinctively reached a tentacle out to grapple the drow, but the drow rolled out of her tentacles. “Who are you?”
+
+“Zombie!” Gale cried. He swung his scimitar at the drow, but the drow ducked, eating his jerky the whole while.
+
+“Chill man.” The raspy-voiced drow said.
+
+“Wait, you’re not a zombie.” Gra noticed.
+
+“No, I’m a drow. I thought that was obvious.”
+
+“Heh heh. Sorry. I thought you were a zombie.” Reesu nervously chuckled. “What are you doing here?”
+
+“Just hanging out, eating zombie jerky.”
+
+“What do you want?” Gra asked.
+
+“I’m Bob.”
+
+“No I asked what do you *want*?”
+
+“I want to join your party.”
+
+“Why?”
+
+“I’ve been in this graveyard a long time.” He took a bite.
+
+“Is that your pet?” Reesu gestured to the purple plant in the middle of the graveyard.
+
+“I try to avoid that.”
+
+“Why join *us*?” Gra asked.
+
+“I’m lonely, and you’re not trying to hunt me. Unlike that robot.”
+
+Reesu was still suspicious. “Are you going to try to eat us? Stab us? Skewer us?”
+
+“No.”
+
+Gra asked, “Is there any reason we should doubt your intentions?”
+
+“No.”
+
+Gale shrugged. “This one relieved is not zombie.”
+
+Gra introduced Gale, “This one is a priest. He can cure any diseases you have.”
+
+“I’m fine.” He munched.
+
+“What are you doing in the graveyard?” Reesu asked.
+
+“Hiding from people hunting me.”
+
+“Is there a bounty on your head?”
+
+Bob shrugged. “People don’t seem to like zombies. So I hide here. The fog is actually pretty nice once you get used to it.”
+
+“You’re not afraid of the zombies?”
+
+“The fog makes them easier to avoid. And hunt. Jerky?”
+
+“Ew.” Reesu shoved it away with a tentacle.
+
+“Ew?” Gra asked. “You eat human all the time!”
+
+“I’m not a cannibal!” Reesu slapped Gra.
+
+“You ate a leg in front of the whole party!”
+
+“No I nibbled on it! Besides, it was fresh. Zombies are… stale.”
+
+“It’s an acquired taste.” Bob admitted.
+
+“Ok,” Gra shrugged. “You seem ok enough. You can join the party, for now. But whatever you do,” he gestured to Reesu, “don’t let this one give you a hug.”
+
+Bob shrugged. “I’m not a hugger.”
+
+Bob led the party through the graveyard, avoiding the zombies and purple plants. They continued on their way down the path, following the map to a town called Canadia.
+
+It was cold there, so Gra pulled the winter coats out of his bag of holding. He gave Bob an extra winter coat he had. The party comfortably crossed into the snowy area.
+
+The streets of Canadia were a sight to behold. Trees lined the streets everywhere, with metal spigots sticking out of them. Several people were pouring a brown sticky substance out of the spigots. Moose walked casually through the streets, occasionally stopping to eat grass or other plants.
+
+The party found the town’s tavern, The Sticky Bucket. Its sign had a picture of a spigot pouring the brown sticky substance out of a tree. Inside, they found a friendly firbolg, towering over the counter.
+
+He greeted them with a smile. “What can I get you guys?”
+
+“Do you have zombie jerky?” Bob asked.
+
+“No…” The firbolg looked confused. “We’re fresh out.”
+
+“Would you like some?” Bob reached for his bag.
+
+“No, our supply room is full.”
+
+“You gotta have some kind of disease.” Gra looked at Bob. “Gale, can you check if he has a disease?”
+
+Gale hesitantly put a hand on Bob’s back. “That one is healthy. But you should not be eating that.”
+
+Bob shrugged.
+
+“So, is there something I can get you?” The firbolg asked. “I got beef, chicken, bacon…”
+
+The party ordered normal food and drink, that wasn’t zombie jerky.
+
+Reesu finished her steak first, and got out of her seat. “Can I give you a hug?” She asked the firbolg bartender.
+
+“Sure.”
+
+Reesu gives Jodi a hug. “You are very fluffy, and soft, and tall.”
+
+“Firbolgs are naturally tall.”
+
+“Can I sit on your shoulders?”
+
+“Sure.” Jodi picked up Reesu and put her on his shoulders.
+
+“Uppies!”
 
 [scene 22: party arrives at Sticky Bucket tavern, drath comes down from bedroom]
 
