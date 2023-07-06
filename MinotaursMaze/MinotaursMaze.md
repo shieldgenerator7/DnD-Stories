@@ -3745,3 +3745,77 @@ Reesu gives Jodi a hug. “You are very fluffy, and soft, and tall.”
 [scene 29: cards: gra gold move speed, bob large, jodi -1 finger large, sui -2 AC]
 
 [scene 30: drath treks on ahead of the party]
+
+# Chapter 10
+
+Summary: The party searches the town for 4 ruffians causing problems at the Sticky Bucket, but they only find random people and a basement full of rats instead. Basically, nothing important happened.
+
+# Chapter 11
+
+[scene 1: reesu buys human blood at butcher shop, syrup at vendor]
+
+[scene 2: sui passes out drawing cards]
+
+[scene 3: gra and daisy play the stick game]
+
+[scene 4: drath goes out to pee]
+
+[scene 5: reesu dumps bucket of blood and syrup on sui]
+
+[scene 6: reesu tells party about human blood from butcher]
+
+[scene 7: drath follows the ruffians into the tavern]
+
+[scene 8: drath tries to scare ruffians with words]
+
+[scene 9: ruffians break glass against wall]
+
+[scene 10: jodi asks for gra’s help]
+
+[scene 11: gra finds old friend mog, tells him to get out]
+
+[scene 12: gra intimidates the rest of them into leaving]
+
+[scene 13: the party cleans up the glass and collects it in bucket]
+
+[scene 14: drath tries to slip a glass piece into reesu’s pocket]
+
+[scene 15: drath and daisy introduce to each other]
+
+[scene 16: gra and daisy play stick game, daisy wins]
+
+[scene 17: reesu and daisy play stick game, daisy wins]
+
+[scene 18: party plays stick game: gale drath gra vs don jodi reesu, team 2 wins]
+
+[scene 19: reesu and gra reminisce]
+
+[scene 20: gra takes off his pants]
+
+[scene 21: daisy explains why he can’t do that]
+
+[scene 22: daisy leaves, cleans herself]
+
+[scene 23: gra apologizes to daisy]
+
+[scene 24: drath slips an illusion coin into reesu’s pocket]
+
+[scene 25: reesu gives drath her obsidian necklace (originally from Don)]
+
+[scene 26: drath accepts it as an apology]
+
+[scene 27: gale gets drunk on clams, reesu picks him up]
+
+[scene 28: party confronts the butcher]
+
+[scene 29: party finds out the butcher murdered someone]
+
+[scene 30: daisy goes to get help]
+
+[scene 31: drath sneaks into butcher shop, investigates, finds body, makes trail]
+
+[scene 32: reesu and gale turn invisible, enter butcher shop]
+
+[scene 33: reesu tricks the butcher into thinking the corpse came back to life]
+
+[scene 34: the butcher runs away]
