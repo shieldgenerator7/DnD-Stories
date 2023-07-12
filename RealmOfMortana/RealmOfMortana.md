@@ -1595,31 +1595,69 @@ She walked all the way back to town.
 
 [scene 4: armstig gets tickled by gauntlet]
 
-[scene 5: miyu investigates source of necrosis]
+After the long rest was over, Miyu went back to the island to search for the source of the necrosis. Armstig, Johnny, and Roth came with her.
 
-[scene 6: party encounters swarm of 52 hands]
+She climbed a tree to get a better view. Off in the distance she saw a smouldering that seemed to be the place where a lot of black liquid oozed. As good as any place to start.
 
-[scene 7: miyu, arstig climb tree]
+They trekked through the island for a bit when a strange smell wafted on the breeze.
 
-[scene 8: armstig calls out to hands, they come toward him]
+Armstig put his nose in the air. “Do you smell that?”
 
-[scene 9: roth gets spooked, rages, swings at hands, runs to armstig]
+Miyu looked concerned. “No, but I hear something.”
 
-[scene 10: hands chase roth, hit him]
+They all stopped walking and fell silent.
 
-[scene 11: armstig jumps from tree]
+A chittering approached, followed by tiny footsteps. It was a swarm of something small and on the ground.
 
-[scene 12: roth catches armstig, throws him into ground]
+“It’s hands!” The hairs on Miyu’s body stood on end and she scrambled to the nearest tree. “What the actual—”
 
-[scene 13: armstig creates a crater, causing all the hands to flip upside down]
+“Trees! Good idea!” Armstig climbed another tree, this one closer to the hands. “AWOOOO!”
 
-[scene 14: armstig hits the hands]
+Johnny climbed another tree, near Armstig’s.
 
-[scene 15: arms attack johnny]
+“Roth!” Armstig called. “Get over here!”
 
-[scene 16: miyu banes, guiding bolts]
+“What?” Roth called back.
 
-[scene 17: armstig chews hands]
+“Get over here!”
+
+Roth didn’t quite understand.
+
+The hand swarm came up behind him and attacked him.
+
+He got mad and grew big. “Get off me!” The hands dropped off him, losing their grip of his slippery scales. He swung his axe at them, making them back away.
+
+“Get. Over. Here!” Armstig yelled.
+
+“Oh! Ok!” Roth ran to Armstig’s tree.
+
+The hands skittered behind him, chasing him all the way. They caught up to him and started crawling up him.
+
+“Catch me!” Armstig lept down from the tree into Roth’s free hand.
+
+“Now what?”
+
+“Throw me into the—”
+
+Roth threw him straight at the hands. He straight up spiked him into the ground.
+
+Armstig curled into a ball and rotated until his back was to the ground. With a loud THUD he slammed into the ground, creating a small crater. All the hands flipped into the air and landed palm-up, making them unable to move.
+
+Armstig rolled onto all fours and slashed at the hands, sending them flying every which way. He grabbed one in his mouth and thrashed it around.
+
+Miyu watched from afar and shook her head. “Can’t my party members be sane at least once?” She sighed, and then focused. “Fingers without hands, hands without arms. May your hits no more land, may you no more harm.” She whispered through the air. The words filtered through the battle and attached to several hands, but there were other hands that were left unaffected.
+
+Johnny dashed in from behind the tree and thrust in his rapier. He stabbed through several of them at once, skewering them like a kabob. Then with his cutlass, he slashed the fingers off the impaled hands.
+
+The other hands didn’t like that. They flipped up onto their fingers and lept at Johnny. One hand covered his face, scratching his cheeks with its dirty nails. Another lunged at his neck and squeezed, choking him. Even more crept up his legs, tickling his fur.
+
+“For goodness sake!” Miyu yelled. She chanted and shot glowing bolts from her finger. They flew at the hands, hitting the one at Johnny’s neck and the one on his face. They fell off unceremoniously. Another bolt hit a hand within Johnny’s pant leg, frying the fabric, but also knocking out the hands inside.
+
+Armstig tore through the hands on the ground, clawing and slashing them to pieces. Johnny sliced and stabbed at them, and Roth stomped them out. A last guiding bolt from Miyu finished off the last hand.
+
+Armstig grabbed it in his mouth and shook it all around, growling fiercely. He bit down hard and thrashed it left and right.
+
+“Drop it!” Miyu scurried from her tree top perch.
 
 [scene 18: miyu tells armstig to drop the hands]
 
