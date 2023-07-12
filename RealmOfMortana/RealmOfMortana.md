@@ -1580,3 +1580,67 @@ She walked all the way back to town.
 [scene 23: roth lets go of mystery man, shrinks]
 
 [scene 24: mystery man agrees to talk]
+
+# Chapter 7
+
+=== 2023-07-11 ===
+
+=== this chapter under construction ===
+
+[scene: mystery man takes golem orb and runs off]
+
+[scene: party goes back to boat]
+
+[scene: miyu tests out gauntlet]
+
+[scene: armstig gets tickled by gauntlet]
+
+[scene: miyu investigates source of necrosis]
+
+[scene: party encounters swarm of 52 hands]
+
+[scene: miyu, arstig climb tree]
+
+[scene: armstig calls out to hands, they come toward him]
+
+[scene: roth gets spooked, rages, swings at hands, runs to armstig]
+
+[scene: hands chase roth, hit him]
+
+[scene: armstig jumps from tree]
+
+[scene: roth catches armstig, throws him into ground]
+
+[scene: armstig creates a crater, causing all the hands to flip upside down]
+
+[scene: armstig hits the hands]
+
+[scene: arms attack johnny]
+
+[scene: miyu banes, guiding bolts]
+
+[scene: armstig chews hands]
+
+[scene: miyu tells armstig to drop the hands]
+
+[scene: armstig spits out hands, gags from bad taste]
+
+[scene: johnny roth go back to ship]
+
+[scene: miyu tracks down where the hands came from: old monastery]
+
+[scene: armstig runs to get johnny]
+
+[scene: miyu breaks door hinges]
+
+[scene: johnny picks lock open]
+
+[scene: party investigates forge]
+
+[scene: miyu finds tiny statue]
+
+[scene: miyu opens tiny statue]
+
+[scene: johnny finds secret passage]
+
+[scene: party investigates secret room]
