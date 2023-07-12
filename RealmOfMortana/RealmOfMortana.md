@@ -1587,60 +1587,60 @@ She walked all the way back to town.
 
 === this chapter under construction ===
 
-[scene: mystery man takes golem orb and runs off]
+[scene 1: mystery man takes golem orb and runs off]
 
-[scene: party goes back to boat]
+[scene 2: party goes back to boat]
 
-[scene: miyu tests out gauntlet]
+[scene 3: miyu tests out gauntlet]
 
-[scene: armstig gets tickled by gauntlet]
+[scene 4: armstig gets tickled by gauntlet]
 
-[scene: miyu investigates source of necrosis]
+[scene 5: miyu investigates source of necrosis]
 
-[scene: party encounters swarm of 52 hands]
+[scene 6: party encounters swarm of 52 hands]
 
-[scene: miyu, arstig climb tree]
+[scene 7: miyu, arstig climb tree]
 
-[scene: armstig calls out to hands, they come toward him]
+[scene 8: armstig calls out to hands, they come toward him]
 
-[scene: roth gets spooked, rages, swings at hands, runs to armstig]
+[scene 9: roth gets spooked, rages, swings at hands, runs to armstig]
 
-[scene: hands chase roth, hit him]
+[scene 10: hands chase roth, hit him]
 
-[scene: armstig jumps from tree]
+[scene 11: armstig jumps from tree]
 
-[scene: roth catches armstig, throws him into ground]
+[scene 12: roth catches armstig, throws him into ground]
 
-[scene: armstig creates a crater, causing all the hands to flip upside down]
+[scene 13: armstig creates a crater, causing all the hands to flip upside down]
 
-[scene: armstig hits the hands]
+[scene 14: armstig hits the hands]
 
-[scene: arms attack johnny]
+[scene 15: arms attack johnny]
 
-[scene: miyu banes, guiding bolts]
+[scene 16: miyu banes, guiding bolts]
 
-[scene: armstig chews hands]
+[scene 17: armstig chews hands]
 
-[scene: miyu tells armstig to drop the hands]
+[scene 18: miyu tells armstig to drop the hands]
 
-[scene: armstig spits out hands, gags from bad taste]
+[scene 19: armstig spits out hands, gags from bad taste]
 
-[scene: johnny roth go back to ship]
+[scene 20: johnny roth go back to ship]
 
-[scene: miyu tracks down where the hands came from: old monastery]
+[scene 21: miyu tracks down where the hands came from: old monastery]
 
-[scene: armstig runs to get johnny]
+[scene 22: armstig runs to get johnny]
 
-[scene: miyu breaks door hinges]
+[scene 23: miyu breaks door hinges]
 
-[scene: johnny picks lock open]
+[scene 24: johnny picks lock open]
 
-[scene: party investigates forge]
+[scene 25: party investigates forge]
 
-[scene: miyu finds tiny statue]
+[scene 26: miyu finds tiny statue]
 
-[scene: miyu opens tiny statue]
+[scene 27: miyu opens tiny statue]
 
-[scene: johnny finds secret passage]
+[scene 28: johnny finds secret passage]
 
-[scene: party investigates secret room]
+[scene 29s: party investigates secret room]
