@@ -215,15 +215,16 @@ Deer Phantasmal Force
 Illusion 2
 Casting Time: 1 action
 Range: 30 feet
+Target: A point within range
 Components: V, S
 Duration: 1 hour
 
-You create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube. The phantasm includes sound, temperature, and other stimuli. This spell has no effect on undead or constructs.
+At a point in range that you can see, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube. The phantasm includes sound, temperature, and other stimuli.
 
-When a creature first perceives the phantasm, it must make an Intelligence saving throw. On a failed save, the phantasm takes root in its mind.
+When a creature first perceives the phantasm, it perceives the phantasm as real.
 
 A creature can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the creature realizes that the phantasm is an illusion, and the spell ends.
 
-While a creature is affected by the spell, the creature treats the phantasm as if it were real. The creature can even take damage from the illusion. A phantasm created to appear as a creature can attack a target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn creatures within it. Each round on your turn, the phantasm can deal 1d6 psychic damage to affected creatures that are within in the phantasm’s area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The creature perceives the damage as a type appropriate to the illusion.
+While a creature perceives the phantasm as real, the creature can take damage from the illusion. A phantasm created to appear as a creature can attack a target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn creatures within it. Each round on your turn, the phantasm can deal 1d6 psychic damage to affected creatures that are within in the phantasm’s area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The creature perceives the damage as a type appropriate to the illusion. This spell does no damage to undead or constructs.
 
 If the phantasm becomes more than 90ft from you, it disappears. You can dismiss the phantasm as an action.
