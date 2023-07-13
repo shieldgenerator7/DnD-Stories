@@ -3819,3 +3819,117 @@ Summary: The party searches the town for 4 ruffians causing problems at the Stic
 [scene 33: reesu tricks the butcher into thinking the corpse came back to life]
 
 [scene 34: the butcher runs away]
+
+[scene 35: the butcher gets got by the officer]
+
+# Chapter 12
+
+=== 2023-07-12 ===
+
+=== Chapter under construction ===
+
+[scene: party checks in for the night]
+
+[scene: gra pays for a double room for him and drath]
+
+[scene: reesu pays for a creepy room for gale]
+
+[scene: party pays for their rooms]
+
+[scene: gra and drath go the room]
+
+[scene: drath turns into astalir]
+
+[scene: gra picks up astalir, pets him]
+
+[scene: gra and astalir discuss drath]
+
+[scene: astalir falls asleep in gra’s arms]
+
+[scene: reesu lays drunk gale in bed]
+
+[scene: reesu casts darkness on gale]
+
+[scene: reesu throws marbles and ale on floor]
+
+[scene: reesu finds iron maiden, puts it in bed with gale]
+
+[scene: reesu leaves room, locks door]
+
+[scene: gale panics]
+
+[scene: scream is heard]
+
+[scene: gra wakes up astalir, astalir turns into drath]
+
+[scene: gra drath jump out window, drath mold earths them down]
+
+[scene: gra drath run to scene of scream]
+
+[scene: daisy bob sui follow them]
+
+[scene: reesu carries gale to battle]
+
+[scene: gra drath find vampire in 2nd floor of house]
+
+[scene: drath shapes water into vampires mouth, hunter’s marks it]
+
+[scene: vampire shrieks, attacks drath, but gra blocks]
+
+[scene: gra rages, fights vampire]
+
+[scene: vampires flock to the house, party fights them]
+
+[scene: daisy convinces one vampire to go to butcher shop instead]
+
+[scene: vampires get into house, go upstairs, swarm drath gra]
+
+[scene: drath casts color sphere, blinding zombies]
+
+[scene: reesu gale land on roof from thunder step]
+
+[scene: reesu tidal waves up the stairs, damaging vampires]
+
+[scene: blue vampire corners drath]
+
+[scene: gale taps on window, drath unlocks it, gale tumbles in]
+
+[scene: sui shoots arrows into house, breaking window open]
+
+[scene: bob comes through broken window]
+
+[scene: drath stabs the blue vampire without looking]
+
+[scene: blue vampire claws drath, drath drops the color sphere]
+
+[scene: gale shields of faith gra]
+
+[scene: gra finishes off red vampire]
+
+[scene: reesu runs in, tidal waves vampires, grapples last one]
+
+[scene: gra slices the vampire’s head off]
+
+[scene: gra runs out into street, looking for more, daisy calms him down]
+
+[scene: purple vampire runs to butcher]
+
+[scene: don appears, cleans up bodies with a single touch]
+
+[scene: gale heals drath]
+
+[scene: drath finds family, tells them its ok to come out now]
+
+[scene: gale tells drath about reesu’s latest prank]
+
+[scene: drath and gale go to gale’s room]
+
+[scene: drath alone, shuts door, cleans gale’s room]
+
+[scene: gale enters room, passes out on floor]
+
+[scene: drath goes to room, turns to astalir]
+
+[scene: gra draws cards, gives card to astalir]
+
+[scene: astalir craves donuts, turns a stale pancake into a donut, eats it]
