@@ -3828,108 +3828,108 @@ Summary: The party searches the town for 4 ruffians causing problems at the Stic
 
 === Chapter under construction ===
 
-[scene: party checks in for the night]
+[scene 1: party checks in for the night]
 
-[scene: gra pays for a double room for him and drath]
+[scene 2: gra pays for a double room for him and drath]
 
-[scene: reesu pays for a creepy room for gale]
+[scene 3: reesu pays for a creepy room for gale]
 
-[scene: party pays for their rooms]
+[scene 4: party pays for their rooms]
 
-[scene: gra and drath go the room]
+[scene 5: gra and drath go the room]
 
-[scene: drath turns into astalir]
+[scene 6: drath turns into astalir]
 
-[scene: gra picks up astalir, pets him]
+[scene 7: gra picks up astalir, pets him]
 
-[scene: gra and astalir discuss drath]
+[scene 8: gra and astalir discuss drath]
 
-[scene: astalir falls asleep in gra’s arms]
+[scene 9: astalir falls asleep in gra’s arms]
 
-[scene: reesu lays drunk gale in bed]
+[scene 10: reesu lays drunk gale in bed]
 
-[scene: reesu casts darkness on gale]
+[scene 11: reesu casts darkness on gale]
 
-[scene: reesu throws marbles and ale on floor]
+[scene 12: reesu throws marbles and ale on floor]
 
-[scene: reesu finds iron maiden, puts it in bed with gale]
+[scene 13: reesu finds iron maiden, puts it in bed with gale]
 
-[scene: reesu leaves room, locks door]
+[scene 14: reesu leaves room, locks door]
 
-[scene: gale panics]
+[scene 15: gale panics]
 
-[scene: scream is heard]
+[scene 16: scream is heard]
 
-[scene: gra wakes up astalir, astalir turns into drath]
+[scene 17: gra wakes up astalir, astalir turns into drath]
 
-[scene: gra drath jump out window, drath mold earths them down]
+[scene 18: gra drath jump out window, drath mold earths them down]
 
-[scene: gra drath run to scene of scream]
+[scene 19: gra drath run to scene of scream]
 
-[scene: daisy bob sui follow them]
+[scene 20: daisy bob sui follow them]
 
-[scene: reesu carries gale to battle]
+[scene 21: reesu carries gale to battle]
 
-[scene: gra drath find vampire in 2nd floor of house]
+[scene 22: gra drath find vampire in 2nd floor of house]
 
-[scene: drath shapes water into vampires mouth, hunter’s marks it]
+[scene 23: drath shapes water into vampires mouth, hunter’s marks it]
 
-[scene: vampire shrieks, attacks drath, but gra blocks]
+[scene 24: vampire shrieks, attacks drath, but gra blocks]
 
-[scene: gra rages, fights vampire]
+[scene 25: gra rages, fights vampire]
 
-[scene: vampires flock to the house, party fights them]
+[scene 26: vampires flock to the house, party fights them]
 
-[scene: daisy convinces one vampire to go to butcher shop instead]
+[scene 27: daisy convinces one vampire to go to butcher shop instead]
 
-[scene: vampires get into house, go upstairs, swarm drath gra]
+[scene 28: vampires get into house, go upstairs, swarm drath gra]
 
-[scene: drath casts color sphere, blinding zombies]
+[scene 29: drath casts color sphere, blinding zombies]
 
-[scene: reesu gale land on roof from thunder step]
+[scene 30: reesu gale land on roof from thunder step]
 
-[scene: reesu tidal waves up the stairs, damaging vampires]
+[scene 31: reesu tidal waves up the stairs, damaging vampires]
 
-[scene: blue vampire corners drath]
+[scene 32: blue vampire corners drath]
 
-[scene: gale taps on window, drath unlocks it, gale tumbles in]
+[scene 33: gale taps on window, drath unlocks it, gale tumbles in]
 
-[scene: sui shoots arrows into house, breaking window open]
+[scene 34: sui shoots arrows into house, breaking window open]
 
-[scene: bob comes through broken window]
+[scene 35: bob comes through broken window]
 
-[scene: drath stabs the blue vampire without looking]
+[scene 36: drath stabs the blue vampire without looking]
 
-[scene: blue vampire claws drath, drath drops the color sphere]
+[scene 37: blue vampire claws drath, drath drops the color sphere]
 
-[scene: gale shields of faith gra]
+[scene 38: gale shields of faith gra]
 
-[scene: gra finishes off red vampire]
+[scene 39: gra finishes off red vampire]
 
-[scene: reesu runs in, tidal waves vampires, grapples last one]
+[scene 40: reesu runs in, tidal waves vampires, grapples last one]
 
-[scene: gra slices the vampire’s head off]
+[scene 41: gra slices the vampire’s head off]
 
-[scene: gra runs out into street, looking for more, daisy calms him down]
+[scene 42: gra runs out into street, looking for more, daisy calms him down]
 
-[scene: purple vampire runs to butcher]
+[scene 43: purple vampire runs to butcher]
 
-[scene: don appears, cleans up bodies with a single touch]
+[scene 44: don appears, cleans up bodies with a single touch]
 
-[scene: gale heals drath]
+[scene 45: gale heals drath]
 
-[scene: drath finds family, tells them its ok to come out now]
+[scene 46: drath finds family, tells them its ok to come out now]
 
-[scene: gale tells drath about reesu’s latest prank]
+[scene 47: gale tells drath about reesu’s latest prank]
 
-[scene: drath and gale go to gale’s room]
+[scene 48: drath and gale go to gale’s room]
 
-[scene: drath alone, shuts door, cleans gale’s room]
+[scene 49: drath alone, shuts door, cleans gale’s room]
 
-[scene: gale enters room, passes out on floor]
+[scene 50: gale enters room, passes out on floor]
 
-[scene: drath goes to room, turns to astalir]
+[scene 51: drath goes to room, turns to astalir]
 
-[scene: gra draws cards, gives card to astalir]
+[scene 52: gra draws cards, gives card to astalir]
 
-[scene: astalir craves donuts, turns a stale pancake into a donut, eats it]
+[scene 53: astalir craves donuts, turns a stale pancake into a donut, eats it]
