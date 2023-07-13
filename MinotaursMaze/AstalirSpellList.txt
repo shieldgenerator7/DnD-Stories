@@ -228,3 +228,18 @@ A creature can use its action to examine the phantasm with an Intelligence (Inve
 While a creature perceives the phantasm as real, the creature can take damage from the illusion. A phantasm created to appear as a creature can attack a target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn creatures within it. Each round on your turn, the phantasm can deal 1d6 psychic damage to affected creatures that are within in the phantasm’s area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The creature perceives the damage as a type appropriate to the illusion. This spell does no damage to undead or constructs.
 
 If the phantasm becomes more than 90ft from you, it disappears. You can dismiss the phantasm as an action.
+
+
+
+=== Invisibility ===
+
+Invisibility
+Illusion 2
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (an eyelash encased in gum arabic)
+Duration: Concentration, up to 1 hour
+
+A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.
+
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
