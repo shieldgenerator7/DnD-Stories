@@ -1681,4 +1681,70 @@ Armstig grabbed it in his mouth and shook it all around, growling fiercely. He b
 
 [scene 28: johnny finds secret passage]
 
-[scene 29s: party investigates secret room]
+[scene 29: party investigates secret room]
+
+# Chapter 8
+
+=== 2023-07-19 ===
+
+=== this chapter under construction ===
+
+=== please wait for the official completion announcement ===
+
+[scene 1: mystery man finds miyu in monstary]
+
+[scene 2: miyu talks with mystery man, gives him gauntlet, convinces him to join]
+
+[scene 3: miyu and mystery man introduce, mystery man is vox]
+
+[scene 4: miyu and vox join party]
+
+[scene 5: party puts blood in dagger, door opens to dungeon]
+
+[scene 6: party finds muffin man in the room]
+
+[scene 7: party crosses whirlpool with piranhas]
+
+[scene 8: party sneaks past mystery monster]
+
+[scene 9: party finds suspicious treasure room]
+
+[scene 10: miyu ritual casts comprehend languages]
+
+[scene 11: vox tells miyu name to get past trap puzzle room]
+
+[scene 12: miyu finds black orb]
+
+[scene 13: party finds room with pool of water, dead man on the pool, body fresh]
+
+[scene 14: miyu asks about the orb, knows destroying it will let land heal]
+
+[scene 15: miyu asks how to destroy orb, knows magic overload]
+
+[scene 16: johnny asks where his commander is, knows he is in Auramir]
+
+[scene 17: johnny asks how to kill commander, knows portal or beheading]
+
+[scene 19: johnny convulses, arms pulls johnny out of pool]
+
+[scene 19: arms licks pool, convulses]
+
+[scene 20: arms carries body back thru dungeon]
+
+[scene 21: arms and johnny try to sneak body past monster]
+
+[scene 22: monster sees them]
+
+[scene 23: arms attacks monster]
+
+[scene 24: vox lightnings monster arms, firebolts monster]
+
+[scene 25: johnny attacks, miyu attacks with gauntlet]
+
+[scene 26: monster mind rots arms miyu johnny, knocks arms unconscious]
+
+[scene 27: party beats up monster]
+
+[scene 28: miyu heals arms, hugs arms]
+
+[scene 29: miyu tells arms to not eat dead fried monster meat]
