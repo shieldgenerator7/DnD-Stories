@@ -10,13 +10,13 @@ Chapter 0 – Prologue
 
 A robot, a bugbear, and a dragonborn walk into a bar.
 
-The bartender, a bearded dwarf, cleans a glass. “What can I get for you, dragon-looking dude?”
+The bartender, a bearded dwarf, cleans a glass. “What can I get for you, sir?”
 
-The dragonborn leans his staff against the counter. “Sweet tea, please.”
+The dragonborn leans his staff against the counter. “Get me a sweet tea.”
 
-The dwarf cusses in dwarfish as he fills a cup. “That’ll be 1 silver.”
+The dwarf cusses in dwarfish as he fills a cup. “Good day to you. A silver.”
 
-“Here.” The dragonborn plinks down a gold piece.
+The dragonborn grumbles and plinks down a gold piece.
 
 “He doesn’t have any silver.” The robot laughs under his breath to the bugbear.
 
