@@ -2,17 +2,17 @@
 
 2023-07-19: originally copied from: <https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)>
 
-Workers by trade, a blacksmith is able to do marvelous things with their forged metals. People of all walks of life come to them to request their services. Whether it be for a weapon, armor, or something as simple as a new screwdriver, a capable blacksmith can create just about anything. But a truly accomplished smith can make something better than it already is.
+Workers by trade, a blacksmith can do marvelous things with their forged metals. People of all walks of life come to them to request their services. Whether it be for a weapon, armor, or something as simple as a new screwdriver, a capable blacksmith can create just about anything. But a truly accomplished smith can make something better than it already is.
 
 With their tools in hand, blacksmiths are able to not only make and create, but they can improve what has already been made.
 
 # Creating a Blacksmith
 
-When creating a blacksmith, you must first answer how they chose their profession. How did they learn smithing? What is their speciality when it comes to their line of work? Next, you must answer why they took up adventuring? Are they making a personal delivery, which seems will never make it to its destination? Are they searching for a legendary metal? Are they trying to see the world, to get a grander scope of what can be accomplished in their craft?
+When creating a blacksmith, you must first answer how they chose their profession. How did they learn smithing? What is their specialty when it comes to their line of work? Next, you must answer why they took up adventuring? Are they making a personal delivery, which never seems to make it to its destination? Are they searching for a legendary metal? Are they trying to see the world, to get a grander scope of what can be accomplished in their craft?
 
 # Quick Build
 
-You can make a blacksmith quickly by following these suggestions. First, [Strength](https://www.dandwiki.com/wiki/5e_SRD:Strength) should be your highest ability score, followed by [Intelligence](https://www.dandwiki.com/wiki/5e_SRD:Intelligence). Second, choose the guild artisan background. Third, choose to be proficient in perception and investigation. Chose the scale mail, a martial weapon and a shield and a dungeoneers pack.
+You can make a blacksmith quickly by following these suggestions. First, [Strength](https://www.dandwiki.com/wiki/5e_SRD:Strength) should be your highest ability score, followed by [Intelligence](https://www.dandwiki.com/wiki/5e_SRD:Intelligence). Second, choose the guild artisan background. Third, choose to be proficient in Perception and Investigation. Choose the scale mail, a martial weapon, a shield, and a dungeoneers pack.
 
 # Class Features
 
@@ -74,13 +74,13 @@ When you start, you already have a knack for smithing. Your base rate of pay is 
 
 ### A Blacksmiths Eyes
 
-Due to your ability to create, and your history of forging thousands of weapons, your eyes have adapted to spot imperfections in armours, as an action, you can point out the weakness of an enemies armour. By aiming for this weakness, a penalty is induced with accordance to the size of the defect (i.e. a +2 to ac for an easy to hit gap and a +6 for an extremely hard too hit weakness). The DM has the choice of sharing the penalty with the players. By successfully hitting this weak spot, a damage multiplier of 1.5 will occur. If you fail to hit this adjusted AC but still pass the original AC of the opponent a multiplier of 0.5 will occur.
+Due to your ability to create, and your history of forging thousands of weapons, your eyes have adapted to spot imperfections in armor. As an action, you can point out the weakness of an enemy’s armor. By aiming for this weakness, a penalty is induced in accordance with the size of the defect (i.e. a +2 to ac for an easy to hit gap and a +6 for an extremely hard to hit weakness). The DM has the choice of sharing the penalty with the players. By successfully hitting this weak spot, a damage multiplier of 1.5 will occur. If you fail to hit this adjusted AC but still pass the original AC of the opponent a multiplier of 0.5 will occur.
 
-Cannot find weaknesses against opponents with "natural armour."
+Cannot find weaknesses against opponents with "natural armor."
 
 ### Blacksmithing Expertise
 
-At the 2nd level, you begin to develop a greater understanding of the weapons and armour around you. By spending 6 hours carefully analysing the blueprints and the item itself, you develop an understanding of the particular weapon allowing you to wield the weapon with proficiency. By keeping the diagrams for yourself, Due to your innate blacksmithing abilities, you can replicate the design of the weapon as long as you have the relevant materials.
+At the 2nd level, you begin to develop a greater understanding of the weapons and armor around you. By spending 6 hours carefully analyzing the blueprints and the item itself, you develop an understanding of the particular weapon allowing you to wield the weapon with proficiency. By keeping the diagrams for yourself, Due to your innate blacksmithing abilities, you can replicate the design of the weapon as long as you have the relevant materials.
 
 By extension, you have proficiency in all items made by you.
 
@@ -98,7 +98,7 @@ At the 5th level, you can attack twice, instead of once, whenever you take the A
 
 ### Blacksmithing Creations
 
-At the 6th level, your knowledge of materials and weapon and armour designs have begun to reach an impressive point allowing you to design weapons and armour that would give you various effect. For example, cloaks made of chameleon leather, increase deceptions rolls by +1 or spears made by a tigers tooth add +1 damage to piercing type actions. The effects and possibilities are left to the imaginative power of the blacksmith, and the DM decides whether items are plausible or not.
+At the 6th level, your knowledge of materials and weapon and armor designs have begun to reach an impressive point allowing you to design weapons and armor that would give you various effects. For example, cloaks made of chameleon leather, increase deceptions rolls by +1 or spears made by a tiger’s tooth add +1 damage to piercing type actions. The effects and possibilities are left to the imaginative power of the blacksmith, and the DM decides whether items are plausible or not.
 
 ### Long Hours
 
@@ -114,19 +114,19 @@ The spells infused into the item will have a certain amount of uses before needi
 
 ### Advanced Improvement
 
-At the 11th level, your skills for improving equipment have grown profoundly. When you own any weapon, armour, or piece of ammunition, you can increase the weapon's attack bonus by +1, or the armour's AC by +1. The effects of this feature do not stack.
+At the 11th level, your skills for improving equipment have grown profoundly. When you own any weapon, armor, or piece of ammunition, you can increase the weapon's attack bonus by +1, or the armor’s AC by +1. The effects of this feature do not stack.
 
 You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature.
 
-At the 13th level, your skills for improving equipment have grown even more profound. When you own any weapon, any armour, or any piece of ammunition, you can increase the weapon's attack bonus by +2, or the armour's AC by +2. The effects of this feature do not stack.
+At the 13th level, your skills for improving equipment have grown even more profound. When you own any weapon, any armor, or any piece of ammunition, you can increase the weapon's attack bonus by +2, or the armor’s AC by +2. The effects of this feature do not stack.
 
 You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature.
 
-At the 17th level, your skills for improving equipment have grown even more. When you have any weapon, any armour, or any piece of ammunition, you can increase the weapon's attack bonus by +3, or the armour's AC by +3. The effects of this feature do not stack.
+At the 17th level, your skills for improving equipment have grown even more. When you have any weapon, any armor, or any piece of ammunition, you can increase the weapon's attack bonus by +3, or the armor’s AC by +3. The effects of this feature do not stack.
 
 You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature.
 
-At the 20th level, your skills for improving equipment have grown even more. When you own any weapon, any armour, or any piece of ammunition, you can increase the weapon's attack bonus by +4, or the armour's AC by +4. The effects of this feature now last for two days. The effects of this feature do not stack when used on the same equipment twice.
+At the 20th level, your skills for improving equipment have grown even more. When you own any weapon, any armor, or any piece of ammunition, you can increase the weapon's attack bonus by +4, or the armor’s AC by +4. The effects of this feature now last for two days. The effects of this feature do not stack when used on the same equipment twice.
 
 You must be at a blacksmith's forge to make use of this feature. The time for improving equipment is 15 minutes.
 
@@ -136,13 +136,13 @@ At the 14th level, you have become very proficient at your smithing. You no long
 
 The cost of said creations is based on the item's power, rarity, and overall usefulness and is left to the DM's discretion.
 
-The spells infused into the item will have a certain amount of uses before needing to be re-infused with magical power determined by your level x 1/2 rounded down. your base rate of pay is 40 gold a working day with a tool you are proficient with or half that with tools you are not proficient with.
+The spells infused into the item will have a certain amount of uses before needing to be re-infused with magical power determined by your level x 1/2 rounded down. Your base rate of pay is 40 gold a working day with a tool you are proficient with or half that with tools you are not proficient with.
 
 ### Guild Master
 
 At level 16°, your fame travels the world, causing many of the merchants and blacksmiths to take an interest in his items and forging techniques, almost an admiration/respect/envy.
 
-Every time you buy new resources for you, some events are unlocked for your interpretation and the shopkeeper's opinion about you, as well as some discounts, paying the products with some kind of service (related to the forge ) or having to price absurdities for the simplest products.
+Every time you buy new resources for you, some events are unlocked for your interpretation and the shopkeeper's opinion about you, as well as some discounts, paying the products with some kind of service (related to the forge) or having to price absurdities for the simplest products.
 
 ### Masterful Forging
 
@@ -150,7 +150,7 @@ At the 18th level, you have become a master of your craft. You no longer need ma
 
 The cost of said creations is based on the item's power, rarity, and overall usefulness and is left to the DM's discretion.
 
-The spells infused into the item no longer have a certain amount of uses before needing to be re-infused with magical power. your base rate of pay is 80 gold a working day with a tool you are proficient with or half that with tools you are not proficient with.
+The spells infused into the item no longer have a certain amount of uses before needing to be re-infused with magical power. Your base rate of pay is 80 gold a working day with a tool you are proficient with or half that with tools you are not proficient with.
 
 ### My Magnum Opus
 
@@ -162,11 +162,11 @@ This can only be used once.
 
 ### God of the forge
 
-Your dedication and focus on your profession is finally starting to pay off after so many years. At level 20° your strength and intelligence scores increase by 4 points and now your max skill points for those skills is 24
+Your dedication and focus on your profession are finally starting to pay off after so many years. At level 20° your strength and intelligence scores increase by 4 points and now your max skill points for those skills is 24
 
 # Smith Masteries
 
-A blacksmith is ever learning their own craft. Just when one thinks themselves a master, something happens that opens them up to new paths in their field.
+A blacksmith is ever learning their own craft. Just when one thinks of themselves as a master, something happens that opens them up to new paths in their field.
 
 ## Arcane Forge
 
@@ -188,17 +188,17 @@ The effects of this feature last for 2 days. The effects of this feature do not 
 
 Starting at 11th level, you learn to add more enchantments to your forged creations. In addition to acid, cold, fire, lightning or poison, you may now add force, necrotic, psychic, radiant or thunder damage equal to your proficiency bonus to your forged weapons. Additionally, when forging armor, you may add +4 resistance to any one of the previously listed damage types to your AC.
 
-The effects of this feature last for 2 day. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
+The effects of this feature last for 2 days. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
 
 ### Supreme Enhancement
 
-Starting at 15th level, by this time your enhancing skills have improved Exponentially.In addition to acid, cold, fire, lightning or poison, you may now add force, necrotic, psychic, radiant or thunder damage equal to your proficiency bonus to your forged weapons. Additionally, when forging armor, you may add +4 resistance to any one of the previously listed damage types to your AC.
+Starting at 15th level, by this time your enhancing skills have improved exponentially. In addition to acid, cold, fire, lightning or poison, you may now add force, necrotic, psychic, radiant or thunder damage equal to your proficiency bonus to your forged weapons. Additionally, when forging armor, you may add +4 resistance to any one of the previously listed damage types to your AC.
 
-The effects of this feature permanent. The effects of this feature do not stack when used on the same equipment twice.
+The effects of this feature are permanent. The effects of this feature do not stack when used on the same equipment twice.
 
 ## Metal Master
 
-A Metal Master is just as it sounds. They live and breathe the flames of the forge, and strive to create the most powerful equipment they can.
+A Metal Master is just as it sounds. They live and breathe the flames of the forge and strive to create the most powerful equipment they can.
 
 Starting at 3rd level, (any weapons you create or modify are now +1)
 
@@ -214,7 +214,7 @@ Able to use ½ the materials to create or modify a piece of equipment.
 
 A Huntsmith is a Blacksmith who crafts very specialized equipment. For those who choose to hunt particular prey, a Huntsmith is the one to hire.
 
-Starting at 4th level you learn the craft on how to use silver for your weapons and armor. The silver adds plus three to your damage and AC for the weapons and armor you make. It cost two times more the original price.
+Starting at 4th level you learn the craft on how to use silver for your weapons and armor. The silver adds plus three to your damage and AC for the weapons and armor you make. It cost two times more than the original price.
 
 ### Brutal Enhancement
 
@@ -230,7 +230,7 @@ The effects of this feature last for 1 day. The effects of the feature do not st
 
 At 11th level,
 
-### Draconian Enchancement
+### Draconian Enhancement
 
 At 15th level, you learn how to find ways to better defeat dragons. When you are at a forge, you may craft weapons that deal additional damage equal to your proficiency bonus against dragons. Additionally, when you craft armor, you may choose to add +2 to your current AC against any attack made by dragons.
 
@@ -238,6 +238,6 @@ The effects of this feature last for 1 day. The effects of this feature do not s
 
 # Multiclassing
 
-**Prerequisites.** To qualify for multiclassing into the blacksmith class, you must meet these prerequisites: 15 intelligence and 13 strength
+**Prerequisites.** To qualify for multiclassing into the blacksmith class, you must meet these prerequisites: 15 Intelligence and 13 Strength.
 
-**Proficiencies.** When you multiclass into the blacksmith class, you gain the following proficiencies: medium armor and smith’s tools
+**Proficiencies.** When you multiclass into the blacksmith class, you gain the following proficiencies: medium armor and smith’s tools.
