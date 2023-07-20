@@ -44,33 +44,34 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Features
 
-| **Table: The Blacksmith** |                       |                                                                                                                                                                                              |
-|---------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Level**                 | **Proficiency Bonus** | **Features**                                                                                                                                                                                 |
-| 1st                       | +2                    | [Crude Forging](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Crude_Forging), [A Blacksmiths Eyes](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#A_Blacksmiths_Eyes)             |
-| 2nd                       | +2                    | [Blacksmithing Expertise](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Blacksmithing_Expertise)                                                                                       |
-| 3rd                       | +2                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery)                                                                                                           |
-| 4th                       | +2                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   |
-| 5th                       | +3                    | [Extra Attack](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Extra_Attack)                                                                                                             |
-| 6th                       | +3                    | [Blacksmithing Creations](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Blacksmithing_Creations)                                                                                       |
-| 7th                       | +3                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery) Feature                                                                                                   |
-| 8th                       | +3                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   |
-| 9th                       | +4                    | [Long Hours](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Long_Hours)                                                                                                                 |
-| 10th                      | +4                    | [Advanced Forging](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Forging)                                                                                                     |
-| 11th                      | +4                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery) Feature, [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement) |
-| 12th                      | +4                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   |
-| 13th                      | +5                    | [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement)                                                                                             |
-| 14th                      | +5                    | [Experienced Smith](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Experienced_Smith)                                                                                                   |
-| 15th                      | +5                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery) Feature                                                                                                   |
-| 16th                      | +5                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   |
-| 17th                      | +6                    | [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement)                                                                                             |
-| 18th                      | +6                    | [Masterful Forging](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Masterful_Forging) , [My Magnum Opus](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#_My_Magnum_Opus) Feature   |
-| 19th                      | +6                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   |
-| 20th                      | +6                    | [Master work item](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Master_work_item), [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement)   |
+Table: The Blacksmith
 
-### Crude Forging
+| **Level** | **Proficiency Bonus** | **Features**                                                                                                                                                                                 | **Gold/day** |
+|-----------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1st       | +2                    | [Professional Forging](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Crude_Forging), [A Blacksmith’s Eyes](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#A_Blacksmiths_Eyes)     | 10gp         |
+| 2nd       | +2                    | [Blacksmithing Expertise](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Blacksmithing_Expertise)                                                                                       | 10gp         |
+| 3rd       | +2                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery)                                                                                                           | 10gp         |
+| 4th       | +2                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   | 10gp         |
+| 5th       | +3                    | [Extra Attack](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Extra_Attack)                                                                                                             | 10gp         |
+| 6th       | +3                    | [Blacksmithing Creations](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Blacksmithing_Creations)                                                                                       | 10gp         |
+| 7th       | +3                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery) Feature                                                                                                   | 10gp         |
+| 8th       | +3                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   | 10gp         |
+| 9th       | +4                    | [Long Hours](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Long_Hours)                                                                                                                 | 10gp         |
+| 10th      | +4                    | [Advanced Forging](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Forging)                                                                                                     | 20gp         |
+| 11th      | +4                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery) Feature, [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement) | 20gp         |
+| 12th      | +4                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   | 20gp         |
+| 13th      | +5                    | [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement)                                                                                             | 20gp         |
+| 14th      | +5                    | [Experienced Smith](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Experienced_Smith)                                                                                                   | 40gp         |
+| 15th      | +5                    | [Smith Mastery](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Smith_Mastery) Feature                                                                                                   | 40gp         |
+| 16th      | +5                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   | 40gp         |
+| 17th      | +6                    | [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement)                                                                                             | 40gp         |
+| 18th      | +6                    | [Masterful Forging](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Masterful_Forging), [Magnum Opus](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#_My_Magnum_Opus) Feature       | 80gp         |
+| 19th      | +6                    | [Ability Score Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Ability_Score_Improvement)                                                                                   |              |
+| 20th      | +6                    | [Master work item](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Master_work_item), [Advanced Improvement](https://www.dandwiki.com/wiki/Blacksmith_(5e_Class)#Advanced_Improvement)   |              |
 
-When you start, you already have a knack for smithing. Your base rate of pay is 10 gold a working day with a tool you are proficient with (a working day is defined as eight hours), and 5gp a day for a tool you are not proficient with.
+### Professional Forging
+
+When you start, you already have a knack for smithing. Your base rate of pay is 10gp per working day with a tool you are proficient with and 5gp per working day for a tool you are not proficient with. A working day is defined as 8 hours. You get more pay as you level up, as defined in Gold/Day column of the Blacksmith’s table. Your base rate of pay per day is listed in that column. You get your base rate of pay with a tool you are proficient with, and half as much with a tool you aren’t proficient with.
 
 ### A Blacksmith’s Eyes
 
@@ -112,8 +113,6 @@ The cost of said creation is based on the power, rarity, and overall usefulness 
 
 The spells infused into the item will have a certain amount of uses before needing to be re-infused with magical power determined by the Magician’s Level divided by four, rounded down.
 
-Your base rate of pay is 20 gold per working day with a tool you are proficient with or half that much with tools you are not proficient with.
-
 ### Advanced Improvement
 
 At 11th level, your skills for improving equipment have grown profoundly. When you forge any weapon, armor, or piece of ammunition, you can increase the weapon's attack bonus by +1 or the armor’s AC by +1. The effects of this feature do not stack. You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature.
@@ -130,7 +129,7 @@ At 14th level, you have become very proficient at your smithing. You no longer n
 
 The cost of said creation is based on the item's power, rarity, and overall usefulness and is left to the DM's discretion.
 
-The spells infused into the item will have a certain amount of uses before needing to be re-infused with magical power determined by your level divided by two, rounded down. Your base rate of pay is 40 gold per working day with a tool you are proficient with or half that much with tools you are not proficient with.
+The spells infused into the item will have a certain amount of uses before needing to be re-infused with magical power determined by your level divided by two, rounded down.
 
 ### Guild Master
 
@@ -144,9 +143,9 @@ At 18th level, you have become a master of your craft. You no longer need magici
 
 The cost of said creation is based on the item's power, rarity, and overall usefulness and is left to the DM's discretion.
 
-The spells infused into the item no longer have a certain amount of uses before needing to be re-infused with magical power. Your base rate of pay is 80 gold per working day with a tool you are proficient with or half that much with tools you are not proficient with.
+The spells infused into the item no longer have a certain amount of uses before needing to be re-infused with magical power.
 
-### My Magnum Opus
+### Magnum Opus
 
 At 18th level, your years of honing your craft have led you to create a masterpiece so great that it will eclipse all your other work for the rest of time.
 
@@ -166,55 +165,55 @@ A blacksmith is ever learning their own craft. Just when one thinks of themselve
 
 An Arcane Forge is a blacksmith who has taken an interest in magic. By imbuing their metalworks with magical power, the one using them is sure to become a force to be reckoned with.
 
+Arcane Forge Blacksmith Table
+
+| Level | Imbuable Elements                                                               | Armor AC | Duration  |
+|-------|---------------------------------------------------------------------------------|----------|-----------|
+| 3rd   | acid, cold, fire, lightning, poison                                             | +2       | 1 day     |
+| 7th   | acid, cold, fire, lightning, poison                                             | +3       | 2 days    |
+| 11th  | acid, cold, fire, lightning, poison, force, necrotic, psychic, radiant, thunder | +4       | 2 days    |
+| 15th  | acid, cold, fire, lightning, poison, force, necrotic, psychic, radiant, thunder | +4       | permanent |
+
 ### Enchanting Enhancement
 
-Starting at 3rd level, you learn to imbue your forged creations with elemental powers. When you are forging weapons, you may spend an extra 10 minutes at the forge to add damage equal to your proficiency bonus from your choice of acid, cold, fire, lightning, or poison. Additionally, when forging armor, you may add +2 resistance to any one of the previously listed damage types to your current AC.
+Starting at 3rd level, you learn to imbue your forged creations with elemental powers. When you are forge a weapon, you may spend an extra 10 minutes at the forge to add damage equal to your proficiency bonus from your choice of acid, cold, fire, lightning, or poison. Additionally, when forging armor, you may add +2 resistance to any one of the previously listed damage types to your current AC. The effects of this feature last for 1 day. The options to choose from increase at 11th level, and the armor AC bonus and imbue duration increase as you level up as shown in the Arcane Forge Blacksmith Table.
 
-The effects of this feature last for 1 day. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
-
-### Moderate Enhancement
-
-Starting at 7th level, your enhancement abilities have improved significantly. When you are forging weapons, you may spend an extra 10 minutes at the forge to add additional damage equal to your proficiency bonus from your choice of acid, cold, fire, lightning, or poison. Additionally, when forging armor, you may add +3 resistance to any one of the previously listed damage types to your current AC.
-
-The effects of this feature last for 2 days. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
-
-### Greater Enchantment
-
-Starting at 11th level, you learn to add more enchantments to your forged creations. In addition to acid, cold, fire, lightning, or poison, you may now add force, necrotic, psychic, radiant, or thunder damage equal to your proficiency bonus to your forged weapons. Additionally, when forging armor, you may add +4 resistance to any one of the previously listed damage types to your AC.
-
-The effects of this feature last for 2 days. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
-
-### Supreme Enhancement
-
-Starting at 15th level, by this time your enhancing skills have improved exponentially. In addition to acid, cold, fire, lightning, or poison, you may now add force, necrotic, psychic, radiant, or thunder damage equal to your proficiency bonus to your forged weapons. Additionally, when forging armor, you may add +4 resistance to any one of the previously listed damage types to your AC.
-
-The effects of this feature are permanent. The effects of this feature do not stack when used on the same equipment twice.
+The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
 
 ## Metal Master
 
 A Metal Master is just as it sounds. They live and breathe the flames of the forge and strive to create the most powerful equipment they can.
 
-Starting at 3rd level, any weapons you create or modify are now +1.
+Metal Master Blacksmith Table
 
-Starting at 7th level, any weapons you create or modify are now +2.
+| Level | Weapon To-Hit |
+|-------|---------------|
+| 3rd   | +1            |
+| 7th   | +2            |
+| 11th  | +3            |
+| 15th  | +4            |
 
-Starting at 11th level, any weapons you create or modify are now +3.
+### Efficient Smithing
 
-Starting at 15th level, any weapons you create or modify are now +4.
+Starting at 3rd level, you can use half the materials needed to create or modify a piece of equipment.
 
-You can use half the materials needed to create or modify a piece of equipment.
+### Artisan Smithing
+
+Starting at 3rd level, any weapons you create or modify are now +1. This bonus increases as you level as shown in the Metal Master Blacksmith Table.
 
 ## Huntsmith
 
 A Huntsmith is a Blacksmith who crafts very specialized equipment. For those who choose to hunt particular prey, a Huntsmith is the one to hire.
-
-Starting at 4th level, you learn the craft on how to use silver on your weapons and armor. The silver adds plus three to your damage and AC for the weapons and armor you make. It costs two times more than the original price.
 
 ### Brutal Enhancement
 
 At 3rd level, you learn to make your weapons more effective against the most basic threats. When you are at a forge, you may craft weapons that deal additional damage equal to your proficiency bonus against beasts or one humanoid race of your choice. Additionally, when you craft armor, you may choose one of the previously listed enemy types to add +2 to your current AC against.
 
 The effects of this feature last for 1 day. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
+
+### Silver Enhancement
+
+Starting at 4th level, you learn how to craft silver into your weapons and armor. The silver adds +3 damage to weapons and +3 AC to armor you make. It costs two times more than the original price.
 
 ### Monstrous Enhancement
 
