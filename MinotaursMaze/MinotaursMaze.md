@@ -3942,66 +3942,66 @@ Summary: The party searches the town for 4 ruffians causing problems at the Stic
 
 === please wait for the official completion announcement ===
 
-sui draws cards: perm -2 cha, dance off, sidekick
+[scene 0: sui draws cards: perm -2 cha, dance off, sidekick]
 
-sui flies in the air all night, shoots a pack of wolves
+[scene 1: sui flies in the air all night, shoots a pack of wolves]
 
-sui gets shot by a stray bullet, crashes into his tavern room
+[scene 2: sui gets shot by a stray bullet, crashes into his tavern room]
 
-gra draw card: perm dex cha swap
+[scene 3: gra draw card: perm dex cha swap]
 
-reesu hangs out with gra in bedroom while astalir sleeps
+[scene 4: reesu hangs out with gra in bedroom while astalir sleeps]
 
-reesu shows her true form to gra
+[scene 5: reesu shows her true form to gra]
 
-in the morning, astalir wakes up, angry that reesu is in room
+[scene 6: in the morning, astalir wakes up, angry that reesu is in room]
 
-gra calms down astalir, astalir turns into drath
+[scene 7: gra calms down astalir, astalir turns into drath]
 
-reesu gra talk about telescopes, drath silent images a telescope
+[scene 8: reesu gra talk about telescopes, drath silent images a telescope]
 
-drath goes down to bar, asks jodi about creepy room \#6
+[scene 9: drath goes down to bar, asks jodi about creepy room \#6]
 
-jodi asks innkeeper, jodi tells drath its for the goth ppl
+[scene 10: jodi asks innkeeper, jodi tells drath its for the goth ppl]
 
-reesu wakes up gale to get telescope
+[scene 11: reesu wakes up gale to get telescope]
 
-gale buys 10gp telescope
+[scene 12: gale buys 10gp telescope]
 
-gra joins drath downstairs
+[scene 13: gra joins drath downstairs]
 
-drath orders blueberry pancakes, tips jodi
+[scene 14: drath orders blueberry pancakes, tips jodi]
 
-gra asks jodi about furbolgs and money, jodi says they like charity
+[scene 15: gra asks jodi about furbolgs and money, jodi says they like charity]
 
-reesu gale return to tavern to give telescope to gra
+[scene 16: reesu gale return to tavern to give telescope to gra]
 
-party leaves town
+[scene 17: party leaves town]
 
-sui buys winter coat from don for him and daisy, gra persuades don for lower price
+[scene 18: don sells sui daisy winter coat, gra persuades don for lower price]
 
-party travels for days in the cold (prob sharing drath’s tent)
+[scene 19: party travels for days in the cold (prob sharing drath’s tent)]
 
-party wanders into blizzard, come across bridge, sound of wolves howling
+[scene 20: party into blizzard, come across bridge, sound of wolves howling]
 
-party prepares for battle (daisy emboldening bond)
+[scene 21: party prepares for battle (daisy emboldening bond)]
 
-gra reesu cross bridge, gale gets stuck, bob skips over bridge
+[scene 22: gra reesu cross bridge, gale gets stuck, bob skips over bridge]
 
-sui flies up, shoots wolf, gets shot, falls down, drinks acid
+[scene 23: sui flies up, shoots wolf, gets shot, falls down, drinks acid]
 
-drath floats down chasm to other side, hangs on ledge
+[scene 24: drath floats down chasm to other side, hangs on ledge]
 
-gra reesu charge into battle, send wolves flying over the edge, bob shoots
+[scene 25: gra reesu charge into battle, send wolves over the edge, bob shoots]
 
-daisy helps gale off bridge, heads into battle with sanctuary
+[scene 26: daisy helps gale off bridge, heads into battle with sanctuary]
 
-sui flies up, shoots wolf, gets shot, falls down, drinks acid
+[scene 27: sui flies up, shoots wolf, gets shot, falls down, drinks acid]
 
-gra and reesu battle it out, bob shoots
+[scene 28: gra and reesu battle it out, bob shoots]
 
-drath makes a ledge for herself to stand on, sends sui clone in air
+[scene 29: drath makes a ledge for herself to stand on, sends sui clone in air]
 
-sui clone gets shot, falls down
+[scene 30: sui clone gets shot, falls down]
 
-drath knows who it is
+[scene 31: drath knows who it is]
