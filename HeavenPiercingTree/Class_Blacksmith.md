@@ -75,15 +75,15 @@ When you start, you already have a knack for smithing. Your base rate of pay is 
 
 ### A Blacksmith’s Eyes
 
-Due to your ability to create, and your history of forging thousands of weapons, your eyes have adapted to spot imperfections in armor. As an action, you can point out the weakness of an enemy’s armor. By aiming for this weakness, a penalty is induced in accordance with the size of the defect (i.e. a +2 to AC for an easy-to-hit gap and a +6 for an extremely hard-to-hit weakness). The DM has the choice of sharing the penalty with the players. By successfully hitting this weak spot, a damage multiplier of 1.5 will occur. If you fail to hit this adjusted AC but still pass the original AC of the opponent, a multiplier of 0.5 will occur.
+Due to your ability to create, and your history of forging thousands of weapons, your eyes have adapted to spot imperfections in armor. As an action, you can point out the weaknesses of an enemy’s armor. Roll a 1d6. All weapon attacks that target that enemy have their crit range increased by that amount until end of combat.
 
-This feature cannot find weaknesses against opponents with natural armor.
+This feature cannot find weaknesses against unarmored opponents or opponents with natural armor.
 
 ### Blacksmithing Expertise
 
-At 2nd level, you begin to develop a greater understanding of the weapons and armor around you. By spending 6 hours carefully analyzing the blueprints and the item itself, you develop an understanding of the particular weapon, allowing you to wield the weapon with proficiency. By keeping the diagrams for yourself, due to your innate blacksmithing abilities, you can replicate the design of the weapon as long as you have the relevant materials.
+At 2nd level, you begin to develop a greater understanding of the weapons and armor around you. By spending 6 hours carefully analyzing the blueprints and the item itself, you develop an understanding of the particular weapon, allowing you to wield the weapon with proficiency. With the diagram within 10ft of view, you can use your innate blacksmithing abilities to replicate the design of the weapon as long as you have the relevant materials.
 
-By extension, you have proficiency in all items made by you.
+In addition, you have proficiency in all items made by you.
 
 ### Smith Mastery
 
@@ -99,7 +99,7 @@ At 5th level, you can attack twice, instead of once, whenever you take the Attac
 
 ### Blacksmithing Creations
 
-At 6th level, your knowledge of materials and weapon and armor designs have begun to reach an impressive point allowing you to design weapons and armor that would give you various effects. For example, cloaks made of chameleon leather increase Deception rolls by +1, or spears made by a tiger’s tooth add +1 damage to piercing actions. The effects and possibilities are left to the imaginative power of the blacksmith, and the DM decides whether the item is plausible or not.
+At 6th level, your knowledge of materials and weapon and armor designs have begun to reach an impressive point allowing you to design weapons and armor that would give you various effects. For example, cloaks made of chameleon leather increase Deception rolls by +1, or spears made by a tiger’s tooth add +1 damage to piercing attacks. The effects and possibilities are up to your imagination, and the DM decides whether the item is plausible or not.
 
 ### Long Hours
 
@@ -107,21 +107,17 @@ At 9th level, you begin to feel your best when working at the forge. When you ar
 
 ### Advanced Forging
 
-At 10th level, you have become more adept at your smithing. With the help of a magician present, you have developed the ability to infuse items forged by you with magical powers. Through this, spells or effects can be infused into the item.
+At 10th level, you have become more adept at your smithing. With the help of a magician present, you have developed the ability to infuse items forged by you with magical powers. Through this process, spells or effects can be infused into the item.
 
 The cost of said creation is based on the power, rarity, and overall usefulness of the item and is left to the DM's discretion.
 
-The spells infused into the item will have a certain amount of uses before needing to be re-infused with magical power determined by the Magician’s Level divided by four, rounded down.
+The spells infused into the item will have a certain amount of uses before needing to be re-infused with magical power determined by the Magician’s Level divided by four, rounded down with a minimum of 1.
 
 ### Advanced Improvement
 
-At 11th level, your skills for improving equipment have grown profoundly. When you forge any weapon, armor, or piece of ammunition, you can increase the weapon's attack bonus by +1 or the armor’s AC by +1. The effects of this feature do not stack. You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature.
+At 11th level, your skills for improving equipment have grown profoundly. When you forge any weapon, armor, or piece of ammunition, you can permanently increase the weapon's attack bonus by +1 or the armor’s AC by +1. The effects of this feature do not stack. You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature. The time for improving equipment is 15 minutes.
 
-At 13th level, your skills for improving equipment have grown even more profound. When you forge any weapon, armor, or piece of ammunition, you can increase the weapon's attack bonus by +2 or the armor’s AC by +2. The effects of this feature do not stack. You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature.
-
-At 17th level, your skills for improving equipment have grown even more. When you forge any weapon, armor, or piece of ammunition, you can increase the weapon's attack bonus by +3 or the armor’s AC by +3. The effects of this feature do not stack. You must be at a blacksmith's forge, or have smithing tools and any type of forge, to make use of this feature.
-
-At 20th level, your skills for improving equipment have grown even more. When you forge any weapon, armor, or piece of ammunition, you can increase the weapon's attack bonus by +4 or the armor’s AC by +4. The effects of this feature now last for two days. The effects of this feature do not stack when used on the same equipment twice. You must be at a blacksmith's forge to make use of this feature. The time for improving equipment is 15 minutes.
+As you level up, these bonuses increase at 13th level (+2), 17th level (+3), and 20th level (+4).
 
 ### Experienced Smith
 
