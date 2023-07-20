@@ -227,6 +227,32 @@ At 15th level, you learn how to find ways to better defeat dragons. When you are
 
 The effects of this feature last for 1 day. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
 
+## Squire
+
+A Squire is a Blacksmith who maintains weapons during the heat of battle, keeping their allies’ weapons in tip-top shape as they slice through hordes of enemies.
+
+### Quick Swipe
+
+At 3rd level, you’re so good at handling weapons that you can take and pick them up quickly. As an action, you may take a weapon that is not being held nor carried, or is being held or carried by a willing creature within 5ft of you. Then you may place the weapon in an empty hand or inventory of a willing creature within 5ft of you.
+
+If you placed it in a willing creature’s hand, they may use their reaction to make an attack with it.
+
+### Quick Cleanup
+
+At 3rd level, you’re so good at cleaning weapons that you can do it in a blink of an eye. When you Quick Swipe a weapon, you may use your object interaction to clean it, granting it a once per turn effect: if it rolls a 1 or 2 on a damage die, its wielder may reroll it once, using the new die value instead. The weapon keeps this effect until it lands a killing blow on a creature.
+
+### Quick Sharpening
+
+At 7th level, you’ve mastered weapon sharpening to the point you can do it on the fly. When you Quick Swipe a weapon, you may use your object interaction to sharpen it, granting it +1 to hit and the following effect: if the weapon crits, it lowers the target’s AC by 1 until end of combat. The weapon keeps this effect until end of combat.
+
+### Quick Snatch
+
+At 11th level, you can use Quick Swipe to target a weapon held or carried by an unwilling creature. Make a Sleight of Hand (Dexterity) ability check. If you succeed, you take the weapon and continue Quick Swiping as normal.
+
+### Quick React
+
+At 15th level, you learn to anticipate the moves of your allies and enemies. You may use Quick Swipe as a reaction, gaining an extra object interaction until the end of your next turn.
+
 # Multiclassing
 
 **Prerequisites.** To multiclass into or out of the Blacksmith class, you must have at least 15 Intelligence and 13 Strength.
