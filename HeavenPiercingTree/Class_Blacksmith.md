@@ -75,7 +75,7 @@ When you start, you already have a knack for smithing. Your base rate of pay is 
 
 ### A Blacksmith’s Eyes
 
-Due to your ability to create, and your history of forging thousands of weapons, your eyes have adapted to spot imperfections in armor. As an action, you can point out the weaknesses of an enemy’s armor. Roll a 1d6. All weapon attacks that target that enemy have their crit range increased by that amount until end of combat.
+At 2nd level, after forging thousands of weapons, your eyes have adapted to spot imperfections in armor. As an action, you can point out the weaknesses of an enemy’s armor. Roll a 1d6. All weapon attacks that target that enemy have their crit range increased by that amount until end of combat.
 
 This feature cannot find weaknesses against unarmored opponents or opponents with natural armor.
 
@@ -87,7 +87,11 @@ In addition, you have proficiency in all items made by you.
 
 ### Smith Mastery
 
-At 3rd level, your experience has given you a broader perspective of what can be done with smithing. You can choose a style of smithing you wish to master, from Arcane Forge, Metal Master, or Huntsmith. Your choice grants you features at 3rd level, and again at 7th, 11th, and 15th levels. The features granted by your choice are detailed at the end of this page.
+At 3rd level, your experience has given you a broader perspective of what can be done with smithing. You can choose a style of smithing you wish to master, from Arcane Forge, Metal Master, Huntsmith, or Squire. Your choice grants you features at 3rd level, and again at 7th, 11th, and 15th levels. The features granted by your choice are detailed at the end of this page.
+
+### Regular Maintenance
+
+At 3rd level, you can temporarily improve weapons and armor. You can spend 10 minutes to give a weapon +1 to hit, or a piece of armor +1 AC. These bonuses last for 1 day. The bonuses from this feature do not stack.
 
 ### Ability Score Increase
 
@@ -172,9 +176,9 @@ Arcane Forge Blacksmith Table
 
 ### Enchanting Enhancement
 
-Starting at 3rd level, you learn to imbue your forged creations with elemental powers. When you are forge a weapon, you may spend an extra 10 minutes at the forge to add damage equal to your proficiency bonus from your choice of acid, cold, fire, lightning, or poison. Additionally, when forging armor, you may add +2 resistance to any one of the previously listed damage types to your current AC. The effects of this feature last for 1 day. The options to choose from increase at 11th level, and the armor AC bonus and imbue duration increase as you level up as shown in the Arcane Forge Blacksmith Table.
+Starting at 3rd level, you learn to imbue your forged creations with elemental powers. When you perform Regular Maintenance on a weapon or armor, you may spend an extra 10 minutes to add damage equal to your proficiency bonus from your choice of acid, cold, fire, lightning, or poison. Additionally, when forging armor, you may give it +2 AC against any one of the previously listed damage types. The effects of this feature last for 1 day. As you level up, the number of imbue element options, the armor AC bonus, and imbue duration increase as shown in the Arcane Forge Blacksmith Table.
 
-The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
+The effects of this feature do not stack. When you use this feature on a weapon or armor currently effect by this feature, the previous effect ends.
 
 ## Metal Master
 
@@ -191,37 +195,50 @@ Metal Master Blacksmith Table
 
 ### Efficient Smithing
 
-Starting at 3rd level, you can use half the materials needed to create or modify a piece of equipment.
+At 3rd level, you can use half the materials needed to create or modify a piece of equipment.
 
 ### Artisan Smithing
 
-Starting at 3rd level, any weapons you create or modify are now +1. This bonus increases as you level as shown in the Metal Master Blacksmith Table.
+At 3rd level, any weapons you create or modify are now +1. This bonus increases as you level up as shown in the Metal Master Blacksmith Table.
+
+### Precise Smithing
+
+At 7th level, you craft finely-tuned weapons. The crit range of the weapons you craft is now increased by 1.
+
+### Sturdy Smithing
+
+At 11th level, your weapons can withstand immense pressure. The weapons you forge now grant their wielders the following ability: As a reaction, you can use your weapon to protect yourself from a weapon attack. Add your weapon’s total to hit bonus to your AC until the end of the turn. If the weapon attack missed, that other weapon gets a permanent -1 to hit.
+
+### Masterwork Smithing
+
+At 15th level, you have achieved perfection in your designs. When you forge a weapon, choose a creature. When that creature wields this weapon, it gets +5 to hit and always rerolls 1s and 2s on the damage dice.
 
 ## Huntsmith
 
 A Huntsmith is a Blacksmith who crafts very specialized equipment. For those who choose to hunt particular prey, a Huntsmith is the one to hire.
 
+Huntsmith Blacksmith Table
+
+| Level | Enemy Types                                     | AC Bonus |
+|-------|-------------------------------------------------|----------|
+| 3rd   | beasts, 1 humanoid race                         | +1       |
+| 7th   | aberrations, monstrosities, fey, fiends, undead | +2       |
+| 11th  |                                                 | +3       |
+| 15th  | dragons, drakes                                 | +3       |
+
 ### Brutal Enhancement
 
-At 3rd level, you learn to make your weapons more effective against the most basic threats. When you are at a forge, you may craft weapons that deal additional damage equal to your proficiency bonus against beasts or one humanoid race of your choice. Additionally, when you craft armor, you may choose one of the previously listed enemy types to add +2 to your current AC against.
-
-The effects of this feature last for 1 day. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
+At 3rd level, you learn to make your weapons more effective against the most basic threats. When you perform Regular Maintenance on a weapon, you may make the weapon have a +1 to hit and deal additional damage equal to your proficiency bonus against beasts or one humanoid race of your choice. Additionally, when you perform Regular Maintenance on armor, you may choose one of the previously listed enemy types to add +1 to your current AC against. As you level up, both the number of enemy types you can choose from and the weapon and armor bonuses increase as shown in the Huntsmith Blacksmith table.
 
 ### Silver Enhancement
 
-Starting at 4th level, you learn how to craft silver into your weapons and armor. The silver adds +3 damage to weapons and +3 AC to armor you make. It costs two times more than the original price.
+Starting at 7th level, you learn how to craft silver into your weapons and armor. The silver adds +3 damage to weapons and +3 AC to armor you make. It costs two times more than the original price.
 
-### Monstrous Enhancement
+### Slayer Enhancement
 
-At 7th level, you learn how to better exploit the weaknesses of more powerful creatures. When you are at a forge, you may craft weapons that deal additional damage equal to your proficiency bonus against either aberrations or monstrosities. Additionally, when you craft armor, you may choose one of the previously listed enemy types to add +2 to your current AC against.
+At 15th level, you know how to design a weapon to perfectly kill any creature. When you forge a weapon, you may choose any enemy type from the list. The weapon gets +5 to hit against the chosen enemy type, and it always does max damage when it hits that enemy type. If it lands a crit against an enemy of the chosen type, it executes that enemy if it is below half health.
 
-The effects of this feature last for 1 day. The effects of the feature do not stack when used on the same equipment twice, before the effect wears off.
-
-### Draconian Enhancement
-
-At 15th level, you learn how to find ways to better defeat dragons. When you are at a forge, you may craft weapons that deal additional damage equal to your proficiency bonus against dragons. Additionally, when you craft armor, you may choose to add +2 to your current AC against any attack made by dragons.
-
-The effects of this feature last for 1 day. The effects of this feature do not stack when used on the same equipment twice, before the effect wears off.
+You also know how to protect yourself against any creature. When you forge armor, you may choose any enemy type from the list. The armor gets +5 AC against the chosen enemy type, and its wearer gets +5 to saving throws against the chosen enemy type. The wearer has resistance to all damage from enemies of the chosen type.
 
 ## Squire
 
