@@ -3933,3 +3933,75 @@ Summary: The party searches the town for 4 ruffians causing problems at the Stic
 [scene 52: gra draws cards, gives card to astalir]
 
 [scene 53: astalir craves donuts, turns a stale pancake into a donut, eats it]
+
+# Chapter 13
+
+=== 2023-07-19 ===
+
+=== this chapter under construction ===
+
+=== please wait for the official completion announcement ===
+
+sui draws cards: perm -2 cha, dance off, sidekick
+
+sui flies in the air all night, shoots a pack of wolves
+
+sui gets shot by a stray bullet, crashes into his tavern room
+
+gra draw card: perm dex cha swap
+
+reesu hangs out with gra in bedroom while astalir sleeps
+
+reesu shows her true form to gra
+
+in the morning, astalir wakes up, angry that reesu is in room
+
+gra calms down astalir, astalir turns into drath
+
+reesu gra talk about telescopes, drath silent images a telescope
+
+drath goes down to bar, asks jodi about creepy room \#6
+
+jodi asks innkeeper, jodi tells drath its for the goth ppl
+
+reesu wakes up gale to get telescope
+
+gale buys 10gp telescope
+
+gra joins drath downstairs
+
+drath orders blueberry pancakes, tips jodi
+
+gra asks jodi about furbolgs and money, jodi says they like charity
+
+reesu gale return to tavern to give telescope to gra
+
+party leaves town
+
+sui buys winter coat from don for him and daisy, gra persuades don for lower price
+
+party travels for days in the cold (prob sharing drath’s tent)
+
+party wanders into blizzard, come across bridge, sound of wolves howling
+
+party prepares for battle (daisy emboldening bond)
+
+gra reesu cross bridge, gale gets stuck, bob skips over bridge
+
+sui flies up, shoots wolf, gets shot, falls down, drinks acid
+
+drath floats down chasm to other side, hangs on ledge
+
+gra reesu charge into battle, send wolves flying over the edge, bob shoots
+
+daisy helps gale off bridge, heads into battle with sanctuary
+
+sui flies up, shoots wolf, gets shot, falls down, drinks acid
+
+gra and reesu battle it out, bob shoots
+
+drath makes a ledge for herself to stand on, sends sui clone in air
+
+sui clone gets shot, falls down
+
+drath knows who it is
