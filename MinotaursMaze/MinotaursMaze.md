@@ -3908,6 +3908,68 @@ Everyone laughed. Jodi gave an awkward chuckle. Drathalion cringed.
 
 # Chapter 10
 
+*Author’s Note: This section about Silber and Micro was originally from Chapter 9*
+
+It was a cold and windy day at The Sticky Bucket. Silber Posten and Micro the Bugbear sat snugly at the bar while they ate their breakfast.
+
+“Say, you’re bounty hunters, right?” A fancy merchant with long-sleeved robes sat next to Silber at the bar and pulled out a mug of beer from his sleeve.
+
+“You in the market for one?” Silber asked.
+
+“I am. You see, there’s this rascally bird that’s been flying too high, and who needs brought down a peg. Is that something you can do?”
+
+“Finest sharpshooter in the land. I charge half up front—”
+
+“Deal.” The merchant dropped a bag of gold from his sleeve into Silber’s hand.
+
+Silber pulled his hand in and let it fall to the floor. “Micro, —”
+
+“Got it.” Micro got out of his seat and picked up the gold, peering inside. “Whoo-whee! Yogi Bear would be proud of this haul!”
+
+Silber smiled. “We accept.”
+
+“Excellent. Now here we go.” The merchant snapped his fingers, and all of a sudden the three of them were at the top of a snowy mountain.
+
+Silber fell into the snow, but Micro caught him before he got wet.
+
+“See that?” The merchant pointed to a bird in the sky.
+
+CAAAWWWW! The bird yelled, as it descended towards them.
+
+“That’s Revali. He’s the Champion Archer of Wind’s Crossing. He’s got a big ego and a big bow.”
+
+“One bullet should do the trick.” Silber grabbed his gun.
+
+“I was thinking more like nine.” The merchant pushed the gun away.
+
+“Rule 1: Don’t touch Magnum Opus.”
+
+“I need you to humble him. Challenge him to an archery duel, the people here will know what that means.”
+
+“It’ll be done within the hour.”
+
+The Merchant vanished, and the Aarakocra called Revali landed.
+
+“What are you two doing here?” Revali pointed his bow at them.
+
+“We’re looking for you.”
+
+“Oh yeah? What you want?”
+
+“To challenge you to an archery duel.”
+
+Revali laughed. “No offense, well actually, yeah, offense, but little guys like you don’t have the equipment to take on archers like me. So go home with your little toy and stay out of my town.”
+
+Silber motioned to the mountain. “See that rock?” He aimed his gun and fired. The rock fell off and rolled down the mountain. “Now you don’t.”
+
+Revali’s arrogant smile faded into a frown. “Anyone could’ve hit that rock.”
+
+“Proof it. I challenge you to an archery duel.”
+
+Revali stared straight into Silber’s robotic eyes. “You’re on. And when I beat you, you better be gone immediately!” Revali flew into the air. “Come on, this way.”
+
+======
+
 Summary: The party searches the town for 4 ruffians causing problems at the Sticky Bucket, but they only find random people and a basement full of rats instead. Basically, nothing important happened.
 
 # Chapter 11
