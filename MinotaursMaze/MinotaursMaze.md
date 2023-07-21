@@ -3336,19 +3336,19 @@ Jodi the firbolg bartender entered the kitchen and came right back with refreshm
 
 “So… what brings you to town?” Jodi asked, hands shaking, as he brought Silber Posten his can of oil.
 
-“Just another day on the job.” Silber Posten flicked a coin at Jodi, who caught it with ease.
+“Just another day on the job.” Silber Posten flicked a coin at Jodi, who caught it with his face.
 
 “And what is it that you do, if you don’t mind me asking?”
 
 “I’m a bounty hunter. I bounty hunt people. For the right price, of course.”
 
-“Of course.” Jodi took an empty dirt glass off the bar counter, but his shaking hand dropped it. “Oh, so sorry.”
+“Of course.” Jodi took an empty dirty glass off the bar counter, but his shaking hand dropped it. “Oh, so sorry.”
 
 Across the tavern, another glass dropped. “Hurrah!” The patrons on that side of the bar cheered. Another glass hit the floor, this time deliberately.
 
 “They look like they’re having fun.” Micro the Bugbear smiled from ear to ear. “Say, why can’t we ever do that, Silber?”
 
-“Magnum Opus isn’t allowed to get dirty.” The gun on Silber’s back shimmered in the sunlight.
+“Eagle Shot isn’t allowed to get dirty.” The gun on Silber’s back shimmered in the sunlight.
 
 Jodi gulped. “Anything else I can do for you?”
 
@@ -3942,7 +3942,7 @@ CAAAWWWW! The bird yelled, as it descended towards them.
 
 “I was thinking more like nine.” The merchant pushed the gun away.
 
-“Rule 1: Don’t touch Magnum Opus.”
+“Rule 1: Don’t touch Eagle Shot.”
 
 “I need you to humble him. Challenge him to an archery duel, the people here will know what that means.”
 
