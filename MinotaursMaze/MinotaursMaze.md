@@ -2862,35 +2862,39 @@ Hours later, the party found a nice place next to a river. Gra started a campfir
 
 “This one only wishes to kill the undead.”
 
-“Understandable.” Other Gra stroked Gale’s head and shoulders. “What about you, cat?”
+“Understandable.” Other Gra stroked Gale’s head and under his chin. “What about you, cat?”
 
 “Me?” Drathalion leaned up against a tree. “I would run away.”
 
-“What? Are you a scaredy cat?”
+“What are you? A scaredy cat?”
 
 “I mean… run away to get in optimal shooting range. I am a ranger, after all.”
 
-“I see…”
+“Ah, I see…”
 
-Gra pushed a twig back into the fire. “I would befriend it.” He looked at Drathalion. He groaned.
+Gra pushed a twig back into the fire. “I would befriend it.” He looked at Drathalion.
+
+Drathalion smiled back.
+
+Gra groaned.
 
 “You ok?” Drathalion asked.
 
-“Yeah, I just got a splitting headache. Something probably took the chance and got through my skin when it was thin.”
+Gra held his head. “Yeah, I just got a splitting headache. Something probably took the chance and got through my skin when it was thin.”
 
 “Well you know the one way to stop it, right?” Other Gra continued petting Gale.
 
-“What’s that?”
+“What’s that?” Gra looked at him.
 
-“Step on a sharp rock. That way you feel the pain of the rock more than your headache.”
+Other Gra smiled. “Step on a sharp rock. That way you feel the pain of the rock more than your headache.”
 
-“Good one.”
+“Good one.” Gra looked down.
 
-“Speaking of which, I have to go.”
+“Speaking of which, I have to go.” Other Gra got up.
 
-“And find a sharp rock?”
+“And find a sharp rock?” Drathalion snarked.
 
-“Yeah, so I can piss on it.”
+“Yeah, so I can piss on it.” Other Gra walked away.
 
 “Ah, I gotcha.” Gra let Other Gra go.
 
@@ -2936,13 +2940,13 @@ Gale stared at her. “What?”
 
 “No I’m Gra.”
 
-“But she Gra, too.”
+“But she Gra, too.” Gale pointed.
 
-“No, she’s Reesu.”
+“No, she’s Reesu.” Gra said.
 
 “What?” Gale was getting flustered. “Come pet this one now. This one will find truth instantly.”
 
-Reesu sat next to Gale. Her hands didn’t move, but Gale’s fur bent and swayed like he was being petted.
+Reesu sat next to Gale. Her hands hovered above his head, and Gale’s fur bent and swayed like he was being petted.
 
 “Ah yes! She pet like Gra. This one Gra. No no Reesu, two Gras.”
 
@@ -2974,11 +2978,11 @@ Gra accompanied her.
 
 Drathalion disappeared, and underneath, a deer took her place. The deer got down on all fours, then lifted its front right leg up. It had a cast on it that had been wrapped by a friend who had affectionately written “\<3 Jodi”. The deer breathed a sigh of relief. “Thank you.”
 
-“Astalir!” Gra whispered. He petted the top of his head. “You’re speaking with me, that’s new, and very welcome. How are you holding up?”
+“Astalir!” Gra whispered. He petted the top of his head. “You’re speaking with me, that’s new, and very welcomed. How are you holding up?”
 
-“Healing is slow, it’s scarred.” He pumped his casted leg. “Can I see the map?”
+“Healing is slow; it’s scarred.” He pumped his casted leg. “Can I see the map?”
 
-Gra took it out and it floated over to Astalir. A pen floated out of his fur and they both pinned against a tree. The pen drew an angry face in the forest where they encountered Robin Hood. Then the pen flew back to Astalir, and the map floated back into Gra’s hand.
+Gra took it out and it floated over to Astalir. A ink quill floated out of his fur and pinned the map against a tree. The quill drew an angry face in the forest where they encountered Robin Hood. Then the quill flew back into Astalir’s fur, and the map floated back into Gra’s hand.
 
 “You don’t want to run into Robin Hood again?” Gra lightly chuckled.
 
@@ -3006,7 +3010,7 @@ Astalir laughed. “Ok, that works. By the way, here’s your 50 gold back.” A
 
 “Why not?”
 
-“If I go to sleep, I lose my disguise. I don’t trust the party to know I’m Astalir.”
+“If I go to sleep, I lose my disguise. I don’t trust the party to know that I’m actually Astalir.”
 
 “I’m sure it’ll be ok…”
 
@@ -3016,7 +3020,7 @@ Astalir laughed. “Ok, that works. By the way, here’s your 50 gold back.” A
 
 “Thank you.”
 
-“I can’t sleep either.”
+“I can’t sleep either, Astalir.”
 
 “Paranoia too?”
 
@@ -3029,6 +3033,8 @@ Astalir laughed. “Ok, that works. By the way, here’s your 50 gold back.” A
 “Thanks, Gra.”
 
 “Sleep well, buddy.”
+
+========================
 
 Don JeLancie clasped his hands enthusiastically. He was still viewing Astalir through the fly-eyed goggles. “Oh ho ho! This’ll be quite entertaining! I can’t wait for Robin Hood to get there!”
 
