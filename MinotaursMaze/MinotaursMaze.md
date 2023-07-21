@@ -3974,9 +3974,39 @@ Summary: The party searches the town for 4 ruffians causing problems at the Stic
 
 # Chapter 11
 
+*Author’s Note: This section about Silber and Micro is originally from Chaper 9*
+
+[scene 3: silber arrives at winds crossing, challenges Revali]
+
+[scene 4: silber out guns Revali, wins contest, puts Revali to shame]
+
+[scene 5: Revali flies off, disheartened]
+
+[scene 6: don appears and slow claps]
+
+=== 2023-07-20 ===
+
+=== this chapter under construction ===
+
+=== please wait for the official completion announcement ===
+
 [scene 1: reesu buys human blood at butcher shop, syrup at vendor]
 
-[scene 2: sui passes out drawing cards]
+“I’m tired of waiting around. Gra, can I see those cards?” Sui asks.
+
+“Knock yourself out.” Gra hands the deck to him.
+
+“I’m going to draw 5 cards, and they’re all going to be good ones.” Sui states. He draws the first card.
+
+Gra looks over his shoulder at it in anticipation of what’s to come.
+
+“Yes! Finally! Something good!” Sui exclaims. The card activates, and Sui’s eyes draw closed as he slumps forward in his seat, slapping his face onto the counter. A little bit of drool dribbles out of his mouth.
+
+“Sui?” Gra leans over.
+
+Sui snores in response.
+
+“Sui,” Gra said. “I didn’t mean that literally!”
 
 [scene 3: gra and daisy play the stick game]
 
