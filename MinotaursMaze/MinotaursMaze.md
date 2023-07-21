@@ -3318,25 +3318,49 @@ The party had all done their business with Don, so he left. He and his cart simp
 
 Drathalion set up the tent on the edge of the campground behind some trees. She set up some arrows pointing straight up out of the ground, cast some magic on them, and retired into the tent.
 
-# Chapter 9
+# Chapter 9 – Jerks and Jerky
 
-=== 2023-06-09 ===
+A robot and a bugbear walk into a bar. This bar was The Sticky Bucket, located in a little snowy town called Canadia.
 
-=== this chapter under construction ===
+“Hi, I’m…” The tall firbolg bartender greeted. “…Jodi.”
 
-=== please wait for the official completion announcement ===
+Silber Posten and Micro the Bugbear sat down at the bar.
 
-[scene 1: silber micro in sticky bucket, jodi serves them, hands shaking]
+“…And I’ll be… I’ll be your bartender today. What can I get for you?”
 
-[scene 2: don shows up, gives silber a mission]
+“Can of oil.”
 
-[scene 3: silber arrives at winds crossing, challenges Revali]
+“Steak.”
 
-[scene 4: silber out guns Revali, wins contest, puts Revali to shame]
+Jodi the firbolg bartender entered the kitchen and came right back with refreshments.
 
-[scene 5: Revali flies off, disheartened]
+“So… what brings you to town?” Jodi asked, hands shaking, as he brought Silber Posten his can of oil.
 
-[scene 6: don appears and slow claps]
+“Just another day on the job.” Silber Posten flicked a coin at Jodi, who caught it with ease.
+
+“And what is it that you do, if you don’t mind me asking?”
+
+“I’m a bounty hunter. I bounty hunt people. For the right price, of course.”
+
+“Of course.” Jodi took an empty dirt glass off the bar counter, but his shaking hand dropped it. “Oh, so sorry.”
+
+Across the tavern, another glass dropped. “Hurrah!” The patrons on that side of the bar cheered. Another glass hit the floor, this time deliberately.
+
+“They look like they’re having fun.” Micro the Bugbear smiled from ear to ear. “Say, why can’t we ever do that, Silber?”
+
+“Magnum Opus isn’t allowed to get dirty.” The gun on Silber’s back shimmered in the sunlight.
+
+Jodi gulped. “Anything else I can do for you?”
+
+“That’ll be it for now.” Silber took another sip of oil.
+
+“Very well then, I shall be right back, right after I take care of something.”
+
+Silber watched as Jodi cleaned up the mess the rowdy patrons made, and how they treated him. When Jodi came back, Silber motioned to him to come close for a whisper. “For the right price, I can make sure those scumbags never disgrace your tavern again.”
+
+Jodi shivered. “Place a… bounty? On one of my patrons? I wouldn’t dream of it! No, no thank you. Thank you for your business.” Jodi wiped his hands on a cloth and disappeared into the kitchen.
+
+===============
 
 With Gale and Drathalion asleep, and Sui resting by the campfire, only Gra was up to interact with Reesu.
 
@@ -3734,23 +3758,153 @@ Reesu gives Jodi a hug. “You are very fluffy, and soft, and tall.”
 
 “Uppies!”
 
-[scene 22: party arrives at Sticky Bucket tavern, drath comes down from bedroom]
+Jodi lifts Reesu so high she can touch the ceiling. She tap-taps on it. The ceiling tap-taps back. It was footsteps.
 
-[scene 23: drath talks to jodi, gra helps drath order pancakes]
+============
 
-[scene 24: party orders food]
+Down the stairs yawned Drathalion. She approached the counter and joined the party.
 
-[scene 25: party draws cards, reesu leaves table join drath jodi at bar]
+“Good morning, Drathalion.” Gra cleared a stool for her.
 
-[scene 26: jodi tells drath about silber posten, drath accepts quest]
+Drathalion gave him a smile as she sat. “Good morning, Gra.”
 
-[scene 27: reesu gives jodi hug]
+“What can I get for you?” Jodi asked Drathalion.
 
-[scene 28: reesu jodi join party at table, draws cards]
+“Jodi??” Drathalion’s eyes went wide.
 
-[scene 29: cards: gra gold move speed, bob large, jodi -1 finger large, sui -2 AC]
+“At your service.” Jodi bowed.
 
-[scene 30: drath treks on ahead of the party]
+“What are you doing here?”
+
+“Taking your order.”
+
+“No, I mean, *how*… how are you doing here?”
+
+“Quite well, today, thanks for asking.”
+
+“No, uh, I mean…” Drathalion showed Jodi her cast. The letters that Jodi wrote flashed for a moment.
+
+“Oh! It’s you! So this is where you’ve been heading this whole time!”
+
+“Yeah, and somehow… you’re already here?”
+
+Jodi shrugged. “Firbolg secrets, you know how it goes.”
+
+Drathalion shrugged in agreement.
+
+“So, what can I get for you?”
+
+“The usual.” Drathalion licked her lips.
+
+“What are you doing?” Gra leaned over and whispered.
+
+“Ordering food.”
+
+“You just said ‘the usual’.”
+
+“Yeah, so?”
+
+“You’ve never been here before.”
+
+“Oh, right.” Drathalion stammered. “Then I guess I’ll have the… berry thing.”
+
+“Which berry thing?” Jodi asked.
+
+“The warm flat one.”
+
+“He—she means blueberry pancakes.” Gra interjected.
+
+“Yeah that one.”
+
+“Coming right up.”
+
+The party had some fun drawing cards with random wacky effects while Drathalion waited for her pancakes.
+
+Jodi plopped the plate down in front of her and placed a container of brown goo next to it.
+
+“What’s this?”
+
+“Oh, it’s a Canadia special!” Jodi exclaimed. “It’s called syrup. It comes from those trees out there.”
+
+Drathalion stuck her tongue in it. “Hmm! It’s sweeter than most tree saps!”
+
+Just then a loud noise startled Drathalion. A fist slammed a table and mugs splattered to the ground, exposing the tavern to shattered glass and the smell of loose alcohol.
+
+“Hurrah!” One of the men cheered.
+
+Jodi hung his head and sighed.
+
+“Jodi?” Drathalion asked.
+
+“I’ll be right back. I have to clean up a mess.”
+
+“Jodi?”
+
+He turned back to her with a quick smile. “Please wait one moment while I take care of some business.” Jodi left into the kitchen, and came back out with a broom and dustpan.
+
+Drathalion leaned over in her seat to peer behind the wall that separated the bar from the rowdy patrons’ table. Jodi swept up the glass while the rowdy patrons arm wrestled and knocked another mug over, this time right in front of Jodi.
+
+“While you’re at it, might as well clean up this one too!” They all laughed. “And get me another will ya?”
+
+Jodi came back to the bar after a moment.
+
+“I’ve been waiting here for over 5 minutes!” Sui complained. “Where’s my food?”
+
+“Sorry about that, it will be out shortly.”
+
+“Better be.” Sui crossed his arms.
+
+Drathalion’s ears pinned back within her hood as she watched Jodi make Sui’s food.
+
+Meanwhile, the party was having a blast. Gra brought out the Deck of Random Oddities and everyone was getting in on the fun. Gra could move his legs so fast they were a blur, Sui’s scales became slightly thinner, and Bob grew so tall he had to crouch to fit in the building. The whole party laughed as Bob mimed being a giant and destroying stuff.
+
+“Drathalion, your turn!” Gra turned to her and held out the deck.
+
+She looked at him, with a sadness in her eyes.
+
+“Here’s your food.” Jodi brought the food to Sui.
+
+“Finally! Hopefully you cooked it enough.” Sui chowed down.
+
+“Ah, the Deck of Many Things, I see.” Jodi pointed to the deck.
+
+Gra turned to him. “Nah, it’s actually the Deck of Random Oddities.”
+
+“Oh. I’ve never heard of such a deck.”
+
+“Me neither, I got it from this Don merchant.”
+
+“Oh, Don JeLancie? Yeah, I’ve seen him around.”
+
+“Would you like to draw a card?” Gra held the deck out to him.
+
+“Sure, I could use some good luck today.” Jodi picked up a card. His pinkie finger fell off. “Is that supposed to happen.”
+
+“It’s normal.” Reesu assured. “I pinkie promise!”
+
+Everyone laughed.
+
+“Don’t worry, it’s not permanent.” Gra assured.
+
+“Haha, yeah. This deck is hilarious.” Jodi laughed.
+
+“Care to draw another?”
+
+Jodi shrugged. “Sure, why not?” He picked up another card. He grew even taller than he already was. He had to crouch down to just fit in the room. He stumbled backward and leaned up against the wall, bending the wall in a bit with an unsettling crack.
+
+“Hey, can I get a refill?” Sui asked.
+
+“Um…” Jodi looked at the kitchen doorway, which he obviously couldn’t fit through.
+
+“That sounds like a… *tall order* to me!” Reesu chuckled.
+
+Everyone laughed.
+
+More laughing ensued as the rowdy patrons slammed their mugs on the ground and waddled out of the tavern, slamming the door on their way out. The bell was hit so hard it flew off and hit Jodi in the head.
+
+Reesu was quick. “Ring around the Jodi!”
+
+Everyone laughed. Jodi gave an awkward chuckle. Drathalion cringed.
 
 # Chapter 10
 
