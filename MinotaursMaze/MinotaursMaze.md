@@ -3970,6 +3970,148 @@ Revali stared straight into Silber’s robotic eyes. “You’re on. And when I 
 
 ======
 
+=== 2023-07-21 ===
+
+=== This chapter under construction ===
+
+=== please wait for the official completion announcement ===
+
+After the party had their fun with the cards, it was time to start the day.
+
+“Alright,” Gra put his empty mug on the counter. “I’m going to go find a blacksmith. I’ll be back.”
+
+“Ok, have fun.” Reesu waved.
+
+Drathalion followed him out.
+
+As Gra exited the tavern, he noticed. “Ah, got some weapons to upgrade, Astalir?”
+
+Drathalion shrugged. “Hmm.”
+
+They walked through town, looking for the blacksmith.
+
+“Is something wrong?”
+
+“Jodi seemed rather upset by them.”
+
+“Ah, they’re just having fun. That’s bars for you.”
+
+“Is that how you would have fun?”
+
+“No, but I’m not one to judge.”
+
+“So if I were to have fun by, say, stuffing a sausage down your throat, you’d be ok with that?”
+
+Gra shrugged. “I suppose.”
+
+They found the blacksmith’s shop. Gra got his shortbow upgraded, and then offered to pay for Drathalion’s shortbow to be upgraded. She accepted.
+
+“Thank you.” Drathalion put her shortbow on her back.
+
+“I thought that would cheer you up.”
+
+Drathalion’s ears were still pinned back.
+
+“Hmm. You’re still down about the rowdy bar guests, huh?”
+
+Drathalion nodded.
+
+“And this Jodi is your friend?”
+
+Drathalion showed him the cast on her arm. The illusion around dissipated long enough for Gra to see the “\<3 Jodi” written lovingly on the side.
+
+Gra’s eyes went wide. “I see.” He put his fist to his chin for a moment. “Well, there’s no harm in asking them to go have their fun somewhere else.”
+
+Drathalion’s ears perked.
+
+Gra and Drathalion got back to the tavern, where the party was still eating breakfast.
+
+“Hey Gra!” Reesu waved a sausage. “Look at this!” Reesu put the sausage in a piece of bread, and then dipped it in some soup.
+
+Gra grimaced. “Why?”
+
+“Because it’s tasty.” Reesu pushed it to Gra along the counter. “Try some.”
+
+Gra looked at it, and then pushed it back. “No thank you. I’ve had my breakfast today.”
+
+“No really! It’s really good!”
+
+“I don’t like mixing my peas and potatoes, let alone my meat and bread.”
+
+“Ah, ok…”
+
+“This one also thinks is disgusting.” Gale ate a clam.
+
+“It’s not disgusting, it’s delicious.”
+
+“This one disagrees.”
+
+“All you ever eat is clams. How would you know?”
+
+“This one eats lots of things. Clam is favorite.”
+
+“You do? Prove it. Eat this sausage.”
+
+Gale took one look, then looked away. “No.”
+
+“Eat it!” Reesu demanded. “Eat it!”
+
+“No, this one will not.”
+
+The sausage in the bread floated into the air and dove into Gale’s mouth. “Eat it!”
+
+“No—mmph!” Gale’s mouth suddenly became full of sausage and bread. His mouth got clamped down around, biting off a big chunk. Then the mouthful all went down his throat, without being chewed.
+
+Gale started turning blue and he gagged.
+
+Gra stood up. “Reesu!”
+
+“Don’t worry,” Reesu waved. “Once it gets to his stomache, he’ll start breathing again.” An outside force helped Gale’s esophogus transport the solid mass into his belly.
+
+But he didn’t start breathing again. His throat swelled up.
+
+Jodi came back into the room. “How is everything—oh my gods!” Jodi leaned over the counter with a glowing hand and punched Gale in the gut.
+
+Gale puked all the sausage and bread out of his stomache, along with some clams. He took a deep, wheezing breath as he gagged the last bits of vomit out of his throat.
+
+“Are you ok?” Jodi asked.
+
+Gale nodded as he got to his feet. “This one… fine…”
+
+“So sorry about that. I asked the fisherman if he was sure those clams were fresh, and he assured me they were. I’ll be sure to throw them out.”
+
+“No, no, no,” Gale objected. “No waste clams! That one—” he pointed to Reesu. “Fed this one *bread*!”
+
+Jodi looked puzzled.
+
+“You’re allergic to bread?” Reesu burst out laughing.
+
+“This one yinglet. Yinglet no eat bread. And for good reason.”
+
+“Hi everyone!” Reesu teased. “I’m a Yinglet! And my one weakness is bread!”
+
+“Reesu!” Gra stared.
+
+“What? I’m just trying to have fun…” Reesu buried her face in a mug of alcohol.
+
+“Ok, from now on, no one gives Gale any bread.” Gra declared.
+
+A chunk of vomited up bread floated into the air and headed for Reesu’s pocket. It immediately fell to the floor.
+
+“Hey!” Reesu looked around. Everyone was already looking at her. She eyed Drathalion, you stared back.
+
+[scene: daisy arrives]
+
+[scene: gra declares the party should look for those rowdy patrons]
+
+[scene: reesu daisy find house of rats]
+
+[scene: gra drath find don’s house]
+
+[scene: gra drath find one rowdy patron, who refuses to stop]
+
+[scene: drath tries poo into reesu’s pocket, reesu splashes goo in drath’s face]
+
 Summary: The party searches the town for 4 ruffians causing problems at the Sticky Bucket, but they only find random people and a basement full of rats instead. Basically, nothing important happened.
 
 # Chapter 11
