@@ -2,6 +2,30 @@ Reality Bender
 
 D&D Class
 
+|           |                 |              |                    | **Spell Casting** |                  |                  |                           |
+|-----------|-----------------|--------------|--------------------|-------------------|------------------|------------------|---------------------------|
+| **Level** | **Prof. Bonus** | **Features** | **Bonded Schools** | **Cast Range**    | **Tether Range** | **Max Duration** | **Bond Affinity Options** |
+| 1st       | +2              |              | 1                  | 5ft               | 10ft             | 3 rounds         | 1                         |
+| 2nd       | +2              |              | 1                  | 10ft              | 20ft             | 1 min            | 1                         |
+| 3rd       | +2              |              | 1                  | 15ft              | 30ft             | 10 min           | 1                         |
+| 4th       | +2              |              | 2                  | 30ft              | 90ft             | 1 hr             | 1                         |
+| 5th       | +3              |              | 2                  | 45ft              | 135ft            | 2 hr             | 1                         |
+| 6th       | +3              |              | 2                  | 60ft              | 180ft            | 4 hr             | 1                         |
+| 7th       | +3              |              | 2                  | 75ft              | 225ft            | 7 hr             | 1                         |
+| 8th       | +3              |              | 2                  | 100ft             | 400ft            | 12 hr            | 2                         |
+| 9th       | +4              |              | 2                  | 125ft             | 500ft            | 1 day            | 2                         |
+| 10th      | +4              |              | 3                  | 150ft             | 600ft            | 3 days           | 2                         |
+| 11th      | +4              |              | 3                  | 175ft             | 700ft            | 7 days           | 2                         |
+| 12th      | +4              |              | 3                  | 200ft             | 1000ft           | 14 days          | 2                         |
+| 13th      | +5              |              | 3                  | 250ft             | 2500ft           | 30 days          | 2                         |
+| 14th      | +5              |              | 3                  | 300ft             | 1mi              | 180 days         | 2                         |
+| 15th      | +5              |              | 3                  | 400ft             | 5mi              | 1 year           | 3                         |
+| 16th      | +5              |              | 3                  | 500ft             | 15mi             | 5 years          | 3                         |
+| 17th      | +6              |              | 4                  | 750ft             | 100mi            | 10 years         | 3                         |
+| 18th      | +6              |              | 4                  | 1000ft            | 1000ft           | 50 years         | 3                         |
+| 19th      | +6              |              | 4                  | 2000ft            | 10000ft          | 100 years        | 3                         |
+| 20th      | +6              |              | 4                  | 1mi               | Inf.             | Inf.             | 3                         |
+
 # Class Features
 
 2023-08-09: copied from http://dnd5e.wikidot.com/wizard
@@ -70,7 +94,7 @@ Each time you gain a level, you can add two spells of your choice to your spellb
 
 # Reality Observer
 
-Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you automatically learn that spell, even if you don’t have spell slots for it.
+Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, even if you don’t have spell slots for it.
 
 # Bond Affinity
 
@@ -96,11 +120,15 @@ At level 6, you gain the following option for your Bond Affinity:
 
 # Reality Shaper
 
-At level 7, when you cast a spell in your bonded schools, spells you cast last longer.
+At level 7, you gain the following option for your Bond Affinity:
 
-# Reality Seer
+-   Lasting: When this spell ends, you sense it and may use your reaction to recast it on the same target(s) with the same Bond Affinity options.
 
-At level 8, when you cast a spell in your bonded schools, spells you cast have longer cast range.
+# Reality Reacher
+
+At level 8, you gain the following option for your Bond Affinity:
+
+-   Reaching: The cast range for this spell is doubled.
 
 # Reality Winder
 
@@ -148,7 +176,7 @@ You seek to build a new environment that is to your liking.
 
 ### Area Creation
 
-At level 3, spells you cast in your bonded schools that target an area have an infinite duration, as long as the spell has a duration longer than Instant.
+At level 3, spells you cast in your bonded schools that target an area have an infinite duration, as long as the spell has a duration longer than Instant, and its area of effect radius or diameter is doubled.
 
 ### Area Fixation
 
