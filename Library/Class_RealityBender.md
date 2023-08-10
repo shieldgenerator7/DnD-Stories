@@ -46,9 +46,9 @@ Weapons: None
 
 Tools: None
 
-Saving Throws: Intelligence, Wisdom
+Saving Throws: Choose two from Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
 
-Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+Skills: None
 
 ## Equipment
 
@@ -56,7 +56,13 @@ This class grants you no additional starting equipment.
 
 # Spellcasting
 
-Choose two schools of magic as your bonded schools. You get special bonuses when casting spells in your bonded schools as you level up.
+Choose one stat to be your spellcasting stat. This will be your Reality Bender stat.
+
+## Bonded Schools
+
+Choose a school of magic as your bonded school. You bond to more schools as you level up, as shown in the class table. You get special bonuses when casting spells in your bonded schools as you level up.
+
+At level 1, you know 1 cantrip and 1 1st-level spell, both from your bonded school. As you level up, the minimum amount of spells you know of 1st level or higher is equal to your level. When you level up, you may learn one 1st-level spell from your bonded schools.
 
 ## Spellcasting Focus
 
@@ -64,37 +70,31 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 ## Cantrips
 
-At level 1, choose three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the class table.
+At level 1, choose one cantrip of your choice from the list of spells in your bonded school. You learn additional cantrips as you adventure in the world.
 
-## Preparing and Casting Spells
+## Casting Spells
 
-The class table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The class table shows how many spell slot points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell slot points equal to the spell's level or higher. You regain all expended spell slot points when you finish a long rest.
 
-You prepare the list of spells that are available for you to cast. To do so, choose a number of spells from the spells you know equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
+Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than touch, its max casting range is changed to the Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instant also have their max duration changed to the Max Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further from you than the tether range, then the spell ends automatically.
 
-For example, if you're level 3, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
-
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of spells requires time: at least 1 minute per spell level for each spell on your list.
+As an action, you may dispel any spell that you had casted from your bonded schools.
 
 ## Spellcasting Ability
 
-Intelligence is your spellcasting ability for your spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
+Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma. This will be your spellcasting ability for your spells. You use this chosen spellcasting ability whenever a spell refers to your spellcasting ability. In addition, you use your spellcasting ability modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+**Spell save DC** = 8 + your proficiency bonus + your chosen spellcasting ability modifier
 
-**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
-
-## Ritual Casting
-
-You can cast a spell as a ritual if that spell has the ritual tag and you know the spell. You don't need to have the spell prepared.
+**Spell attack modifier** = your proficiency bonus + your chosen spellcasting ability modifier
 
 ## Learning Spells of 1st Level and Higher
 
-Each time you gain a level, you can add two spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the class table. On your adventures, you might find other spells that you can learn.
+Each time you gain a level, you can learn one spell of your choice. This spell must be of level 1. On your adventures, you might find other spells that you can learn. You can only learn spells from your bonded schools with this class.
 
 # Reality Observer
 
-Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, even if you don’t have spell slots for it.
+Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is.
 
 # Bond Affinity
 
@@ -106,11 +106,11 @@ At level 1, you gain affinity for spells in your two bonded schools. You can use
 
 At level 3, you gain the following option for your Bond Affinity:
 
--   Conserving: You can cast this spell without expending a spell slot, as long as the spell isn’t being upcast.
+-   Conserving: After casting this spell, regain spell slot points equal to this spell’s printed level.
 
 # Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. However, you may increase your chosen spellcasting ability by 1, even if it goes above 20, if you decrease another ability by 1 when you do so.
 
 # Reality Warper
 
@@ -135,6 +135,14 @@ At level 8, you gain the following option for your Bond Affinity:
 At level 9, you gain the following option for your Bond Affinity:
 
 -   Winding: You cast this spell as if it didn’t have concentration.
+
+# Reality Studier
+
+At level 7, when you learn a new spell in your bonded schools, you gain spell slot points equal to that spell’s casted level.
+
+# Rejuvenation
+
+At level 9, when you cast a spell from your bonded schools, you heal for the number of spell slot points spent to cast it.
 
 # Subclasses
 
