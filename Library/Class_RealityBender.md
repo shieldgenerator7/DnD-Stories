@@ -116,25 +116,27 @@ At level 3, you choose a subclass.
 
 You bend reality so much that things stop making sense.
 
-### Reality Burner
+At level 3, you start losing control of your abilities. Whenever a creature effected by your chaos (including you) casts a spell, you gain chaos points equal to that spell’s level. Whenever you gain chaos points, you may use your reaction to gain a chaos spell slot with a level equal to the number of chaos points divided by 10, rounded down; then you lose all chaos points. As part of this same reaction, you may cast a spell from your bonded schools using a chaos spell slot.
 
-At level 3, you gain increased ability to do damage. You gain the following Bond Affinity option:
+Only you are effected by your chaos by default. When a creature effected by your chaos (including you), casts a spell or makes an attack, that spell or attack is also effected by your chaos. Spells that are effected by your chaos cause their targets and/or creatures and/or objects in their area of effect to be effected by your chaos for the duration of the spell and for 1 minute afterwards.
 
--   Damaging: Whenever this spell deals damage, double the amount of damage this spell deals.
+### Chaos Burn
 
-### Reality Spreader
+At level 3, your chaos starts undoing reality. At the start of each of your turns, you gain 1 chaos point. Then you and things effected by your chaos take damage equal to your chaos points divided by 10, rounded down, minus your level, minimum of 0. If you have chaos spell slots, you and things effected by your chaos take damage equal to the number of chaos spell slots you have minus your level, then minus your spell casting modifier, minimum of 0.
 
-At level 7, you gain the ability to increase your effects. You gain the following Bond Affinity option:
+### Luck Warping
 
--   Spreading: If this spell targets 1 or more creatures and/or objects, double the number of targets.
+At level 7, random events happen. Whenever a d20 is rolled, if it is rolled by an effect or creature that is effected by your chaos, its value is warped. If the result is odd, you add the total combined level of your chaos spell slots to it. If the result is even, you subtract the total combined level of your chaos spell slots from it.
 
-### Broken
+### Origin Shifting
 
-At level 11, you start losing control of your abilities. Whenever damage is dealt to any creature in range, you gain chaos points equal to the damage dealt. When you gain 100 or more chaos points, you may use your reaction to gain a temporary spell slot with a level equal to the number of chaos points divided by 100, rounded down. As part of this same reaction, you may cast a spell from your bonded schools using the temporary spell slot.
+At level 11, the points of origin shift around you in unnatural ways. The origin point of spells and attacks effected by your chaos shift in your shifting direction. Your shifting direction gets set to your current facing direction whenever you cast a spell using a chaos spell slot. Origin points shift in this direction by an amount equal to the combined total of your chaos spell slots times 5.
 
-If you gain more than 1 temporary spell slots, you take damage equal to their total combined levels.
+When a creature effected by your chaos moves on their turn, they first teleport in your shifting direction, then move from there.
 
-If you gain 1000 or more chaos points, you take damage equal to the number of chaos points you have.
+### Lag
+
+At level 15, time stops moving randomly. Whenever you cast a spell using a chaos spell slot, a random creature effected by your chaos gets moved down 1 slot in the turn order.
 
 ## Reality Forger
 
