@@ -138,6 +138,10 @@ At level 11, when you use an action to dispel a spell you cast, you gain back sp
 
 At level 13, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option.
 
+# Refill
+
+At level 15, you can replenish your spell slot points. As a bonus action, add spell slot points equal to your current health to your spell slot points. Once you use this feature, you can’t do so again until you finish a short or long rest.
+
 # Subclasses
 
 At level 3, you choose a subclass.
