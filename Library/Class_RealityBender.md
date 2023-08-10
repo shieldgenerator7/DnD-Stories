@@ -136,7 +136,11 @@ When a creature effected by your chaos moves on their turn, they first teleport 
 
 ### Lag
 
-At level 15, time stops moving randomly. Whenever you cast a spell using a chaos spell slot, a random creature effected by your chaos gets moved down 1 slot in the turn order.
+At level 15, time starts moving at random speeds. At the start of its turn, a creature effected by your chaos must make a Constitution ability check. The DC is equal to the max level among your chaos spell slots, minimum of 0. If it gets below the DC, its turn is skipped. If it gets 20 minus the DC or above, it gets to take 2 actions this turn. However, if the DC is 10 or above, and the roll lands in the overlap area, nothing special happens.
+
+### Unstable
+
+At level 20, spells become unpredictable. When a spell is cast, if it is effected by your chaos, it has all numbers in its stats and description increased by the total combined level of your chaos spell slots.
 
 ## Reality Forger
 
@@ -145,6 +149,14 @@ You seek to build a new environment that is to your liking.
 ### Area Creation
 
 At level 3, spells you cast in your bonded schools that target an area have an infinite duration, as long as the spell has a duration longer than Instant.
+
+### Area Fixation
+
+At level 7, spells you cast in your bonded schools that target an area prevent other spells that target an area from effecting its area, unless that other spell is cast by you.
+
+### Area Manipulation
+
+At level 11, you become adept at manipulating areas. Spells you cast that target an area can have 2 Bond Affinity options applied to them.
 
 ## Reality Fixer
 
