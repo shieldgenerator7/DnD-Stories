@@ -48,7 +48,7 @@ Tools: None
 
 Saving Throws: Choose two from Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
 
-Skills: None
+Skills: Arcana and one other skill that uses your chosen spellcasting ability
 
 ## Equipment
 
@@ -56,7 +56,7 @@ This class grants you no additional starting equipment.
 
 # Spellcasting
 
-Choose one stat to be your spellcasting stat. This will be your Reality Bender stat.
+Choose one ability to be your spellcasting ability. This will be your Reality Bender ability.
 
 ## Bonded Schools
 
@@ -158,7 +158,7 @@ Only you are effected by your chaos by default. When a creature effected by your
 
 ### Chaos Burn
 
-At level 3, your chaos starts undoing reality. At the start of each of your turns, you gain 1 chaos point. Then you and things effected by your chaos take damage equal to your chaos points divided by 10, rounded down, minus your level, minimum of 0.
+At level 3, your chaos starts undoing reality. At the start of each of your turns, you gain 1 chaos point. Then you and things effected by your chaos take force damage equal to your chaos points divided by 10, rounded down, minus your level, minimum of 0.
 
 ### Luck Warping
 
