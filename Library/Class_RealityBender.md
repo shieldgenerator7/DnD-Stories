@@ -225,3 +225,51 @@ At level 7, you gain the ability to help others bend reality. When another creat
 ### Bonding
 
 At level 11, you can bond your spells with others. Whenever you cast a spell from your bonded schools, each creature that has a piece of your power may use its reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
+
+## Self-Shaper
+
+You are a self-made person, literally. You modified your being and can modify it to your liking.
+
+### Hardy
+
+At level 3, you can adapt to any environment. As a bonus action, you can grant yourself immunity to any 1 damage type. This lasts until you use this feature again.
+
+### Unfaltering
+
+At level 5, whenever you roll for an ability check or saving throw, you may add your spellcasting ability modifier to it.
+
+### Quick
+
+At level 7, you can quickly protect yourself from any threat. As a reaction, you can cast a spell that targets you, if that spell normally has a cast time of 1 action or 1 bonus action.
+
+### Selfish
+
+At level 11, you can redirect magic into you. As a reaction, change a spell’s target to yourself, if it is targeting another creature. Regain spell slot points equal to the spell’s casted level.
+
+### Identity
+
+At level 15, you can modify yourself even more easily. Whenever you cast a spell that targets yourself, you can double the result of any and all rolls for that spell.
+
+## Luck Bender
+
+Fortune favors you and bends to your will.
+
+### Lucky
+
+At level 3, luck is on your side. Once per turn, whenever a d20 is rolled within your cast range, you may have that d20 be rerolled, and then you choose which roll to use.
+
+### Willful
+
+At level 7, reality bends to your will. The spell save DC and spell attack modifier of spells you cast are increased by your spellcasting ability modifier an additional time.
+
+### Fortunate
+
+At level 13, you can hardly fail. You get advantage on all ability checks and saving throws.
+
+### Plot Armor
+
+At level 15, no can hurt you. Whenever you have to make a saving throw, the DC is lowered by your spellcasting ability modifier. Additionally, any attack roll against you has disadvantage.
+
+### Dictation
+
+At level 20, you have mastered fortune. As a reaction, you can set any number of rolled dice to any value possible for that die.
