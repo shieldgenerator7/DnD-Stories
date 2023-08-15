@@ -218,13 +218,21 @@ You want to help other people create their own realities.
 
 At level 3, you can give someone else a piece of your power. As an action, you can target another willing creature you can see within range to gain a spell you know from your bonded schools. That creature gains the ability to cast the spell as if you were casting it, expending your spell slot points when they do. While this spell is shared, you cannot cast it. As an action, you may take back this power as long as you can see the creature you gave it to and they are within range.
 
+### Vessel
+
+At level 5, you can work from other’s point of view. Whenever you cast a spell, you may do so from a creature that has a piece of your power.
+
 ### Caring
 
 At level 7, you gain the ability to help others bend reality. When another creature in range casts a spell that you know from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it.
 
+### Worship
+
+At level 11, your power grows the more your name is said. Whenever a creature that has a piece of your power says your name, you get spell slot points equal to your spellcasting ability modifier.
+
 ### Bonding
 
-At level 11, you can bond your spells with others. Whenever you cast a spell from your bonded schools, each creature that has a piece of your power may use its reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
+At level 15, you can bond your spells with others. Whenever you cast a spell from your bonded schools, each creature that has a piece of your power may use its reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
 
 ## Self-Shaper
 
