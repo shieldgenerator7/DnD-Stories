@@ -204,17 +204,27 @@ At level 11, you become adept at manipulating areas. Spells you cast that target
 
 You fix reality to the way you believe it is originally meant to be.
 
-### Cure
+### Halt
 
-At level 3, you learn how to fix reality. As an action, you can dismiss any spell effect from your bonded schools even if you didn’t cast the spell that created the effect.
+At level 3, you learn how to stop reality from breaking. As an action, you can dismiss any spell effect from your bonded schools even if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
 
 ### Prevention
 
-At level 7, you learn how to prevent reality from being broken. As a reaction, you can counter any spell within range from your bonded schools.
+At level 5, you learn how to prevent reality from being broken. As a reaction, you can counter any spell from your bonded schools. Either the caster or the spell must be within your Cast Range.
+
+### Vindication
+
+At level 7, you learn how to absorb spells. When you use Halt or Prevention on a spell, you gain spell points equal to the effected spell’s level.
 
 ### Restoration
 
-At level 11, you learn how to absorb spells. When you use Cure or Prevention on a spell, you gain spell points equal to that effected spell’s level.
+At level 11, you learn how to undo spells. As an action, you may undo the effects of any spell from your bonded schools. The spell must be within Cast Range and must have been cast no longer ago than your Spell Duration.
+
+### Perfection
+
+At level 15, you can stop imperfections from forming. As an action, you can create an anti-spell field at any point within your Cast Range. The anti-spell field has a radius up to your Cast Range and a duration equal to your Spell Duration. The anti-spell field causes any spell from your bonded schools that is cast in it or that overlaps with it to fail.
+
+As an action, you may dismiss an anti-spell field that is within your Cast Range.
 
 ## Reality Sharer
 
