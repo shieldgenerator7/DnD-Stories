@@ -332,33 +332,28 @@ At level 15, you can unify your vessels in casting a spell. Whenever you cast a 
 
 You are a self-made person, literally. You modified your being and can modify it to your liking.
 
-### Moldable
+### Shape Self
 
-At level 3, you can modify yourself easily. Whenever you finish a long rest, you may cast a spell on yourself without spending spell points. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell may not have an area of effect or target other creatures other than you. The duration of the spell is unaffected by your Spell Duration, and lasts until you finish another long rest.
+At level 3, you can modify yourself daily. Whenever you finish a long rest, you may make a permanent change to yourself:
 
-### Flexible
+-   Immunity. Gain immunity to a damage type. This lasts until you use this option again.
+-   Skill. Gain proficiency in a skill by losing proficiency in a skill you’re proficient in.
+-   Expertise. Gain expertise in a skill you’re proficient in by losing expertise in another skill you’re proficient in.
+-   Alignment. Change your alignment.
+-   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
+-   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
+-   Race (Level 11). Change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
+-   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally until you spend a future use of this feature to undo this effect.
 
-At level 5, you can flex your skills to your liking. Whenever you finish a long rest, you may increase an ability score of your choice by up to your spellcasting ability modifier, by decreasing another ability score of your choice by the same amount. This feature allows an ability score to exceed 20, but not above 30.
+What changes are available to you depends on your level.
 
-This change is permanent, but may be undone by a future use of this feature.
+You may spend a use of this feature to undo the effects of a previous use of this feature.
 
-Additionally, effects that grant ability score improvements may increment an ability score above 20, but not above 30.
+### Self-Centered
 
-### Fluid
+At level 3, you can always include yourself. You gain the following Bond Affinity option:
 
-At level 7, whenever you finish a long rest, you may switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
-
-This change is permanent, but may be undone by a future use of this feature.
-
-### Shape Changer
-
-At level 11, whenever you finish a long rest, you may change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
-
-This change is permanent, but may be undone by a future use of this feature.
-
-### Hardy
-
-At level 3, you can adapt to any environment. As a bonus action, you can grant yourself immunity to any 1 damage type. This lasts until you use this feature again.
+-   Self-Targeted: This spell also targets you if it targets one or more other creatures.
 
 ### Unfaltering
 
