@@ -2,6 +2,8 @@ Reality Bender
 
 D&D Class
 
+# Class Table
+
 |           |                 |              |                    |                           |                  | **Spell Casting** |                  |                    |
 |-----------|-----------------|--------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
 | **Level** | **Prof. Bonus** | **Features** | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
@@ -100,7 +102,7 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 At level 1, you gain affinity for spells in your bonded schools. You learn one Bond Affinity option. You can use this feature to gain bonuses when casting these spells. When you cast a spell in your bonded schools, you can choose one bond affinity option that you learned to apply to it. You gain bond affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
--   Adamant: You can add your chosen spellcasting ability modifier an additional time to this spell cast’s spell save DC and/or spell attack modifier.
+-   Adamant: Double your spellcasting ability modifier for this spell cast.
 -   Conserving: After casting this spell, regain spell points equal to this spell’s printed level.
 -   Quick: You may cast this spell as a bonus action, as long as the spell’s cast time is 1 action.
 -   Upcast: When you cast this spell, it gets upcast to twice its level.
@@ -117,6 +119,8 @@ At level 3, you choose a subclass, as listed below.
 -   Reality Forger
 -   Reality Fixer
 -   Reality Sharer
+-   Self-Shaper
+-   Luck Bender
 
 # Ability Score Improvement
 
