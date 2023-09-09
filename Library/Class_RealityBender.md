@@ -230,31 +230,51 @@ As an action, you may dismiss an anti-spell field that is within your Cast Range
 
 You want to help other people create their own realities.
 
-### Sharing
+### Affinity Assist
 
-At level 3, you can give someone else a piece of your power. As an action, you can target another willing creature you can see within range to gain a spell you know from your bonded schools. That creature becomes a vessel of your power, and gains the ability to cast the spell as if you were casting it, expending your spell points when they do. When you give them a spell, you choose a Bond Affinity option to apply to the spell whenever the vessel casts it. You can choose the same Bond Affinity option for multiple shared spells.
+At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it. Either the casting creature or the spell must be within your Cast Range.
+
+### Spell Sharing
+
+At level 5, you can give someone else a piece of your power. As an action, you can share a spell you know from your bonded schools with another willing creature within your Cast Range. That creature becomes a vessel of your power, and gains the ability to cast the shared spell, expending your spell points when they do.
+
+When you share a spell, you may choose a Bond Affinity option to apply to the spell whenever the vessel casts it. You can choose the same Bond Affinity option for multiple shared spells.
 
 While a vessel has a spell, you cannot cast that spell or share it. You can have any number of vessels active at the same time, up to the number of spells you know. You can share multiple spells with the same vessel.
 
-A shared spell uses your spell save DC and spell attack modifiers, if applicable. If a shared spell has concentration, it uses the concentration of the vessel. Every other reference to “you” or “self” in the shared spell refers to the vessel.
+A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your spell save DC and spell attack modifiers, if applicable. If a shared spell requires concentration, it uses the concentration of the vessel. Every other reference to “you” or “self” in the shared spell refers to the vessel. A vessel gains the benefits of your spellcasting focus when casting a shared spell.
 
-Each use of this feature has a Spell Duration equal to your spellcasting duration, after which your power will automatically return to you. Sharing a new spell with an existing vessel will refresh the duration of all spells shared with that vessel. Additionally, if a vessel ever becomes outside your spellcasting tether range, the spells shared with that vessel will automatically return to you. If a vessel dies, shifts to another plane, or ceases to exist, all the spells they had return to you. As an action, you may take back any number of spells from one vessel as long as you can see the vessel and they are within spellcasting range.
+Spells shared with vessels don’t stay shared forever. A shared spell automatically returns to you if any of the following happens:
+
+-   The share duration for the spell expires. A shared spell’s share duration is equal to your Spell Duration.
+-   The vessel becomes outside your Tether Range or shifts to another plane.
+-   The vessel dies or ceases to exist.
+
+As an action, you may refresh a vessel’s spells, refreshing the share duration of all spells shared with them, if the vessel is within your Cast Range.
+
+As an action, you may take back any number of spells from a vessel, if the vessel is within your Cast Range.
+
+When a vessel no longer has any of your shared spells, they are no longer considered a vessel.
 
 ### Vessel Casting
 
-At level 5, you can work from other’s point of view. Whenever you cast a spell, you may do so from one of your vessels.
+At level 7, you can see from your vessels’ points of view. Whenever you cast a spell, you do so on any point or target that is within Cast Range of a vessel. A spell you cast is also considered to be within your Tether Range if it is within Tether Range of a vessel.
 
-### Caring
+Additionally, a vessel is also considered to be within your Tether Range if they are within Tether Range of another vessel who is considered to be in Tether Range.
 
-At level 7, you gain the ability to help others bend reality. When another creature in range casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it.
+You may use your Reality Observer and Affinity Assist features on spells that a vessel sees.
 
 ### Worship
 
-At level 11, your power grows the more your name is said. Whenever a vessel says your name, you get spell points equal to your spellcasting ability modifier.
+At level 11, your power grows the more your name is said. A vessel may use its bonus action to say your name, granting you spell points equal to your spellcasting ability modifier.
 
-### Bonding
+A vessel may spend 1 minute to praise you, granting you spell points equal to your spellcasting ability score.
 
-At level 15, you can bond your spells with others. Whenever you cast a spell from your bonded schools, each of your vessels may use its reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
+Once a vessel uses this feature, they can’t do so again until they finish a short or long rest.
+
+### Unity
+
+At level 15, you can unify your vessels in casting a spell. Whenever you cast a spell from your bonded schools, each of your vessels may use their reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
 
 ## Self-Shaper
 
