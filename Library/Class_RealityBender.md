@@ -156,33 +156,65 @@ At level 3, you choose a subclass.
 
 You bend reality so much that things stop making sense.
 
-At level 3, you start losing control of your abilities. Whenever a creature effected by your chaos (including you) casts a spell, you gain chaos points equal to that spell’s printed level. Whenever you gain chaos points, you may use your reaction to expend all chaos points to cast a spell from your bonded schools.
+### Chaos Buildup
 
-You may spend chaos points to cast spells as if they were spell points.
+At level 3, you start losing control of your abilities. You gain chaos points at an alarming rate, that builds up overtime, with no maximum value. As you level up, the rate increases.
 
-Only you are effected by your chaos by default. When a creature effected by your chaos (including you), casts a spell or makes an attack, that spell or attack is also effected by your chaos. Spells that are effected by your chaos cause their targets and/or creatures and/or objects in their area of effect to be effected by your chaos for the duration of the spell and for 1 minute afterwards.
+|    | Chaos Buildup Rate |
+|----|--------------------|
+| 3  | 1/day              |
+| 5  | 1/hour             |
+| 7  | 1/minute           |
+| 11 | 1/round            |
+| 15 | 10/round           |
+
+Additionally, whenever you or a creature touched by your chaos casts a spell from your bonded schools, you gain chaos points equal to that spell’s base level.
+
+### Chaos Release
+
+At level 3, you can let out your chaotic urges. Whenever you gain chaos points, you may use your reaction to cast a spell you know from your bonded schools.
+
+You gain the following Bond Affinity option:
+
+-   Chaotic: This spell costs chaos points instead of spell points, and is touched by your chaos. Creatures effected by this spell become touched by your chaos.
+
+### Chaos Spread
+
+At level 3, you can’t contain your chaos as it spreads.
+
+When a creature touched by your chaos casts a spell or makes an attack, that spell or attack is also touched by your chaos. A spells that is touched by your chaos causes everything it targets or in its area of effect to also be touched by your chaos.
+
+A creature and/or object remains touched by your chaos until:
+
+-   Its chaos duration expires. The chaos duration is equal to your Spell Duration.
+-   It leaves your Tether Range or shifts to another plane.
+-   It uses its action to make a Wisdom ability check against your spell save DC. On a success, it is no longer touched by your chaos.
 
 ### Chaos Burn
 
-At level 3, your chaos starts undoing reality. At the start of each of your turns, you gain 1 chaos point. Then you and things effected by your chaos take force damage equal to your chaos points divided by 10, rounded down, minus your level, minimum of 0.
+At level 3, your chaos starts undoing reality. Whenever you gain chaos points, you and things touched by your chaos each take force damage equal to your chaos points divided by 10, rounded down, minus your level, minimum of 0.
+
+### Chaos Modifier
+
+At level 3, your chaos effects your ability to cast effective spells. While you have chaos points, your spellcasting ability modifier is changed to your chaos points divided by 5, rounded up.
 
 ### Luck Warping
 
-At level 7, random events happen. Whenever a d20 is rolled, if it is rolled by an effect or creature that is effected by your chaos, its value is warped. If the result is odd, you add your chaos points to it. If the result is even, you subtract your chaos points from it. The result may go above 20 or below 0.
+At level 5, outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, if it is rolled by you or an effect or creature that is touched by your chaos, its value is warped. If the result is odd, you add your chaos points to it. If the result is even, you subtract your chaos points from it. The result may go above 20 or below 0.
 
 ### Origin Shifting
 
-At level 11, the points of origin shift around you in unnatural ways. The origin point of spells and attacks effected by your chaos shift in your shifting direction. Your shifting direction gets set to your current facing direction whenever you cast a spell using a chaos point. Origin points shift in this direction by an amount equal to your chaos points, rounded up to the nearest 5.
+At level 7, the points of origin shift around you in unnatural ways. The origin point of spells and attacks touched by your chaos shift in your shifting direction. Your shifting direction gets set to your current facing direction whenever you cast a spell using the Chaotic Bond Affinity option. Origin points continually shift in this direction by an amount equal to your chaos points, rounded up to the nearest 5.
 
-When a creature effected by your chaos moves on their turn, they first teleport in your shifting direction, then move from there.
+When a creature touched by your chaos moves on their turn, they first teleport in your shifting direction, then move from there.
 
 ### Lag
 
-At level 15, time starts moving at random speeds. At the start of its turn, a creature effected by your chaos must make a Constitution ability check. The DC is equal to your chaos points divided by 5, rounded up. If it gets below the DC, its turn is skipped. If it gets 20 minus the DC or above, it gets to take 2 actions this turn. However, if the DC is 10 or above, and the roll lands in the overlap area, nothing special happens.
+At level 11, time starts moving at random speeds. At the start of its turn, a creature touched by your chaos must make a Constitution ability check, with a DC equal to your spellcasting ability modifier, max 10. If it gets below the DC, its turn is skipped. If it gets 20 minus the DC or above, it gets to take 2 actions this turn.
 
 ### Unstable
 
-At level 20, spells become unpredictable. When a spell is cast, if it is effected by your chaos, it has all numbers in its stats and description increased by your chaos points.
+At level 15, spells become unpredictable. When a spell is cast, if it is touched by your chaos, it has all numbers in its stats and description increased by your chaos points.
 
 ## Reality Forger
 
