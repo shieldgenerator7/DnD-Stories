@@ -2,29 +2,29 @@ Reality Bender
 
 D&D Class
 
-|           |                 |              |                    |                       |                           | **Spell Casting** |                  |                  |
-|-----------|-----------------|--------------|--------------------|-----------------------|---------------------------|-------------------|------------------|------------------|
-| **Level** | **Prof. Bonus** | **Features** | **Bonded Schools** | **Spell Slot Points** | **Bond Affinity Options** | **Cast Range**    | **Tether Range** | **Max Duration** |
-| 1st       | +2              |              | 1                  | 2                     | 1                         | 5ft               | 10ft             | 3 rounds         |
-| 2nd       | +2              |              | 1                  | 3                     | 1                         | 10ft              | 20ft             | 1 min            |
-| 3rd       | +2              |              | 1                  | 8                     | 1                         | 15ft              | 30ft             | 10 min           |
-| 4th       | +2              |              | 2                  | 10                    | 1                         | 30ft              | 90ft             | 1 hr             |
-| 5th       | +3              |              | 2                  | 16                    | 2                         | 45ft              | 135ft            | 2 hr             |
-| 6th       | +3              |              | 2                  | 19                    | 2                         | 60ft              | 180ft            | 4 hr             |
-| 7th       | +3              |              | 2                  | 26                    | 2                         | 75ft              | 225ft            | 7 hr             |
-| 8th       | +3              |              | 2                  | 30                    | 3                         | 100ft             | 400ft            | 12 hr            |
-| 9th       | +4              |              | 2                  | 39                    | 3                         | 125ft             | 500ft            | 1 d              |
-| 10th      | +4              |              | 3                  | 44                    | 3                         | 150ft             | 600ft            | 3 d              |
-| 11th      | +4              |              | 3                  | 50                    | 3                         | 175ft             | 700ft            | 7 d              |
-| 12th      | +4              |              | 3                  | 57                    | 4                         | 200ft             | 1000ft           | 14 d             |
-| 13th      | +5              |              | 3                  | 57                    | 4                         | 250ft             | 2500ft           | 30 d             |
-| 14th      | +5              |              | 3                  | 65                    | 4                         | 300ft             | 1mi              | 180 d            |
-| 15th      | +5              |              | 3                  | 65                    | 4                         | 400ft             | 5mi              | 1 yr             |
-| 16th      | +5              |              | 3                  | 74                    | 5                         | 500ft             | 15mi             | 5 yr             |
-| 17th      | +6              |              | 4                  | 79                    | 5                         | 750ft             | 100mi            | 10 yr            |
-| 18th      | +6              |              | 4                  | 85                    | 5                         | 1000ft            | 1000mi           | 50 yr            |
-| 19th      | +6              |              | 4                  | 92                    | 5                         | 2000ft            | 10000mi          | 100 yr           |
-| 20th      | +6              |              | 4                  | 100                   | 5                         | 1mi               | Inf.             | Inf.             |
+|           |                 |              |                    |                  |                           | **Spell Casting** |                  |                  |
+|-----------|-----------------|--------------|--------------------|------------------|---------------------------|-------------------|------------------|------------------|
+| **Level** | **Prof. Bonus** | **Features** | **Bonded Schools** | **Spell Points** | **Bond Affinity Options** | **Cast Range**    | **Tether Range** | **Max Duration** |
+| 1st       | +2              |              | 1                  | 2                | 1                         | 5ft               | 10ft             | 3 rounds         |
+| 2nd       | +2              |              | 1                  | 3                | 1                         | 10ft              | 20ft             | 1 min            |
+| 3rd       | +2              |              | 1                  | 8                | 1                         | 15ft              | 30ft             | 10 min           |
+| 4th       | +2              |              | 2                  | 10               | 1                         | 30ft              | 90ft             | 1 hr             |
+| 5th       | +3              |              | 2                  | 16               | 2                         | 45ft              | 135ft            | 2 hr             |
+| 6th       | +3              |              | 2                  | 19               | 2                         | 60ft              | 180ft            | 4 hr             |
+| 7th       | +3              |              | 2                  | 26               | 2                         | 75ft              | 225ft            | 7 hr             |
+| 8th       | +3              |              | 2                  | 30               | 3                         | 100ft             | 400ft            | 12 hr            |
+| 9th       | +4              |              | 2                  | 39               | 3                         | 125ft             | 500ft            | 1 d              |
+| 10th      | +4              |              | 3                  | 44               | 3                         | 150ft             | 600ft            | 3 d              |
+| 11th      | +4              |              | 3                  | 50               | 3                         | 175ft             | 700ft            | 7 d              |
+| 12th      | +4              |              | 3                  | 57               | 4                         | 200ft             | 1000ft           | 14 d             |
+| 13th      | +5              |              | 3                  | 57               | 4                         | 250ft             | 2500ft           | 30 d             |
+| 14th      | +5              |              | 3                  | 65               | 4                         | 300ft             | 1mi              | 180 d            |
+| 15th      | +5              |              | 3                  | 65               | 4                         | 400ft             | 5mi              | 1 yr             |
+| 16th      | +5              |              | 3                  | 74               | 5                         | 500ft             | 15mi             | 5 yr             |
+| 17th      | +6              |              | 4                  | 79               | 5                         | 750ft             | 100mi            | 10 yr            |
+| 18th      | +6              |              | 4                  | 85               | 5                         | 1000ft            | 1000mi           | 50 yr            |
+| 19th      | +6              |              | 4                  | 92               | 5                         | 2000ft            | 10000mi          | 100 yr           |
+| 20th      | +6              |              | 4                  | 100              | 5                         | 1mi               | Inf.             | Inf.             |
 
 # Class Features
 
@@ -74,7 +74,7 @@ At level 1, choose one cantrip of your choice from the list of spells in your bo
 
 ## Casting Spells
 
-The class table shows how many spell slot points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell slot points equal to the spell's level or higher. You regain all expended spell slot points when you finish a long rest.
+The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than touch, its max casting range is changed to the Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instant also have their max duration changed to the Max Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further from you than the tether range, then the spell ends automatically.
 
@@ -101,7 +101,7 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 At level 1, you gain affinity for spells in your bonded schools. You learn one Bond Affinity option. You can use this feature to gain bonuses when casting these spells. When you cast a spell in your bonded schools, you can choose one bond affinity option that you learned to apply to it. You gain bond affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
 -   Adamant: You can add your chosen spellcasting ability modifier an additional time to this spell cast’s spell save DC and/or spell attack modifier.
--   Conserving: After casting this spell, regain spell slot points equal to this spell’s printed level.
+-   Conserving: After casting this spell, regain spell points equal to this spell’s printed level.
 -   Quick: You may cast this spell as a bonus action, as long as the spell’s cast time is 1 action.
 -   Upcast: When you cast this spell, it gets upcast to twice its level.
 -   Reaching: The cast range for this spell is doubled.
@@ -124,15 +124,15 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 # Reality Studier
 
-At level 7, when you learn a new spell in your bonded schools, you gain spell slot points equal to that spell’s casted level.
+At level 7, when you learn a new spell in your bonded schools, you gain spell points equal to that spell’s casted level.
 
 # Rejuvenation
 
-At level 9, when you cast a spell from your bonded schools, you heal for the number of spell slot points spent to cast it.
+At level 9, when you cast a spell from your bonded schools, you heal for the number of spell points spent to cast it.
 
 # Energy Store
 
-At level 11, when you use an action to dispel a spell you cast, you gain back spell slot points equal to the spell’s printed level.
+At level 11, when you use an action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
 
 # Recasting
 
@@ -140,7 +140,7 @@ At level 13, when one of your spells ends, you sense it, and may use your reacti
 
 # Refill
 
-At level 15, you can replenish your spell slot points. As a bonus action, add spell slot points equal to your current health to your spell slot points. Once you use this feature, you can’t do so again until you finish a short or long rest.
+At level 15, you can replenish your spell points. As a bonus action, add spell points equal to your current health to your spell points. Once you use this feature, you can’t do so again until you finish a short or long rest.
 
 # Subclasses
 
@@ -152,7 +152,7 @@ You bend reality so much that things stop making sense.
 
 At level 3, you start losing control of your abilities. Whenever a creature effected by your chaos (including you) casts a spell, you gain chaos points equal to that spell’s printed level. Whenever you gain chaos points, you may use your reaction to expend all chaos points to cast a spell from your bonded schools.
 
-You may spend chaos points to cast spells as if they were spell slot points.
+You may spend chaos points to cast spells as if they were spell points.
 
 Only you are effected by your chaos by default. When a creature effected by your chaos (including you), casts a spell or makes an attack, that spell or attack is also effected by your chaos. Spells that are effected by your chaos cause their targets and/or creatures and/or objects in their area of effect to be effected by your chaos for the duration of the spell and for 1 minute afterwards.
 
@@ -208,7 +208,7 @@ At level 7, you learn how to prevent reality from being broken. As a reaction, y
 
 ### Restoration
 
-At level 11, you learn how to absorb spells. When you use Cure or Prevention on a spell, you gain spell slot points equal to that effected spell’s level.
+At level 11, you learn how to absorb spells. When you use Cure or Prevention on a spell, you gain spell points equal to that effected spell’s level.
 
 ## Reality Sharer
 
@@ -252,7 +252,7 @@ At level 7, you can quickly protect yourself from any threat. As a reaction, you
 
 ### Selfish
 
-At level 11, you can redirect magic into you. As a reaction, change a spell’s target to yourself, if it is targeting another creature. Regain spell slot points equal to the spell’s casted level.
+At level 11, you can redirect magic into you. As a reaction, change a spell’s target to yourself, if it is targeting another creature. Regain spell points equal to the spell’s casted level.
 
 ### Identity
 

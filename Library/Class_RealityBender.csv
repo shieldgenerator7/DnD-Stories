@@ -1,6 +1,5 @@
 ﻿,,,,,,,,,
 ,,,,,,Spell Casting,,,
-Level,Prof. Bonus,Features,Bonded Schools,Spell Slot Points,Bond Affinity Options,Cast Range,Tether Range,Max Duration,
 1st,+2,,1,2,1,5ft,10ft,3 rounds,
 2nd,+2,,1,3,1,10ft,20ft,1 min,
 3rd,+2,,1,8,1,15ft,30ft,10 min,
@@ -21,3 +20,4 @@ Level,Prof. Bonus,Features,Bonded Schools,Spell Slot Points,Bond Affinity Option
 18th,+6,,4,85,5,1000ft,1000ft,50 yr,
 19th,+6,,4,92,5,2000ft,10000ft,100 yr,
 20th,+6,,4,100,5,1mi,Inf.,Inf.,
+Level,Prof. Bonus,Features,Bonded Schools,Spell Points,Bond Affinity Options,Cast Range,Tether Range,Max Duration
