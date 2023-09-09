@@ -280,6 +280,30 @@ At level 15, you can unify your vessels in casting a spell. Whenever you cast a 
 
 You are a self-made person, literally. You modified your being and can modify it to your liking.
 
+### Moldable
+
+At level 3, you can modify yourself easily. Whenever you finish a long rest, you may cast a spell on yourself without spending spell points. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell may not have an area of effect or target other creatures other than you. The duration of the spell is unaffected by your Spell Duration, and lasts until you finish another long rest.
+
+### Flexible
+
+At level 5, you can flex your skills to your liking. Whenever you finish a long rest, you may increase an ability score of your choice by up to your spellcasting ability modifier, by decreasing another ability score of your choice by the same amount. This feature allows an ability score to exceed 20, but not above 30.
+
+This change is permanent, but may be undone by a future use of this feature.
+
+Additionally, effects that grant ability score improvements may increment an ability score above 20, but not above 30.
+
+### Fluid
+
+At level 7, whenever you finish a long rest, you may switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
+
+This change is permanent, but may be undone by a future use of this feature.
+
+### Shape Changer
+
+At level 11, whenever you finish a long rest, you may change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
+
+This change is permanent, but may be undone by a future use of this feature.
+
 ### Hardy
 
 At level 3, you can adapt to any environment. As a bonus action, you can grant yourself immunity to any 1 damage type. This lasts until you use this feature again.
