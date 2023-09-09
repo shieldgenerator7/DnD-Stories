@@ -96,20 +96,22 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 # Bond Affinity
 
-At level 1, you gain affinity for spells in your bonded schools. You learn one Bond Affinity option. You can use this feature to gain bonuses when casting these spells. When you cast a spell in your bonded schools, you can choose one bond affinity option that you learned to apply to it. You gain bond affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
+At level 1, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you can choose one Bond Affinity option that you learned to apply to it.
+
+You learn one Bond Affinity option. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
 -   Adamant: Double your spellcasting ability modifier for this spell cast.
 -   Conserving: After casting this spell, regain spell points equal to this spell’s printed level.
--   Quick: You may cast this spell as a bonus action, as long as the spell’s cast time is 1 action.
--   Upcast: When you cast this spell, it gets upcast to twice its level.
--   Reaching: The cast range for this spell is doubled.
--   Remote: The tether range for this spell is doubled.
--   Lasting: The spell duration for this spell is doubled.
--   Animating: You cast this spell as if it didn’t have concentration.
+-   Quick: You may cast this spell as a bonus action, if the spell’s cast time is 1 action.
+-   Upcast: When you cast this spell, it gets upcast to twice its casted level.
+-   Reaching: The Cast Range for this spell cast is doubled.
+-   Remote: The Tether Range for this spell cast is doubled.
+-   Lasting: The Spell Duration for this spell cast is doubled.
+-   Animating: Concentration isn’t required for this spell cast.
 
 # Subclassing
 
-At level 3, you choose a subclass, as listed below.
+At level 3, you choose a subclass, as listed below. The subclass will give you features at levels 3, 5, 7, 11, and 15.
 
 -   Reality Breaker
 -   Reality Forger
@@ -120,7 +122,11 @@ At level 3, you choose a subclass, as listed below.
 
 # Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. However, you may increase your chosen spellcasting ability by 1, even if it goes above 20, if you decrease another ability by 1 when you do so.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can do one of three things:
+
+-   Increase one ability score of your choice by 2, max 20
+-   Increase two ability scores of your choice by 1, max 20
+-   Increase your spellcasting ability score by 1, max 30
 
 # Reality Studier
 
