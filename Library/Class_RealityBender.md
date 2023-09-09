@@ -58,27 +58,21 @@ This class grants you no additional starting equipment.
 
 # Spellcasting
 
-Choose one ability to be your spellcasting ability. This will be your Reality Bender ability.
+You are a spell caster whose only limitation is your own imagination.
 
 ## Bonded Schools
 
-Choose a school of magic as your bonded school. You bond to more schools as you level up, as shown in the class table. You get special bonuses when casting spells in your bonded schools as you level up.
-
-At level 1, you know 1 cantrip and 1 1st-level spell, both from your bonded school. As you level up, the minimum amount of spells you know of 1st level or higher is equal to your level. When you level up, you may learn one 1st-level spell from your bonded schools.
+Choose a school of magic as your bonded school. You bond to more schools as you level up, as shown in the class table. You get special bonuses when casting spells in your bonded schools. This class only grants you the ability to learn and cast spells from your bonded schools.
 
 ## Spellcasting Focus
 
-Choose a body part as your spell casting focus. This body part can be used as your spell casting focus for spells in your bonded schools, allowing you to cast those spells without the verbal, somatic, or material components they would normally require.
-
-## Cantrips
-
-At level 1, choose one cantrip of your choice from the list of spells in your bonded school. You learn additional cantrips as you adventure in the world.
+Choose a body part as your spell casting focus. This body part can be used as your spell casting focus for spells in your bonded schools, allowing you to cast those spells without the verbal, somatic, or material components they would normally require, even if the spell normally consumes the material components.
 
 ## Casting Spells
 
 The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
 
-Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its max casting range is changed to the Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instant also have their Spell Duration changed to the Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further from you than the tether range, then the spell ends automatically.
+Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the tether range, then the spell ends automatically.
 
 As an action, you may dispel any spell that you had casted from your bonded schools.
 
@@ -92,7 +86,9 @@ Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom,
 
 ## Learning Spells of 1st Level and Higher
 
-Each time you gain a level, you can learn one spell of your choice. This spell must be of level 1. On your adventures, you might find other spells that you can learn. This class does not grant you the ability to learn spells from outside your bonded schools.
+At level 1, you know 1 cantrip and 1 1st-level spell, both from your bonded school. As you level up, the minimum amount of spells you know of 1st level is equal to your level. When you level up, you may learn one 1st-level spell from your bonded schools.
+
+You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
 
 # Reality Observer
 
