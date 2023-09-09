@@ -222,15 +222,27 @@ You seek to build a new environment that is to your liking.
 
 ### Area Creation
 
-At level 3, spells you cast in your bonded schools that target an area have an infinite duration, as long as the spell has a duration longer than Instant, and its area of effect radius or diameter is doubled.
+At level 3, you gain affinity for area of effect spells. As a bonus action, you may target an existing area of effect spell in your bonded schools, and increase its radius by 5ft or its diameter by 10ft. Alternatively, you can decrease its radius or diameter by the same amount.
+
+You gain the following Bond Affinity option:
+
+-   Wide: The effect radius and/or diameter is doubled for this spell cast, if it has an area of effect.
+
+### Home Advantage
+
+At level 5, you can begin to call your area your home. While standing within one of your Permanent spells, you gain 1 spell point at the start of each of your turns.
+
+You gain the following Bond Affinity option:
+
+-   Permanent: Your Tether Range and Spell Duration are both infinite for this spell cast. This spell cast costs twice as many spell points.
 
 ### Area Fixation
 
-At level 7, spells you cast in your bonded schools that target an area prevent other spells that target an area from effecting its area, unless that other spell is cast by you.
+At level 7, your Permanent spells prevent other area of effect spells from effecting its area, unless that other spell is cast by you.
 
 ### Area Manipulation
 
-At level 11, you become adept at manipulating areas. Spells you cast that target an area can have 2 Bond Affinity options applied to them.
+At level 11, you become adept at manipulating areas. Area of effect spells you cast in your bonded schools can have 2 Bond Affinity options applied to them.
 
 ## Reality Fixer
 
