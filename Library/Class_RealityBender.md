@@ -216,23 +216,29 @@ You want to help other people create their own realities.
 
 ### Sharing
 
-At level 3, you can give someone else a piece of your power. As an action, you can target another willing creature you can see within range to gain a spell you know from your bonded schools. That creature gains the ability to cast the spell as if you were casting it, expending your spell slot points when they do. While this spell is shared, you cannot cast it. As an action, you may take back this power as long as you can see the creature you gave it to and they are within range.
+At level 3, you can give someone else a piece of your power. As an action, you can target another willing creature you can see within range to gain a spell you know from your bonded schools. That creature becomes a vessel of your power, and gains the ability to cast the spell as if you were casting it, expending your spell points when they do. When you give them a spell, you choose a Bond Affinity option to apply to the spell whenever the vessel casts it. You can choose the same Bond Affinity option for multiple shared spells.
 
-### Vessel
+While a vessel has a spell, you cannot cast that spell or share it. You can have any number of vessels active at the same time, up to the number of spells you know. You can share multiple spells with the same vessel.
 
-At level 5, you can work from other’s point of view. Whenever you cast a spell, you may do so from a creature that has a piece of your power.
+A shared spell uses your spell save DC and spell attack modifiers, if applicable. If a shared spell has concentration, it uses the concentration of the vessel. Every other reference to “you” or “self” in the shared spell refers to the vessel.
+
+Each use of this feature has a Spell Duration equal to your spellcasting duration, after which your power will automatically return to you. Sharing a new spell with an existing vessel will refresh the duration of all spells shared with that vessel. Additionally, if a vessel ever becomes outside your spellcasting tether range, the spells shared with that vessel will automatically return to you. If a vessel dies, shifts to another plane, or ceases to exist, all the spells they had return to you. As an action, you may take back any number of spells from one vessel as long as you can see the vessel and they are within spellcasting range.
+
+### Vessel Casting
+
+At level 5, you can work from other’s point of view. Whenever you cast a spell, you may do so from one of your vessels.
 
 ### Caring
 
-At level 7, you gain the ability to help others bend reality. When another creature in range casts a spell that you know from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it.
+At level 7, you gain the ability to help others bend reality. When another creature in range casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it.
 
 ### Worship
 
-At level 11, your power grows the more your name is said. Whenever a creature that has a piece of your power says your name, you get spell slot points equal to your spellcasting ability modifier.
+At level 11, your power grows the more your name is said. Whenever a vessel says your name, you get spell points equal to your spellcasting ability modifier.
 
 ### Bonding
 
-At level 15, you can bond your spells with others. Whenever you cast a spell from your bonded schools, each creature that has a piece of your power may use its reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
+At level 15, you can bond your spells with others. Whenever you cast a spell from your bonded schools, each of your vessels may use its reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
 
 ## Self-Shaper
 
