@@ -278,6 +278,10 @@ You want to help other people create their own realities.
 
 At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it. Either the casting creature or the spell must be within your Cast Range.
 
+You gain the following Bond Affinity option:
+
+-   Bent: The spell’s attributes are modified to have your Cast Range, Tether Range, and Spell Duration.
+
 ### Spell Sharing
 
 At level 5, you can give someone else a piece of your power. As an action, you can share a spell you know from your bonded schools with another willing creature within your Cast Range. That creature becomes a vessel of your power, and gains the ability to cast the shared spell, expending your spell points when they do.
@@ -302,9 +306,13 @@ When a vessel no longer has any of your shared spells, they are no longer consid
 
 ### Vessel Casting
 
-At level 7, you can see from your vessels’ points of view. Whenever you cast a spell, you do so on any point or target that is within Cast Range of a vessel. A spell you cast is also considered to be within your Tether Range if it is within Tether Range of a vessel.
+At level 5, you can cast spells from your vessels. You gain the following Bond Affinity option:
 
-Additionally, a vessel is also considered to be within your Tether Range if they are within Tether Range of another vessel who is considered to be in Tether Range.
+-   Vessel Casting: Cast this spell from a vessel, using their position to determine if the spell is within your Cast Range.
+
+### Vessel Network
+
+At level 7, you can see from your vessels’ points of view. Any position that is within Tether Range of a vessel is considered to be within Tether Range of you.
 
 You may use your Reality Observer and Affinity Assist features on spells that a vessel sees.
 
