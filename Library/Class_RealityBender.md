@@ -165,13 +165,13 @@ You bend reality so much that things stop making sense.
 
 At level 3, you start losing control of your abilities. You gain chaos points at an alarming rate, that builds up overtime, with no maximum value. As you level up, the rate increases.
 
-|    | Chaos Buildup Rate |
-|----|--------------------|
-| 3  | 1/day              |
-| 5  | 1/hour             |
-| 7  | 1/minute           |
-| 11 | 1/round            |
-| 15 | 10/round           |
+| Level | Chaos Buildup Rate |
+|-------|--------------------|
+| 3     | 1/day              |
+| 5     | 1/hour             |
+| 7     | 1/minute           |
+| 11    | 1/round            |
+| 15    | 10/round           |
 
 Additionally, whenever you or a creature touched by your chaos casts a spell from your bonded schools, you gain chaos points equal to that spell’s base level.
 
@@ -187,7 +187,7 @@ You gain the following Bond Affinity option:
 
 At level 3, you can’t contain your chaos as it spreads.
 
-When a creature touched by your chaos casts a spell or makes an attack, that spell or attack is also touched by your chaos. A spells that is touched by your chaos causes everything it targets or in its area of effect to also be touched by your chaos.
+When a creature touched by your chaos casts a spell or makes an attack, that spell or attack is also touched by your chaos. A spell that is touched by your chaos causes everything it targets or in its area of effect to also be touched by your chaos.
 
 A creature and/or object remains touched by your chaos until:
 
@@ -197,7 +197,7 @@ A creature and/or object remains touched by your chaos until:
 
 ### Chaos Burn
 
-At level 3, your chaos starts undoing reality. Whenever you gain chaos points, you and things touched by your chaos each take force damage equal to your chaos points divided by 10, rounded down, minus your level, minimum of 0.
+At level 3, your chaos starts undoing reality. Whenever you gain chaos points, you and things touched by your chaos each take force damage equal to your chaos points minus your max spell points, minimum of 0.
 
 ### Chaos Modifier
 
@@ -209,7 +209,7 @@ At level 5, outcomes are randomly changed in unexpected ways. Whenever a d20 is 
 
 ### Origin Shifting
 
-At level 7, the points of origin shift around you in unnatural ways. The origin point of spells and attacks touched by your chaos shift in your shifting direction. Your shifting direction gets set to your current facing direction whenever you cast a spell using the Chaotic Bond Affinity option. Origin points continually shift in this direction by an amount equal to your chaos points, rounded up to the nearest 5.
+At level 7, the points of origin shift around you in unnatural ways. The origin point of spells and attacks touched by your chaos shift in your shifting direction. Your shifting direction gets set to your current facing direction whenever you cast a Chaotic spell. Origin points continually shift in this direction by an amount equal to your chaos points, rounded up to the nearest 5.
 
 When a creature touched by your chaos moves on their turn, they first teleport in your shifting direction, then move from there.
 
@@ -243,11 +243,19 @@ You gain the following Bond Affinity option:
 
 ### Area Fixation
 
-At level 7, your Permanent spells prevent other area of effect spells from effecting its area, unless that other spell is cast by you.
+At level 7, your Permanent spells prevent other area of effect spells from effecting its area, unless that other spell is also Permanent.
 
 ### Area Manipulation
 
-At level 11, you become adept at manipulating areas. Area of effect spells you cast in your bonded schools can have 2 Bond Affinity options applied to them.
+At level 11, you become adept at manipulating areas. Permanent spells you cast in your bonded schools can have 2 Bond Affinity options applied to them.
+
+### Area Admin
+
+At level 15, you gain advanced control over who can access your areas.
+
+As an action, you may choose a creature outside all your Permanent spells. That creature takes 10d10 force damage per round while they’re in any of your Permanent spells. This effect lasts until that creature is no longer in your Tether Range or it lasts longer than your Spell Duration.
+
+As an action, you may choose a creature inside one of your Permanent spells. That creature takes 10d10 force damage per round while they’re outside any of your Permanent spells such that they are no longer in any of your Permanent spells. This effect lasts until that creature is no longer in your Tether Range or it lasts longer than your Spell Duration.
 
 ## Reality Fixer
 
@@ -380,9 +388,15 @@ At level 15, you can modify yourself even more easily. Whenever you cast a spell
 
 Fortune favors you and bends to your will.
 
+### Luck Bend
+
+At level 3, your spells are lucky. You gain the following Bond Affinity option:
+
+-   Lucky: Whenever a die is rolled for this spell cast, you may have that die be rolled a second time, and then you choose which die roll to use.
+
 ### Lucky
 
-At level 3, luck is on your side. Once per turn, whenever a d20 is rolled within your cast range, you may have that d20 be rerolled, and then you choose which roll to use.
+At level 5, luck is on your side. Once per turn, whenever a d20 is rolled within your cast range, you may have that d20 be rerolled, and then you choose which roll to use.
 
 ### Willful
 
@@ -390,7 +404,7 @@ At level 7, reality bends to your will. The spell save DC and spell attack modif
 
 ### Fortunate
 
-At level 13, you can hardly fail. You get advantage on all ability checks and saving throws.
+At level 11, you can hardly fail. You get advantage on all ability checks and saving throws.
 
 ### Plot Armor
 
@@ -398,7 +412,7 @@ At level 15, no can hurt you. Whenever you have to make a saving throw, the DC i
 
 ### Dictation
 
-At level 20, you have mastered fortune. As a reaction, you can set any number of rolled dice to any value possible for that die.
+At level 20, you have mastered fortune. As a reaction, you can set any number of rolled dice to any value possible for that die. This effect then lasts until the end of the turn.
 
 ## Item Infuser
 
