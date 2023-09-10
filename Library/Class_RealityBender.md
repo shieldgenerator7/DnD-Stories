@@ -9,7 +9,6 @@ D&D Class
 | **Level** | **Prof. Bonus** | **Features** | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
 | 1st       | +2              |              | 1                  | 1                         | 2                | 5ft               | 10ft             | 3 rounds           |
 | 2nd       | +2              |              | 1                  | 1                         | 3                | 10ft              | 20ft             | 1 min              |
-| 3rd       | +2              |              | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
 | 4th       | +2              |              | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
 | 5th       | +3              |              | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
 | 6th       | +3              |              | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
@@ -27,6 +26,7 @@ D&D Class
 | 18th      | +6              |              | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
 | 19th      | +6              |              | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
 | 20th      | +6              |              | 4                  | 5                         | 100              | 1mi               | Inf.             | Inf.               |
+| 3rd       | +2              | Bending Style                                 | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
 
 # Class Features
 
@@ -112,11 +112,11 @@ At level 1, you gain affinity for spells in your bonded schools, getting bonuses
 
 You learn one Bond Affinity option at level 1. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
-Subclasses may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
+Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
 
-# Subclassing
+# Bending Style
 
-At level 3, you choose a subclass, as listed below. The subclass will give you features at levels 3, 5, 7, 11, and 15. They will also grant you bonus Bond Affinity options.
+At level 3, you choose a Bending Style, as listed below. The Bending Style you choose will give you features at levels 3, 5, 7, 11, and 15. They will also grant you bonus Bond Affinity options.
 
 -   Reality Breaker
 -   Reality Forger
@@ -154,9 +154,9 @@ At level 13, when one of your spells ends, you sense it, and may use your reacti
 
 At level 15, you can replenish your spell points. As a bonus action, add spell points equal to your current health to your spell points. Once you use this feature, you can’t do so again until you finish a short or long rest.
 
-# Subclasses
+# Bending Styles
 
-At level 3, you choose a subclass.
+At level 3, you choose a Bending Style.
 
 ## Reality Breaker
 
