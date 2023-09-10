@@ -98,16 +98,17 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 # Bond Affinity
 
-At level 1, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you can choose one Bond Affinity option that you learned to apply to it:
+At level 1, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you may choose up to one Bond Affinity option that you learned to apply to it:
 
--   Adamant: Double your spellcasting ability modifier for this spell cast.
--   Conserving: After casting this spell, regain spell points equal to this spell’s printed level.
--   Quick: You may cast this spell as a bonus action, if the spell’s cast time is 1 action.
--   Upcast: When you cast this spell, it gets upcast to twice its casted level.
--   Reaching: The Cast Range for this spell cast is doubled.
--   Remote: The Tether Range for this spell cast is doubled.
--   Lasting: The Spell Duration for this spell cast is doubled.
--   Animating: Concentration isn’t required for this spell cast.
+-   Focused: Double your spellcasting ability modifier for this spell cast.
+-   Powerful: Double any and all dice rolls that you roll for this spell cast.
+-   Replenishing: Regain spell points equal to this spell’s base level after casting this spell.
+-   Quick: Cast this spell as a bonus action, if the spell’s cast time is 1 action.
+-   Capital: Upcast this spell cast to twice its casted level.
+-   Reaching: Double your Cast Range for this spell cast.
+-   Remote: Double your Tether Range for this spell cast.
+-   Lasting: Double your Spell Duration for this spell cast.
+-   Animating: Cast this spell without requiring concentration.
 
 You learn one Bond Affinity option at level 1. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
@@ -181,7 +182,7 @@ At level 3, you can let out your chaotic urges. Whenever you gain chaos points, 
 
 You gain the following Bond Affinity option:
 
--   Chaotic: This spell costs chaos points instead of spell points, and is touched by your chaos. Creatures effected by this spell become touched by your chaos.
+-   Chaotic: Spend chaos points for this spell cast instead of spell points. Touch this spell cast with your chaos, also touching creatures effected by this spell cast with your chaos.
 
 ### Chaos Spread
 
@@ -231,7 +232,7 @@ At level 3, you gain affinity for area of effect spells. As a bonus action, you 
 
 You gain the following Bond Affinity option:
 
--   Wide: The effect radius and/or diameter is doubled for this spell cast, if it has an area of effect.
+-   Wide: Double the effect radius and/or diameter of this spell cast, if it has an area of effect.
 
 ### Home Advantage
 
@@ -239,7 +240,7 @@ At level 5, you can begin to call your area your home. While standing within one
 
 You gain the following Bond Affinity option:
 
--   Permanent: Your Tether Range and Spell Duration are both infinite for this spell cast. This spell cast costs twice as many spell points.
+-   Permanent: Infinitize your Tether Range and Spell Duration for this spell cast, and double the spell point cost of this spell cast.
 
 ### Area Fixation
 
@@ -293,7 +294,7 @@ At level 3, you gain the ability to help others bend reality. When another creat
 
 You gain the following Bond Affinity option:
 
--   Bent: The spell’s attributes are modified to have your Cast Range, Tether Range, and Spell Duration.
+-   Bent: Modify this spell cast’s attributes to your Cast Range, Tether Range, and Spell Duration.
 
 ### Spell Sharing
 
@@ -321,7 +322,7 @@ When a vessel no longer has any of your shared spells, they are no longer consid
 
 At level 5, you can cast spells from your vessels. You gain the following Bond Affinity option:
 
--   Vessel Casting: Cast this spell from a vessel, using their position to determine if the spell is within your Cast Range.
+-   Proxied: Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
 
 ### Vessel Network
 
@@ -366,7 +367,7 @@ You may spend a use of this feature to undo the effects of a previous use of thi
 
 At level 3, you can always include yourself. You gain the following Bond Affinity option:
 
--   Self-Targeted: This spell also targets you if it targets one or more other creatures.
+-   Self-Inclusive: Also target yourself with this spell cast if it targets one or more other creatures.
 
 ### Unfaltering
 
@@ -392,7 +393,7 @@ Fortune favors you and bends to your will.
 
 At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
--   Lucky: Whenever a die is rolled for this spell cast, you may have that die be rolled a second time, and then you choose which die roll to use.
+-   Lucky: Reroll all dice rolls for this spell cast, and then choose which roll to use.
 
 ### Lucky
 
@@ -464,12 +465,12 @@ At level 7, you can remotely activate items you infuse. As a bonus action, you m
 
 At level 11, you learn how to cause an item to react to a situation. You learn the following Bond Affinity option:
 
--   Reactive: This spell automatically activates the item it is infused into when a specific condition is met, which you set when you infuse this spell.
+-   Reactive: Set a reactive condition for this spell cast, which automatically activates this spell cast’s infused item when met.
 
 ### Multi-Infusing
 
 At level 15, you learn how to cram more spells into a single item. You gain the following Bond Affinity option:
 
--   Append: This spell does not overwrite existing spells infused in this item.
+-   Appended: Infuse this spell cast into an infused item without overwriting spells already infused into it.
 
 When an item with multiple infused spells is activated, each spell is activated all in the same turn, in order of infusion, using the same targets, if applicable.
