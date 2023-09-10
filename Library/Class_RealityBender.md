@@ -262,19 +262,36 @@ As an action, you may choose a creature inside one of your Permanent spells. Tha
 
 ## Reality Fixer
 
-You fix reality to the way you believe it is originally meant to be.
+You fix reality to the way you believe it is originally meant to be. You believe reality is broken, and certain schools of magic are to blame.
+
+### Bond Disdain
+
+At level 3, you can disrupt others who are casting spells in your bonded schools. Whenever a creature casts a spell, you may use your reaction to apply a Bond Disdain option to it:
+
+-   Costly: Double the amount of spell slots and/or spell points spent to cast this spell.
+-   Close: Half this spell’s cast range.
+-   Tethered: Add a tether range to this spell cast equal to its caster’s walk speed.
+-   Short: Half this spell’s duration, if its duration is longer than 1 round. If the duration is 1 round, the spell ends at the end of the turn instead.
+-   Unfocused: Half the spellcaster’s spellcasting ability modifier for this spell cast, rounded up.
+-   Weak: Half any and all die rolls the spell caster rolls for this spell cast, rounded up.
+
+You learn a Bond Disdain option at level 3, and may learn a new one at levels 5, 7, 11, and 15. You may not unlearn Bond Disdain options, and you may not replace a Bond Disdain option when you learn a new one.
+
+Either the caster or the spell must be within your Cast Range for you to use this feature. You may apply a Bond Disdain option to a spell even if it already has a Bond Affinity and/or Bond Disdain option applied to it.
 
 ### Halt
 
-At level 3, you learn how to stop reality from breaking. As an action, you can dismiss any spell effect from your bonded schools even if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
+At level 5, you learn how to stop reality from breaking. As an action, you can dismiss any ongoing spell effect from your bonded schools even if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
 
 ### Prevention
 
-At level 5, you learn how to prevent reality from being broken. As a reaction, you can counter any spell from your bonded schools. Either the caster or the spell must be within your Cast Range.
+At level 7, you learn how to prevent reality from being broken. As a reaction, you can counter any spell from your bonded schools. Either the caster or the spell must be within your Cast Range.
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ### Vindication
 
-At level 7, you learn how to absorb spells. When you use Halt or Prevention on a spell, you gain spell points equal to the effected spell’s level.
+At level 11, you learn how to absorb spells. When you use Halt or Prevention on a spell, you gain spell points equal to the effected spell’s level.
 
 ### Restoration
 
@@ -356,6 +373,7 @@ At level 3, you can modify yourself daily. Whenever you finish a long rest, you 
 -   Skill. Gain proficiency in a skill by losing proficiency in a skill you’re proficient in.
 -   Expertise. Gain expertise in a skill you’re proficient in by losing expertise in another skill you’re proficient in.
 -   Alignment. Change your alignment.
+-   Affinity. Switch out a Bond Affinity option you know with another one.
 -   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
 -   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
 -   Race (Level 11). Change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
