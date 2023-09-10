@@ -126,6 +126,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Luck Bender
 -   Item Infuser
 -   Battle Bender
+-   Far Watcher
 
 # Ability Score Improvement
 
@@ -569,3 +570,50 @@ At level 11, you can get one last use out of your Formed spells. Whenever one or
 At level 15, you can react to the death around you.
 
 Whenever you or another creature you can see dies, you may use your reaction to activate your Violent Dismissal feature on any number of your Formed spells.
+
+## Far Watcher
+
+You don’t really want to participate in reality, and prefer to watch it unfold instead.
+
+### Stealthy
+
+At level 3, you learn how to keep other people from interacting with you. As an action, you make yourself invisible. Alternatively, you can make yourself visible. The duration of this effect is equal to your Spell Duration. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
+
+### Unseen Casting
+
+At level 3, you how to keep your spells from giving you away. You gain the following Bond Affinity option:
+
+-   Invisible: Make this spell cast and its effects invisible.
+
+An Invisible spell can’t be seen by anyone but you. An Invisible spell will not give away your location or inform other creatures that it was you who cast it. An Invisible spell that mentions you in the description instead mentions nobody.
+
+### Safe
+
+At level 5, you learn how to make yourself less vulnerable. As an action, you can make yourself ethereal. Alternatively, you can make yourself physical again. While you’re ethereal:
+
+-   You can pass through walls.
+-   You are untargetable and immune to all damage types.
+-   Your spells and attacks deal 0 damage.
+
+The duration of this effect is equal to your Spell Duration. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
+
+### Watch Together
+
+At level 7, you can bring guests into your world. When you expend a use of a feature, you can use it on another creature within your Cast Range instead of yourself.
+
+This feature includes your Far Watcher Bending Style features:
+
+-   Stealthy
+-   Safe
+-   Predictive
+-   Removed from Reality
+
+### Predictive
+
+At level 11, you get good at predicting outcomes. Whenever you cast a spell, you can choose to simulate it instead. Process the spell like normal. If you like the outcome of the spell, you can commit it to reality and the game continues as normal. If you don’t like the outcome of the spell, you can revert all changes the spell made, and the game continues as if you had not cast that spell.
+
+You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
+
+### Removed from Reality
+
+At level 15, you learn how to change the channel. As an action, you can shift to another plane of existence. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
