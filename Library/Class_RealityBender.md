@@ -125,6 +125,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Self-Shaper
 -   Luck Bender
 -   Item Infuser
+-   Battle Bender
 
 # Ability Score Improvement
 
@@ -474,3 +475,97 @@ At level 15, you learn how to cram more spells into a single item. You gain the 
 -   Appended: Infuse this spell cast into an infused item without overwriting spells already infused into it.
 
 When an item with multiple infused spells is activated, each spell is activated all in the same turn, in order of infusion, using the same targets, if applicable.
+
+## Battle Bender
+
+You were made for war, and can bend the tides of battle to your will.
+
+### Weapon Observer
+
+At level 3, you remember every weapon, piece of armor, shield, and piece of equipment you see, as well as their stats.
+
+### Spell Conjuration
+
+At level 3, you can conjure any spell into a piece of equipment. You gain the following Bond Affinity option:
+
+-   Formed: Conjure this spell cast into a piece of equipment you remember and equip it, if the spell can target one or more creatures.
+
+The Formed spell appears as a spectral shape modeled after the piece of equipment you remembered, but has no special effects, and does not cast the spell’s effects when conjured.
+
+The Formed spell has max hit points and AC equal to its casted level.
+
+A Formed spell is very volatile, and dissipates at the end of your turn if:
+
+-   It has 0 hit points or less.
+-   It was conjured longer ago than your Spell Duration.
+-   It is outside your Tether Range.
+-   It hit the ground or another creature and you are not holding it.
+-   It got hit by another creature and you are not holding it.
+-   You are asleep, unconscious, or dead.
+-   You used your action to dismiss it.
+
+### Weapon Conjuration
+
+At level 3, you can conjure any spell into a weapon. You gain the following Bond Affinity option:
+
+-   Weapon-Formed: Conjure this spell cast into a weapon you remember and equip it, if the spell can target one or more creatures.
+
+A Weapon-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
+
+When you conjure a Weapon-Formed spell, it comes formed as the chosen weapon that you remembered, with the same damage roll and properties, but with force damage as the damage type. Its attack modifier ability is your spellcasting ability, and when it hits, it does extra damage equal to the spell’s casted level and procs your Formed Spell Proc feature on them.
+
+### Formed Spell Proc
+
+At level 3, your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, they must make a Constitution saving throw with a DC equal to your spell save DC. On a failure, the Formed spell is cast on the target. Any to-hit rolls in the spell’s description automatically succeed, and the creature automatically fails any Dexterity saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise.
+
+### Arcane Armor
+
+At level 3, you can protect yourself with your magic reserves. Your AC is increased by the number of spell points you have divided by 5, rounded up.
+
+### Armor Conjuration
+
+At level 5, you learn to protect yourself with your spells. You learn the following Bond Affinity option:
+
+-   Armor-Formed: Conjure this spell cast into a piece of armor you remember and don it, if the spell can target one or more creatures.
+
+An Armor -Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
+
+When you conjure an Armor-Formed spell, it comes formed as the chosen piece of armor that you remembered, with the same AC bonus, but no movement or ability penalty. You can choose to conjure it on an ally instead of yourself.
+
+Whenever another creature hits you with a melee weapon attack, the Armor-Formed spell procs your Formed Spell Proc feature on them.
+
+You can only wear one Armor-Formed spell at a time. If you don an Armor-Formed spell while wearing one, the new one replaces the old one, and the old one dissipates. You may wear an Armor-Formed spell over physical armor.
+
+### Shield Conjuration
+
+At level 7, you learn how conjure shields. You gain the following Bond Affinity option:
+
+-   Shield-Formed: Conjure this spell cast into a shield you remember and equip it, if the spell can target one or more creatures.
+
+A Shield-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
+
+When you conjure a Shield-Formed spell, it comes formed as the chosen shield that you remembered, with the same AC bonus.
+
+Whenever you or an ally within melee range of you is targeted by an attack, you may use your reaction to intercept. You impose disadvantage to the attack roll. If the attack misses, your Shield-Formed spell procs your Formed Spell Proc feature on the attacking creature, if that creature is within your Casting Range.
+
+### Violent Dismissal
+
+At level 7, you figure out how to exploit the volatile nature of your Formed spells. As an action, you can choose a Formed spell and make it explode. All creatures in a radius equal to your Casting Range and with line of sight of the Formed spell must make a Dexterity saving throw with a DC equal to your spell save DC. On a failure, they take damage equal to the Formed spell’s casted level and the Formed spell procs your Formed Spell Proc feature on them. On a success, they take half as much damage and suffer no ill effects.
+
+The Formed spell is destroyed immediately when it explodes.
+
+You may choose a Formed spell even if it is outside your Cast Range or Tether Range.
+
+### Temporary Permanence
+
+At level 11, you work around some limitations of your conjured spells. Formed spells no longer dissipate at the end of your turn due to you not holding them.
+
+### Rigged Conjuration
+
+At level 11, you can get one last use out of your Formed spells. Whenever one or more of your Formed spells would simply dissipate at the end of your turn, you may instead use your reaction to activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
+
+### Last Word
+
+At level 15, you can react to the death around you.
+
+Whenever you or another creature you can see dies, you may use your reaction to activate your Violent Dismissal feature on any number of your Formed spells.
