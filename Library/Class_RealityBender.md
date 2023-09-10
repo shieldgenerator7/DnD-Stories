@@ -90,15 +90,15 @@ At level 1, you know 1 cantrip and 1 1st-level spell, both from your bonded scho
 
 You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
 
+When you’re starting a new campaign at 2nd level or higher, you may have already seen a few spells in your bonded schools. At your DM’s discretion, you may roll an ability check in your spellcasting ability to see if you’ve seen the spell be cast before, or have imagined it before. The DC is equal to the spells’ level times 2, plus 10, plus the number of spells you already know of the same level, minus your level in this class. Your DM may modify this DC at their discretion. On a success, you know the spell.
+
 # Reality Observer
 
 Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is.
 
 # Bond Affinity
 
-At level 1, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you can choose one Bond Affinity option that you learned to apply to it.
-
-You learn one Bond Affinity option. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
+At level 1, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you can choose one Bond Affinity option that you learned to apply to it:
 
 -   Adamant: Double your spellcasting ability modifier for this spell cast.
 -   Conserving: After casting this spell, regain spell points equal to this spell’s printed level.
@@ -109,9 +109,13 @@ You learn one Bond Affinity option. You gain Bond Affinity options as you level 
 -   Lasting: The Spell Duration for this spell cast is doubled.
 -   Animating: Concentration isn’t required for this spell cast.
 
+You learn one Bond Affinity option at level 1. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
+
+Subclasses may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
+
 # Subclassing
 
-At level 3, you choose a subclass, as listed below. The subclass will give you features at levels 3, 5, 7, 11, and 15.
+At level 3, you choose a subclass, as listed below. The subclass will give you features at levels 3, 5, 7, 11, and 15. They will also grant you bonus Bond Affinity options.
 
 -   Reality Breaker
 -   Reality Forger
