@@ -3056,15 +3056,15 @@ Finally they caught up to Drathalion and her party. They were making camp and ta
 
 Drathalion the cat talked with a pale green half-orc alone by a tree. Even in the dark, Robin Hood could see them with his temporary dark vision eyes, which also gave him 20/20 vision, even at this far range.
 
-The cat turned into a deer, which was a surprise, but not enough to deter Robin Hood. The half-orc gave Drathalion a bag of gold, and this bag looked to be full of actual gold.
+The cat turned into a deer, which was surprising, but not enough to deter Robin Hood. The half-orc gave Drathalion a bag of gold, and this bag looked to be full of actual gold.
 
 “Perfect! That’s just what I need.” He reached down and tapped his grandma on the head. “Go.”
 
-Grandma Marigold snuck through the bushes until she was in pouncing range of the half-orc. With a coordinated effort from some fellow bandits, she jumped out of the bush and held a knife to the half-orc’s neck. Another bandit held a fully charge arrow shot to the deer’s face.
+Grandma Marigold snuck through the bushes until she was in pouncing range of the half-orc. With a coordinated effort from some fellow bandits, she jumped out of the bush and held a knife to the half-orc’s neck. Another bandit held a fully charged arrow shot to the deer’s face.
 
 “Give us the gold, and no one gets hurt.” Grandma Marigold snarled. “And don’t you even think about yelling for help.” She pressed the knife a little harder up against his neck.
 
-“Sure, let me get that for you.” The half-orc slowly reached into his bag of holding. “I know I have it in here somewhere.
+“Sure, let me get that for you.” The half-orc slowly reached into his bag of holding. “I know I have it in here somewhere.”
 
 The deer didn’t say anything, but dumped his backpack on the ground. All sorts of items came pouring out, but a bag of gold was not one of them.
 
@@ -3080,7 +3080,7 @@ The archer shot the deer in the face, but the arrow slowed down considerably, on
 
 Bandits surrounded the half-orc, who swung his axe in a circle, beheading two bandits in one swing. The cat shot a bandit in the back, and the half-orc plowed his blade into his chest.
 
-The dragonborn took one shot to the back, but seemed unphased. The bandits swarmed him with daggers. So he reached into a pocket and pulled out a potion of green liquid.
+The dragonborn took one shot to the back, but seemed unphased. The bandits swarmed him with daggers. So he reached into his pocket and pulled out a potion of green liquid.
 
 “That’s not what I think it is?” Robin Hood’s mouth dropped.
 
@@ -3098,23 +3098,23 @@ The dragonborn didn’t fall. He removed the arrow from his neck, put it in his 
 
 The kangaroo slept on a rock near the river bank. He lay in a rather awakward-looking position. A sneaky bandit snuck up on him as he slept. The bandit drew his dagger and plunged it into the kang—
 
-The kangaroo rolled over in his sleep, just as the bandit was stabbing him, causing the dagger to get stuck in the rock.
+The kangaroo rolled over in his sleep, just as the bandit was about to stab him, causing the dagger to get stuck in the rock.
 
 The bandit kept his cool, and got his bow out instead. From point-blank range, he shot the kang—
 
-He missed. The arrow went right over the kangaroo’s head, and into campfire, where it promptly burned up.
+He missed. The arrow went right over the kangaroo’s head, and into the campfire, where it promptly burned up.
 
-“He’s asleep! How did you miss??”
+Robin Hood gasped. “He’s asleep! How did you miss??”
 
 A small woman crossed the river behind the bandit. She tapped him on the shoulder, and then as soon as he turned around, she let out a shockwave and disappeared. That shockwave disintegrated the bandit, splashing his blood all over the kangaroo and his rock. The small woman ended up right behind Marigold.
 
 Grandma Marigold was battling the half-orc. True to her skill, she was dodging battle axe swings and cat arrows, using her armor as a useful defensive tool.
 
-“Go Grandma Marigold! Get him!.”
+“Go Grandma Marigold! Get him!”
 
 Grandma Marigold took advantage of the half-orc’s openings and plunged her poison-tipped dagger into his shoulder, his belly, and his ribs. He was tough, but little by little, she was wearing him down.
 
-“Just like she wears me down,” Robin Hood chuckled.
+“Just like she wears me down with her nagging,” Robin Hood chuckled.
 
 The half-orc swung his axe at Grandma Marigold, but she blocked it with her dagger. A blue pawprint appeared on her chest, and she reacted by directing the axe blade in front of her, blocking an arrow from the tree. She slid past the axe and stabbed the half-orc in the gut. Green and red oozed out of his wounds.
 
@@ -3138,13 +3138,13 @@ The sound of bones cracking sent a chill down Robin Hood’s back. Grandma Marig
 
 “Oh look! I found a foot!”
 
-Robin Hood’s foot slammed into the ground faster than he anticipated. He went to lift it back up, but it was stuck on the ground. He tried to lift his other one.
+Robin Hood’s foot slammed into the ground faster than he had anticipated. He went to lift it back up, but it was stuck on the ground. He tried to lift his other one.
 
 “I found another one!”
 
 “What? What is this?” Robin Hood yelled down from his stilts-for-legs vantage point.
 
-“Oh! They’re yours!”
+“Oh! They’re yours!” The small woman shouted.
 
 “Let me go!”
 
@@ -3168,11 +3168,11 @@ The bandits charged toward the group, yelling at the top of their lungs.
 
 Before it could splash down, the small lady spit into the air, and then flicked a glowing finger at it, flinging the magic spit wad at the acid potion. The acid potion exploded mid-air above the bandits! And the magic spit wad became a deluge of water, raining down on the bandits.
 
-The bandits scream as their clothes melted off their skin, their skin melted off their flesh, and their flesh melted off their bones. When the acid rain finally stopped, the bandits were nothing more than a pile of bones and weapons.
+The bandits screamed as their clothes melted off their skin, their skin melted off their flesh, and their flesh melted off their bones. When the acid rain finally stopped, the bandits were nothing more than a pile of bones and weapons.
 
 “I knew I should have hired that necromancer!” Robin Hood cursed. He knelt down to punch the small lady into the ground.
 
-But the half-orc swung his battle axe into his fingers, chopping them off. He swung at his legs even more, making it hard for him to keep his balance.
+But the half-orc swung his battle axe into his fingers, chopping them off. He swung at his legs even more, making it harder for him to keep his balance.
 
 Finally, an arrow shot right through his larger-than-normal skull.
 
@@ -3180,7 +3180,7 @@ Finally, an arrow shot right through his larger-than-normal skull.
 
 *THTHTHUUUDDD!*
 
-The ground shook as he landed. Just at the moment, his hour expired. He shrank back down to his normal size, spewing blood from his mouth as he went down.
+The ground shook as he landed. At the same time, his hour expired. He shrank back down to his normal size, spewing blood from his mouth as he went down.
 
 ===========
 
@@ -3188,7 +3188,7 @@ The ground shook as he landed. Just at the moment, his hour expired. He shrank b
 
 “Your bad habits are rearing up again.” Gra scolded.
 
-“What? You don’t want to do this too?” Reesu gleefully held up the head, making the jaw move as she spoke. “Come and rip me apart, Gra. It’s fun! Come one Gra!” Then she tossed the head to Gra.
+“What? You don’t want to do this too?” Reesu gleefully held up the head, making the jaw move as she spoke. “Come and rip me apart, Gra. It’s fun! Come on Gra!” Then she tossed the head to Gra.
 
 It bounced in Gra’s hands for a bit before he tossed it back. “Keep it to yourself, Reesu.”
 
@@ -3218,7 +3218,7 @@ Gra knelt down in pain.
 
 “I’m fine, just need to walk it off.”
 
-“This one heals you.” Gale laid a paw on Gra, glowing the pain away. Green ooze boiled away and his wounds closed.
+“This one heals you.” Gale laid a paw on Gra, glowing the pain away as the green ooze boiled away and his wounds closed.
 
 “Thanks.”
 
@@ -3232,27 +3232,27 @@ The party looked around, but no one was there.
 
 “Nothing, nothing at all. I’m just here to thank you for taking care of that rapscallion Robin Hood. I couldn’t stand that fellow.”
 
-“Yeah, he was bothering us too.” Gra wiped the blood off his axe.
+“Yeah, he was bothering us too.” Gra wiped the blood from his axe.
 
 “Say, how about a discount on store merchandise? The least I can do for you after such help.” Don snapped his finger and his cart appeared in the middle of their camp. This time, it was an enclosed area the size of half a living room, with a countered window and an outside shelf for the customer. “What can I get for you?”
 
 “I have everything I need right here.” Gra pats his battle axe.
 
-“How about an enhancement?”
+“Well, how about an enhancement?”
 
-Gra looked at his battle axe. It was getting dull from the battles he was fighting, and it had a few nicks and scrapes. It needed it. “Sure. How much?” Gra pulled out his great axe as well and placed both axes on the counter.
+Gra looked at his battle axe. It was getting dull from the years of battles he fought; it picked up a few knicks and scrapes along the way. It needed it. “Sure. How much?” Gra pulled out his great axe as well and placed both axes on the counter.
 
 “For both axes, that’ll be 12,000.”
 
 “What about the Robin Hood discount?”
 
-“10,000.”
+“Oh, right! 10,000.”
 
-“Hmm… that’s steep. Hold on.” Gra hid around the side of the cart so Sui didn’t see. He pulled two patches off his cloak that looked like lumps of yellow. In his hand, they turned into bags of gold. He brought out even more gold from his bag of holding. “How’s this?”
+“Hmm… it’s steep. Hold on.” Gra hid around the side of the cart so Sui didn’t see. He pulled two patches off his cloak that looked like lumps of yellow. In his hand, they turned into bags of gold. He brought out even more gold from his bag of holding. “How’s this?”
 
-Don took it all and counted it up. “Hold on just one second.” Don grabbed the two weapons and pulled a metal barrier down from the ceiling, concealing what he was doing. A moment later, he opened the barrier and handed Gra his two axes.
+Don took it all and counted it up. “Wonderful! Now just hold on a second.” Don grabbed the two weapons and pulled a metal barrier down from the ceiling, concealing what he was doing. A moment later, he opened the barrier and handed Gra his two axes.
 
-They both looked shiny new, and had a magical shimmer to them. Gra swung them one in each hand. “Feels good.” He looks down at the handle. “Heh, looks like I got blood on it already.”
+They both looked shiny new, and had a magical shimmer to them. Gra swung them, one in each hand. “Feels good.” He looks down at the handle. “Heh, looks like I got blood on it already.”
 
 “I can fix that.” Don said. He touched Gra on the shoulder, and the blood instantly vanished. He touched Sui too, cleaning him up instantly.
 
@@ -3264,7 +3264,7 @@ Reesu was kneeling next to Robin Hood’s decapitated corpse gnawing on his leg 
 
 “Oh I’m sorry.” Reesu turned to Gra, mouth dripping with blood. “Did you want some?”
 
-Gra gave her a face.
+Gra gave her a defeated face.
 
 Don exited his shop and walked up to Robin Hood. “Why, don’t mind if I do!” He touched Robin Hood’s corpse and it disappeared. Then he went around, poking everyone with blood on them, and cleaning them in an instant. Then he went back to his shop.
 
