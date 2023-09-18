@@ -3878,7 +3878,7 @@ Gra turned to him. “Nah, it’s actually the Deck of Random Oddities.”
 
 “Would you like to draw a card?” Gra held the deck out to him.
 
-“Sure, I could use some good luck today.” Jodi picked up a card. His pinkie finger fell off. “Is that supposed to happen.”
+“Sure, I could use some good luck today.” Jodi picked up a card. His pinkie finger fell off. “Is that supposed to happen?”
 
 “It’s normal.” Reesu assured. “I pinkie promise!”
 
@@ -3976,7 +3976,23 @@ Revali stared straight into Silber’s robotic eyes. “You’re on. And when I 
 
 === please wait for the official completion announcement ===
 
-After the party had their fun with the cards, it was time to start the day.
+After the party had their fun with the cards, it was time to start the day. And what better way to start than with breakfast?
+
+“I’ll have a sausage with a side of bread.” Reesu ordered.
+
+“Coming right up.”
+
+“And can the bread be extra long?”
+
+“Sure, I’ll see what I can do.” Jodi took the rest of the party’s orders and went into the kitchen.
+
+“That’s an unusual combination.” Gra commented.
+
+“Yeah just wait until you see.”
+
+“Oh! You have something planned for it?”
+
+“Yep!”
 
 “Alright,” Gra put his empty mug on the counter. “I’m going to go find a blacksmith. I’ll be back.”
 
@@ -4018,7 +4034,7 @@ Drathalion nodded.
 
 “And this Jodi is your friend?”
 
-Drathalion showed him the cast on her arm. The illusion around dissipated long enough for Gra to see the “\<3 Jodi” written lovingly on the side.
+Drathalion showed him the cast on her arm. The illusion around it dissipated long enough for Gra to see the “\<3 Jodi” written lovingly on the side.
 
 Gra’s eyes went wide. “I see.” He put his fist to his chin for a moment. “Well, there’s no harm in asking them to go have their fun somewhere else.”
 
@@ -4060,19 +4076,19 @@ Gale took one look, then looked away. “No.”
 
 The sausage in the bread floated into the air and dove into Gale’s mouth. “Eat it!”
 
-“No—mmph!” Gale’s mouth suddenly became full of sausage and bread. His mouth got clamped down around, biting off a big chunk. Then the mouthful all went down his throat, without being chewed.
+“No—mmph!” Gale’s mouth suddenly became full of sausage and bread. His mouth clamped down around it, biting off a big chunk. Then the mouthful all went down his throat, without being chewed.
 
 Gale started turning blue and he gagged.
 
 Gra stood up. “Reesu!”
 
-“Don’t worry,” Reesu waved. “Once it gets to his stomache, he’ll start breathing again.” An outside force helped Gale’s esophogus transport the solid mass into his belly.
+“Don’t worry,” Reesu waved. “Once it gets to his stomache, he’ll start breathing again.” An outside force helped Gale’s esophagus transport the solid mass into his belly.
 
 But he didn’t start breathing again. His throat swelled up.
 
 Jodi came back into the room. “How is everything—oh my gods!” Jodi leaned over the counter with a glowing hand and punched Gale in the gut.
 
-Gale puked all the sausage and bread out of his stomache, along with some clams. He took a deep, wheezing breath as he gagged the last bits of vomit out of his throat.
+Gale puked all the sausage and bread out of his stomach, along with some clams. He took a deep, wheezing breath as he gagged the last bits of vomit out of his throat.
 
 “Are you ok?” Jodi asked.
 
@@ -4088,7 +4104,7 @@ Jodi looked puzzled.
 
 “This one yinglet. Yinglet no eat bread. And for good reason.”
 
-“Hi everyone!” Reesu teased. “I’m a Yinglet! And my one weakness is bread!”
+“Hi everyone!” Reesu teased. “I’m Gale the Yinglet! My one weakness is bread!”
 
 “Reesu!” Gra stared.
 
@@ -4096,9 +4112,33 @@ Jodi looked puzzled.
 
 “Ok, from now on, no one gives Gale any bread.” Gra declared.
 
-A chunk of vomited up bread floated into the air and headed for Reesu’s pocket. It immediately fell to the floor.
+A chunk of vomited up bread floated into the air and headed for Reesu’s pocket. It immediately smashed into the floor.
 
-“Hey!” Reesu looked around. Everyone was already looking at her. She eyed Drathalion, you stared back.
+“Hey!” Reesu looked around. Everyone was already looking at her. She eyed Drathalion, who stared back.
+
+Just then another patron entered the bar. Jodi smiled and waved at her, and she came up to the bar and sat next to the party.
+
+“Hey Daisy, the usual?” Jodi brought her a cup of beverage.
+
+“Same as always.” She smiled. She took a sip and then addressed the party. “Good day.”
+
+“Hi, are you his firbolg girlfriend?” Reesu teased.
+
+“I sure hope not.” Daisy giggled. “I’m his cousin.”
+
+“Oh.” Reesu blushed.
+
+“Hey everyone, this is my cousin, Daisy. Daisy, this is mt friend…” He looked at Drathalion briefly.
+
+Drathalion shook her head subtly.
+
+“Um… These are some new guests in town.”
+
+“Pleased to meet you.” Daisy nodded.
+
+“I like your hair!” Reesu said, as a strand of Daisy’s curly hair floated out towards Reesu.
+
+“Thank you. I take good care of it.” Daisy patted her hair back down.
 
 [scene: daisy arrives]
 
