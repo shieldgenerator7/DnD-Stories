@@ -102,7 +102,7 @@ Cantrip Seen DC = 10 + number of cantrips you know – your level
 Spell Seen DC = 10 + (spell’s level \* 2) + (spell’s level \* number of spell you know at that level) – your level  
 `10 + (spellLevel * 2) + (spellLevel * spellCount[spellLevel]) + classLevel`
 
-Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may improve a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the DC, or put a limit on how many total spells you can attempt to gain with this check or how many you can actually learn in total. This feature imposes no such limitations. Any and all limitations are up to your DM to decide.
+Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the DC, or put a limit on how many total spells you can attempt to gain with this check or how many you can actually learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.
 
 # Reality Observer
 
@@ -115,6 +115,7 @@ At level 1, you gain affinity for spells in your bonded schools, getting bonuses
 -   Powerful: Double any and all dice rolls that you roll for this spell cast.
 -   Replenishing: Regain spell points equal to this spell’s base level after casting this spell.
 -   Quick: Cast this spell as a bonus action, if the spell’s cast time is 1 action.
+-   Reactive: Cast this spell as a reaction, if the spell’s cast time is 1 bonus action.
 -   Reaching: Double your Cast Range for this spell cast.
 -   Remote: Double your Tether Range for this spell cast.
 -   Lasting: Double your Spell Duration for this spell cast.
@@ -261,7 +262,9 @@ At level 5, you can begin to call your area your home. While standing within one
 
 You gain the following Bond Affinity option:
 
--   Permanent: Infinitize your Tether Range and Spell Duration for this spell cast, and double the spell point cost of this spell cast.
+-   Permanent: Infinitize your Tether Range and Spell Duration for this spell cast, if it has an area of effect.
+
+Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself or another creature, it is instead centered on a point in space. When you use your action to dismiss one of your Permanent spells, you must spend spell points equal to the spell’s casted level to do so.
 
 ### Area Fixation
 
@@ -269,7 +272,7 @@ At level 7, your Permanent spells prevent other area of effect spells from effec
 
 ### Area Manipulation
 
-At level 11, you become adept at manipulating areas. Permanent spells you cast in your bonded schools can have 2 Bond Affinity options applied to them.
+At level 11, you become adept at manipulating areas. When you cast a spell with the Permanent Bond Affinity option, you may choose a 2nd Bond Affinity option to apply to it.
 
 ### Area Admin
 
@@ -626,17 +629,17 @@ An Invisible spell can’t be seen by anyone but you. An Invisible spell will no
 
 ### Safe
 
-At level 5, you learn how to make yourself less vulnerable. As an action, you can make yourself ethereal. Alternatively, you can make yourself physical again. While you’re ethereal:
+At level 5, you learn how to make yourself less vulnerable. As an action, you can make yourself ethereal. While you’re ethereal:
 
 -   You can pass through walls.
 -   You are untargetable and immune to all damage types.
 -   Your spells and attacks deal 0 damage.
 
-The duration of this effect is equal to your Spell Duration. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
+The duration of this effect is equal to your Spell Duration. You can dismiss this effect as an action. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
 
 ### Watch Together
 
-At level 7, you can bring guests into your world. When you expend a use of a feature, you can use it on another creature within your Cast Range instead of yourself.
+At level 7, you can bring guests into your world. When you expend a use of another feature, you can use it on another creature within your Cast Range instead of yourself.
 
 This feature includes your Far Watcher Bending Style features:
 
