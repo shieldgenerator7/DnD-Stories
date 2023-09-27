@@ -90,7 +90,19 @@ At level 1, you know 1 cantrip and 1 1st-level spell, both from your bonded scho
 
 You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
 
-When you’re starting a new campaign at 2nd level or higher, you may have already seen a few spells in your bonded schools. At your DM’s discretion, you may roll an ability check in your spellcasting ability to see if you’ve seen the spell be cast before, or have imagined it before. The DC is equal to the spells’ level times 2, plus 10, plus the number of spells you already know of the same level, minus your level in this class. Your DM may modify this DC at their discretion. On a success, you know the spell.
+## Starting with Spells
+
+When you’re starting a new campaign at 1st level or higher, you may have already seen a few spells in your bonded schools. For each spell you think you might know, you may roll an ability check in your spellcasting ability to see if you’ve seen the spell be cast before, or have imagined it before. The DC is equal to the spell’s level times 2, plus 10, plus the spell’s level times the number of spells you already know of the same level, minus your level in this class. For cantrips, the DC is equal to 10 plus the number of cantrips you know, minus your level in this class. Your DM may modify this DC at their discretion. On a success, you know the spell. On a failure, you don’t know the spell before starting the campaign, but you can still learn it during the campaign.
+
+Here is another way of writing the same DCs:
+
+Cantrip Seen DC = 10 + number of cantrips you know – your level  
+`10 + cantripCount - classLevel`
+
+Spell Seen DC = 10 + (spell’s level \* 2) + (spell’s level \* number of spell you know at that level) – your level  
+`10 + (spellLevel * 2) + (spellLevel * spellCount[spellLevel]) + classLevel`
+
+Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may improve a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the DC, or put a limit on how many total spells you can attempt to gain with this check or how many you can actually learn in total. This feature imposes no such limitations. Any and all limitations are up to your DM to decide.
 
 # Reality Observer
 
