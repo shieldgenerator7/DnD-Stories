@@ -100,19 +100,18 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 At level 1, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you may choose up to one Bond Affinity option that you learned to apply to it:
 
--   Focused: Double your spellcasting ability modifier for this spell cast.
 -   Powerful: Double any and all dice rolls that you roll for this spell cast.
 -   Replenishing: Regain spell points equal to this spell’s base level after casting this spell.
 -   Quick: Cast this spell as a bonus action, if the spell’s cast time is 1 action.
--   Capital: Upcast this spell cast to twice its casted level.
 -   Reaching: Double your Cast Range for this spell cast.
 -   Remote: Double your Tether Range for this spell cast.
 -   Lasting: Double your Spell Duration for this spell cast.
--   Animating: Cast this spell without requiring concentration.
 
 You learn one Bond Affinity option at level 1. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
 Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
+
+At level 8, more Bond Affinity options become available for you to choose from.
 
 # Bending Style
 
@@ -139,6 +138,14 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 # Reality Studier
 
 At level 7, when you learn a new spell in your bonded schools, you gain spell points equal to that spell’s casted level.
+
+# Bond Affinity Improvement
+
+At level 8, when you may learn a new Bond Affinity option, you now have more options to choose from:
+
+-   Focused: Double your spellcasting ability modifier for this spell cast.
+-   Capital: Double the amount of levels this spell cast is upcast by.
+-   Animating: Cast this spell without requiring concentration.
 
 # Rejuvenation
 
