@@ -14,6 +14,9 @@ You gain the following effects:
 -On your turn, you may cast an Illusion or Transmutation spell as a bonus action. You may do this a number of times equal to your proficiency bonus, regaining all expended uses after a long rest.
 -If you become unconscious, all effects from your Illusion and Transmutation spells end immediately.
 -A creature that succeeds on an ability check or saving throw against one of your spell effects has advantage on ability checks and saving throws against that spell effect for 24 hours.
+-Your Illusion and Transmutation spells are all modified. They have a cast range of 30ft, a tether range of 90ft, and a duration of 1 hour. A spell effect disappears when it becomes further away from you than your tether range.
+-You may dismiss any Illusion or Transmutation spell effect as an action.
+-At level 7, your cast range and tether range increase by 30ft. They increase again by the same amount at levels 10, 13, 16, and 19.
 
 
 
@@ -48,8 +51,6 @@ You choose a portion of dirt or stone that you can see within range and that fit
 - You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns.
 - If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain.
 
-You can dismiss one change as an action. If a change becomes more than 90ft from you, it reverts. Each change automatically reverts 1 hour after it was made.
-
 
 
 === Deer Shape Water ===
@@ -82,8 +83,6 @@ Duration: 1 hour
 
 You cause a plant within range to rapidly grow out at a creature within 10ft of it. That creature must make a Dexterity saving throw. On a failed save, the plant wraps around the creature.
 While wrapped, if the creature attempts to move outside the plant's 10ft pull radius, the creature must make a Strength saving throw. On a successful save, the creature breaks free of the plant. On a failed save, the creature is pulled to the plant's location and becomes restrained until its next turn.
-
-You can dismiss this effect as an action. If the plant's base becomes more than 90ft from you, it reverts. This effect automatically ends after 1 hour.
 
 At Higher Levels. The plant's initial grow range increases by 10 when you reach 5th level (20), 11th level (30), and 17th level (40).
 
@@ -156,8 +155,6 @@ Duration: 1 hour
 
 You choose a surface on parchment, paper, rock, skin, fabric, water, or other material that you can see within range and imbue it with a potent illusion that lasts for the duration. The illusion appears as up to 15 characters that appear one by one in the order and position you designate.
 
-
-You can dismiss the writing as an action. If the writing becomes more than 90ft away from you, it disappears.
 The writing appears normal, written in any handwriting you have seen, and conveys whatever meaning you intended when you wrote the text. The writing can be written in any language, though the language must be one you can write. The writing can be any color and opacity, and can be any size as long as the 15 characters can all fit together in a 5ft square. If you wish, you may make the characters glow, emitting dim light in a 5ft radius.
 
 
@@ -194,7 +191,6 @@ A creature within 90ft that can see the sphere must succeed on a Constitution sa
 
 A creature within the sphere's 5ft radius that can see automatically counts as being able to see the sphere, and has disadvantage on the save.
 
-You may dismiss the sphere as an action. If it becomes more than 90ft away from you, it disappears.
 You may move the sphere 20ft as a bonus action, if the sphere is within your casting range.
 
 
@@ -223,8 +219,6 @@ A creature can use its action to examine the phantasm with an Intelligence (Inve
 
 While a creature perceives the phantasm as real, the creature can take damage from the illusion. A phantasm created to appear as a creature can attack a target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn creatures within it. Each round on your turn, the phantasm can deal 1d6 psychic damage to affected creatures that are within in the phantasm’s area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The creature perceives the damage as a type appropriate to the illusion. This spell does no damage to undead or constructs.
 
-If the phantasm becomes more than 90ft from you, it disappears. You can dismiss the phantasm as an action.
-
 
 
 === Deer Invisibility ===
@@ -244,5 +238,3 @@ If the target is a creature, anything the target is wearing or carrying is invis
 If the target is an object, anything inside, on top of, or attached to the target is also invisible as long as it stays inside, on top of, or attached to the target.
 
 If a creature touches the target, it may use an action to make an Intelligence (Investigation) check. On a success, it can see the target as if the target wasn't invisible.
-
-If the target becomes more than 90ft from you, the spell ends. You can dismiss this spell as an action.
