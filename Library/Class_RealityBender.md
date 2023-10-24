@@ -687,41 +687,45 @@ At level 3, your mind wanders the plane, conjuring a version of you. Whenever yo
 
 You can see, hear, and sense from your dream self, and you have full control over your dream self. Your dream self is tangible and can interact with objects. You can cast spells from your dream self, using your dream self’s position for the Cast Range and Tether Range.
 
-If your dream self becomes further than your Tether Range from your dream target, your current dream ends. When your dream self is near your dream target for longer than your Spell Duration, your current dream ends. As an action, you can end the current dream. When your current dream ends, a new dream begins and your dream self disappears and reappears within Cast Range of the next most recent thing you thought of before going to sleep.
+If your dream self becomes further than your Tether Range from your dream target, your current dream ends. When your dream self is near your dream target for longer than your Spell Duration, your current dream ends. When your current dream ends, your dream self disappears and you are no longer dreaming.
 
 Your dream self has all your stats and takes damage as normal. If your dream self dies or drops to 0 hit points, it disappears and you wake up. You can’t go back to sleep for at least 10 minutes.
 
-You can have a number of dreams per long rest equal to your level in this class divided by 2, minimum of 2. When you’re not dreaming, you see only blackness and you don’t perceive time.
+While you’re not dreaming, you may begin a new dream at any time. You can have a number of dreams per long rest equal to your level in this class divided by 2, minimum of 2. When you begin a new dream, you may choose a new dream target. You must choose a different dream target for each dream in a long rest.
 
-When you wake up, you must make a DC15 ability check in your spellcasting ability. On a success, you remember everything that happened in the dream. On a failure, you forget everything that happened in the dream, but can remember the places you went to, the faces of the people you met, and any creatures and/or objects that you saw.
+When a dream ends, you must make a DC15 ability check in your spellcasting ability. On a success, you remember everything that happened in the dream. On a failure, you forget everything that happened in the dream, but can remember one detail about a place you went to, a person you met, or a creature and/or object you saw.
+
+When you’re not dreaming, you see only blackness and you don’t perceive time.
 
 ### Sleep Form
 
-At level 5, you’re unbound from your physical form. When you enter a new dream, your dream self can appear as any creature you’ve seen before. It still has your stats and abilities. It gains 1 feature of the chosen creature, and can use that feature once per dream.
+At level 7, you’re unbound from your physical form. When you enter a new dream, your dream self can appear as any creature you’ve seen before. It still has your stats and abilities. It gains 1 feature of the chosen creature, and can use that feature once per dream.
 
 ### Dream Logic
 
-At level 3, your dream self can teleport. You gain the following Bond Affinity option:
+At level 5, your dream self can teleport. You gain the following Bond Affinity option:
 
--   Dream Logic: Teleport your dream self to a space in range and then cast this spell from that new location. The range is equal to the spell points spent to cast this spell times 5.
+-   Dream Logic: Teleport your dream self to a space in range and then cast this spell from that new location. The range is equal to 5 times the sum of the spell points spent to cast this spell and the value of your Dream Die.
 
 Whenever your dream self would fall or otherwise be forced to move, you may make an ability check in your spellcasting ability instead. On a success, your dream self doesn’t fall or get moved forcefully, becoming ethereal if necessary to avoid sharing a space with another creature or object. It becomes solid again when it is no longer sharing a space with that creature or object. On a failure, your dream self falls or gets moved forcefully like normal.
 
 ### Stasis
 
-At level 5, your dreams protect you. Whenever you go to sleep, you gain temporary hp equal to your proficiency bonus plus your spellcasting modifier plus your level in this class. Whenever a new dream begins, you regain these temporary hit points. When you wake up, you lose these temporary hit points.
+At level 5, your dreams protect you. Whenever you go to sleep, and at the start of each of your turns while sleeping, you gain temporary hp equal to the value of your Dream Die. When you wake up, you lose these temporary hit points.
 
-### Dream Spells
+### Dream Lucidity
 
 At level 7, you gain better control over your dreams. You gain the following Bond Affinity option:
 
--   Lucid Dreaming: This spell cast refreshes the duration of your current dream.
+-   Lucid Dreaming: This spell cast refreshes the duration of your current dream and increases the value of your Dream Die by 1.
 
-Whenever you end a dream, you regain all spell points spent during that dream.
+As an action, you may end the current dream.
+
+Whenever a dream ends, you regain spell points equal to the value of your Dream Die.
 
 ### Location Shift
 
-At level 11, you can change locations. When you use your action to end the current dream, you can bring any number of other people, things, and/or creatures within your Cast Range with you to the new dream. If a new dream doesn’t begin immediately, this feature has no effect.
+At level 11, you can change locations. When you use your action to end the current dream, and start a new dream immediately, you can bring any number of other people, things, and/or creatures within your Cast Range with you to the new dream. If a new dream doesn’t begin immediately, this feature has no effect.
 
 Creatures and objects you bring with you teleport to an unoccupied space within your Cast Range at the new location. If there’s not a valid location for a creature or object to land in, it doesn’t get brought through.
 
@@ -731,7 +735,7 @@ You can use this feature once per long rest.
 
 At level 15, you can fight nightmares. You can end a dream as a reaction. When you end a dream, you can undo one negative event that happened in that dream:
 
--   The death of a player, NPC, or pet. They come to life at full health.
+-   The death of a player, NPC, or pet. They come to life with an amount of hit points equal to the value of your Dream Die.
 -   The destruction of an item.
 -   The casting of a specific spell that was cast within the last round.
 -   An action or bonus action that another creature took.
@@ -742,9 +746,16 @@ At level 15, you can wake up in your dream. When a dream ends, you can choose to
 
 ### Dream Variance
 
-At level 20, your dreams take on a mind of their own. When a dream begins, you roll a d20, and the result effects what kind of dream it is:
+At level 3, your dreams can take on a mind of their own. You get a d20, which is called your Dream Die. When a dream begins, roll your Dream Die. The value of your Dream Die determines what kind of dream you’re having:
 
--   1-5: Nightmare. Your dream self takes double damage and deals half damage, rounded down. Your spells cost twice as many spell points to cast.
--   6-10: Dousy. Your dream self has disadvantage on all saving throws and ability checks.
--   11-15: Pleasant Jaunt. Your dream self has advantage on all saving throws and ability checks.
--   16-20: Dream Dream. Your dream self takes half damage, rounded down, and deals double damage. Your spells cost half as many spell points to cast, rounded down.
+-   1-5: Nightmare. Add your proficiency bonus to the damage your dream self takes, and the spell point cost of spells your dream self casts. Subtract your proficiency bonus from the damage your dream self deals, and the result of saving throws and ability checks your dream self makes.
+-   6-9: Doozy. Subtract your proficiency bonus from the result of saving throws and ability checks your dream self makes.
+-   10-11: Neutral. Nothing is changed.
+-   12-15: Pleasant Jaunt. Add your proficiency bonus to the result of saving throws and ability checks your dream self makes.
+-   16-20: Dream Dream. Subtract your proficiency bonus from the damage your dream self takes, and the spell point cost of spells your dream self casts. Add your proficiency bonus to the damage your dream self deals, and the result of saving throws and ability checks your dream self makes.
+
+You Dream Die value can range from 1 to 20.
+
+After your dream self takes damage, make a saving throw in your spellcasting ability. On a failure, reduce your Dream Die’s value by 1.
+
+After your dream self casts a spell, you may make an ability check in your spellcasting ability. On a success, increase your Dream Die’s value by 1.
