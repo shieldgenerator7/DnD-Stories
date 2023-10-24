@@ -11,10 +11,9 @@ Minotaur's Maze
 Reality Bender
 Astalir Feat
 You gain the following effects:
--You may cast Illusion and Transmutation spells without expending a spell slot.
--On your turn, you may cast an Illusion or Transmutation spell as a bonus action.
+-On your turn, you may cast an Illusion or Transmutation spell as a bonus action. You may do this a number of times equal to your proficiency bonus, regaining all expended uses after a long rest.
 -If you become unconscious, all effects from your Illusion and Transmutation spells end immediately.
--A creature that succeeds on an ability check or saving throw against one of your spell effects has advantage on ability checks and saving throws against that spell effect for a week.
+-A creature that succeeds on an ability check or saving throw against one of your spell effects has advantage on ability checks and saving throws against that spell effect for 24 hours.
 
 
 
@@ -67,9 +66,7 @@ You choose an area of water that you can see within range and that fits within a
 - You instantaneously move or otherwise change the flow of the water as you direct, up to a distance of 10ft, where the water stays in place. This movement doesn’t have enough force to cause damage.
 - You cause the water to form into simple shapes and animate at your direction.
 - You change the water’s color and/or opacity. The water must be changed in the same way throughout.
-- You freeze the water. If the water is still frozen when this effect ends, it unfreezes.
-
-You can dismiss one change as an action. If a change becomes more than 90ft from you, it reverts. Each change automatically reverts 1 hour after it was made.
+- You freeze the water. If the water is still frozen when this effect ends, it unfreezes. If there is a creature in the water, they must succeed on a Dexterity saving throw or be stuck in the ice. A creature stuck in the ice may use their action to make a Strength ability check, and on a success, break free of the ice.
 
 
 
@@ -104,9 +101,9 @@ Duration: Concentration, 1 hour
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot you can see within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
 
-On your turn, you can animate it as you direct and move the image to any spot. If the image becomes more than 90ft away from you, it disappears.
+On your turn, you can animate it as you direct and move the image to any spot as a free action. As an action, you can alter the illusion in any way you want.
 
-Physical interaction with the image reveals that things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. A creature gets advantage on this check if they notice the image interacting unnaturally with its surroundings. If a creature discerns the illusion for what it is, the creature can see through the image.
+Physical interaction with the image reveals that it is an illusion. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. A creature gets advantage on this check if they notice the image interacting unnaturally with its surroundings. If a creature discerns the illusion for what it is, the creature can see through the image.
 
 
 
@@ -151,7 +148,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 === Deer Illusory Script ===
 
 Deer Illusory Script
-Illusion 1 (ritual)
+Illusion Cantrip
 Casting Time: 1 action
 Range: 30ft
 Components: S
@@ -159,11 +156,9 @@ Duration: 1 hour
 
 You choose a surface on parchment, paper, rock, skin, fabric, water, or other material that you can see within range and imbue it with a potent illusion that lasts for the duration. The illusion appears as up to 15 characters that appear one by one in the order and position you designate.
 
-The writing appears normal, written in any handwriting you have seen, and conveys whatever meaning you intended when you wrote the text. The writing can be written in any language, though the language must be one you can speak or write. The writing can be any color and opacity, and can be any size as long as the 15 characters can all fit together in a 5ft square. If you wish, you may make the characters glow, emitting dim light in a 5ft radius.
 
 You can dismiss the writing as an action. If the writing becomes more than 90ft away from you, it disappears.
-
-If you ritual cast it, there is no character limit.
+The writing appears normal, written in any handwriting you have seen, and conveys whatever meaning you intended when you wrote the text. The writing can be written in any language, though the language must be one you can write. The writing can be any color and opacity, and can be any size as long as the 15 characters can all fit together in a 5ft square. If you wish, you may make the characters glow, emitting dim light in a 5ft radius.
 
 
 
@@ -197,9 +192,10 @@ A dazzling 5ft-radius sphere of flashing, colored light appears at a point withi
 
 A creature within 90ft that can see the sphere must succeed on a Constitution saving throw against your spell save DC, or be blinded until its next turn.
 
-A creature within the sphere's 5ft radius that can see automatically counts as being able to see the sphere, and has disadvantage on the save. A creature with darkvision also has disadvantage on the save.
+A creature within the sphere's 5ft radius that can see automatically counts as being able to see the sphere, and has disadvantage on the save.
 
 You may dismiss the sphere as an action. If it becomes more than 90ft away from you, it disappears.
+You may move the sphere 20ft as a bonus action, if the sphere is within your casting range.
 
 
 
@@ -243,9 +239,9 @@ Duration: 1 hour
 
 A creature or object you can see in range becomes invisible until the spell ends. The target must be able to fit into a 10ft cube.
 
-If the target is a creature, anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends if the target attacks or casts a spell.
+If the target is a creature, anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends if the target deals damage or takes damage.
 
-If the target is an object, anything inside, on top of, or attached to the target is invisible as well as long as it stays inside, on top of, or attached to the target.
+If the target is an object, anything inside, on top of, or attached to the target is also invisible as long as it stays inside, on top of, or attached to the target.
 
 If a creature touches the target, it may use an action to make an Intelligence (Investigation) check. On a success, it can see the target as if the target wasn't invisible.
 
