@@ -251,25 +251,37 @@ You seek to build a new environment that is to your liking.
 
 ### Area Creation
 
-At level 3, you gain affinity for area of effect spells. As a bonus action, you may target an existing area of effect spell in your bonded schools, and increase its radius by 5ft or its diameter by 10ft. Alternatively, you can decrease its radius or diameter by the same amount.
+At level 3, you gain affinity for area of effect spells. As a bonus action, you may target an existing area of effect spell in your bonded schools, and increase its radius (or diameter) up to an amount depending on your level, as shown in the following chart. Alternatively, you can decrease its radius (or diameter).
+
+|    | Effect Radius Increase | Effect Diameter Increase |
+|----|------------------------|--------------------------|
+| 3  | 5ft                    | 10ft                     |
+| 5  | 10ft                   | 20ft                     |
+| 7  | 20ft                   | 40ft                     |
+| 11 | 50ft                   | 100ft                    |
+| 15 | 100ft                  | 200ft                    |
+
+The target spell must be within your Cast Range. The radius can’t exceed the Tether Range of the spell, or go below 0. If the radius gets reduced to 0, the spell ends.
+
+You may use this feature on an area of effect spell that you did not cast, as long as it is in your bonded schools. If the spell doesn’t have a Tether Range, you use your Tether Range for determining the max radius you can expand it to.
+
+### Area Permanence
+
+At level 5, you learn how to make your spells stable long-term.
 
 You gain the following Bond Affinity option:
 
--   Wide: Double the effect radius and/or diameter of this spell cast, if it has an area of effect.
-
-### Home Advantage
-
-At level 5, you can begin to call your area your home. While standing within one of your Permanent spells, you gain 1 spell point at the start of each of your turns.
-
-You gain the following Bond Affinity option:
-
--   Permanent: Infinitize your Tether Range and Spell Duration for this spell cast, if it has an area of effect.
+-   Permanent: Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect.
 
 Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself or another creature, it is instead centered on a point in space. When you use your action to dismiss one of your Permanent spells, you must spend spell points equal to the spell’s casted level to do so.
 
+### Home Advantage
+
+At level 5, you can begin to call your area your home. Each of your Permanent spells contributes to the combined area called your Permanent Area. While standing within your Permanent Area, you gain 1 spell point at the start of each of your turns.
+
 ### Area Fixation
 
-At level 7, your Permanent spells prevent other area of effect spells from effecting its area, unless that other spell is also Permanent.
+At level 7, other spells have no effect in your Permanent Area, unless that other spell is also Permanent.
 
 ### Area Manipulation
 
@@ -279,9 +291,15 @@ At level 11, you become adept at manipulating areas. When you cast a spell with 
 
 At level 15, you gain advanced control over who can access your areas.
 
-As an action, you may choose a creature outside all your Permanent spells. That creature takes 10d10 force damage per round while they’re in any of your Permanent spells. This effect lasts until that creature is no longer in your Tether Range or it lasts longer than your Spell Duration.
+As an action, you may choose a creature outside your Permanent Area to mark as Banned. At the start of a Banned creature’s turn, if it’s inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square not in your Permanent Area. This effect also happens the first time the creature enters your Permanent Area on its turn.
 
-As an action, you may choose a creature inside one of your Permanent spells. That creature takes 10d10 force damage per round while they’re outside any of your Permanent spells such that they are no longer in any of your Permanent spells. This effect lasts until that creature is no longer in your Tether Range or it lasts longer than your Spell Duration.
+As an action, you may choose a creature inside your Permanent Area to mark as Penned. At the start of a Penned creature’s turn, if it’s not inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square in your Permanent Area. This effect also happens the first time the creature exits your Permanent Area on its turn.
+
+As an action, you may remove a Banned or Penned mark from a creature.
+
+Each mark is permanent, and you may mark an infinite number of creatures. If you attempt to mark an already-marked creature, the new mark replaces the old mark.
+
+If a creature would take damage from this feature, you may instead reduce that damage to any amount, minimum 0.
 
 ## Reality Fixer
 
