@@ -78,7 +78,7 @@ As an action, you may dispel any spell that you had casted from your bonded scho
 
 ## Spellcasting Ability
 
-Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma. This will be your spellcasting ability for your spells. You use this chosen spellcasting ability whenever a spell refers to your spellcasting ability. In addition, you use your spellcasting ability modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
+Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma. This will be your spellcasting ability for your spells. You use this chosen ability whenever a spell refers to your spellcasting ability. In addition, you use your spellcasting ability modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your chosen spellcasting ability modifier
 
@@ -99,7 +99,7 @@ Here is another way of writing the same DCs:
 Cantrip Seen DC = 10 + number of cantrips you know – your level  
 `10 + cantripCount - classLevel`
 
-Spell Seen DC = 10 + (spell’s level \* 2) + (spell’s level \* number of spell you know at that level) – your level  
+Spell Seen DC = 10 + (spell’s level \* 2) + (spell’s level \* number of spells you know at that level) – your level  
 `10 + (spellLevel * 2) + (spellLevel * spellCount[spellLevel]) + classLevel`
 
 Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the DC, or put a limit on how many total spells you can attempt to gain with this check or how many you can actually learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.
@@ -151,14 +151,14 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 # Reality Studier
 
-At level 7, when you learn a new spell in your bonded schools, you gain spell points equal to that spell’s casted level.
+At level 7, when you learn a new spell in your bonded schools, you regain spell points equal to that spell’s casted level.
 
 # Bond Affinity Improvement
 
 At level 8, when you may learn a new Bond Affinity option, you now have more options to choose from:
 
 -   Focused: Double your spellcasting ability modifier for this spell cast.
--   Capital: Double the amount of levels this spell cast is upcast by.
+-   Capital: Double the amount of levels this spell cast is upcast by, if it is already being upcast.
 -   Animating: Cast this spell without requiring concentration.
 
 # Rejuvenation
@@ -175,7 +175,7 @@ At level 13, when one of your spells ends, you sense it, and may use your reacti
 
 # Refill
 
-At level 15, you can replenish your spell points. As a bonus action, add spell points equal to your current health to your spell points. Once you use this feature, you can’t do so again until you finish a short or long rest.
+At level 15, you can replenish your spell points. As a bonus action, regain spell points equal to your current health. Once you use this feature, you can’t do so again until you finish a short or long rest.
 
 # Bending Styles
 
@@ -207,11 +207,13 @@ You gain the following Bond Affinity option:
 
 -   Chaotic: Spend chaos points for this spell cast instead of spell points. Touch this spell cast with your chaos, also touching creatures effected by this spell cast with your chaos.
 
+You don’t gain chaos points from casting a Chaotic spell.
+
 ### Chaos Spread
 
 At level 3, you can’t contain your chaos as it spreads.
 
-When a creature touched by your chaos casts a spell or makes an attack, that spell or attack is also touched by your chaos. A spell that is touched by your chaos causes everything it targets or in its area of effect to also be touched by your chaos.
+When a creature touched by your chaos casts a spell or makes an attack, that spell or attack is also touched by your chaos. A spell that is touched by your chaos causes everything it targets or in its area of effect to also be touched by your chaos. An attack that is touched by your chaos causes its target to also be touched by your chaos, if it hits.
 
 A creature and/or object remains touched by your chaos until:
 
@@ -307,7 +309,7 @@ You fix reality to the way you believe it is originally meant to be. You believe
 
 ### Bond Disdain
 
-At level 3, you can disrupt others who are casting spells in your bonded schools. Whenever a creature casts a spell, you may use your reaction to apply a Bond Disdain option to it:
+At level 3, you can disrupt others who are casting spells in your bonded schools. Whenever you or another creature casts a spell, you may spend 1 spell point to apply a Bond Disdain option that you learned to it:
 
 -   Costly: Double the amount of spell slots and/or spell points spent to cast this spell.
 -   Close: Half this spell’s cast range.
@@ -327,8 +329,6 @@ At level 5, you learn how to stop reality from breaking. As an action, you can d
 ### Prevention
 
 At level 7, you learn how to prevent reality from being broken. As a reaction, you can counter any spell from your bonded schools. Either the caster or the spell must be within your Cast Range.
-
-Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ### Vindication
 
@@ -380,7 +380,7 @@ When a vessel no longer has any of your shared spells, they are no longer consid
 
 ### Vessel Casting
 
-At level 5, you can cast spells from your vessels. You gain the following Bond Affinity option:
+At level 7, you can cast spells from your vessels. You gain the following Bond Affinity option:
 
 -   Proxied: Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
 
@@ -392,11 +392,9 @@ You may use your Reality Observer and Affinity Assist features on spells that a 
 
 ### Worship
 
-At level 11, your power grows the more your name is said. A vessel may use its bonus action to say your name, granting you spell points equal to your spellcasting ability modifier.
+At level 11, your power grows the more your name is said.
 
-A vessel may spend 1 minute to praise you, granting you spell points equal to your spellcasting ability score.
-
-Once a vessel uses this feature, they can’t do so again until they finish a short or long rest.
+At the start of a vessel’s turn, they may say your name, granting you 1 spell point.
 
 ### Unity
 
@@ -634,36 +632,37 @@ Whenever you or another creature you can see dies, you may use your reaction to 
 
 You don’t really want to participate in reality, and prefer to watch it unfold instead.
 
-### Stealthy
+### Bystander
 
-At level 3, you learn how to keep other people from interacting with you. As an action, you make yourself invisible. Alternatively, you can make yourself visible. The duration of this effect is equal to your Spell Duration. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
+At level 3, you learn how to keep other people from interacting with you. As an action, you can make yourself invisible. The duration of this effect is equal to your Spell Duration. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
+
+As an action, you can dismiss this effect.
+
+This effect ends automatically if you attack or cast a spell.
 
 ### Unseen Casting
 
 At level 3, you how to keep your spells from giving you away. You gain the following Bond Affinity option:
 
--   Invisible: Make this spell cast and its effects invisible.
+-   Invisible: Make this spell cast and its effects invisible. Casting this spell doesn’t end invisibility effects.
 
-An Invisible spell can’t be seen by anyone but you. An Invisible spell will not give away your location or inform other creatures that it was you who cast it. An Invisible spell that mentions you in the description instead mentions nobody.
+An Invisible spell can’t be seen by anyone but you. An Invisible spell will not give away your location or inform other creatures that it was you who cast it, nor will it end the Bystander effect. An Invisible spell that mentions you in the description instead mentions nobody.
 
 ### Safe
 
-At level 5, you learn how to make yourself less vulnerable. As an action, you can make yourself ethereal. While you’re ethereal:
+At level 5, you learn how to make yourself less vulnerable. Whenever you use your Bystander feature, you can make yourself ethereal in addition to or instead of invisible. While you’re ethereal:
 
 -   You can pass through walls.
 -   You are untargetable and immune to all damage types.
 -   Your spells and attacks deal 0 damage.
 
-The duration of this effect is equal to your Spell Duration. You can dismiss this effect as an action. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
-
 ### Watch Together
 
-At level 7, you can bring guests into your world. When you expend a use of another feature, you can use it on another creature within your Cast Range instead of yourself.
+At level 7, you can bring guests into your world. When you expend a use of another feature, you can use a copy of it on another creature within your Cast Range in addition to yourself.
 
 This feature includes your Far Watcher Bending Style features:
 
--   Stealthy
--   Safe
+-   Bystander (& Safe)
 -   Predictive
 -   Removed from Reality
 
