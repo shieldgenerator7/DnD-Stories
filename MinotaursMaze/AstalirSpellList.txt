@@ -20,6 +20,12 @@ You gain the following effects:
 
 
 
+=== Adept Illusionist ===
+
+You can cast an Illusion or Transmutation spell you know without expending a spell slot by increasing the cast time to 1 minute. The spell must normally have a cast time of 1 action or 1 bonus action, and must require concentration. You cannot upcast with this feature.
+
+
+
 === Quadrupedism ===
 
 Quadrupedism
@@ -32,7 +38,7 @@ You have the uncanny ability to transition onto all fours to aid in agility and 
 
 Antlers
 Deerkin Feat
-Adult male Deerkin grow antlers over the year which will last until Midwinter or Spring. When in possession of full antlers, you gain an additional 2 points to Constitution and 1 point to Charisma. Antlers can satisfy the Somatic requirement of a spell you cast.
+Adult male Deerkin grow antlers over the year which will last until Midwinter or Spring. When in possession of full antlers, you gain an additional 2 points to Constitution and 1 point to Charisma. Antlers can satisfy the Vocal, Somatic, and Material requirements of spells you cast.
 
 
 
