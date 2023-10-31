@@ -4439,3 +4439,621 @@ Sui snores in response.
 [scene 30: sui clone gets shot, falls down]
 
 [scene 31: drath knows who it is]
+
+# Chapter 14
+
+# Chapter 15
+
+# Act 2 Chapter 1
+
+# Act 2 Chapter 2
+
+# Act 2 Chapter 3
+
+Reesu and Astalir hop back onto their ship. Reesu turns around and shoves the merchant ship away so the angry crew members can’t chase them to get their stuff back. Reesu waves at them as they stare back, “So long suckers!”
+
+Gra put a hand above his eyes. “Wait, those aren’t pirates, or suckers! Those are merchants. You stole from merchants!”
+
+Reesu reached into a bag. “Yeah, and do you want to know what I stole?”
+
+Gra groaned. “Do I want to know?”
+
+“Sure you do.” Reesu pulled out a long slender cylinder with a hole at one end. It had a white substance encrusted on it. “And I don’t think they were merchants, wink wink.”
+
+Gra turned away and gagged. “Get that away from me.”
+
+The cylinder floated in front of Gra’s face. “C’mon, you know you want it. You know you *need* it.”
+
+“Reesu,” Gra inched away on the railing, watching the other ship float away. “You need to respect my boundaries.”
+
+“And you need to respect your neeeeds…”
+
+“One of these days, I’m going to throw a punch at you, and you’re not going to know when.”
+
+“Give it your best shot,” Reesu snarked. “For now, I’ll just stick this in here for when you need it.” Reesu opened Gra’s bag of holding and the cylinder floated down into it with a playful jerk.
+
+Meanwhile, Astalir was below deck going through all the rooms. He entered a room and the furniture started shifting, the drawers opened, and knick-knacks flew around the room. After a few seconds, it all dropped lifelessly on the floor and Astalir left.
+
+He went in Daisy’s room, who hid under her covers to shield herself from the commotion. “Who are you and what are you doing in my room?”
+
+Astalir looked at her with a blank stare as the room continued to thrash about. Then he left, leaving everything to fall down.
+
+Astalir walked into Shank’s room, who was still fast asleep from all his alcohol consumption the previous night. The chair cushion flew to the ceiling, the desk drawer spilled onto the floor, and a set of jacks flew around the room.
+
+Shank’s eyes peaked open. He spied fresh meat, just delivering itself to him. His stomache rumbled. He grabbed his shortsword under his blanket and prepared to lift the covers up.
+
+“Foooood!” He swung his sword with enough force to launch himself out of bed and into the deer.
+
+Astalir reacted by headbutting the sword, catching it in his antlers.
+
+Shank jiggled the sword back and forth, but it wouldn’t come free. Wasting no time, he unsheathed his cutlass and slashed under, hitting Astalir in the neck and drawing blood.
+
+Astalir grunted, twisted his neck, and flung Shank’s sword out of his hands. The sword twirled into the wall, making a shiny platform big enough for a mouse. Astalir snorted out his nostrils.
+
+Shank stood there, staring at the deer, glancing at his sword. He tried to swing his cutlass or any of his other weapons, but Astalir blocked them with his antlers. Shank hesitated to strike, lest he loose another weapon.
+
+Suddenly a big tall green half-orc barged through the open doorway and punched the small green goblin in the face. “That’s *my* deer you’re hurting! You don’t hurt my deer!”
+
+Shank growls at Gra.
+
+“What’s going on?” Reesu pushes in past Gra. “Oh my little Shank, what’re they doing to you. Come here, Shank.” Reesu pats her knees at Shank.
+
+“Shank no understand. Who green giant? Why deer in room? Why deer no food? Where Shank?”
+
+“We’re on a boat. That green guy is Gra, he’s my *friend*. This deer is Astalir, you know him, remember?”
+
+“Shank no remember deer.”
+
+Reesu’s eyes went wide, and then shifted left and right. “Oh, that’s riiiight… Shank, this is Drathalion.”
+
+“But Drathalion cat. No deer.”
+
+“*Drathalion*…” Reesu nudged Astalir.
+
+Astalir jumped onto two legs and, with antlers aglow, morphed into the image of the cat, Drathalion. “Hello, I’m Astalir. Or as you know me, Drathalion.”
+
+“Cat… deer?”
+
+“Yes, Shank. The cat is the deer.”
+
+Drathalion dropped onto all fours and morphed back into Astalir. “It’s me, Shank.”
+
+“But Shank want eat deer.”
+
+“No Shank, we can’t him.” Reesu smiled evilly. “Because we’re saving him for later.”
+
+“What?!” Astalir’s jaw dropped.
+
+Reesu’s cheek compressed suddenly like it got hit by a ball. “Ow.”
+
+Astalir scowled.
+
+“We can’t eat him because he’s sapient. Just barely.”
+
+Astalir rolled his eyes. “And I talk.”
+
+Shank nodded slowly. “Ah…. so deer talk mean we no eat deer.”
+
+“Yes.”
+
+Gra lowered his fists slowly. “So, you’re not going to hurt my deer again?”
+
+“Shank no harm deer. Deer… friend.”
+
+“Ok.” Gra rubbed his forehead. “Reesu, why do you always gotta grab the weird ones?”
+
+“I grabbed you didn’t I?”
+
+Gra groaned.
+
+“Actually, Shank is quite powerful. Watch this.” Astalir’s antlers lit up as a tiny version of Shank, Bob, and Drathalion appeared on the desk. The tiny Shank fell out of the sky and fell Bob with a quick flurry of slices. Tiny Drathalion shot tiny Shank in the back, but that didn’t stop him. Tiny Shank lept onto her, slicing her up good. Tiny Drathalion threw up a rock wall between them and limped away. But tiny Shank was too fast, easily getting around the wall and stabbing her unconscious. Then, the tiny version disappeared. “He’s a super skilled fighter. He could come in handy.” Then Astalir looked at Gra’s face.
+
+It was pure rage. His neck veins were bulging, and his fist and arm muscles were throbbing. He pulled his fist back for a punch. “You little shi—”
+
+Astalir nuzzled his side. “I’m ok. I’m ok. It’s ok, Gra. I’m ok.”
+
+Gra breathed heavily in and out. “But he hurt you. He *hurt* you.”
+
+“It was a controlled encounter, a test of skill. Don was there to heal us right back up. It’s ok, he’s with us.”
+
+Gra glanced at Astalir, and all he saw was the slash in Astalir’s neck. “Then what’s this!” He turned back to Shank. “You’ll pay for that!” Gra plunged his fist straight into Shank’s face, but stopped just short of an inch from him.
+
+Reesu held out a hand, pulling on invisible reigns. “Gra, it was a misunderstanding. Let it go.”
+
+“Reesu, let me go.”
+
+“Gra, you need to calm down.”
+
+“Let me go!”
+
+“Ok, Gra, you know what you need? You need to cool off.”
+
+The sound of raindrops hitting the top deck echoed down to their chambers.
+
+“Ah! How about a swimming lesson?”
+
+“I swear to god, Reesu, if you try to get me to do a swimming lesson again I’ll—”
+
+“Come on, it’s been so long since you had one.”
+
+“But I already know how to swiiiiii…”
+
+Reesu effortlessly yanked Gra through the air into the hallway and up the stairs to the top deck.
+
+Astalir and Shank exchanged worried glances before bolting out of the room to follow the little girl and half-orc.
+
+“C’mon Gra!”
+
+“No! It’s fucking raining! I don’t want to swim today!”
+
+“You wouldn’t want to swim *any* day. And besides, today’s a great day for a swim!”
+
+“I’d rather swim in a pond!”
+
+Reesu carried Gra with invisible limbs as he flailed helplessly about, grabbing fruitlessly onto any piece of wood he could reach.
+
+“It’s important to me that you know how to swim.”
+
+“Why now! You know I can swim!”
+
+“No I don’t.”
+
+“I saved Astalir, remember? I swam out to save him.”
+
+“You merely got carried by the current into him.”
+
+“Then how did I carry him back to shore?”
+
+“Brute strength.”
+
+“That’s swimming!”
+
+“Nuh-uh.” Reesu hung Gra over the edge of the boat.
+
+“What Reesu doing? Don’t throw Gra overboard!” Gale exclaimed, using his tunic to keep his head dry.
+
+“It’s ok, Gale, I’m just teaching Gra how to swim.”
+
+“In the rain? Reesu mad?”
+
+Reesu pushed Gale away. “Remember, Gra, dive feet first!” Reesu let go.
+
+“Fuck yoooouuuu….” Gra gave her the finger as he fell off the side of the ship. He grabbed onto the side of the ship, catching his hand on a splinter, slicing it open. He grabbed the splinter, but the splinter broke off and he plunged into the water.
+
+“Gra! Look down!” Astalir yelled from the deck.
+
+Below Gra, the water calmed and frosted over. A floating disk of ice formed just under Gra’s feet. He landed with a thud and a crack, but he took no damage and the ice disk held. He slid on his stomache toward the edge, but a spike appeared on the surface, allowing him to get a grip.
+
+“How you doin’ down there, Gra?” Reesu called out.
+
+“Just fine, no thanks to you.”
+
+“Oh, an ice sheet? That’s cheating.” Reesu dove into the water, splashing cold water all over Gra, who was already drenched from the rain. “That’s no way to learn how to swim. Unless you’re cool now?”
+
+“You’re not going to stop me, Reesu. He’ll get what he deserves.”
+
+“Ok, it’s time for your first lesson then!” Reesu smiled. “The doggy paddle!”
+
+Frost in the shape of tentacles melted around the edge of the ice sheet. The ice sheet slowly sinking into the ocean.
+
+Gra grabbed onto the spike in the middle of the disk, delaying the inevitable. “Reesuuu!”
+
+“Catch!” A rope dropped down and hit Gra in the face. He looked up, and there were Astalir and Shank looking down at him.
+
+“Don’t you dare touch a single hair on his furry hide!” Gra shouted up.
+
+“Nah-uh-uh!” Reesu pulled the rope away from Gra. She continued forcing the disk down.
+
+As the disk sank, Gra’s hand submerged into the water, spilling and diffusing blood into it.
+
+The local wildlife took notice, and eagerly sought their prey. Five shark fins appeared above the surface of the water, swimming steadily towards Gra.
+
+“Reesu! Sharks!” Gra pointed, hand shaking.
+
+“Don’t worry, you’re in no danger.”
+
+“But I can’t use my great axe in the water!”
+
+“Don’t worry about it.”
+
+The sharks got closer.
+
+“Reesu!”
+
+“Fiiine…” Reesu pointed up at the thunder storm raining on their “swimming lesson”, sending a spark up into the dark clouds. Then a bolt of lightning struck a shark, frying it instantly. The electricity spread out in an area, frying two other sharks too. The three fried sharks floated belly-up to the surface of the water.
+
+Gra’s arm hairs stood on end, slightly singed. “Reesu, that was stupid! You’re also in the water! I’m in the water! *We’re* in the water!”
+
+Reesu shrugged. “We’re still here, aren’t we? Besides, a little shock won’t kill you.”
+
+“Reesu, that kills people!”
+
+“Well, not *you* specifically.”
+
+“Reesu!”
+
+“Fine, I’ll deal with them another way.” The tentacle-shaped marks on the floating ice disk filled in with water and the ice started rising again. One of the sharks coming at Gra floated up into the air and flopped for dear life.
+
+The last shark came straight for Gra, mouth wide open, bearing rows and rows of sharp teeth.
+
+Gra reached into his bag of holding for a javelin and jammed it into the shark’s mouth. He hoisted it up into the air and held it there like a hotdog on a campfire stick.
+
+Shank took the opportunity to unlatch his boomerang from his belt and toss it down. It landed on the skewered shark, summoning a bolt of lightning from the storm. In a flash of light, the shark died, giving off wisps of smoke that was quickly squelched by the pouring rain.
+
+“Ok, are you cooled off now?”
+
+“Whatever.”
+
+“Eh, good enough.” Reesu tossed Gra the rope.
+
+Gra climbed up the rope. “Astalir, are you ok?”
+
+The rain tip-tapped around Astalir, unnaturally curving around him as if he had an invisible umbrella. Astalir nodded.
+
+“Gra ok?” Gale embraced him. “This one worried.”
+
+“Yeah. Are you ok, Gale?”
+
+Gale shivered. “This one only cold.”
+
+“Let’s get you inside.”
+
+“But Gra! You have to help us get the sharks!”
+
+“This one like sushi. This one wants shark.”
+
+“Fuck you, Reesu. Get the sharks yourself.” Gra stomped down the stairs into the chambers, Gale in hand.
+
+Reesu shrugged it off. She pulled up the grappled shark, still squirming. She frowned. She ripped the shark open, spilling tis guts all over the deck. She smiled mischievously. “Gra! Come look! I spilled spark guts all over the deck! Don’t you want to see?” She held a hand to her ear.
+
+There was no response.
+
+Reesu’s smile turned upside down,, she looked down at the ground, and rubbed her shoulder. She looked up at the commotion on the deck.
+
+“These sharks are too heavy! I can’t lift them from here.” Astalir strained.
+
+“Shark too far to tie rope.” Shank peered over the railing. “Deer!”
+
+“Yes?”
+
+“What if Shank throw rope, deer tie rope?”
+
+“…deer tie rope…” Astalir repeated. “Ah, I get it!”
+
+“Deer get it!” Shank threw the rope into the water near the sharks.
+
+Astalir concentrated on the rope, which tied itself around the shark’s tail. “There, tied!”
+
+“Deer help Shank pull.” Shank pulled on the rope, dragging the shark up and out of the water.
+
+Astalir shrugged. “I’ll try.” The rope tugged itself towards Shank, making it slightly easier for him to pull up the shark.
+
+The shark inched up the side of the boat, but got stuck right below the edge of the deck. The goblin and the deer struggled, but the shark didn’t come up.
+
+Reesu’s smile returned. “Well, look at you two playing so nicely. Let me get that.” Reesu picked up the shark and flopped it onto the deck.
+
+“Reesu strong!” Shank commented.
+
+“Nice work, guys.” Reesu said. “Now to get the other three.”
+
+They got the rest of the sharks. Astalir sliced open their middles, examining their stomache contents. Shank bit indiscriminately into all the sharks, tasting around for the juiciest meat.
+
+“Why sharks all taste charcoal?” He complained.
+
+Reesu went below deck. She pushed on Gra’s door, but it didn’t move. She knocked. “Gra, can I come in?”
+
+“Go away, Reesu.”
+
+“Ok.” Reesu walked away, then turned back around on all fours. In Astalir’s voice, she knocked again, “Gra, can I come in?”
+
+“Let yourself in.”
+
+Reesu gets out her lockpicking tools, only to discover that the door doesn’t have a lock. She peeks in through a crack, and finds the locking mechanism: a wooden board that slides down into two metal holders on either side of the door. Reesu squints, and casts mage hand in the room. A glowing pink hand appears in the middle of the room at waist height.
+
+But before she can do anything with it, Gra slaps it down. “Go away. This is a bro moment.”
+
+“But Gra.”
+
+“What do you want, Reesu?”
+
+“I don’t know…” Reesu touches her index fingers together, swaying to one side. Her downward-pointing face was turning red. “I just want to… hang out with you.”
+
+“Not right now Reesu. I need some space.”
+
+“Let me in or I break down the door.”
+
+Gra groaned. “Don’t go breaking things. It’s not our ship.”
+
+“You’re not my dad! My dad’s dead!”
+
+“I thought you lived for 10,000 years?”
+
+“That doesn’t stop us from being stabbed.” Reesu giggled and then quickly stifled it. “Graaa… I have 5 ways of getting in. Some break the ship, some dooon’t…”
+
+“I’m not letting you in, Reesu.”
+
+“Ok, but just remember, this was *your* decision.”
+
+“Whatever.”
+
+Reesu stomped away up to the deck of the ship. Astalir and Shank were still going through the sharks. She marched right up to the edge of the water, and with a spur of passion in her eye, she raised both her arms ritualistically into the air. “Serpent of the sea, do my bidding!”
+
+“Reesuuu…” Astalir turned. “What are you doing?”
+
+“Stay out of it, Astalir.”
+
+A huge tidal wave appeared out in the middle of the ocean. Reesu beckoned it closer. The tidal wave nodded as if agreeing to obey. Reesu waved it forwards as she turned her back to it and walked down to the chambers.
+
+The wave followed close behind, flowing down the stairwell like a waterfall and flooding the lower decks. Reesu lifted her hand, and the water followed suit. It floated through the air into Gra’s room via the cracks in the wooden walls.
+
+“Oh, shit! What’s this?” Gra’s voice came through the walls.
+
+“Graaa…”
+
+“Oh, it’s just Reesu.” Gra sighed. “Reesu…” Gra’s footsteps approached the door, and the wooden barricade scraped on the metal holders.
+
+“I told you I’d get in.” Reesu smirked as the door creaked open.
+
+“Sorry, Gale.” The yinglet was shoved into Reesu’s face, and before Reesu could react, the door was shut and barricaded again.
+
+Reesu shoved Gale aside and pounded on the door. “Let me in!”
+
+“No!”
+
+“Fiiine…” Reesu snickered. “But you can’t stay in there forever!” Reesu directed the flowing water with more pressure and volume into Gra’s room. Reesu peeked in through another crack. The water rose rapidly above Gra’s toes, ankles, and up his shin.
+
+Up on top of the deck, Astalir’s eyes went wide when he witnessed the wave crashing down onto the deck. He bared his glowing antlers, directing as much water as he could around himself, but he still got wet. The wave washed over him and that was it. He was still standing.
+
+But then he turned around, to find a stream running up the side of the boat, across the deck, and into the lower decks. He grabbed a hold of the stream like a string and tugged on it, but the stream wouldn’t be redirected. He thrust his antlers into the air, and with a bright glow, he froze the entire stream in place. But more water came pouring in, breaking the ice into pieces as it paraded down its path unerringly.
+
+Focusing on bending the flow around him, he jumped down the stairs and into the chamber hallway. There, he found Reesu staring a single eye into a crack in the wall. The water split off into several smaller streams that all filed into the walls of a single room.
+
+“What’s going on down here?”
+
+“None of your business, Astalir.”
+
+“Is that Gra’s room? Is Gra in there?”
+
+“Go away, Astalir. This doesn’t concern you.”
+
+Astalir searched all the rooms, but didn’t find Gra. He did however, find a wet Gale in Daisy’s room. “Where’s Gra?”
+
+“Gra’s room is flooding with water, so Gra kick this one out.”
+
+Astalir’s eyebrows furrowed with determination. He approached the door to Gra’s room. “Gra, are you in there?”
+
+No response.
+
+“Gra? Gra!”
+
+No response.
+
+“I’ve been trying to get in for a while now, and haven’t gotten in. There’s no way you’re going to get in.”
+
+Astalir ignored her. He pushed the door in, but it didn’t budge. He tried peeking into the room to cast mage hand from inside, but when he did, he got a squirt of water in the eye. “Ok, Gra, stand back!” Astalir leaned up againt the opposite wall in this narrow hallway and charged at the door. The door didn’t budge.
+
+Astalir’s eyes darted around. He tried freezing the holes that the water was flowing in through, but again the extreme pressure of the water broke the ice instantly. Finally, he turned his attention to Reesu.
+
+“Reesu, stop it!”
+
+“He’ll be fine. Water is fine. I’m only drowning him.”
+
+“Reesu! That kills people!”
+
+Reesu waved it off. “Nah, Gra will be fine.”
+
+Astalir walked away, and came back with Gale sitting in his antlers. “Reesu, you leave me no choice.”
+
+“Astalir, I’m warning you.”
+
+Astalir jostled his head forward, flinging Gale onto Reesu’s shoulders.
+
+“Reesu no hurt Gra!”
+
+“Calm down, Gale, I’m not going to hurt him.”
+
+“But that one said you hurt Gra.”
+
+“Astalir has little confidence in his abilities.”
+
+“No, it’s more that I have more confidence in *your* abilities.”
+
+“Why thank you, Astalir.”
+
+“Wait, that came out wrong.” Astalir shook his head. “But the point is, you’re a threat. Gale, now!”
+
+“Wait! This one no want hurt friend!”
+
+Astalir didn’t hesitate. He teleported forward, and an arrow flew out from him, slicing the webbing between Reesu’s thumb and index finger.
+
+Reesu stumbled backward in surprise, but managed to refocus on her water spell. She shook her head at the deer. “Oh, Astalir. Tsk, tsk.”
+
+“Gale, now!”
+
+“Please stop.” Gale screeched.
+
+“Gale, I thought you were with me?”
+
+“This one no want friends fight, this one no want ship to flood.”
+
+“That’s right, *Astalir*.” Reesu walked up to him, and booped him on the nose. Her finger went right through his face. She pretended to smear the blood from her hand all over his face. Then she stepped right through him to get to the real Astalir. “If you knock me out, which I assume *was* your goal, then I’ll lose concentration, and the whole ship will be flooded. Do you want that?”
+
+“I won’t let you hurt my friend.” Astalir snorted.
+
+“Well then I’ll just have to make *you* lose concentration, then.” Reesu cornered Astalir and grappled him with her invisible tentacles. The fake Astalir immediately disappeared. She hoisted Astalir up onto Gale’s shoulders, making a 3-stack.
+
+“Shank? Help!” Astalir squeaked out before being muffled.
+
+“What do?” Shank swayed left and right, then darted into a room. He came back with a bent coat hangar. He slipped in through the doorframe and tried lifting the barricade, but the coat hangar bent instead.
+
+Reesu patted him on the head as she pushed him out of the way. “Good idea, Shanky.” She froze some of the water flowing up into the room into solid thin bars. They lifted up under the barricade, unlocking it.
+
+Astalir struggled to break free.
+
+The door pushed itself open, bending the water around it so none spilled out. Reesu crouched, looked at the door and Astalir, and then made a break for the doorway. She tossed Astalir and Gale into the hallway, and before Astalir could catch her, she had gone into the room and locked the door behind her.
+
+Inside, the room was flooded up the ceiling. Reesu took it all in, breathing in the fresh water. She exhaled, expelling the last air bubbles left in her lungs. She scanned the room. The lantern on the desk was still lit, as the water had flowed around it, and its light meandered in melancholy patterns across the room.
+
+In the corner of the room, next to the bed, sat Gra in a damp study chair with his arms and legs crossed, and a bucket on his head.
+
+“I let myself in, like you said.” Reesu smiled. “I made it in.”
+
+Gra itched his nose, then his arms returned to their crossed positions.
+
+From outside the room, scraping sounds scratched the door. “Gra, are you ok in there?” More scraping sounds. “Reesu you better not do anything to him!”
+
+“Fiiine…” Reesu waved the water aside, and it suddenly stopped flowing. It reversed directions, and flowed outwards.
+
+“Gah!” Astalir exclaimed. A thud sounded from the hallway.
+
+The water quickly flowed out of the room, going down to Gra’s ankles.
+
+Reesu pulled moisture out of Gra’s clothes and his chair, adding them to the flow of water leaving the room.
+
+Gra swaps his crossed legs.
+
+Reesu sits on his lap, sliding her hand gently up under the bucket onto his cheek.
+
+Gra picked her up and set her on the floor, then crossed his arms again.
+
+Reesu put a finger to her mouth, contemplating at the ground. Peering under Gra’s bucket, she calmly stated. “Astalir is fine, in case you heard any of that.”
+
+Gra tapped his foot on the ground.
+
+“Gra? Gra!” The barricade scraped as it lifted up.
+
+Reesu looked at it, and it shunted back down. “See? He’s fine.”
+
+Gra coughed.
+
+“Can you lift the helmet up for just a second? I have something important to tell you.” The bucket rises by itself into the air.
+
+Gra grabbed the helmet and clamped it down.
+
+“Eya!” Reesu focuses on the helmet and it tears itself from Gra’s grasp.
+
+Gra’s brows were down, as was his mouth. The bags under his eyes told Reesu that he was fed up with her nonsense.
+
+“I’ll keep it brief, don’t worry.” Reesu made herself comfy on his lap. She swung her arms around his neck, and drew in close. Her lips approached his, but the look in his eyes gave her pause. Instead, she planted them on his cheek. “There, that was what I wanted to tell you.”
+
+Gra scowled.
+
+Reesu tilted her head, giving him sad puppy dog eyes. “Ok, Gra, I’ll leave you be.” The bucket drifted back down onto his head. She hopped off his lap and watched him watch her go to the door. She unbarred it, and—
+
+*WHAM!*
+
+The door popped open, spilling a desperate deer onto the floor, and shoving a hopeless romantic into the wall.
+
+“Gra! Are you ok?” Astalir looks over Gra, but doesn’t see any sign of movement. “Gale! He’s not breathing!”
+
+The yinglet ran into the room. “Clear the way!” Gale jumps on Gra, slamming right into his stomach.
+
+“Oh—!” Gra grabs his belly.
+
+“He’s alive!” Astalir bellowed.
+
+“I’m alive.” Gra grabbed Gale and rubbed his furry head. He pulled Astalir in by the neck, setting his head in his lap.
+
+“This one thought you drown!”
+
+“No, I had a bucket, I could’ve lasted twice as long.”
+
+Gale cried, and tears fell from Astalir’s eyes.
+
+“Ah, don’t cry, I made it out ok.” Gra wiped a tear from the deer’s eyes.
+
+“Cry? No, that was, uh, shape water.” Astalir shook.
+
+“Ok, well I know just what to do.” Gra shut the door in Reesu’s face, and barricaded it.
+
+He picked up his animals and plopped onto the bed. Astalir laid across the headboard pillows and rested his head on Gra’s chest. Gale made himself comfy in the nook between Gra’s knees. Gra laid a hand on both of them, softly stroking their fur. It wasn’t long before they were both sound asleep.
+
+“Goodnight, my pets.”
+
+Outside, in the hallway, Reesu has a fist raised, ready to knock on the door. She hangs her head, and lowers her fist. “Ok, I hear you.” She rubs a tear out of her eye. “Shank!”
+
+“Reesu call?”
+
+“Wanna share a room?”
+
+“Reesu strong, Shank strong. We protect us.”
+
+“That’s right, Shank! We protect us!”
+
+Reesu and Shank cuddled in bed. Reesu squeezed Shank tight while she stroked his wild unkempt hair.
+
+“Shank want—”
+
+“Shh, shh…”
+
+Reesu and Shank sank into a slumber.
+
+It had been too long since Reesu had had a dream. She couldn’t remember the last time she had. And here she was, falling into a magical sleep. She floated in the black, unblinking void.
+
+“What do you want?” She asked the void.
+
+A string of lights lit up one by one, illuminating a messy bouquet of tentacles. A set of glowing, menacing eyes opened at the epicenter, staring directly into Reesu’s soul. “You.”
+
+Slimy glowing ghost tentacles sprouted out of Reesu’s chest, pulling her limbs back and her head forward, forcing her to stare back.
+
+“Sorry, I don’t arrive on command.”
+
+The entity gave a low chuckle. “Reesu, the eternal trickster. As lively as ever; I would expect nothing less.”
+
+“What do you want?”
+
+“Where’s the fun Reesu I bond all those centuries ago? Take a guess.”
+
+“No, I’m not giving you a handjob.”
+
+“There’s my girl. You’ll know your assignment in the moment you need it. No fun unless I keep you guessing.”
+
+“Yeah, fun. It’s been fun, but I must be waking up now.”
+
+“Surely you’d like to stay for a few more hours of fun? Perhaps 144 more hours?”
+
+“No, I got a cuddle party to crash.”
+
+“Well I can’t interrupt important business like that. But please, don’t be a stranger, eh? Stopping in again, soon, I hope?”
+
+“Where’s the fun in telling you that?”
+
+The entity laughed. “Godpower, Reesu. My power, specifically.” It chuckled to itself as it faded back into the void, letting Reesu linger in the void by herself.
+
+When she did wake up, it was to the voice of Shank screaming her name. “Reesu! Shank in water! Save Shank!”
+
+“Shank?” She looked around, but he was nowhere in the room. The noise was coming from outside. She rushed to the top deck, and found Shank overboard and getting left behind. “Shank!” She dove into the water and grabbed him. One more moment more, and she was climbing the side of the ship, dragging him back onto the deck.
+
+“Shank thank you. Shank no like water.”
+
+“What happened?”
+
+“Captain go. Wheel turn. Shank help. Wheel turn. Shank overboard.”
+
+“What?”
+
+Bob walked by, idly snacking on some zombie jerky. “Oh hey, Shank. Welcome back aboard.” We walked on by.
+
+“Did you see what happened?”
+
+“Yeah, the captain drew some weird red card from the deck of random oddities. He disappeared and then Shank took the wheel. I asked him if he could steer it, and he said yes. I assumed he flung himself overboard on purpose.”
+
+“Are you alright Shank?”
+
+“Shank good now.”
+
+Just then, Captain Johnny reappeared at the wheel. He staggered backward and collapsed backward on to the deck.
+
+“Welcome back aboard, Captain.”
+
+Reesu and Shank rushed to him. “Are you ok?”
+
+“I don’t trust that shit anymore.” His eyes were wide and unblinking. His eyes were shaking, as they stared at no point in particular, but remained fixed in place. His trembling limbs were stiff and unmoving. He passed out with his eyes wide open.
+
+“Captain not ok.”
+
+“You’re right, Shank, there’s something wrong with him.”
+
+“Eh, I’ve seen worse. He’ll be fine.” Bob walked off.
+
+Off in the distance, the main land of the lizard folk country appeared. The party prepared to disembark, allowing Reesu a perfect excuse to postpone processing her feelings and her patron’s mysterious request. She shrugged it off. It’s time for another adventure.
