@@ -4442,13 +4442,23 @@ Sui snores in response.
 
 # Chapter 14
 
+Party fights their way through wolves and snowy mountains to Wind’s Crossing.
+
 # Chapter 15
 
-# Act 2 Chapter 1
+The lizard folk attack and the party finds out what was in the letter they were delivering. Astalir finds out who had hunted down his kind.
 
-# Act 2 Chapter 2
+# ( 16 ) Act 2 Chapter 1
 
-# Act 2 Chapter 3
+Reesu finds a goblin named Shank, who is a competent fighter. In a drinking game, she finds out that Shank has some lethal vengeance to enact on Sui and Astalir. Fearing the worst, she superglued them both to the wall.
+
+# ( 17 ) Act 2 Chapter 2
+
+Astalir struggles to break free of the superglue, eventually giving up and promising to share some intel with Reesu for his freedom. Reesu decides to leave Sui behind for his own safety. The party boards the boat, heading to the lizard fold kingdom. They run into a merchant ship taken over by pirates, and free them after stealing some goods.
+
+Sui wakes up, finding the note from the party that he was left behind. Jaded, he sets out to return to the kobold cave, meeting a mysterious deer-headed fighter on the way, for who Leona sacrifices her great axe to save. When Sui and Leona return to the kobold cave, they find that the kobold king had been slain by a horde of arrows. With the kobolds worshipping him over his new dragon wings, he takes charge of the kobold cave.
+
+# ( 18 ) Act 2 Chapter 3
 
 Reesu and Astalir hop back onto their ship. Reesu turns around and shoves the merchant ship away so the angry crew members can’t chase them to get their stuff back. Reesu waves at them as they stare back, “So long suckers!”
 
