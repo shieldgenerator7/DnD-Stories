@@ -5,6 +5,7 @@
             "deer",
             "lanky"
         ],
+        "id": "AST",
         "portrait": "portraits/astalir.png",
         "portraitCredit": "shieldgenerator7",
         "player": "shieldgenerator7",
@@ -20,6 +21,7 @@
         "nicknames": [
             "firbolg"
         ],
+        "id": "JDI",
         "portrait": "",
         "player": "Status/Enon",
         "race": "Firbolg",
@@ -35,6 +37,7 @@
             "robot",
             "Silber"
         ],
+        "id": "SLB",
         "portrait": "portraits/silberposten.png",
         "player": "Valgard",
         "race": "Warforge",
@@ -49,6 +52,7 @@
         "nicknames": [
             "bugbear"
         ],
+        "id": "MIC",
         "player": "Blackdrow662",
         "race": "Bugbear",
         "class": "Barbarian",
@@ -62,6 +66,7 @@
         "nicknames": [
             "cleric"
         ],
+        "id": "DLT",
         "portrait": "",
         "player": "Death",
         "race": "Dragonborn",
@@ -74,6 +79,7 @@
     {
         "name": "Trent",
         "nicknames": [],
+        "id": "TRT",
         "portrait": "",
         "player": "Trent Soul",
         "race": "Dragonborn",
@@ -88,6 +94,7 @@
         "nicknames": [
             "dragonborn"
         ],
+        "id": "SUI",
         "portrait": "",
         "player": "Trent Soul",
         "race": "Dragonborn",
@@ -103,6 +110,7 @@
             "Gra",
             "half-orc"
         ],
+        "id": "GRA",
         "portrait": "portraits/grarthta_swanfallow.png",
         "player": "legomike5",
         "race": "Half-Orc",
@@ -117,6 +125,7 @@
         "nicknames": [
             "kobold"
         ],
+        "id": "SYL",
         "portrait": "",
         "player": "NPC",
         "race": "Kobold",
@@ -132,6 +141,7 @@
             "Gale",
             "yinglet"
         ],
+        "id": "GAL",
         "portrait": "portraits/gale_winds.png",
         "portraitCredit":"WelcomeTaco (for Theguydude97)",
         "player": "Theguydude97",
@@ -148,6 +158,7 @@
             "Other",
             "New"
         ],
+        "id": "RSU",
         "portrait": "portraits/reesu.png",
         "player": "Meldia",
         "race": "Oni",
@@ -163,6 +174,7 @@
             "Drathalion",
             "cat"
         ],
+        "id": "DRT",
         "portrait": "portraits/DrathalionTreescorn.png",
         "player": "shieldgenerator7",
         "race": "Tabaxi",
@@ -178,6 +190,7 @@
             "centaur",
             "Max"
         ],
+        "id": "MAX",
         "portrait": "portraits/max.png",
         "player": "Centaurus (DM)",
         "race": "Centaur",
@@ -194,6 +207,7 @@
             "JeLancie",
             "shopkeeper"
         ],
+        "id": "DON",
         "portrait": "",
         "player": "Centaurus (DM)",
         "race": "Human?",
@@ -211,6 +225,7 @@
             "merry",
             "merrymen"
         ],
+        "id": "RBH",
         "portrait": "",
         "player": "Centaurus (DM)",
         "race": "Human",
@@ -225,6 +240,7 @@
         "nicknames": [
             "temp"
         ],
+        "id": "AAA",
         "portrait": "image.png",
         "player": "the_dm_lol",
         "race": "Human",
