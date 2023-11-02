@@ -4454,9 +4454,45 @@ Reesu finds a goblin named Shank, who is a competent fighter. In a drinking game
 
 # ( 17 ) Act 2 Chapter 2
 
-Astalir struggles to break free of the superglue, eventually giving up and promising to share some intel with Reesu for his freedom. Reesu decides to leave Sui behind for his own safety. The party boards the boat, heading to the lizard fold kingdom. They run into a merchant ship taken over by pirates, and free them after stealing some goods.
+Summary: Astalir struggles to break free of the superglue, eventually giving up and promising to share some intel with Reesu for his freedom. Reesu decides to leave Sui behind for his own safety. The party boards the boat, heading to the lizard folk kingdom. They run into a merchant ship taken over by pirates, and free them after stealing some goods.
 
 Sui wakes up, finding the note from the party that he was left behind. Jaded, he sets out to return to the kobold cave, meeting a mysterious deer-headed fighter on the way, for who Leona sacrifices her great axe to save. When Sui and Leona return to the kobold cave, they find that the kobold king had been slain by a horde of arrows. With the kobolds worshipping him over his new dragon wings, he takes charge of the kobold cave.
+
+===
+
+2023-11-01: This chapter under construction. Please wait for the official completion announcement. In the meantime, if you don’t mind spoilers, you can skip ahead to Act 2 Chapter 3.
+
+===
+
+1.  [astalir wakes up, finds antlers glued to wall, hooves glued to floor]
+2.  [astalir struggles to break free]
+3.  [reesu watches, drinking ale with bob]
+4.  [astalir pees]
+5.  [astalir agrees to let reesu in on the intel he gathers, reesu frees him]
+6.  [astalir shapes water pee into reesus face]
+7.  [astalir jumps out window with mold earth]
+8.  [astalir tries to get wood pieces off]
+9.  [birds surround astalir, try to chloroform him, take him to isolated place]
+10. [party heads out, leaving note on sui’s door]
+11. [revali challenges silber to one last rematch, silber refuses]
+12. [astalir investigates revalis house]
+13. [astalir gets past guards with fake order from revali]
+14. [astalir finds nothing, escapes just before revali comes home]
+15. [astalir catches up to the party]
+16. [party goes to canadia]
+17. [party boards johnnys boat, sets sail to lizardfolk kingdom]
+18. [silber nests in crowsnest]
+19. [pirates board ship]
+20. [reesu grabs pirate captain]
+21. [astalir freezes pirate captain head]
+22. [pirate stuns gra]
+23. [silber frag grenades pirates, smoke grenades them]
+24. [last pirate jumps off ship]
+25. [sharks show up, eat pirate captain]
+26. [reesu astalir investigate “pirate” ship, it is merchant ship]
+27. [astalir finds map, reesu finds sex toys]
+28. [reesu finds key, frees merchant crew]
+29. [party sails off]
 
 # ( 18 ) Act 2 Chapter 3
 
