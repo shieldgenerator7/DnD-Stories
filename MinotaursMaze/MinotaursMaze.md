@@ -4464,13 +4464,190 @@ Sui wakes up, finding the note from the party that he was left behind. Jaded, he
 
 ===
 
-1.  [astalir wakes up, finds antlers glued to wall, hooves glued to floor]
-2.  [astalir struggles to break free]
-3.  [reesu watches, drinking ale with bob]
-4.  [astalir pees]
-5.  [astalir agrees to let reesu in on the intel he gathers, reesu frees him]
-6.  [astalir shapes water pee into reesus face]
-7.  [astalir jumps out window with mold earth]
+*SPPPLUUURT*
+
+Waking up with a burning throat and a putrid taste in his mouth, Astalir spat out the remaining puke mucus in his mouth. His right front hoof was now wet, but at least his stomache was feeling better, although emptier.
+
+Pain clouded his mind as his eyes winced in pain. His foggy memory was clearing up but he still couldn’t remember what happened last night, or where he was.
+
+Astalir opened his eyes, and saw a wooden wall. The shadow of his face fell upon the left side. He was leaning his head up against the wall. He pulled away, but his antlers wouldn’t move. Did he get them stuck in the wall? How could he have shoved his antlers into the wall with such force as to cause them to get stuck like this?
+
+He tried again, but no luck. He could feel that his antlers were losing integrity with each pull, so elected to stop trying.
+
+This pose wouldn’t be so bad if he wasn’t turning his head 90 degrees at an awkward angle. He lifted a hoof up to move. Nope, he didn’t. His hooves all stuck into the ground, unable to move.
+
+AST: “What kind of dark magic is this?!” He spat.
+
+RSU: “Ah, I see you’re awake.”
+
+“Reesu?”
+
+“Good morning sunshine.”
+
+“What happened? Why am I stuck in the wall?”
+
+“You don’t remember?”
+
+Astalir moaned, eyes wincing. “Uh… I remember… drinking… playing a drinking game with you and Shank. Oh no…” Astalir let out a long, regretful bellow. “Did I get drunk with you guys?”
+
+“You did, I didn’t.”
+
+“I should’ve known.”
+
+“Yeah it was pretty stupid. But fun.”
+
+“So this was your doing?”
+
+“I’ll neither confirm nor deny.”
+
+Astalir sighed. “Can you just get me out?”
+
+“Mmm…” Reesu took a swig of her endless bottle of ale. “Nope!”
+
+“Why not?”
+
+“It’s fun to watch you struggle.”
+
+“Well don’t get comfy. I’m not going to be here very long.”
+
+“Wanna bet?”
+
+“No.” Astalir jostles around, trying to free his hooves. All he manages to do is make a lot of noise bumping into the wall.
+
+*KNOCK KNOCK*
+
+“Gra?” Astalir’s ears perk up. “Oh good finally!”
+
+“Is there a zombie party going on in there?”
+
+“Oh no, Booob…” Astalir rolled his eyes. “Go away, Bob.”
+
+“Bob!” Reesu looked at the door and it popped open. She greeted the shadar kai with a smile. “Do you like to drink?” She patted the seat next to her on the bed, holding out the ale bottle.
+
+Bob shrugged. “Sure. Whatcha got?” Bob took the ale bottle and wheezed. “That’s some \*cough\* good stuff.”
+
+“Bob! No! It’s a trick!” Astalir wiggled around.
+
+“Who said that?”
+
+“Me. Over here. Stuck on the wall.” Astalir flapped his ears annoyedly.
+
+Bob’s eyes went wide as he stared down the bottle. “That’s some *really* strong stuff.” He nodded at Reesu.
+
+“Have a seat. I’m watching the deer get himself unstuck.”
+
+Bob shrugged. “Why not.” He took another swig before Reesu grabbed it back.
+
+Astalir struggled a little bit, but no luck.
+
+“Keep trying.” Reesu teased.
+
+Astalir tried forcing his hoof out, but it didn’t budge. He rested a minute, and in the quiet, he realized he had to relieve himself. And that gave him an idea. He urinated right in the room, right in front of Reesu and Bob.
+
+Reesu chuckled.
+
+Astalir’s antlers glowed and the pee never hit the floor. Instead, it collected into a floating bubble just under his belly. Once he finished relieving himself, the pee bubble flowed down to his hoof and worked itself into the glue.
+
+“Nice try, but that glue’s been dry for hours.”
+
+“I just gotta wait for the piss to dissolve the glue.”
+
+“I don’t think that’s how it works.”
+
+Astalir struggled a little more. “Reesu! When I get out I’m going to poke so many antler holes in that smug face of yours!” He managed to get his front right hoof free. It seems the pee might have actually helped a little.
+
+Reesu took a sip of ale, and Bob took a sip of ale.
+
+Astalir’s ears flipped. He settled down, and got real quiet. He held his breathe.
+
+Reesu put the bottle to her mouth, and the swashing of the liquid caught Astalir’s attention. His ear flicked to the sound of the bottle. Reesu froze in position, and grabbed Bob with an invisible tentacle to keep him quiet too. Her eyebrows were lifted and her lips were pursed.
+
+Astalir grunted after a few minutes, and his ears flitted down. “Reesu, why did you do this?” He raised his ears again, and calmed his breathing.
+
+Reesu, instead of saying anything, held out a finger and wiggled it at the wall in front of Astalir. *Because it’s fun.*
+
+Astalir snorts, but otherwise stays quiet.
+
+Reesu doesn’t dare move, and she doesn’t let Bob move either. For a whole half hour, the trio are stuck in a quiet game stand off.
+
+The one to finally break the silence was Captain Johnny, who burst into the room.
+
+Astalir disguised himself as a dresser.
+
+“There you are.” Johnny intruded. “I’ve been looking all over for you—wait, why are you glued to the wall?”
+
+“He’s got a hang over, don’t touch him.” Reesu moved Johnny with an invisible tentacle. “Here, stand in front of this elegant dresser and admire it.”
+
+Johnny glanced at it, but then addressed Reesu. “Yes, it’s nice. But I got a ship to get back to. And my first mate’s still asleep.”
+
+“Don’t worry about it. I’ll wake him up soon and we’ll meet you downstairs.”
+
+“But—”
+
+Reesu lifted Johnny up, covered his mouth, and floated him silently to the door, which shut itself in Johnny’s face. Reesu stared the dresser down. “Such a lovely dresser, isn’t it?”
+
+The dresser disappeared, revealing the deer again. The piss pool floated up to Reesu’s face.
+
+“Isn’t it, *captain*?” Reesu said to no one in particular.
+
+“Yes, it is.” Reesu said in Captain Johnny’s voice.
+
+The piss pool retreated back under Astalir.
+
+Bob grabbed the ale and took a swig. “Ah, that’s good.” He burped. “This reminds me of the time my buddy got stuck in a barrel. I rolled him down a hill and he still didn’t get unstuck. In the end, I had to pound the tines of his antlers out with a hammer. Made some nice zombie knifes out of them afterwards.” He took another swig.
+
+Astalir sighed. “Reesu, what’s it going to take for you to get me out of here?”
+
+*10 minutes*. The text appeared on the wall.
+
+“10 minutes? Really? Ok. I can wait.”
+
+*On one condition.*
+
+“Oh yeah? What’s that?”
+
+*When you snoop around,* the text faded to give way to new text, *You let me in the know on anything you find.*
+
+Astalir grumbled. “My quest is rather… confidential. And personal.”
+
+*What’ll it be?*
+
+“Ok, I’ll let you know *some* of the things I find.”
+
+*Deal.*
+
+“Ok, get me out.”
+
+*In 10 minutes.*
+
+Astalir sighed. He pawed the ground with his one free hoof for 10 minutes.
+
+After the time had passed, invisible tentacles wrapped around his stomache, his feet, and his antlers.
+
+“Please be careful! I don’t want my antlers to break!” Astalir almost sobbed.
+
+“Don’t worry, I’m careful.” Reesu tugged in one big motion, breaking Astalir free from the wall and floor all at once.
+
+Astalir wobbled around in a daze for a bit, getting his bearings. His antlers had wood chips stuck on it, and wood splinters clung to his hooves. He locked eyes with Reesu. “Hey Reesu.”
+
+“Yeah?”
+
+Astalir’s antlers glowed, and his pool of piss pressurized and released straight at Reesu. She shut her mouth, but still took it in the face. Meanwhile, Astalir ran to the window. It opened itself, and the ground below rose up with subtle tremors that shook the glass in the opening window panes. Astalir jumped out and rode the earth column to the ground, and ran off.
+
+Reesu took back the ale bottle and dumped it all over her face.
+
+“What are you doing?” Bob asked.
+
+“Getting reindeer piss off me.”
+
+“Oh…” Bob’s face contorted. “Wait, that’s not what I was drinking out of that flask, was it?”
+
+“Yeah, sure, I have a flask of endless reindeer piss.”
+
+Bob stared drunkenly at the floor, wide-eyed. “Well it was pretty good, for reindeer piss.”
+
+Reesu facepalmed.
+
 8.  [astalir tries to get wood pieces off]
 9.  [birds surround astalir, try to chloroform him, take him to isolated place]
 10. [party heads out, leaving note on sui’s door]
