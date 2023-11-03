@@ -4854,21 +4854,35 @@ Astalir easily catches up to the party, although he is a bit disappointed he was
 
 ===
 
-15. [astalir catches up to the party]
-16. [party goes to canadia]
-17. [party boards johnnys boat, sets sail to lizardfolk kingdom]
-18. [silber nests in crowsnest]
-19. [pirates board ship]
-20. [reesu grabs pirate captain]
-21. [astalir freezes pirate captain head]
-22. [pirate stuns gra]
-23. [silber frag grenades pirates, smoke grenades them]
-24. [last pirate jumps off ship]
-25. [sharks show up, eat pirate captain]
-26. [reesu astalir investigate “pirate” ship, it is merchant ship]
-27. [astalir finds map, reesu finds sex toys]
-28. [reesu finds key, frees merchant crew]
-29. [party sails off]
+-15. [astalir catches up to the party]
+
+-16. [party goes to canadia]
+
+-17. [party boards johnnys boat, sets sail to lizardfolk kingdom]
+
+-18. [silber nests in crowsnest]
+
+-19. [pirates board ship]
+
+-20. [reesu grabs pirate captain]
+
+-21. [astalir freezes pirate captain head]
+
+-22. [pirate stuns gra]
+
+-23. [silber frag grenades pirates, smoke grenades them]
+
+-24. [last pirate jumps off ship]
+
+-25. [sharks show up, eat pirate captain]
+
+-26. [reesu astalir investigate “pirate” ship, it is merchant ship]
+
+-27. [astalir finds map, reesu finds sex toys]
+
+-28. [reesu finds key, frees merchant crew]
+
+-29. [party sails off]
 
 # ( 18 ) Act 2 Chapter 3
 
