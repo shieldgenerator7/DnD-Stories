@@ -4460,7 +4460,7 @@ Sui wakes up, finding the note from the party that he was left behind. Jaded, he
 
 ===
 
-2023-11-01: This chapter under construction. Please wait for the official completion announcement. In the meantime, if you don’t mind spoilers, you can skip ahead to Act 2 Chapter 3.
+2023-11-02: This chapter under construction. Please wait for the official completion announcement. In the meantime, if you don’t mind spoilers, you can skip ahead to Act 2 Chapter 3.
 
 ===
 
@@ -4648,13 +4648,212 @@ Bob stared drunkenly at the floor, wide-eyed. “Well it was pretty good, for re
 
 Reesu facepalmed.
 
-8.  [astalir tries to get wood pieces off]
-9.  [birds surround astalir, try to chloroform him, take him to isolated place]
-10. [party heads out, leaving note on sui’s door]
-11. [revali challenges silber to one last rematch, silber refuses]
-12. [astalir investigates revalis house]
-13. [astalir gets past guards with fake order from revali]
-14. [astalir finds nothing, escapes just before revali comes home]
+Outside, Gra is coming back from his hunting trip. He came into Wind’s Crossing with a cart full of lizard skins and pelts of small mammals. Sui and Gale followed him. Sui was pulling the cart.
+
+“This thing is getting heavy.” Sui complained. “Can you take a turn pulling it?”
+
+“We had a bet and you lost. Besides, we’re almost there.” Gra patted him on the back.
+
+Gra stopped and addressed an arakroca staring at them. “Hello, do you know where we can sell our game?”
+
+The arakroca spoke in arakrocan, but nonetheless pointed to a row of buildings with other merchants.
+
+Gra nodded. “Thank you.”
+
+“Ohoho!” Don JeLancie appeared, blocking Gra’s path to the market. “Are you selling?”
+
+“Move, these aren’t for you.”
+
+“How rude!” Don huffed. “Well, if who am I to say who you can sell to.”
+
+“Why do you want them so bad?”
+
+“Oh look! You’re friend is waving you down. Tata now!” Don disappeared.
+
+Gra turned around to see Reesu running up to him from the tavern.
+
+“Gra! You’re back!”
+
+“Hi Reesu. How have things been here?”
+
+“Good. Nothing weird happened.”
+
+Gra squinted. “What weird thing happened?”
+
+“Nothing.”
+
+“No, no… I know you Reesu. You wouldn’t say that if nothing really *did* happen.”
+
+“I adopted a pet.”
+
+“What kind of pet?”
+
+“A goblin pet!”
+
+“A goblin… pet?” Gra’s eyebrows furrowed. “I thought Goblins were humanoids?”
+
+“Eh, who knows. But I got one.”
+
+“Oh no. Don’t you remember what happened to the last pet?”
+
+“That wasn’t my fault! You petted it too hard! Poor Henry…”
+
+“His bones were fragile because someone didn’t feed him properly.”
+
+“And who was supposed to get the food?”
+
+Gra grumbled. “I’m not rehashing this. Show me your new pet.”
+
+“This one want to see! This one is cute bunny.” Gale followed.
+
+“She already said it was a goblin.” Sui scoffed.
+
+“What was it gobbling? This one thinks has carrots.”
+
+Sui rolled his eyes, and followed along.
+
+“Hey Sui, keep pulling that cart!” Gra called out. “The market’s right over there. And it’s not a bunny, sorry Gale.”
+
+“Oh. This one disappoint. But will sell pelts for Gra.”
+
+“Thanks buddy.”
+
+Sui and Gale went to the market to sell the pelts while Reesu showed Gra up to the room.
+
+Gra’s jaw drops as soon as he enters the room. “Reesu!”
+
+“What?”
+
+“Why is there a goblin glued to the *wall*?”
+
+“He wants to be friends with Silber.”
+
+“Ok, that’s weird, but… that doesn’t explain anything.” Gra looked around the room, and saw lots of wood chipped out of the wall and floor by the window. “And why is there damage over here?”
+
+“Ok, you might want to sit down for this.” Reesu sat on the bed and dragged Gra down next to her. “It concerns our friendly neighborhood deer.”
+
+“Ok, I’m listening.”
+
+Reesu tells Gra about the drinking game, and why Shank wants to get strong, and what Astalir said about raiding a goblin camp with Sui.
+
+“You’re kidding.” Gra groaned. “You got Astalir drunk?”
+
+“The good news is that neither of them will remember spilling the beans! So Shank won’t try to spill Astalir’s gus!”
+
+“This is not good. You cannot keep him.”
+
+“I can and I will.”
+
+“He’s a threat to Astalir and Sui. We can’t have him around.”
+
+“Well, only a threat to Sui. He doesn’t remember Astalir from the incident.”
+
+“But still, we can’t have him causing chaos among us.”
+
+“But I want to keep him.” Reesu leaned up against Gra, clasped her hands together, opened her eyes wide, and gave him a big pouty face. “Pweeease?”
+
+Gra rolled his eyes, and looked at Shank. “I don’t know.”
+
+“Pwetty pwease?”
+
+Gra rubbed his forehead. “Well I guess the kobold cave *does* need one of us to check in on them. This mission is taking longer than exp—”
+
+“Oh thank you! Thank you!” Reesu gave Gra a big ole’ squeeze hug, popping his eyes halfway out.
+
+“But you have to tell Sui.”
+
+“Ok, I will.”
+
+Reesu wrote a note and stuck it to Sui’s door, *Goodbye. -Gra*
+
+===
+
+Downstairs, Gra finds Captain Johnny. “Hello.”
+
+“Gra, I’ve been looking for you. Are you ready to depart?”
+
+Gra looked around. He found Gale, Bob, and Jodi. Reesu was holding Shank. Silber was waiting patiently in the corner of the bar. He didn’t see Sui, but left him out on purpose. “Yeah, I think so.”
+
+“Excellent. Let’s head to the docks. It’s all the way back in Canadia.”
+
+The party prepares to leave, but before they get out of Wind’s Crossing, Revali stops them.
+
+“Halt!” Revali grabbed Silber by the arm. “I won’t let you pass until we have a rematch.”
+
+“As acting sheriff of Wind’s Crossing,” Silber said without even turning around, “You have no authority to stop me.”
+
+“Ok, you’re right. But we have to have a rematch.”
+
+“You’re not good enough for a rematch.”
+
+“I will triumph no matter how long it takes.”
+
+“Then wait 16 years, 5 months, 13 days, 12 hours, 34 minutes, and 12 seconds.”
+
+Revali let go, stunned.
+
+The party left without any further trouble.
+
+===
+
+After Astalir jumped out of the window, he went to a nearby stream to wash off the glued-on wood chips. He managed to chip the wood some more, but there were several bits that wouldn’t come off. He sighed in exasperation.
+
+Several shadows from above coalesced around him. He looked up. He was being circled by a choir of robed arakroca, chanting something unfamiliar.
+
+His antlers flickered with runes, and his ears pricked. Now the birds’ chanting was telligible.
+
+“Lonesome prize, easy goal. Leaving is for fools. Lonesome prize, easy goal. Leaving is for fools.” They chanted over and over again, as they descended around him.
+
+Astalir licked his nose as he locked eyes with the bird in the fanciest robe, which had gold trim.
+
+As they chanted, they got closer. Astalir watched as they did, not seeing anyway out of it. Then he noticed that one of the birds was carrying a wet cloth, with a fowl smelling chemical on it. His eyebrows raised. His antlers flickered, and did an invisible move that made a cloth ripping sound.
+
+The birds stopped chanting. The bird carrying the cloth looked at it, but it was still in tact.
+
+Astalir made the cloth ripping sound again, but this time he lifted his tail and clenched his butt cheeks.
+
+“Lonesome prize hard to find. Some are myths most are lies. Lonesome prize hard to find. Some are myths most are lies.”
+
+“Lonesome prize”? Were they referring to him? Are they referring to him being the last of his kind? Do they know something he doesn’t know? Do they know if he is really is the last one? Astalir bravely faced the birds, making no move to threaten them.
+
+The birds closed in, and the bird holding the cloth grabbed Astalir’s muzzle and shoved the cloth over Astalir’s muzzle.
+
+Astalir exhaled and clothed his eyes, and let his limbs go limp. Sharp talons grabbed his legs and antlers, and dug into his stomache. Astalir let out a squeal, but quickly held it in. He peeked open his eyes as they carried him into the sky. They were taking him to the shooting range.
+
+From his vantage point, Astalir could see the party leaving the town. And Revali was with them, on the complete other side of town from Revali’s house. Astalir smiled briefly.
+
+The birds dropped him off behind a hill, where you couldn’t see from the shooting range. They placed him in a snow mound while they cleaned the snow off a round stone altar. They placed him on the altar, and began chanting. One of them pulled out a dagger, and wiped it with his robe.
+
+Astalir’s eyes went wide. His antlers glowed iridescent and he jumped into the air above the birds and landed behind them, running away.
+
+“Catch him! He must not escape!” The bird leader yelled. The birds all chased the deer behind a hill, where the deer found himself in a dead end. The deer turned around, and threatened to charge, thrashing his antlers forward.
+
+One brave bird flew up over the deer, landed behind it, and grabbed its muzzle. The bird’s hands went right through the deer’s face.
+
+The birds all gasped in shock. “It’s fake!” They turned back to the altar, where deer tracks trailed off in the opposite direction, before ending altogether in the middle between two hills. The birds all stood in shock.
+
+Meanwhile, a strangely-proportioned robed arakroca@AST flew away back to Wind’s Crossing. As it@AST landed behind a building, its@AST robes disappeared and it became just a regular arakroca@AST. This lanky arakroca@AST walked up to Revali’s house.
+
+Two arakroca guards stopped the lanky arakroca@AST from entering. “What are you doing here?” They spoke in Arakroca.
+
+The lanky arakroca@AST didn’t respond, but instead pulled out a piece of paper. On the paper, written in Revali’s hand writing, was a note that requested delivery of Revali’s medication to the shooting range. It was even signed by Revali.
+
+The two guards looked at each other, and shrugged. “Very well then, you@AST may enter.” The guards let him@AST in.
+
+Once inside, the lanky arakroca@AST got down on all fours and turned into a deer. Astalir’s antlers glowed, and the room was torn apart. Books and bags flew everywhere. “There’s gotta be something in here.” A bottle of medication flew by. “Oh, there that is.” Astalir placed the medication on the table by the door, for when he needed to leave.
+
+Which he had to do sooner than expected. Wings flapped outside, and footsteps approached the door.
+
+“Sir? I thought you were at the shooting range?” The guard said from outside.
+
+“Yeah and now I’m here. Move.” The door handle jiggled.
+
+Astalir’s eyes darted around. He piled books in front of the door, and re-locked it. He slipped out the back exit of the house, just as the front door opened and a caw-caw echoed through the building. Astalir turned into a bird and flew off.
+
+Astalir easily catches up to the party, although he is a bit disappointed he wasn’t able to get the answers to his questions. What were those robed birds doing? Were they going to sacrifice him? If so, to who? Astalir didn’t get a good look at the runes on the altar. Astalir thinks about it as he follows the party’s tracks to the edge of town in Canadia, turning back into a deer to blend in with the moose roaming the streets.
+
+===
+
 15. [astalir catches up to the party]
 16. [party goes to canadia]
 17. [party boards johnnys boat, sets sail to lizardfolk kingdom]
