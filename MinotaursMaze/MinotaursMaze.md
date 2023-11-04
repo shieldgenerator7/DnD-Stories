@@ -4854,47 +4854,143 @@ Astalir easily catches up to the party, although he is a bit disappointed he was
 
 ===
 
--15. [astalir catches up to the party]
+“Hey!” Gra shouted. “Where’d you go?”
 
--16. [party goes to canadia]
+“Nowhere.” Reesu swam up to the boat, throwing a blood-stained bag on board.
 
--17. [party boards johnnys boat, sets sail to lizardfolk kingdom]
+“What is this?”
 
--18. [silber nests in crowsnest]
+“Nothing.” Reesu couldn’t hide her grin as she climbed up the side of the boat. “Just a snack for later.”
 
--19. [pirates board ship]
+Gra sniffed it. “Smells like… human?”
 
--20. [reesu grabs pirate captain]
+“It may or may not have come from the butcher shop in town.”
 
--21. [astalir freezes pirate captain head]
+“Didn’t that place get closed down over a week ago?”
 
--22. [pirate stuns gra]
+“They were pickled, they’ll be fine.”
 
--23. [silber frag grenades pirates, smoke grenades them]
+“Ok, I don’t want to know. Just keep that bag out of sight.”
 
--24. [last pirate jumps off ship]
+“Ok!” Reesu made a waving motion over the bag, and it disappeared.
 
--25. [sharks show up, eat pirate captain]
+Gra kicked the spot where it was and immediately regretted it. “Not like that!”
 
--26. [reesu astalir investigate “pirate” ship, it is merchant ship]
+“Well be more specific next time.” Reesu made the bag visible again, and it floated into the air, following Reesu down into the depths of the boat.
 
--27. [astalir finds map, reesu finds sex toys]
+“All aboard?” Captain Johnny asked Gra.
 
--28. [reesu finds key, frees merchant crew]
+Gra did a headcount, then came back to the top deck. “Yeah, I think so.”
 
--29. [party sails off]
+Captain Johnny unmoored the boat, and set sail. The Howling Wolf was now heading to the lizard folk kingdom.
+
+As the boat left the bay, a deer ran up onto the dock. “Hey, is that…”
+
+Silber, in the crow’s nest, looked through his scope. “That’s your deer friend. I recognize the mended break on that antler.”
+
+“Crap! We forgot Astalir! Turn the boat around!”
+
+The Howling Wolf just entered the currents of the sea. “We’re too far out.” Captain Johnny refused.
+
+Gra took off what little armor he had and prepared to dive. “I’m coming Astalir!”
+
+“Wait.” Silber stopped Gra. “Don’t go in yet.”
+
+“Why not?”
+
+“Watch.”
+
+Astalir’s antlers glowed as he jumped into the water. But instead of falling in, the water beneath him turned to ice and he skated across a sheet of ice all the way to the boat.
+
+“Astalir, up here!” Gra waved his arms at him.
+
+Astalir sprinted at the boat below Gra, making an ice ramp to slide up. He jumped at the top, and Gra reached down and caught him.
+
+“You made it!” Gra stroked his head as he pulled him up onto the boat.
+
+“Bleat!” Astalir happily leaned into Gra’s pets. “I wasn’t sure if I’d make it on time.”
+
+“You cut it pretty close.”
+
+“Boat ahead!” Silber called out from the crow’s nest.
+
+“I see them.” Bob confirmed, standing on the deck. “Out there on the horizon.”
+
+“Do they look friendly?” Captain Johnny grabbed the wheel.
+
+“There appears to be commotion on the deck. Perhaps a mutiny.” Silber stated.
+
+“Maybe we should go help them out.” Gra suggested.
+
+“They are between us and the lizard kingdom.” Johnny turned the wheel straight towards the boat. “Let’s check it out.”
+
+As they got closer, the fighting shifted to below deck, and Silber couldn’t watch it anymore. All they could do was hope they got there in time to help the survivors. When they got there, the top deck was littered with bodies.
+
+Captain Johnny and Reesu brought the boats close enough to cross.
+
+“Gale, come with me. Let’s see if anyone’s still alive.” Gra picked up Gale and hopped aboard. “Hello? Any here alive?”
+
+Gale went around checking for signs of life. “This one think all dead.”
+
+Gra ran to the stairs to the lower deck. “Hello? Any one down there?”
+
+“Arrrgh!” A sailor ran up the steps, sword aimed at Gra.
+
+Gra backed up, but tripped on the last and fell over backward onto the deck.
+
+The yelling sailor drove his sword into Gra, stabbing him in the chest.
+
+“Ok, that’s enough out of you.” Reesu made a fist and the yelling sailor floated into the air and dunked head first into the water below. “Astalir, would you do me the favor of cooling this guy down? Looks like he’s got some sort of brain swelling. Some ice should do.”
+
+Astalir’s antlers glowed and the water around the yelling pirate’s head froze in place. The sailor stopped yelling.
+
+But more yelling happened. Six more sailors came up the stairs, yelling with their swords drawn. They all seemed to have strange bumps on their head, like a bruise blown up into a balloon and attached to their skull.
+
+“Get back!” Silber yelled. He chucked a grenade into the stairwell, killing all the sailors instantly.
+
+“This one heal you.” Gale laid a clawed hand on Gra, fingers glowing. Gra’s wound sealed up. “And a little extra, prevent infection.” Gale cured Gra of any disease he may have gotten from the blade.
+
+“Everyone alright?” Gra stood up.
+
+“This one ok.”
+
+“Reesu, can you move these corpses? We have to get down there.”
+
+“Sure.” Reesu goes to the stairwell, dropping the overboard sailor into the water. The ice ball around his head holds him upright as he drifts away from the boat.
+
+As Reesu moved down the stairwell, dead sailor bodies flew out and into the water, attracting a school of sharks.
+
+“Anyone down there?”
+
+“Yeah, people in cages.”
+
+Reesu went deeper into the boat to find more things. Gra went down, found a key and let the people out of the cage. Astalir tore the captain’s study apart, looking for documents. He found a map to a place called “Terry Town.”
+
+“What happened here?” Gra asked.
+
+One of the crew members turned to Gra. “Half our crew grew these strange bumps on their heads, and went wild attacking us. We managed to survive by locking ourselves in this cage. They couldn’t cut through the bars, and they were too berserk to think to grab the key. Thanks for getting us out.”
+
+“No problem. Happy to help. Stay safe on your travels.”
+
+“God speed to you as well.” The sailor saluted.
 
 # ( 18 ) Act 2 Chapter 3
 
-Reesu and Astalir hop back onto their ship. Reesu turns around and shoves the merchant ship away so the angry crew members can’t chase them to get their stuff back. Reesu waves at them as they stare back, “So long suckers!”
+Gra, Reesu, and Astalir hopped back onto their ship. Reesu carried a bag full of random stuff and Astalir had several pieces of paper sticking out of his fur. Reesu turned around and shoved the merchant ship away.
 
-Gra put a hand above his eyes. “Wait, those aren’t pirates, or suckers! Those are merchants. You stole from merchants!”
+Reesu waved at the boat as they sailed off, “So long suckers!”
+
+Gra put a hand above his eyes. “Wait, ‘suckers’? What do you mean?”
+
+“I got all their valuables. Wanna see?”
+
+“But Reesu, they’re not pirates, or suckers! They’re merchants. You stole from merchants!”
 
 Reesu reached into a bag. “Yeah, and do you want to know what I stole?”
 
 Gra groaned. “Do I want to know?”
 
-“Sure you do.” Reesu pulled out a long slender cylinder with a hole at one end. It had a white substance encrusted on it. “And I don’t think they were merchants, wink wink.”
+“Sure you do.” Reesu pulled out a long slender cylinder with a hole at one end. It had a white substance encrusted on it. “I don’t think they were *merchants*, wink wink.”
 
 Gra turned away and gagged. “Get that away from me.”
 
