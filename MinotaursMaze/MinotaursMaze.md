@@ -4454,16 +4454,6 @@ Reesu finds a goblin named Shank, who is a competent fighter. In a drinking game
 
 # ( 17 ) Act 2 Chapter 2
 
-Summary: Astalir struggles to break free of the superglue, eventually giving up and promising to share some intel with Reesu for his freedom. Reesu decides to leave Sui behind for his own safety. The party boards the boat, heading to the lizard folk kingdom. They run into a merchant ship taken over by pirates, and free them after stealing some goods.
-
-Sui wakes up, finding the note from the party that he was left behind. Jaded, he sets out to return to the kobold cave, meeting a mysterious deer-headed fighter on the way, for who Leona sacrifices her great axe to save. When Sui and Leona return to the kobold cave, they find that the kobold king had been slain by a horde of arrows. With the kobolds worshipping him over his new dragon wings, he takes charge of the kobold cave.
-
-===
-
-2023-11-02: This chapter under construction. Please wait for the official completion announcement. In the meantime, if you don’t mind spoilers, you can skip ahead to Act 2 Chapter 3.
-
-===
-
 *SPPPLUUURT*
 
 Waking up with a burning throat and a putrid taste in his mouth, Astalir spat out the remaining puke mucus in his mouth. His right front hoof was now wet, but at least his stomache was feeling better, although emptier.
@@ -4850,7 +4840,7 @@ Which he had to do sooner than expected. Wings flapped outside, and footsteps ap
 
 Astalir’s eyes darted around. He piled books in front of the door, and re-locked it. He slipped out the back exit of the house, just as the front door opened and a caw-caw echoed through the building. Astalir turned into a bird and flew off.
 
-Astalir easily catches up to the party, although he is a bit disappointed he wasn’t able to get the answers to his questions. What were those robed birds doing? Were they going to sacrifice him? If so, to who? Astalir didn’t get a good look at the runes on the altar. Astalir thinks about it as he follows the party’s tracks to the edge of town in Canadia, turning back into a deer to blend in with the moose roaming the streets.
+Astalir easily catches up to the party, although he is a bit disappointed he wasn’t able to get the answers to his questions. What were those robed birds doing? Were they going to sacrifice him? If so, to who? Astalir didn’t get a good look at the runes on the altar. Astalir thinks about it as he follows the party’s tracks to the edge of town in Canadia, turning back into a deer to blend in with the moose roaming the streets, and avoiding an annoying noisy syrup salesman.
 
 ===
 
@@ -4973,6 +4963,18 @@ One of the crew members turned to Gra. “Half our crew grew these strange bumps
 “No problem. Happy to help. Stay safe on your travels.”
 
 “God speed to you as well.” The sailor saluted.
+
+Astalir pondered this. It wasn’t normal for people to just sprout bumps and go crazy. Something had happened to them, but what, he had no clue.
+
+===
+
+Meanwhile, in Sui’s adventures:
+
+When Sui woke up, he found the note Reesu left him. He felt betrayed and abandoned for no reason. He and Leona set out to go back to Canadia.
+
+When they got to Canadia, where they took care of a rat infestation in the syrup salesman’s basement. Sui got bit by a rat, which seemed to suck blood out of him. Leona got the rat off him and they killed the rest of the rats.
+
+The syrup salesman told them that their party set sail on a boat earlier that day, and were long gone. Sui and Leona spent the night in Canadia.
 
 # ( 18 ) Act 2 Chapter 3
 
@@ -5589,3 +5591,15 @@ Reesu and Shank rushed to him. “Are you ok?”
 “Eh, I’ve seen worse. He’ll be fine.” Bob walked off.
 
 Off in the distance, the main land of the lizard folk country appeared. The party prepared to disembark, allowing Reesu a perfect excuse to postpone processing her feelings and her patron’s mysterious request. She shrugged it off. It’s time for another adventure.
+
+===
+
+Meanwhile, in Sui’s adventures:
+
+Sui and Leona headed to the kobold cave.
+
+Along the way, they had to go through the misty graveyard again. They tried walking through it, but a mysterious stranger set off the zombies, who all went into a frenzy, attacking everything in sight. Leona managed to help save the stranger, while Sui killed the zombies and the purple plant monster in the middle of the graveyard.
+
+The stranger was a man with the face of a deer, with a matching pair of antlers. He asked them if they had seen a dark-skinned rogue, but they said no. The stranger followed them to town, where they parted ways.
+
+Sui and Leona returned to the kobold cave, where they found the kobold chief dead, pierced by a dozen arrows. Upon seeing Sui’s new dragon wings, Sylla and the rest of the kobolds worshipped him even more than they did before. Sui made himself right at home as the new leader of the kobold cave.
