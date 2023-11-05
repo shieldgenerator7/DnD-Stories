@@ -4452,6 +4452,88 @@ The lizard folk attack and the party finds out what was in the letter they were 
 
 Reesu finds a goblin named Shank, who is a competent fighter. In a drinking game, she finds out that Shank has some lethal vengeance to enact on Sui and Astalir. Fearing the worst, she superglued them both to the wall.
 
+===
+
+2023-11-04
+
+This chapter under construction. Please wait for the official completion announcement
+
+===
+
+Gra’s stomache rumbled as he stroked Astalir’s fur. He was cuddling with him in bed at the inn at Wind’s Crossing, along with Reesu and Gale. After the battle they had just fought, it was nice to spend some quality time with friends, even if those friends were fast asleep.
+
+Astalir’s fur was soft and fluffy for a deer. If there were things hidden in his fur, Gra didn’t feel it. Astalir’s muscles twitched as he pet his back, and he gave a little snort.
+
+Gra’s stomache rumbled. He could eat a whole deer right now. No, not a deer. Well, at least not *this* deer. Gra sat up in bed.
+
+“Something wrong?” Reesu laid on the other side of the bed, holding Gale on her chest. Her hands were at her side, but Gale’s fur still moved as if he was getting pets.
+
+“I’m just hungry, is all.”
+
+“I think I have some meat in the bag…”
+
+“Is it human flesh?”
+
+“Only the very best.”
+
+“I’ll pass.” Gra stood up and got his adventuring gear on.
+
+“Are you going to breakfast? It’s not even dawn yet.”
+
+“I gotta go and… sharpen my weapons.”
+
+“Well I’ll come with you then.”
+
+“No, I’ve got to go alone. I’ll be gone all day probably, and I’ll be going into the woods.”
+
+“But it’s dangerous to go alone!” Reesu held out Gale. “Here, take this.”
+
+Gale woke up. “What? Huh?”
+
+“You want to come with me on a—” Gra looked at Astalir to make sure he was asleep. “A hunting trip?”
+
+“This one will help you.” Gale’s stomache also rumbled. “This one hungry.”
+
+“Come on buddy, let’s go.” Gra picked up Gale and put him on his shoulders.
+
+In the dining room, Gra and Gale found Sui.
+
+“Can’t sleep either?” Gra asked.
+
+“No, not really.” Sui poured a vile of acid into a mug of ale and downed it all in one gulp. “Where you going?”
+
+“Hunting. Wanna come?”
+
+Sui shrugged. “Ok.” He downed one more shot and then readied his bow and arrow.
+
+“Where deer?” Gale asked.
+
+“Astalir’s not coming with us. I don’t think he’d enjoy it.”
+
+“He’s probably not good at hunting anyway.” Sui followed Gra out of the tavern. “At least nowhere near as good as me.”
+
+“You sure?”
+
+“Yeah, I’m the best hunter in the party.”
+
+“That sounds like a challenge.”
+
+“I bet you 10 breakfasts that I can shoot more prey than you.”
+
+“Ha!” Gra chuckled. “And loser has to cook those breakfasts.”
+
+“Deal.” Sui shook hands with Gra as they left the village. “I know you think you got this in the bag, what with you hunting for the kobolds and all, but I’m quite the experienced hunter myself.”
+
+“Oh yeah, the kobolds. I wonder how they’re doing.”
+
+“Probably hanging on to every moment waiting for my return.”
+
+Gra rolled his eyes. He pulled out his bow and shot a rabbit straight in the head. “First one down for me.”
+
+“Gra one, Sui zero!” Gale cheered.
+
+===
+
 # ( 17 ) Act 2 Chapter 2
 
 *SPPPLUUURT*
