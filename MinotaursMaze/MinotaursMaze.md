@@ -4454,7 +4454,7 @@ Reesu finds a goblin named Shank, who is a competent fighter. In a drinking game
 
 ===
 
-2023-11-04
+2023-11-05
 
 This chapter under construction. Please wait for the official completion announcement
 
@@ -4533,6 +4533,206 @@ Gra rolled his eyes. He pulled out his bow and shot a rabbit straight in the hea
 “Gra one, Sui zero!” Gale cheered.
 
 ===
+
+“Hey, Bob, whatcha got there?” Reesu found Bob sitting on his bed, staring at the deck of random oddities.
+
+“Some kind of deck of cards. The dragonborn asked me to hold it.”
+
+“Do you know what it does?”
+
+“Not a clue.”
+
+“Let me show you.” Reesu picked a card. Her skin grew black lines in a webbed steal pattern, and they suck into her skin.
+
+“What happened?”
+
+“I don’t know, but it felt like something good.”
+
+“Smells like the stuff I use to keep the zombies away.” Bob sniffed Reesu’s arm. He shrugged. “Why not?” He pulled a card from the top of the deck. His hand turned to stone, and the petrification crawled up his arm and spread to his whole body in an instant. He was now just a statue on the bed.
+
+“Oh well.” Reesu grabbed the deck of cards, but Bob’s stone fingers held it in place. “Maybe Astalir can get it for me.” Reesu went back to Gra’s room. “Astaliiir…”
+
+Astalir snored, still laying in bed by himself.
+
+Reesu shook him awake. “Astalir! I want to show you something.”
+
+Astalir woke up. “What is it, Reesu?”
+
+“Come, I want to show you.”
+
+“Hmm… Ok.” Astalir turned into Drathalion and exited the room on two legs.
+
+Reesu showed him to the room.
+
+“Uh, what’s that?” Drathalion walked into the room. “It looks like Bob, but stone. Did you turn him to stone, or is this a statue of Bob?”
+
+“Of course it’s just a statue of Bob. Did you think I’d actually turn someone to stone?”
+
+Drathalion squinted at Reesu, then noticed the deck of cards in the “statue’s” hands, and the one card held by the other stone hand. “Ok, this is definitely Bob but petrified. I don’t know any spells that can do that.”
+
+“Nope, me neither.”
+
+“Did I hear someone say ‘petrified’?” Don appeared out of nowhere. “I know a thing or two about it myself.”
+
+“No, Don, you may not take Bob with you.”
+
+“But he’s dead. A gruesome way to die, I’m afraid.”
+
+“He’s not dead, just petrified.” Reesu corrected.
+
+“Yeah, can you make him unpetrified?” Drathalion asked.
+
+“Yes, of course I can. But for a price.” Don smiled and tapped his fingertips together.
+
+Drathalion rummaged around in her cloak and produced a bag of gold. “Will 100gp do?”
+
+“Ooh goodie!” Don grabbed the bag and listened to the jingle. “Yes, this will do nicely.” Don snapped his fingers and Bob returned to normal.
+
+Bob moaned and held a hand to his head.
+
+“Are you ok?” Drathalion asked.
+
+“I had a weird dream that I was a rock.” Bob responded.
+
+“You were.” Reesu assured.
+
+“Wow.”
+
+Some footsteps down the hall caught the attention of Reesu. “Hello, Captain Johnny.”
+
+“Oh, hi, Reesu.” He was followed by a little green goblin. “Have you met Shank? He’s my first mate.”
+
+“Don’t worry, I don’t judge.”
+
+Captain Johnny gave him a dirty look. “On my ship, he’s my first mate on my ship.”
+
+“Hey what and who you do on your ship is your business.” Reesu smiled coyly.
+
+“No, he’s… nevermind. Is your crew ready to depart?”
+
+“I don’t know. Ask Gra.”
+
+“The big green orc guy?”
+
+“Half-orc, but yes.”
+
+“Where is he?”
+
+Reesu shrugged. “I dunno. Said something about a hunting trip or something.”
+
+Captain Johnny was not amused. “Ok, well tell him I need to speak to him if you see him.”
+
+“No promises.” Reesu turned her attention to the green goblin guy, who was about her same height. “Hey little guy.”
+
+“Me Shank. Nice meet you.”
+
+“Aww you’re so cute! Can I give you a hug?”
+
+“Shank like hug, Shank like big strong hug.”
+
+“Come here, little guy!” Reesu drew him in and gave him a great big squeezer hug, lifting him off his feet.
+
+“Hey! Careful with my first mate! I can’t run the ship by myself.”
+
+“Hey Shank, would you like to draw a card?”
+
+“Shank like cards.”
+
+Reesu handed him the deck.
+
+Shank drew a card, and his legs got thicker. “Whoa! Shank super fast now!”
+
+Reesu smiled. “I think I’m going to have as much fun with you as I do with Gale.”
+
+“Fun?” Shank pulled out a knife. “Shank like fun. Fun with knives.”
+
+“Aww you got a little knife. I bet you’re really good with that.”
+
+“Shank good.” He pulled out a bigger knife, a sword. “Shank good with big knife too.”
+
+“Really? I’d like to see that.”
+
+Shank stabbed Reesu. “Like that.”
+
+Reesu put an invisible tentacle over the stab wound in her stomach. It hurt, but she was impressed he could strike so quickly. “Wow, that’s very good! How about a duel?”
+
+“Shank no duel child.”
+
+“Come on, I’ll go easy on you.”
+
+Shank looked confused. “No.”
+
+Reesu reached out her arms, and Shank floated in the air. “How about now?”
+
+“Magic girl have magic powers. Shank no like. Shank no duel.”
+
+Reesu put him down. “It would’ve been boring anyway. You wouldn’t have been able to do anything.”
+
+“Yeah, please don’t duel my first mate. I don’t want anything happening to him.”
+
+“Ah, no worries.” Don appeared behind Captain Johnny, arm around his shoulder. “I have cream pies.”
+
+“Who?” Captain Johnny spun around, drawing his sword.
+
+“My cream pies heal you to full health. I will sponsor this duel with free cream pies.”
+
+“Why?”
+
+“If you are to be a party, you must know each other’s strengths, *and* weaknesses. What better way than with a duel? Haha.” Don splashed a pie on Reesu’s face, and her wound healed instantly.
+
+Drathalion peeked her head out of the room. “You’re doing this for your own entertainment, aren’t you?”
+
+“Well, not only.” Don pondered. “Now, let’s all go outside where there’s more room!” Don led them out to the shooting range.
+
+At this time of day, it was empty, save for one robot who was shooting targets.
+
+Shank walked onto the range, admiring his expertise. Captain Johnny pulled him back.
+
+“That’s Silber. You don’t want to get hit by one of his bullets.”
+
+“Silber. Shank like Silber. Silber strong warrior. Shank want to be strong warrior. Strong warrior like Silber. Silber train Shank?”
+
+“Maybe some other time. It looks like he’s busy. Shank?” Captain Johnny looked down to see Shank was gone.
+
+Shank’s extra thick legs carried him all the way to Silber’s position before Captain Johnny even noticed. When he got there, he watched the robot line up a shot, shoot, and explode a target almost half a mile down range.
+
+“Whoa! Silber shoot well! Silber so cool!”
+
+“Heh. Thanks kid.” Silber nodded.
+
+“Silber teach Shank how to be strong warrior?”
+
+“I’m not sure what all I can *teach* you.”
+
+“Silber duel Shank?”
+
+“Sure, kid, show me what you got.”
+
+Drathalion and the party caught up and watched the two get ready. Drathalion molded the earth to make waist-high walls around the two, making a small arena. Shank could easily run from one side of it to the other in the amount of time it took Silber to load his gun.
+
+“Fighters ready!” Don announced. “Fight!”
+
+Silber took a shot at Shank, hitting him in the leg. His leg gushed out blood, but Shank didn’t pay any attention to it.
+
+He lunged at Silber, knocking him down. Shank pulled out three separate swords, and buried them deep into the grooves between Silber’s platings. Sparks flew out as Silber’s limbs failed.
+
+Silber dropped his gun onto his foot, which was the only functioning limb he had left. He lifted his leg and pointed the gun straight at Shank’s chest, and remote activated the trigger. The bullet tore through Shank, echoing as it flew off into the distance.
+
+Shank staggered and fell over backwards, unconscious.
+
+“Winner: Silber!” Don appeared next to Silber and raised his non-functioning arm. Then he threw a cream pie in Silber’s face and another onto Shank.
+
+Silber got up and grabbed his gun, dusting it off. When Shank also stood up, he smirked. “I gotta hand it to you, kid, you’re a lot tougher than I thought you would be.”
+
+“Silber agrees to teach Shank?”
+
+“I don’t know. I think you’re a pretty strong warrior already.”
+
+“Shank must get stronger.”
+
+“And why’s that?”
+
+“To teach other goblins to be strong.”
 
 # ( 17 ) Act 2 Chapter 2
 
