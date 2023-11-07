@@ -4454,7 +4454,7 @@ Reesu finds a goblin named Shank, who is a competent fighter. In a drinking game
 
 ===
 
-2023-11-05
+2023-11-06
 
 This chapter under construction. Please wait for the official completion announcement
 
@@ -4733,6 +4733,192 @@ Silber got up and grabbed his gun, dusting it off. When Shank also stood up, he 
 “And why’s that?”
 
 “To teach other goblins to be strong.”
+
+===
+
+Don leaned over and whispered to Drathalion. “Please, step into my office.” He snapped his fingers and a rectangular portal opened to a private interior room.
+
+“Whatever for?”
+
+“To discuss the ‘gold’ you gave me.”
+
+Drathalion’s eyes went wide, and she obliged.
+
+Inside, the walls were curved in wild ways, the bulged in random places, and the furniture walked around on four legs. Book cases phased in and out like bubbles.
+
+“What is this place?”
+
+“My home.” Don smiled. “Like it?”
+
+“You’ve got a lot of books.”
+
+“Yes.” Don’s demeanor turned sour. “And you’ve got a lot of nerve, paying me with rocks.” He held out the bag of gold that Drathalion had given him earlier, showing her that it was all rocks.
+
+“That’s not the bag I gave you.”
+
+“It is. And it has rocks in it.”
+
+“Well it’s not my fault you turned the gold into rocks.”
+
+“Drathalion, Drathalion.” Don shook his head. “Or should I say, Astalir?” He snapped his fingers, and Astalir’s disguise disappeared.
+
+Astalir’s ears pinned back, and he backed up into a wall.
+
+“I like a good amount of chaos and pranks, as much as anyone.” Don got up into Astalir’s face, showing him a glimpse of his true form: a blue curly, crooked horn and a spiky white antler. “If you ever give me rocks again, it won’t be the gold I’ll petrify. Understand?”
+
+Astalir gulped, but nodded nonetheless.
+
+“Now, I am inclined to forgive you, *this* time.”
+
+Astalir spotted a bookshelf phasing in. On it were two books with covers made of deer hide. He flicked his eyes on them for a moment to get a lock on, and lit up the tips of his antlers to grab them from afar.
+
+“But…” Discord continued. “You’ll have to do something for me.”
+
+“Yes?” Astalir made eye contact to distract Don from the floating books. The books floated under the moving furniture and along the wavy floor towards Astalir.
+
+“Win a duel. To the death. With one of your party members.”
+
+“But… I don’t want to kill…”
+
+“It’s ok. I’ll just throw a pie in their face, they’ll be fine.”
+
+The books were creeping up behind Don now. “And if I refuse to fight?”
+
+“Well, then I just might turn you to stone for… 4 months? Is that long enough?” Don ran a finger down Astalir’s antlers, tine to base.
+
+Astalir’s mouth opened wide. By the time he would come out of it, his antlers would be getting ready to fall off. Then he would have to wait a whole year before continuing his mission. “Who am I fighting?”
+
+“Your choice. Better choose wisely.”
+
+Astalir brought the book to between Don’s legs. If he can thread them through just right, he can take them without Don ever seeing…
+
+Don snapped his fingers, and the books appeared in front of him. “You seem to be interested in these two books in particular.”
+
+Astalir stared at him and the books.
+
+“Hmmm…” Don smiled. “I’ll give you the books, but for your attempted theft, I’ll take away your mouth.” Don snapped his fingers.
+
+Astalir opened his mouth to speak, but his jaw moved up and his lips sealed shut. For good measure, his tongue also fused into his teeth, which also fused together. His lips squirmed uncomfortably.
+
+“I seem to recall that folks around here require the use of their vocal cords to cast spells. But you’re not a spellcaster, *are* you?” Don chuckled evilly. “You’re a rogue, right? Hopefully you don’t rely on your mouth for spells, otherwise you’re going to be spending the rest of your antlers’ life as a statue.” He cackled.
+
+He gave Astalir the books, and gave him back his Drathalion disguise. He opened the portal back to Wind’s Crossing, and they both exited.
+
+“Now, who are you going to fight?”
+
+Drathalion looked at Reesu. No, she would grapple her before she ever got close. Silber? She’d never get close enough to him. Shank was a wild card, and based on his battle with Silber, he was on the higher end. Gale would do nicely, he’d let her win probably. But he wasn’t here. That left only one option.
+
+Drathalion pointed at Bob.
+
+“Bob! The shadar kai! Drathalion challenges you to a duel.” Don announced.
+
+Bob shrugged. “Ok.”
+
+They climbed into the arena walls.
+
+“Hey, if I kill you, don’t take it personal, ok?” Bob casually let out.
+
+Drathalion nodded, unable to speak.
+
+“Fighters ready!” Don chuckled, fingers touching. “Fight!”
+
+“Do we have to?” Bob hugged himself.
+
+Drathalion drew her bow.
+
+Bob shrugged. “Ok.” Before Drathalion could unleash her arrow, Bob dashed to her and swiped her with his shortsword.
+
+Drathalion dodged, but got slashed in the side. She split in two, flanking Bob from both sides. She loosed her arrow, which cut across Bob’s arm.
+
+Bob spun and threw daggers at both Drathalions, hitting them both square in the chest. “I don’t want to fight anymore.” He took out a bag of baked crispy potatoes, and ate one.
+
+Drathalion snook up behind him and daggered him. He caught the blade with his bag of potatoes and shoved Drathalion. Then, with his sword, he plunged it into Drathalion’s chest.
+
+Drathalion rolled, catching only the side of the blade, getting a large gash in her side. She held her wound while drawing her rapier.
+
+“Yay! Go Drathalion!” Reesu cheered.
+
+Drathalion looked at Reesu, and at the waist-high wall in front of her. She pointed a finger at the wall, and Reesu looked down.
+
+*HELP ME*
+
+“Shank, do you want to jump in?” Reesu drew Shank close, already lifting him up.
+
+“Shank fight! Shank fight!”
+
+Reesu threw Shank up into the air, and he crashed down in front of Bob, was getting ready to shoot an arrow. Bob shot Shank in the arm.
+
+Shank went full force on Bob, showing just how strong of a warrior he was already. He slashed Bob with each of his “big knives”, pinning him to the ground. “You not strong warrior. You have nothing to teach Shank.”
+
+“Where’d you come from?” Bob looked in shock, skewered on multiple blades.
+
+Drathalion made a hand gesture, and a stalagmite erupted out of the ground, piercing Bob’s heart.
+
+Bob’s head hung limp from his neck.
+
+Drathalion lowered her bow, staring at Don, arms high.
+
+Don grinned ear to ear, waving a finger.
+
+Drathalion went on alert. The goblin was in the ring with her, and it wasn’t stopping.
+
+“Shank fight!” He pulled his big knives out of Bob one by one.
+
+That bought Drathalion enough time to pour some arrows into Shank. Three, to be exact.
+
+But Shank was unphased. He ran at Drathalion with full force.
+
+Drathalion’s split into two.
+
+Shank stabbed a Drathalion, and his sword went right through it. He ran to the other one and stabbed it with his longest knife.
+
+Drathalion drew her dagger, but she was skewered to a wall, and couldn’t reach Shank. She touched the wall, and the stone around the sword withdrew, allowing her to get free. She dodged to the side, avoiding another blade, and grew a wall out of the ground to block Shank from stabbing her.
+
+“Hey! That’s cheating!” Reesu exclaimed. “How dare you wall in front of my dog’s face!”
+
+“Yeah, what she said.” A beer-wielding Arakroca named Lor-Tay stood on the sidelines next to Reesu. “How does she even have that? She doesn’t look like a spellcaster.”
+
+Reesu leaned over and explained it to him. It took a whole 5 minutes of commenting on the battle.
+
+During which, Drathalion was holding on. She was badly wounded, but still breathing. She held her palms open behind her, and a bright sphere of white light appeared behind her.
+
+Shank easily got around the wall, and when he did, he was blinded by the white light.
+
+Drathalion took the opportunity to shoot more arrows into him, but he didn’t go down. It doesn’t help that she missed a few shots.
+
+But now he knew where she was. He jumped at her, knocking her to the ground. With a final frenzy of blows, all his blades were making themselves at home in her chest.
+
+Finally, Drathalion passed out: the ball of light faded, the walls came down, and the writing withered away. Only the cat remained.
+
+Don walked up to Shank, raising his blood-soaked arm into the air. “Winner: Shank!”
+
+“Shank fight! Shank fight!”
+
+“No, Shank, you fought already. Time to calm down.” Reesu pulled him in, restraining him.
+
+Don threw pies on Drathalion, Bob, and Shank. He helped Drathalion to her feet. “Hello. Are you ready to be turned to stone?” He snapped his fingers, opening her mouth up again.
+
+“But I won.”
+
+“You were defeated.”
+
+“But I won the duel between me and Bob.”
+
+“Sorry, but no, Shank finished him.”
+
+Drathalion held out a hand, casting swirling lights from them. The lights danced about, slowly coming together, forming a coherent image. “No, watch this.”
+
+The image was of Bob being impaled on Shank’s blades. Just as Shank was about to stab him with his dagger, a thin spike of earth shot up and finished Bob off first.
+
+“I got the last hit.”
+
+“Hmmm…” Don pondered. “So you did.” He laughed. “You cheated, but in a chaotic way.” He tapped his chin. “I like that. Very well, you will not be turned to stone. *This* time. But never pull that trick on me again, understood.”
+
+Drathalion nodded.
+
+“It’s unclassy to use the same trick twice.”
+
+“So, who’s thirsty?” Reesu asked. “Let’s go get some drinks!”
 
 # ( 17 ) Act 2 Chapter 2
 
