@@ -4450,16 +4450,6 @@ The lizard folk attack and the party finds out what was in the letter they were 
 
 # ( 16 ) Act 2 Chapter 1
 
-Reesu finds a goblin named Shank, who is a competent fighter. In a drinking game, she finds out that Shank has some lethal vengeance to enact on Sui and Astalir. Fearing the worst, she superglued them both to the wall.
-
-===
-
-2023-11-06
-
-This chapter under construction. Please wait for the official completion announcement
-
-===
-
 Gra’s stomache rumbled as he stroked Astalir’s fur. He was cuddling with him in bed at the inn at Wind’s Crossing, along with Reesu and Gale. After the battle they had just fought, it was nice to spend some quality time with friends, even if those friends were fast asleep.
 
 Astalir’s fur was soft and fluffy for a deer. If there were things hidden in his fur, Gra didn’t feel it. Astalir’s muscles twitched as he pet his back, and he gave a little snort.
@@ -4919,6 +4909,318 @@ Drathalion nodded.
 “It’s unclassy to use the same trick twice.”
 
 “So, who’s thirsty?” Reesu asked. “Let’s go get some drinks!”
+
+===
+
+Shank tries to befriend Silber, but Silber says he only accepts “friends” that are useful to him. Shank tells Silber he will try to be useful to him.
+
+The party goes to the tavern.
+
+Reesu takes a sip of her endless bottle of alcohol before ordering a bottle of a stronger drink from the bar.
+
+Shank ordered a glass of milk.
+
+Captain Johnny went stopped by on his way up the stairs. “Be sure to get a good night’s sleep in, Shank. We got a lot of traveling to do in the morning.”
+
+“Aye aye, Captain.”
+
+“Goodnight.” Captain Johnny went upstairs.
+
+Bob also slipped by unnoticed.
+
+When it was just Reesua and Shank left at the bar, Reesu opened her bottle. “Shank, would you like some alcohol?”
+
+“Captain says no trouble. Captain and Shank leave soon to boat.”
+
+“Oh, come on! One little sip won’t hurt you.”
+
+“Shank must sleep soon.”
+
+“You want to be a strong warrior, right? Alcohol is what strong warriors drink.”
+
+Shank looked at the bottle. “Ok, Shank take sip.”
+
+“Alriiight!” The bottle poured itself into a glass. “Drink up!”
+
+Shank downed it, and wheezed a little.
+
+“So? You like it?”
+
+Shank nodded. “Shank like.”
+
+“How about something stronger?” Reesu waved down the bartender. “What’s your strongest drink?”
+
+“Shank no want.”
+
+“But you want to be a strong warrior, right? So then you must drink the strongest drink.”
+
+“Hmmm… Shank agree.”
+
+“Bartender, strongest drink!”
+
+The Arakroca behind the bar spoke in clicks and whistles, cleaning a glass.
+
+Reesu made an illusion of a mug of ale, but then increased its size.
+
+The Arakroca chirped, holding up a super-sized mug.
+
+Reesu shook her head. She added strong arms to the side of the illusory mug.
+
+The Arakroca scratched its head.
+
+Then the doors to the tavern opened, and in walked Drathalion.
+
+“Drathalion! How good of you to join us!” Reesu cheered.
+
+Drathalion looked pensive as she approached the bar and claimed a stool across the bar from Reesu.
+
+The Arakroca bartender chirped.
+
+Drathalion chirped back, pointing to some Arakrocan symbols that just appeared on the counter.
+
+The bartender nodded, and brought Drathalion some berry juice.
+
+“Where was that?” Reesu asked.
+
+Drathalion shrugged. “In the back, I guess.”
+
+“You can speak Arakrocan?”
+
+Drathalion squawked, whistled, and cawed.
+
+The bartender gave her a quizzical glance.
+
+“I’ll take that as a yes.” Reesu smiled. “Can you order us a drink?”
+
+“I’m not buying you anything.”
+
+I mean, can you translate for me?”
+
+Drathalion shrugged. “Ok.”
+
+“Great! Can you ask what the strongest drink they have is?”
+
+Drathalion chirped, pointing again to a new writing on the counter.
+
+The bartender squawked, getting excited.
+
+“Something called the Wind Twister. 96% alcohol apparently.”
+
+“Oohoohoo!” Reesu cheered. “Yes! Order us that.”
+
+Drathalion nodded at the bartender and chirped.
+
+The bartender obliged, giving Reesu a special twisted shot glass for the drink.
+
+“Ok, Shank, drink up!” She slid it over to the goblin.
+
+“Shank taste first.”
+
+“No, strongest warriors drink strongest shot all at once.”
+
+“Shank be like strongest warriors. Shank drink.” Shank did just that. He took the whole shot glass and poured it straight down his throat. He coughs for a little bit. “Shank strong?”
+
+“Good job, Shank! You’re learning!” Reesu hugged him from the side.
+
+Across the bar, Drathalion’s ears and whiskers drooped, and she hung her head close to the counter.
+
+“You look down, cat.”
+
+“I can’t find Gra, Gale, or Sui.” Drathalion looked up at Reesu. “Do you know where they are?”
+
+“On a hiking trip.” Reesu shrugged.
+
+“But, why did they go without me?”
+
+“Like I told you, he went on a hiking trip.”
+
+“Did he tell you where he was going? It’s not like him to leave me behind like this.”
+
+“I’m sure he’ll be back. Say, how about a drink? Perhaps it’ll cheer you up?”
+
+“I got one already, thanks.” Drathalion raised her glass.
+
+Reesu whistled at the bartender. She held up a coin as she pointed at a certain bottle on the wall.
+
+The bartender held it up and clicked.
+
+Reesu nodded.
+
+The bartender collected the coin and granted the alcoholic beverage.
+
+Reesu slid it over to Drathalion. “Drink up, it’s on me.”
+
+“Reesu, I’m not in the mood for your… pranks.”
+
+“It’s not a prank, deer. This is genuinely to help you feel better.”
+
+Drathalion looked skeptical, but considered it anyway. “What is it?”
+
+“It’s an apple cider.”
+
+She sniffed it. “Thanks, but I don’t drink.”
+
+“At least take a sip?”
+
+“Fine.” Drathalion raised the glass to her lips and let a small droplet enter. Her face contorted, brows furrowed and whiskers sticking straight out. She quickly took another sip of the berry juice.
+
+“So?”
+
+“No, I don’t like it.”
+
+“Well, you have to drink the whole thing for it to help you feel better.”
+
+“I don’t want to.”
+
+“Trust me.”
+
+Drathalion squinted at Reesu, while covering the glass with her arms. A minute later, Drathalion took the glass, full of liquid, and drank the whole thing. Strangely, the liquid was very silent as the cat swallowed.
+
+“Nice try, deer.” Reesu peaked around the bar and found a floating pool of cider just under the countertop. She waved her hand, and the alcohol floated up to Drathalion’s mouth.
+
+Drathalion closed her mouth, letting the alcohol sting her face instead. “Reesu! I don’t like it!” But opening her mouth to speak was a mistake, as she gave Reesu an opening to force it all down her throat.
+
+“There, feel better?”
+
+Drathalion snorted, like a deer would. She coughed a little.
+
+“There you go.”
+
+“How does that solve anything?”
+
+“It helps take your mind off things.”
+
+“But I’m still thinking about it.”
+
+“Well let’s distract you, then.” Reesu ordered 3 empty glasses, and poured ale from her endless bottle into all of them. “Let’s play a game.”
+
+“If it’s about staying dry, I’m pretty sure I’ll win.”
+
+Reesu laughed. “Well, it is, but not that kind of dry.”
+
+“Shank like game. Shank want to play.”
+
+“It’s the game where someone asks a question, and then we all drink. Then after the question is answered, someone else asks a question.”
+
+“Sounds like the only end result is getting drunk.” Drathalion noted.
+
+“Exactly!” Reesu raised her glass. “Now, who wants to go first?”
+
+“Shank ask you, girl.”
+
+“That’s a shot.” Reesu took a shot, and so did Shank. “Drathalion?”
+
+She rolled her eyes, and then took her shot.
+
+“Ok, what’s your question?”
+
+“Reesu is child?”
+
+“I’m the height of a child.” Reesu gave them all more ale. “Ok, I got a question. Shot!”
+
+They all took a shot.
+
+“Shank, what brought you here? To Wind’s Crossing?”
+
+“Yeah,” Drathalion added, “What’s a goblin doing this far out?”
+
+“Shank here with Captain. Shank want to get strong to protect goblins. Shank teach goblins how to fight. Goblins protect self goblins.”
+
+“Any reason why?” Reesu took a sip straight from her bottle.
+
+“Shank shamed.” He hung his head. “Shank couldn’t protect family. Family killed. Mother, father, brothers…”
+
+“Sorry to hear that.” Reesu burped. “My parents are also dead.”
+
+Drathalion nodded. “My parents are…” She stopped herself.
+
+“Yes?” Reesu inquired.
+
+“I got a question.” Drathalion changed the subject.
+
+“Shot!” They all took a shot.
+
+Drathalion started wobbling like a loose plate of gelatin. “Do you know who killed your family?”
+
+Shank hung his head. “Shank no like talk.”
+
+“Ok, we can drop it.”
+
+“Shank have question.”
+
+“Shot!” They all took another shot. With each one, Shank and Drathalion got visibly drunker, but Reesu seemed unphased.
+
+“How Reesu meet Drathalion and Bob?”
+
+“Oh, how did the party get together?” Reesu looked at the ceiling. “I saved a deer from drowning in a river.”
+
+“Ha!” Drathalion chuckled. “I knew that was you, ‘New Gra’. You didn’t fool me.”
+
+Reesu chuckled.
+
+“I’ve been here… the whooole time. We met Daisy in Canadia, Bob in… The Sticky Bucket?”
+
+“No we met Bob in some weird graveyard.”
+
+“Oh, that’s right, the night I went off on my own.”
+
+“Yeah.”
+
+“We met Reesu when she saved us from the bears, and… what? No. You didn’t save me from the river, Gra did.”
+
+“How do you know?”
+
+Both Shank and Drathalion gave Reesu tilted-head confused looks.
+
+“Anyway, we met Gale in the kobold cave, and we recruited Gra just before.” Drathalion burped, and her ears got abnormally large. “And Sui and I, we raided a minotaur’s maze with a whooole other party. And then before meeting Gra, we raided a goblin camp.”
+
+“Goblin camp?” Shank could barely keep his head up straight.
+
+“Yeah. I wanted to find out what the goblins knew, and tricked Sui into going to the goblin camp. I thought he’d just hooold them off, but he annihilated them. I think one escaped.”
+
+Shank, as green as he was, grew red in the face. “This goblin, he have brown leather jacket?”
+
+Drathalion pondered. “I think so.”
+
+“And white undershirt?”
+
+“Probably.”
+
+“Purple pants?”
+
+“Most definitely.”
+
+Shank jumped up on the counter, his short stature letting him stand full height without a hitting the ceiling. He was scowling at the cat.
+
+Drathalion squinted at Shank. He was wearing a brown leather jacket, a white undershirt, and purple pants. “Wow, you look just like him!”
+
+“I is him!” Shank pulled out his shortsword and jump across the counter at Drathalion.
+
+Drathalion duplicated herself, but fell off the stool onto the floor.
+
+Shank’s blade plunged into the clone’s heart and got stuck in the stool beneath. The clone wavered and wobbled.
+
+“Ok! I see everyone’s had enough to drink!” Reesu reached out with invisible tentacles, grabbing both Shank and Drathalion. She squeezed them both until they both dropped unconscious. Drathalion’s disguise fell away and she returned to being Astalir.
+
+Shank hiccuped, barfing little bits of vomit onto Reesu’s tentacles. Astalir drooled out of his mouth.
+
+“Well, I’ve learned waaay too much tonight. Let’s call it a night.” She turned to the bartender. “You got any super glue?”
+
+He chirped.
+
+Reesu asked with an illusion, and the bartender obliged, for some extra coin, of course. Reesu took the glue into Gra’s room and set the tow combatants up into their positions. She stood Astalir up on four legs up against the wall near the window, gluing all four hooves to the floor. Then she rotated his head 90 degrees so it faced the wall, stuck his antlers in, and glued them there.
+
+Astalir snored, and his tail twitched.
+
+“Deer are like horses, right? They sleep standing up?” Reesu patted Astalir’s head. “You should be comfy there, deer.”
+
+Astalir slumped over, bumping his butt into the wall. His legs buckled and his body was being held up largely by his head.
+
+“I’m sure that’s normal.”
+
+Reesu grabbed Shank by the feet and put him upside-down in a barrel, then glued a lid on it. The lid had a hole in it with just enough room for Shank to peak his head through, if he so decided. And Reesu made that decision for him. She then turned the barrel upright and glued it to the wall oppsosite Astalir, taking care to make sure Shank was also facing the wall.
+
+“Goodnight deer, goodnight my pet.” She kissed both of them on the forehead. “Please forget everything that happened tonight. And sweet dreams!”
 
 # ( 17 ) Act 2 Chapter 2
 
