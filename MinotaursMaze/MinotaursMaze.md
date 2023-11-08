@@ -4448,7 +4448,7 @@ Party fights their way through wolves and snowy mountains to Wind’s Crossing.
 
 The lizard folk attack and the party finds out what was in the letter they were delivering. Astalir finds out who had hunted down his kind.
 
-# ( 16 ) Act 2 Chapter 1
+# ( 16 ) S2E1: It’s All Fun and Games Until Someone Gets Drunk
 
 Gra’s stomache rumbled as he stroked Astalir’s fur. He was cuddling with him in bed at the inn at Wind’s Crossing, along with Reesu and Gale. After the battle they had just fought, it was nice to spend some quality time with friends, even if those friends were fast asleep.
 
@@ -5222,7 +5222,7 @@ Reesu grabbed Shank by the feet and put him upside-down in a barrel, then glued 
 
 “Goodnight deer, goodnight my pet.” She kissed both of them on the forehead. “Please forget everything that happened tonight. And sweet dreams!”
 
-# ( 17 ) Act 2 Chapter 2
+# ( 17 ) S2E2: Headaches
 
 *SPPPLUUURT*
 
@@ -5728,7 +5728,7 @@ Reesu went deeper into the boat to find more things. Gra went down, found a key 
 
 “What happened here?” Gra asked.
 
-One of the crew members turned to Gra. “Half our crew grew these strange bumps on their heads, and went wild attacking us. We managed to survive by locking ourselves in this cage. They couldn’t cut through the bars, and they were too berserk to think to grab the key. Thanks for getting us out.”
+One of the crew members turned to Gra. “Half our crew complained of real bad headaches. Then before we knew it, they grew these strange bumps on their heads, and went wild attacking us. We managed to survive by locking ourselves in this cage. They couldn’t cut through the bars, and they were too berserk to think to grab the key. Thanks for getting us out.”
 
 “No problem. Happy to help. Stay safe on your travels.”
 
@@ -5746,7 +5746,7 @@ When they got to Canadia, where they took care of a rat infestation in the syrup
 
 The syrup salesman told them that their party set sail on a boat earlier that day, and were long gone. Sui and Leona spent the night in Canadia.
 
-# ( 18 ) Act 2 Chapter 3
+# ( 18 ) S2E3: To Drown a Half-Orc
 
 Gra, Reesu, and Astalir hopped back onto their ship. Reesu carried a bag full of random stuff and Astalir had several pieces of paper sticking out of his fur. Reesu turned around and shoved the merchant ship away.
 
