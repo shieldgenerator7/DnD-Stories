@@ -4522,6 +4522,18 @@ Gra rolled his eyes. He pulled out his bow and shot a rabbit straight in the hea
 
 “Gra one, Sui zero!” Gale cheered.
 
+“Yeah, yeah.” Sui grouched. He turned real quick and shot a bush.
+
+“What are you shooting at?”
+
+“I thought I saw a green creature.” Sui jumped in the air and flew to the bush. Behind it, he found the arrow, lying in a pool of blood. A chunk of green skin was impaled on the arrowhead, along with scraps of white cloth. A blood trail followed a pair of boot prints away from the bush.
+
+“What is it?”
+
+“Nothing important.” Sui rejoined Gra and Gale. “Gra one, Sui zero.” He admitted.
+
+They continued hunting.
+
 ===
 
 “Hey, Bob, whatcha got there?” Reesu found Bob sitting on his bed, staring at the deck of random oddities.
@@ -4540,9 +4552,25 @@ Gra rolled his eyes. He pulled out his bow and shot a rabbit straight in the hea
 
 “Smells like the stuff I use to keep the zombies away.” Bob sniffed Reesu’s arm. He shrugged. “Why not?” He pulled a card from the top of the deck. His hand turned to stone, and the petrification crawled up his arm and spread to his whole body in an instant. He was now just a statue on the bed.
 
-“Oh well.” Reesu grabbed the deck of cards, but Bob’s stone fingers held it in place. “Maybe Astalir can get it for me.” Reesu went back to Gra’s room. “Astaliiir…”
+“Oh well.” Reesu grabbed the deck of cards, but Bob’s stone fingers held it in place. “Maybe Astalir can get it for me.” Reesu left to go to Gra’s room.
 
-Astalir snored, still laying in bed by himself.
+In the hallway, she ran into Captain Johnny. “Is your crew ready to depart?”
+
+“I don’t know. Ask Gra.”
+
+“The big green orc guy?”
+
+“Half-orc, but yes.”
+
+“Where is he?”
+
+Reesu shrugged. “I dunno. Said something about a hunting trip or something.”
+
+Captain Johnny was not amused. “Ok, well tell him I need to speak to him if you see him.”
+
+“No promises.” Reesu waved him off as she entered Gra’s room, looking down at the deer laying in the bed. “Aaastalir…”
+
+Astalir snored. His bandaged leg twitched.
 
 Reesu shook him awake. “Astalir! I want to show you something.”
 
@@ -4588,41 +4616,53 @@ Bob moaned and held a hand to his head.
 
 “Wow.”
 
-Some footsteps down the hall caught the attention of Reesu. “Hello, Captain Johnny.”
+A scraping noise from outside startled them. It was getting closer, scaling the wall, like someone was climbing it.
 
-“Oh, hi, Reesu.” He was followed by a little green goblin. “Have you met Shank? He’s my first mate.”
+Reesu opened the window from across the room.
 
-“Don’t worry, I don’t judge.”
+They all watched in anticipation as the climbing noise showed itself: a little green goblin with big, floppy ears in a brown leather jacket. He held his chest, where a pool of blood was staining his yellowing white undershirt. He stumbled into the room, landing on his face. As soon as he stood up, he shut the window. His breathing was rapid and frantic. He sat down in the corner, looking up at the window.
 
-Captain Johnny gave him a dirty look. “On my ship, he’s my first mate on my ship.”
+Outside, Arakroca patrols flew around, pecking at the windows. They pecked at this window, and after looking inside, they left.
 
-“Hey what and who you do on your ship is your business.” Reesu smiled coyly.
+The goblin sighed, taking a few deep breaths.
 
-“No, he’s… nevermind. Is your crew ready to depart?”
+Reesu approached the goblin. “Are you ok?”
 
-“I don’t know. Ask Gra.”
+“Gah!” The goblin screamed. He drew a sword and pointed it at Reesu.
 
-“The big green orc guy?”
+“It’s ok, I’m a friend.” Reesu put her palms up. “Are you hurt?”
 
-“Half-orc, but yes.”
+The goblin nodded. He showed her his chest wound.
 
-“Where is he?”
+“I’ll go get Daisy.” Drathalion bolted off down the hallway.
 
-Reesu shrugged. “I dunno. Said something about a hunting trip or something.”
+“Ah, you poor thing.” Reesu got in close and wrapped an invisible tentacle around his chest. She applied enough pressure to stop his bleeding. “Don’t worry, little guy. We’ll get you taken care of.”
 
-Captain Johnny was not amused. “Ok, well tell him I need to speak to him if you see him.”
+Daisy came in and healed the goblin up.
 
-“No promises.” Reesu turned her attention to the green goblin guy, who was about her same height. “Hey little guy.”
+“There you go, all better?” Reesu asked.
 
-“Me Shank. Nice meet you.”
+The goblin nodded.
 
-“Aww you’re so cute! Can I give you a hug?”
+“What’s your name?”
+
+“Shank.”
+
+“I’m Reesu. This firbolg is Daisy, the tabaxi is Drathalion, and the shadar kai is Bob.”
+
+“Want some zombie jerky?” Bob offered him some.
+
+“Shank hungry.” Shank took it and bit into it. He immediately regretted it, spitting it all out.
+
+“More for me.” Bob shrugged.
+
+“Shank no like.”
+
+“Shank, you’re so cute!” Reesu smiled. “Can I give you a hug?”
 
 “Shank like hug, Shank like big strong hug.”
 
 “Come here, little guy!” Reesu drew him in and gave him a great big squeezer hug, lifting him off his feet.
-
-“Hey! Careful with my first mate! I can’t run the ship by myself.”
 
 “Hey Shank, would you like to draw a card?”
 
@@ -4658,11 +4698,11 @@ Reesu reached out her arms, and Shank floated in the air. “How about now?”
 
 Reesu put him down. “It would’ve been boring anyway. You wouldn’t have been able to do anything.”
 
-“Yeah, please don’t duel my first mate. I don’t want anything happening to him.”
+“Little girl friendly. Shank no want hurt little girl.”
 
-“Ah, no worries.” Don appeared behind Captain Johnny, arm around his shoulder. “I have cream pies.”
+“Ah, no worries.” Don appeared behind Shank, arm around his shoulder. “I have cream pies.”
 
-“Who?” Captain Johnny spun around, drawing his sword.
+“Who?” Shank spun around, drawing his sword.
 
 “My cream pies heal you to full health. I will sponsor this duel with free cream pies.”
 
@@ -4672,31 +4712,53 @@ Reesu put him down. “It would’ve been boring anyway. You wouldn’t have bee
 
 Drathalion peeked her head out of the room. “You’re doing this for your own entertainment, aren’t you?”
 
-“Well, not only.” Don pondered. “Now, let’s all go outside where there’s more room!” Don led them out to the shooting range.
+“Well, not only.” Don pondered. “Now, let’s all go outside where there’s more room!”
+
+“Hold on. He’s not in our party.” Drathalion pointed out.
+
+“Well he could be.” Reesu looked Shank in the eyes. “Do you want to be in our party Shank?”
+
+“Shank like be in party.”
+
+“Welcome aboard!” Reesu hugged him.
+
+“Alright, let’s see what you can do.” Drathalion agreed.
+
+Don led them out to the shooting range.
 
 At this time of day, it was empty, save for one robot who was shooting targets.
 
-Shank walked onto the range, admiring his expertise. Captain Johnny pulled him back.
+Shank walked onto the range, admiring his expertise. “Who that?”
 
 “That’s Silber. You don’t want to get hit by one of his bullets.”
 
-“Silber. Shank like Silber. Silber strong warrior. Shank want to be strong warrior. Strong warrior like Silber. Silber train Shank?”
+“Silber. Silber strong warrior. Shank like Silber. Shank want to be strong warrior. Strong warrior like Silber. Silber train Shank?”
 
-“Maybe some other time. It looks like he’s busy. Shank?” Captain Johnny looked down to see Shank was gone.
+“Let’s not bother the robot.” Drathalion said. But before she did, Shank was gone.
 
-Shank’s extra thick legs carried him all the way to Silber’s position before Captain Johnny even noticed. When he got there, he watched the robot line up a shot, shoot, and explode a target almost half a mile down range.
+Shank’s extra thick legs carried him all the way to Silber’s position before anyone even noticed. When he got there, he watched the robot line up a shot, shoot, and explode a target almost half a mile down range.
 
 “Whoa! Silber shoot well! Silber so cool!”
 
-“Heh. Thanks kid.” Silber nodded.
+Silber glanced at Shank, and then refocused on his target practice.
 
 “Silber teach Shank how to be strong warrior?”
 
-“I’m not sure what all I can *teach* you.”
+“I don’t do teaching.” Silber lined up another shot.
 
 “Silber duel Shank?”
 
-“Sure, kid, show me what you got.”
+“What’s in it for me?”
+
+Don appeared. “I’ll give 4 magic bullets.”
+
+“What are you doing here?” Silber pointed his laser eye at Don.
+
+“Can’t a being just be happy to see his friends duking it out in a duel?”
+
+“We’re not friends. But, ok… 6 bullets.”
+
+“Deal.”
 
 Drathalion and the party caught up and watched the two get ready. Drathalion molded the earth to make waist-high walls around the two, making a small arena. Shank could easily run from one side of it to the other in the amount of time it took Silber to load his gun.
 
@@ -5334,13 +5396,13 @@ The one to finally break the silence was Captain Johnny, who burst into the room
 
 Astalir disguised himself as a dresser.
 
-“There you are.” Johnny intruded. “I’ve been looking all over for you—wait, why are you glued to the wall?”
+“There you are.” Johnny intruded. “I’ve been looking all over for you—wait, why is the goblin glued to the wall?”
 
 “He’s got a hang over, don’t touch him.” Reesu moved Johnny with an invisible tentacle. “Here, stand in front of this elegant dresser and admire it.”
 
-Johnny glanced at it, but then addressed Reesu. “Yes, it’s nice. But I got a ship to get back to. And my first mate’s still asleep.”
+Johnny glanced at it, but then addressed Reesu. “Yes, it’s nice. But I got a ship to get back to. And my passengers are still not ready.”
 
-“Don’t worry about it. I’ll wake him up soon and we’ll meet you downstairs.”
+“Don’t worry about it. I’ll wake everyone up soon and we’ll meet you downstairs.”
 
 “But—”
 
@@ -5354,13 +5416,13 @@ The dresser disappeared, revealing the deer again. The piss pool floated up to R
 
 The piss pool retreated back under Astalir.
 
-Bob grabbed the ale and took a swig. “Ah, that’s good.” He burped. “This reminds me of the time my buddy got stuck in a barrel. I rolled him down a hill and he still didn’t get unstuck. In the end, I had to pound the tines of his antlers out with a hammer. Made some nice zombie knifes out of them afterwards.” He took another swig.
+Bob grabbed the ale and took a swig. “Ah, that’s good.” He burped. “This reminds me of the time my buddy got stuck headfirst in a barrel. He rolled himself down a hill and he still didn’t get unstuck. In the end, he did manage to free himself, but he had to use a hammer to break his antler tines off. Made some nice zombie knives out of them afterwards.” He took another swig.
 
-Astalir sighed. “Reesu, what’s it going to take for you to get me out of here?”
+Astalir tensed up: ears folded back, shoulders raised high, and tail tucked between his legs. He didn’t want to have to destroy his antlers to get out. Astalir took a deep breath and sighed. “Ok Reesu, what’s it going to take for you to get me out of here?”
 
 *10 minutes*. The text appeared on the wall.
 
-“10 minutes? Really? Ok. I can wait.”
+“10 minutes? Really, that’s it? Ok. I can wait.”
 
 *On one condition.*
 
@@ -5372,7 +5434,7 @@ Astalir grumbled. “My quest is rather… confidential. And personal.”
 
 *What’ll it be?*
 
-“Ok, I’ll let you know *some* of the things I find.”
+“Ok, fine. I’ll let you know *some* of the things I find.”
 
 *Deal.*
 
@@ -6290,7 +6352,9 @@ Reesu and Shank cuddled in bed. Reesu squeezed Shank tight while she stroked his
 
 “Shh, shh…”
 
-Reesu and Shank sank into a slumber.
+Reesu watched as Shank sank into a slumber. He breathed so softly, especially for a batlle-scarred, emotionally-wounded goblin. She let him sleep.
+
+Outside, it was raining. Reesu wandered up to the top deck, wrapped some invisible tentacles around the bow railings to keep herself attached, and let herself drift off into a magical sleep.
 
 It had been too long since Reesu had had a dream. She couldn’t remember the last time she had. And here she was, falling into a magical sleep. She floated in the black, unblinking void.
 
