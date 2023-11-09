@@ -146,7 +146,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 - Natural Weapons. You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
 
-- Change Material. Your skin turns to stone, wood, iron, or other material of your choice. You may use this to become petrified or unpetrified. You can not move the parts of your body that are not made of flexible material.
+- Change Material. Your skin, bone, flesh, and/or other tissue turns to stone, wood, iron, or other material of your choice. You may use this to become petrified or unpetrified. You can not move the parts of your body that are not made of flexible material.
 
 
 
