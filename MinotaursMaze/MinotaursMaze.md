@@ -24,7 +24,7 @@ The dragonborn looks his way. “Excuse me?”
 
 “Thanks for the tip.” The dwarf pockets the gold.
 
-“No I need change.” The dragonborn clarifies.
+“No, I need change.” The dragonborn clarifies.
 
 “And he’s strapped for cash.” The bugbear whispers to the robot.
 
@@ -78,7 +78,7 @@ Everyone calms down.
 
 “Well do I got a job for you ruffians.” The dwarf pulls out a map. “I need you to go to this location and find someone named Silvia. I’ll pay you 300gp.”
 
-“300 gold? Sure I’ll do it.”
+“300 gold? Sure, I’ll do it.”
 
 “We’ll join you.” The robot volunteers.
 
@@ -346,7 +346,7 @@ Jodi cried even harder.
 
 # Chapter 2 – The Minotaur’s Maze
 
-Apparently at some point, the party captured Astalir and tied him up with a rope so he couldn’t escape. They traveled together to the dungeon. Astalir tried using his tricks to escape, but they found him everytime. They tried talking to him, but all he would say was, “BLEAT!” He didn’t feel like he could trust them to know that he could talk. They all thought he was just a magical deer.
+Apparently at some point, the party captured Astalir and tied him up with a rope so he couldn’t escape. They traveled together to the dungeon. Astalir tried using his tricks to escape, but they found him every time. They tried talking to him, but all he would say was, “BLEAT!” He didn’t feel like he could trust them to know that he could talk. They all thought he was just a magical deer.
 
 The party walks along until they find a traveling merchant. “Hello, fellow travelers!” The merchant greets them. “Care to test your luck?”
 
@@ -368,7 +368,7 @@ Sui takes a card. The card twists morphs in his hand into a mug of fresh hot cof
 
 “This looks like a good deck to draw from.” Silber draws a card. The card puffs into a cloud of air and surrounds Silber’s face. “What the…”
 
-“The oddity of waterbreathing, truly a classic.” The merchant turns to Micro the bugbear.
+“The oddity of water breathing, truly a classic.” The merchant turns to Micro the bugbear.
 
 “Me want hit things.” Micro grabs a card from the weapon deck. The card turns into a bomb with a laughing face drawn on it. “What do?”
 
@@ -380,7 +380,7 @@ The party gasped, trying to figure out where Astalir went.
 
 The merchant shrugged. “He got teleported to the minotaur’s dungeon. He’ll be safe there until the minotaur comes to collect him.”
 
-In the dungeon, Astalir sat in a cage. He looked around the dark room with his nightvision. There was a chest on the other side of the room. He couldn’t reach it with his hooves because of the cage. The cage was made of iron and couldn’t be effected by Astalir’s reality warping abilities. At least not yet. He examined the lock. It was an ordinary lock that he could very easily pick.
+In the dungeon, Astalir sat in a cage. He looked around the dark room with his night vision. There was a chest on the other side of the room. He couldn’t reach it with his hooves because of the cage. The cage was made of iron and couldn’t be effected by Astalir’s reality warping abilities. At least not yet. He examined the lock. It was an ordinary lock that he could very easily pick.
 
 Footsteps.
 
@@ -418,11 +418,11 @@ The party agreed.
 
 Sui used the space to fire a volley of flaming arrows at the three skeletons in the room. He shot one, knocking its head off. He shot another one, shattering its arm bone. The skeletons fought back with mocks and cackles, but Sui shrugged them off. He was too focused to worry about the skeletons taunts. He was very handily defeating them.
 
-The party had agreed to not interrupt this epic battle, but Astalir didn’t hear Micro. When Micro was announcing the challenge, Astalir was unlocking the cage and opening it when Dralf jumped on him.
+The party had agreed to not interrupt this epic battle, but Astalir didn’t hear Micro. When Micro was announcing the challenge, Astalir was unlocking the cage and opening it when Dralth jumped on him.
 
-“I’m going to ride you deer!” Dralf kicked his side. “Giddyup!”
+“I’m going to ride you deer!” Dralth kicked his side. “Giddyup!”
 
-Astalir bucked wildly and finally got Dralf to get off. Dralf stammered backward to regain his balance. Yep, this party was crazy. Astalir ran off to avoid Dralf, running deeper into the maze. He unknowingly crossed the threshold that Micro had laid down.
+Astalir bucked wildly and finally got Dralth to get off. Dralth stammered backward to regain his balance. Yep, this party was crazy. Astalir ran off to avoid Dralth, running deeper into the maze. He unknowingly crossed the threshold that Micro had laid down.
 
 “Deer! Get back here!” Micro tripped Astalir with his polearm.
 
@@ -472,7 +472,7 @@ Finally, they did. They were all battered and bruised from all the traps in the 
 
 It didn’t matter. All Astalir need was a distraction so he could go find the documents. Once they entered the room, he had free reign to search the area. It didn’t mattered if they died, his mission could still be a success.
 
-The party, consisting of Sui, Silber Posten, Micro, Dralf, and a big tanky dwarf, entered the minotaur’s room as expected. Astalir waited in the lobby.
+The party, consisting of Sui, Silber Posten, Micro, Dralth, and a big tanky dwarf, entered the minotaur’s room as expected. Astalir waited in the lobby.
 
 “Who dares enter Timmy’s throne room?” The minotaur yelled in minotaur. “I, Timmy, will devour you all!”
 
@@ -482,7 +482,7 @@ Silber Posten tried to charge a magical shot but the sniper round came out as ju
 
 “Huh?” Sui turns to watch Silber Posten flee as he pulls his arrow back. He tries to engulf his arrow in flames, but instead pulls a muscle and drops the arrow. He loads another arrow and pulls back, pushing through his new weird muscle pain. But he pulls too far and his bow string snaps. “Crap! Now I gotta repair this!” He retreats to a side room. For safety.
 
-The big dwarf, Dralf, and Micro rush Timmy, overwhelming him with weapon damage.
+The big dwarf, Dralth, and Micro rush Timmy, overwhelming him with weapon damage.
 
 But Timmy is no push over: he strikes the dwarf and severely wounds him.
 
@@ -518,7 +518,7 @@ Astalir watched with heavy eyes.
 
 The party found that the throne was actually a door and slid it to the side. Underneath was a huge pile of gold.
 
-“We’re rich!” They exclaimed. “This is much more than that measley 600 gold that centaur Max had promised us!”
+“We’re rich!” They exclaimed. “This is much more than that measly 600 gold that centaur Max had promised us!”
 
 They carried the gold and the wounded dwarf out of the maze.
 
@@ -540,9 +540,9 @@ Astalir got out of the maze and collapsed. Is this the end? He can’t seem to g
 
 The cool breeze blew over his wound, making him cringe in pain. His ears flitted about, and his tail flapped.
 
-“Deer!” A familiar voice came from afar. Footsteps approached. The warmth of an old friend. “Don’t worry, I got you.” The warm hug of a morning sun pulsated onto Astalir’s belly. His wound seeled up properly, and his organs stopped hurting.
+“Deer!” A familiar voice came from afar. Footsteps approached. The warmth of an old friend. “Don’t worry, I got you.” The warm hug of a morning sun pulsated onto Astalir’s belly. His wound sealed up properly, and his organs stopped hurting.
 
-Astalir opened his eyes. It was someone he recognized! “Jodi!” Astalir lept onto his feet and licked him with his long deer tongue. His tail wagged back and forth.
+Astalir opened his eyes. It was someone he recognized! “Jodi!” Astalir leapt onto his feet and licked him with his long deer tongue. His tail wagged back and forth.
 
 “Astalir!” Jodi exclaimed. “I’m so glad you’re alright!” He hugged him around the neck. “What happened?”
 
@@ -574,7 +574,7 @@ Sui the dragonborn dragon warden held the deck of random oddities in his hand. T
 
 He shrugged. “Why not?” He knew the risks, but he was bored. He shuffled the deck of random oddities and pulled the top card off the deck.
 
-His stomache filled with butterflies that flitted about inside, giving him a bad stomache ache. They moved down his intestines and after a long, painful journey, made their way to his rear. He jumped out of his bed and pulled his drawers down. Three fairy-winged pixies popped out his pooper and fluttered around his room, shooting fairy dust everywhere. His bow and arrows started floating in the arrow, flying all over the place as the pixies darted around.
+His stomach filled with butterflies that flitted about inside, giving him a bad stomach ache. They moved down his intestines and after a long, painful journey, made their way to his rear. He jumped out of his bed and pulled his drawers down. Three fairy-winged pixies popped out his pooper and fluttered around his room, shooting fairy dust everywhere. His bow and arrows started floating in the arrow, flying all over the place as the pixies darted around.
 
 Sui managed to open a window and shooing all the fairies out without losing too many arrows. When the pixies left, all the floating objects fell to the ground. One arrow cut him on the arm.
 
@@ -584,7 +584,7 @@ He sat back down on his bed. It was still not time for the others to wake up. He
 
 But then he got bored. “Maybe just one more card.” He pulled the top card off the deck and shoved the deck back into the drawer.
 
-He immediately felt nauseous. He went to the window, but vomited all over himself before he could get there. The arm bandage dissolved in his stomache acid, as did part of his clothes and some of the floor board. He got some acid on his scales, but instead of dissolving, it healed the cut he got from the arrow. He looked at it inquisitively. “This is interesting!”
+He immediately felt nauseous. He went to the window, but vomited all over himself before he could get there. The arm bandage dissolved in his stomach acid, as did part of his clothes and some of the floor board. He got some acid on his scales, but instead of dissolving, it healed the cut he got from the arrow. He looked at it inquisitively. “This is interesting!”
 
 He went down stairs and asked the tavern keeper if he had any acid. The tavern keeper directed him to the alchemist shop in town.
 
@@ -644,7 +644,7 @@ All the goblins in he could see were laying on the ground dead. The table had fo
 
 Something did come out, but not from inside. A strange goblin walked out from behind a tent and unzipped the front, as if to go in. But then another goblin came out and yelled at the strange goblin to get lost. A burning coal from the morning cookout floated up and into the tent goblin’s pocket. His pants caught on fire and he ran around trying to put it out.
 
-As he did so, the strange goblin entered the tent and rummaged around, throwing things out of the tent left and right. It appeared to be looking for something. Satisfied that nothing was there, the strange goblin left the tent and the firepants goblin and headed to the next tent.
+As he did so, the strange goblin entered the tent and rummaged around, throwing things out of the tent left and right. It appeared to be looking for something. Satisfied that nothing was there, the strange goblin left the tent and the firepants goblin, heading to the next tent.
 
 And again, there was a goblin in that tent, too. This goblin kicked the strange goblin in the rear and yelled at him.
 
@@ -4180,7 +4180,7 @@ Summary: The party searches the town for 4 ruffians causing problems at the Stic
 
 # Chapter 11
 
-*Author’s Note: This section about Silber and Micro is originally from Chaper 9*
+*Author’s Note: This section about Silber and Micro is originally from Chapter 9*
 
 [scene 3: silber arrives at winds crossing, challenges Revali]
 
