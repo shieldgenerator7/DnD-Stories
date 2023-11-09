@@ -4476,7 +4476,7 @@ The lizard folk attack and the party finds out what was in the letter they were 
 
 Gra’s stomach rumbled as he stroked Astalir’s fur. He was cuddling with him in bed at the inn at Wind’s Crossing, along with Reesu and Gale. After the battle they had just fought, it was nice to spend some quality time with friends, even if those friends were fast asleep.
 
-Astalir’s fur was soft and fluffy for a deer. If there were things hidden in his fur, Gra didn’t feel it. Astalir’s muscles twitched as he pet his back, and he gave a little snort.
+Astalir’s fur was soft and fluffy for a deer. If there were things hidden in his fur, Gra didn’t feel it. Astalir’s muscles twitched as he petted his back, and he gave a little snort.
 
 Gra’s stomach rumbled. He could eat a whole deer right now. No, not a deer. Well, at least not *this* deer. Gra sat up in bed.
 
@@ -4546,7 +4546,7 @@ Gra rolled his eyes. He pulled out his bow and shot a rabbit straight in the hea
 
 “Gra one, Sui zero!” Gale cheered.
 
-“Yeah, yeah.” Sui grouched. He turned real quick and shot a bush.
+“Yeah, yeah.” Sui grouched. He turned really quick and shot a bush.
 
 “What are you shooting at?”
 
@@ -4658,7 +4658,7 @@ Reesu approached the goblin. “Are you ok?”
 
 The goblin nodded. He showed her his chest wound.
 
-“I’ll go get Daisy.” Drathalion bolted off down the hallway.
+“I’ll go get Daisy.” Drathalion bolted down the hallway.
 
 “Ah, you poor thing.” Reesu got in close and wrapped an invisible tentacle around his chest. She applied enough pressure to stop his bleeding. “Don’t worry, little guy. We’ll get you taken care of.”
 
@@ -4790,7 +4790,7 @@ Drathalion and the party caught up and watched the two get ready. Drathalion mol
 
 Silber took a shot at Shank, hitting him in the leg. His leg gushed out blood, but Shank didn’t pay any attention to it.
 
-He lunged at Silber, knocking him down. Shank pulled out three separate swords, and buried them deep into the grooves between Silber’s platings. Sparks flew out as Silber’s limbs failed.
+He lunged at Silber, knocking him down. Shank pulled out three separate swords and buried them deep into the grooves between Silber’s platings. Sparks flew out as Silber’s limbs failed.
 
 Silber dropped his gun onto his foot, which was the only functioning limb he had left. He lifted his leg and pointed the gun straight at Shank’s chest, and remote activated the trigger. The bullet tore through Shank, echoing as it flew off into the distance.
 
@@ -4820,7 +4820,7 @@ Don leaned over and whispered to Drathalion. “Please, step into my office.” 
 
 Drathalion’s eyes went wide, and she obliged.
 
-Inside, the walls were curved in wild ways, the bulged in random places, and the furniture walked around on four legs. Book cases phased in and out like bubbles.
+Inside, the walls were curved in wild ways, the floor bulged in random places, and the furniture walked around on four legs. Bookcases phased in and out like bubbles.
 
 “What is this place?”
 
@@ -4834,7 +4834,7 @@ Inside, the walls were curved in wild ways, the bulged in random places, and the
 
 “It is. And it has rocks in it.”
 
-“Well it’s not my fault you turned the gold into rocks.”
+“Well, it’s not my fault you turned the gold into rocks.”
 
 “Drathalion, Drathalion.” Don shook his head. “Or should I say, Astalir?” He snapped his fingers, and Astalir’s disguise disappeared.
 
@@ -4842,7 +4842,7 @@ Astalir’s ears pinned back, and he backed up into a wall.
 
 “I like a good amount of chaos and pranks, as much as anyone.” Don got up into Astalir’s face, showing him a glimpse of his true form: a blue curly, crooked horn and a spiky white antler. “If you ever give me rocks again, it won’t be the gold I’ll petrify. Understand?”
 
-Astalir gulped, but nodded nonetheless.
+Astalir gulped, but nodded, nonetheless.
 
 “Now, I am inclined to forgive you, *this* time.”
 
@@ -4866,7 +4866,7 @@ Astalir’s mouth opened wide. By the time he would come out of it, his antlers 
 
 “Your choice. Better choose wisely.”
 
-Astalir brought the book to between Don’s legs. If he can thread them through just right, he can take them without Don ever seeing…
+Astalir brought the book between Don’s legs. If he can thread them through just right, he can take them without Don ever seeing…
 
 Don snapped his fingers, and the books appeared in front of him. “You seem to be interested in these two books in particular.”
 
@@ -4878,11 +4878,11 @@ Astalir opened his mouth to speak, but his jaw moved up and his lips sealed shut
 
 “I seem to recall that folks around here require the use of their vocal cords to cast spells. But you’re not a spellcaster, *are* you?” Don chuckled evilly. “You’re a rogue, right? Hopefully you don’t rely on your mouth for spells, otherwise you’re going to be spending the rest of your antlers’ life as a statue.” He cackled.
 
-He gave Astalir the books, and gave him back his Drathalion disguise. He opened the portal back to Wind’s Crossing, and they both exited.
+He gave Astalir the books and gave him back his Drathalion disguise. He opened the portal back to Wind’s Crossing, and they both exited.
 
 “Now, who are you going to fight?”
 
-Drathalion looked at Reesu. No, she would grapple her before she ever got close. Silber? She’d never get close enough to him. Shank was a wild card, and based on his battle with Silber, he was on the higher end. Gale would do nicely, he’d let her win probably. But he wasn’t here. That left only one option.
+Drathalion looked at Reesu. No, she would grapple her before she ever got close. Silber? She’d never get close enough to him. Shank was a wild card, and based on his battle with Silber, he was on the higher end. Gale would do nicely; he’d let her win probably. But he wasn’t here. That left only one option.
 
 Drathalion pointed at Bob.
 
@@ -5008,7 +5008,7 @@ Shank ordered a glass of milk.
 
 The rest of the party went upstairs to sleep, saying goodnight as they passed by.
 
-When it was just Reesua and Shank left at the bar, Reesu opened her bottle. “Shank, would you like some alcohol?”
+When it was just Reesu and Shank left at the bar, Reesu opened her bottle. “Shank, would you like some alcohol?”
 
 “Captain says no trouble. Captain and Shank leave soon to boat.”
 
@@ -5058,13 +5058,13 @@ The aarakocra bartender chirped.
 
 Drathalion chirped back, pointing to some Aarakocran symbols that just appeared on the counter.
 
-The bartender nodded, and brought Drathalion some berry juice.
+The bartender nodded and brought Drathalion some berry juice.
 
 “Where was that?” Reesu asked.
 
 Drathalion shrugged. “In the back, I guess.”
 
-“You can speak Arakrocan?”
+“You can speak Aarakocran?”
 
 Drathalion squawked, whistled, and cawed.
 
@@ -5110,7 +5110,7 @@ Across the bar, Drathalion’s ears and whiskers drooped, and she hung her head 
 
 “On a hiking trip.” Reesu shrugged.
 
-“But, why did they go without me?”
+“But why did they go without me?”
 
 “Like I told you, he went on a hiking trip.”
 
@@ -5172,7 +5172,7 @@ Drathalion snorted, like a deer would. She coughed a little.
 
 “But I’m still thinking about it.”
 
-“Well let’s distract you, then.” Reesu ordered 3 empty glasses, and poured ale from her endless bottle into all of them. “Let’s play a game.”
+“Well let’s distract you, then.” Reesu ordered 3 empty glasses and poured ale from her endless bottle into all of them. “Let’s play a game.”
 
 “If it’s about staying dry, I’m pretty sure I’ll win.”
 
@@ -5240,7 +5240,7 @@ Reesu chuckled.
 
 “I’ve been here… the whooole time. We met Daisy in Canadia, Bob in… The Sticky Bucket?”
 
-“No we met Bob in some weird graveyard.”
+“No, we met Bob in some weird graveyard.”
 
 “Oh, that’s right, the night I went off on my own.”
 
@@ -5270,25 +5270,25 @@ Drathalion pondered. “I think so.”
 
 “Most definitely.”
 
-Shank jumped up on the counter, his short stature letting him stand full height without a hitting the ceiling. He was scowling at the cat.
+Shank jumped up on the counter, his short stature letting him stand full height without hitting the ceiling. He was scowling at the cat.
 
 Drathalion squinted at Shank. He was wearing a brown leather jacket, a white undershirt, and purple pants. “Wow, you look just like him!”
 
-“I is him!” Shank pulled out his shortsword and jump across the counter at Drathalion.
+“I is him!” Shank pulled out his shortsword and jumped across the counter at Drathalion.
 
 Drathalion duplicated herself, but fell off the stool onto the floor.
 
 Shank’s blade plunged into the clone’s heart and got stuck in the stool beneath. The clone wavered and wobbled.
 
-“Ok! I see everyone’s had enough to drink!” Reesu reached out with invisible tentacles, grabbing both Shank and Drathalion. She squeezed them both until they both dropped unconscious. Drathalion’s disguise fell away and she returned to being Astalir.
+“Ok! I see everyone’s had enough to drink!” Reesu reached out with invisible tentacles, grabbing both Shank and Drathalion. She squeezed them both until they both dropped unconscious. Drathalion’s disguise fell away, and she returned to being Astalir.
 
-Shank hiccuped, barfing little bits of vomit onto Reesu’s tentacles. Astalir drooled out of his mouth.
+Shank hiccupped, barfing little bits of vomit onto Reesu’s tentacles. Astalir drooled out of his mouth.
 
 “Well, I’ve learned waaay too much tonight. Let’s call it a night.” She turned to the bartender. “You got any super glue?”
 
 He chirped.
 
-Reesu asked with an illusion, and the bartender obliged, for some extra coin, of course. Reesu took the glue into Gra’s room and set the tow combatants up into their positions. She stood Astalir up on four legs up against the wall near the window, gluing all four hooves to the floor. Then she rotated his head 90 degrees so it faced the wall, stuck his antlers in, and glued them there.
+Reesu asked with an illusion, and the bartender obliged, for some extra coin, of course. Reesu took the glue into Gra’s room and set the two would-be combatants up into their positions. She stood Astalir up on four legs up against the wall near the window, gluing all four hooves to the floor. Then she rotated his head 90 degrees so it faced the wall, stuck his antlers in, and glued them there.
 
 Astalir snored, and his tail twitched.
 
@@ -5298,7 +5298,7 @@ Astalir slumped over, bumping his butt into the wall. His legs buckled and his b
 
 “I’m sure that’s normal.”
 
-Reesu grabbed Shank by the feet and put him upside-down in a barrel, then glued a lid on it. The lid had a hole in it with just enough room for Shank to peak his head through, if he so decided. And Reesu made that decision for him. She then turned the barrel upright and glued it to the wall oppsosite Astalir, taking care to make sure Shank was also facing the wall.
+Reesu grabbed Shank by the feet and put him upside-down in a barrel, then glued a lid on it. The lid had a hole in it with just enough room for Shank to peak his head through, if he so decided. And Reesu made that decision for him. She then turned the barrel upright and glued it to the wall opposite Astalir, taking care to make sure Shank was also facing the wall.
 
 “Goodnight deer, goodnight my pet.” She kissed both of them on the forehead. “Please forget everything that happened tonight. And sweet dreams!”
 
@@ -5306,11 +5306,11 @@ Reesu grabbed Shank by the feet and put him upside-down in a barrel, then glued 
 
 *SPPPLUUURT*
 
-Waking up with a burning throat and a putrid taste in his mouth, Astalir spat out the remaining puke mucus in his mouth. His right front hoof was now wet, but at least his stomache was feeling better, although emptier.
+Waking up with a burning throat and a putrid taste in his mouth, Astalir spat out the remaining puke mucus in his mouth. His right front hoof was now wet, but at least his stomach was feeling better, although emptier.
 
-Pain clouded his mind as his eyes winced in pain. His foggy memory was clearing up but he still couldn’t remember what happened last night, or where he was.
+Pain clouded his mind as his eyes winced in pain. His foggy memory was clearing up, but he still couldn’t remember what happened last night, or where he was.
 
-Astalir opened his eyes, and saw a wooden wall. The shadow of his face fell upon the left side. He was leaning his head up against the wall. He pulled away, but his antlers wouldn’t move. Did he get them stuck in the wall? How could he have shoved his antlers into the wall with such force as to cause them to get stuck like this?
+Astalir opened his eyes and saw a wooden wall. The shadow of his face fell upon the left side. He was leaning his head up against the wall. He pulled away, but his antlers wouldn’t move. Did he get them stuck in the wall? How could he have shoved his antlers into the wall with such force as to cause them to get stuck like this?
 
 He tried again, but no luck. He could feel that his antlers were losing integrity with each pull, so elected to stop trying.
 
@@ -5334,7 +5334,7 @@ Astalir moaned, eyes wincing. “Uh… I remember… drinking… playing a drink
 
 “I should’ve known.”
 
-“Yeah it was pretty stupid. But fun.”
+“Yeah, it was pretty stupid. But fun.”
 
 “So this was your doing?”
 
@@ -5356,7 +5356,7 @@ Astalir sighed. “Can you just get me out?”
 
 *KNOCK KNOCK*
 
-“Gra?” Astalir’s ears perk up. “Oh good finally!”
+“Gra?” Astalir’s ears perk up. “Oh good, finally!”
 
 “Is there a zombie party going on in there?”
 
@@ -5372,7 +5372,7 @@ Bob shrugged. “Sure. Whatcha got?” Bob took the ale bottle and wheezed. “T
 
 “Me. Over here. Stuck on the wall.” Astalir flapped his ears annoyedly.
 
-Bob’s eyes went wide as he stared down the bottle. “That’s some *really* strong stuff.” He nodded at Reesu.
+Bob’s eyes went wide as he stared down at the bottle. “That’s some *really* strong stuff.” He nodded at Reesu.
 
 “Have a seat. I’m watching the deer get himself unstuck.”
 
@@ -5386,7 +5386,7 @@ Astalir tried forcing his hoof out, but it didn’t budge. He rested a minute, a
 
 Reesu chuckled.
 
-Astalir’s antlers glowed and the pee never hit the floor. Instead, it collected into a floating bubble just under his belly. Once he finished relieving himself, the pee bubble flowed down to his hoof and worked itself into the glue.
+Astalir’s antlers glowed, and the pee never hit the floor. Instead, it collected into a floating bubble just under his belly. Once he finished relieving himself, the pee bubble flowed down to his hoof and worked itself into the glue.
 
 “Nice try, but that glue’s been dry for hours.”
 
@@ -5394,21 +5394,21 @@ Astalir’s antlers glowed and the pee never hit the floor. Instead, it collecte
 
 “I don’t think that’s how it works.”
 
-Astalir struggled a little more. “Reesu! When I get out I’m going to poke so many antler holes in that smug face of yours!” He managed to get his front right hoof free. It seems the pee might have actually helped a little.
+Astalir struggled a little more. “Reesu! When I get out, I’m going to poke so many antler holes in that smug face of yours!” He managed to get his front right hoof free. It seems the pee might have actually helped a little.
 
 Reesu took a sip of ale, and Bob took a sip of ale.
 
-Astalir’s ears flipped. He settled down, and got real quiet. He held his breathe.
+Astalir’s ears flipped. He settled down and got real quiet. He held his breath.
 
-Reesu put the bottle to her mouth, and the swashing of the liquid caught Astalir’s attention. His ear flicked to the sound of the bottle. Reesu froze in position, and grabbed Bob with an invisible tentacle to keep him quiet too. Her eyebrows were lifted and her lips were pursed.
+Reesu put the bottle to her mouth, and the swashing of the liquid caught Astalir’s attention. His ear flicked to the sound of the bottle. Reesu froze in position, and grabbed Bob with an invisible tentacle to keep him quiet too. Her eyebrows were lifted, and her lips were pursed.
 
-Astalir grunted after a few minutes, and his ears flitted down. “Reesu, why did you do this?” He raised his ears again, and calmed his breathing.
+Astalir grunted after a few minutes, and his ears flitted down. “Reesu, why did you do this?” He raised his ears again and calmed his breathing.
 
 Reesu, instead of saying anything, held out a finger and wiggled it at the wall in front of Astalir. *Because it’s fun.*
 
 Astalir snorts, but otherwise stays quiet.
 
-Reesu doesn’t dare move, and she doesn’t let Bob move either. For a whole half hour, the trio are stuck in a quiet game stand off.
+Reesu doesn’t dare move, and she doesn’t let Bob move either. For a whole half hour, the trio are stuck in a quiet game standoff.
 
 The one to finally break the silence was Captain Johnny, who burst into the room.
 
@@ -5416,7 +5416,7 @@ Astalir disguised himself as a dresser.
 
 “There you are.” Johnny intruded. “I’ve been looking all over for you—wait, why is the goblin glued to the wall?”
 
-“He’s got a hang over, don’t touch him.” Reesu moved Johnny with an invisible tentacle. “Here, stand in front of this elegant dresser and admire it.”
+“He’s got a hangover, don’t touch him.” Reesu moved Johnny with an invisible tentacle. “Here, stand in front of this elegant dresser and admire it.”
 
 Johnny glanced at it, but then addressed Reesu. “Yes, it’s nice. But I got a ship to get back to. And my passengers are still not ready.”
 
@@ -5462,17 +5462,17 @@ Astalir grumbled. “My quest is rather… confidential. And personal.”
 
 Astalir sighed. He pawed the ground with his one free hoof for 10 minutes.
 
-After the time had passed, invisible tentacles wrapped around his stomache, his feet, and his antlers.
+After the time had passed, invisible tentacles wrapped around his stomach, his feet, and his antlers.
 
 “Please be careful! I don’t want my antlers to break!” Astalir almost sobbed.
 
 “Don’t worry, I’m careful.” Reesu tugged in one big motion, breaking Astalir free from the wall and floor all at once.
 
-Astalir wobbled around in a daze for a bit, getting his bearings. His antlers had wood chips stuck on it, and wood splinters clung to his hooves. He locked eyes with Reesu. “Hey Reesu.”
+Astalir wobbled around in a daze for a bit, getting his bearings. His antlers had wood chips stuck on them, and wood splinters clung to his hooves. He locked eyes with Reesu. “Hey Reesu.”
 
 “Yeah?”
 
-Astalir’s antlers glowed, and his pool of piss pressurized and released straight at Reesu. She shut her mouth, but still took it in the face. Meanwhile, Astalir ran to the window. It opened itself, and the ground below rose up with subtle tremors that shook the glass in the opening window panes. Astalir jumped out and rode the earth column to the ground, and ran off.
+Astalir’s antlers glowed, and his pool of piss pressurized and released straight at Reesu. She shut her mouth, but still took it in the face. Meanwhile, Astalir ran to the window. It opened itself, and the ground below rose up with subtle tremors that shook the glass in the opening windowpanes. Astalir jumped out, rode the earth column to the ground, and ran off.
 
 Reesu took back the ale bottle and dumped it all over her face.
 
@@ -5496,7 +5496,7 @@ Outside, Gra is coming back from his hunting trip. He came into Wind’s Crossin
 
 Gra stopped and addressed an aarakocra staring at them. “Hello, do you know where we can sell our game?”
 
-The arakroca spoke in arakrocan, but nonetheless pointed to a row of buildings with other merchants.
+The aarakocra spoke in Aarakocran, but nonetheless pointed to a row of buildings with other merchants.
 
 Gra nodded. “Thank you.”
 
@@ -5508,7 +5508,7 @@ Gra nodded. “Thank you.”
 
 “Why do you want them so bad?”
 
-“Oh look! You’re friend is waving you down. Tata now!” Don disappeared.
+“Oh look! Your friend is waving you down. Tata now!” Don disappeared.
 
 Gra turned around to see Reesu running up to him from the tavern.
 
@@ -5544,7 +5544,7 @@ Gra squinted. “What weird thing happened?”
 
 Gra grumbled. “I’m not rehashing this. Show me your new pet.”
 
-“This one want to see! This one is cute bunny.” Gale followed.
+“This one want to see! This one hopes is cute bunny.” Gale followed.
 
 “She already said it was a goblin.” Sui scoffed.
 
@@ -5568,7 +5568,7 @@ Gra’s jaw drops as soon as he enters the room. “Reesu!”
 
 “He wants to be friends with Silber.”
 
-“Ok, that’s weird, but… that doesn’t explain anything.” Gra looked around the room, and saw lots of wood chipped out of the wall and floor by the window. “And why is there damage over here?”
+“Ok, that’s weird, but… that doesn’t explain anything.” Gra looked around the room. Bits of wood were chipped out of the wall and floor by the window. “And why is there damage over here?”
 
 “Ok, you might want to sit down for this.” Reesu sat on the bed and dragged Gra down next to her. “It concerns our friendly neighborhood deer.”
 
@@ -5592,11 +5592,11 @@ Reesu tells Gra about the drinking game, and why Shank wants to get strong, and 
 
 “But I want to keep him.” Reesu leaned up against Gra, clasped her hands together, opened her eyes wide, and gave him a big pouty face. “Pweeease?”
 
-Gra rolled his eyes, and looked at Shank. “I don’t know.”
+Gra rolled his eyes and looked at Shank. “I don’t know.”
 
 “Pwetty pwease?”
 
-Gra rubbed his forehead. “Well I guess the kobold cave *does* need one of us to check in on them. This mission is taking longer than exp—”
+Gra rubbed his forehead. “Well, I guess the kobold cave *does* need one of us to check in on them. This mission is taking longer than exp—”
 
 “Oh thank you! Thank you!” Reesu gave Gra a big ole’ squeeze hug, popping his eyes halfway out.
 
@@ -5612,7 +5612,7 @@ Downstairs, Gra finds Captain Johnny. “Hello.”
 
 “Gra, I’ve been looking for you. Are you ready to depart?”
 
-Gra looked around. He found Gale, Bob, and Jodi. Reesu was holding Shank. Silber was waiting patiently in the corner of the bar. He didn’t see Sui, but left him out on purpose. “Yeah, I think so.”
+Gra looked around. He found Gale, Bob, and Jodi. Reesu was holding Shank. Silber was waiting patiently in the corner of the bar. He didn’t see Sui, but left him out of the count on purpose. “Yeah, I think so.”
 
 “Excellent. Let’s head to the docks. It’s all the way back in Canadia.”
 
@@ -5638,7 +5638,7 @@ The party left without any further trouble.
 
 After Astalir jumped out of the window, he went to a nearby stream to wash off the glued-on wood chips. He managed to chip the wood some more, but there were several bits that wouldn’t come off. He sighed in exasperation.
 
-Several shadows from above coalesced around him. He looked up. He was being circled by a choir of robed arakroca, chanting something unfamiliar.
+Several shadows from above coalesced around him. He looked up. He was being circled by a choir of robed aarakocras, chanting something unfamiliar.
 
 His antlers flickered with runes, and his ears pricked. Now the birds’ chanting was telligible.
 
@@ -5646,25 +5646,25 @@ His antlers flickered with runes, and his ears pricked. Now the birds’ chantin
 
 Astalir licked his nose as he locked eyes with the bird in the fanciest robe, which had gold trim.
 
-As they chanted, they got closer. Astalir watched as they did, not seeing anyway out of it. Then he noticed that one of the birds was carrying a wet cloth, with a fowl smelling chemical on it. His eyebrows raised. His antlers flickered, and did an invisible move that made a cloth ripping sound.
+As they chanted, they got closer. Astalir watched as they did, not seeing any way out of it. Then he noticed that one of the birds was carrying a wet cloth, with a fowl smelling chemical on it. His eyebrows raised. His antlers flickered, and made an invisible move that produced a cloth ripping sound.
 
-The birds stopped chanting. The bird carrying the cloth looked at it, but it was still in tact.
+The birds stopped chanting. The bird carrying the cloth looked at it, but it was still intact.
 
 Astalir made the cloth ripping sound again, but this time he lifted his tail and clenched his butt cheeks.
 
-“Lonesome prize hard to find. Some are myths most are lies. Lonesome prize hard to find. Some are myths most are lies.”
+“Lonesome prize hard to find. Some are myths, most are lies. Lonesome prize hard to find. Some are myths most are lies.”
 
-“Lonesome prize”? Were they referring to him? Are they referring to him being the last of his kind? Do they know something he doesn’t know? Do they know if he is really is the last one? Astalir bravely faced the birds, making no move to threaten them.
+“Lonesome prize”? Were they referring to him? Are they referring to him being the last of his kind? Do they know something he doesn’t know? Do they know if he really is the last one? Astalir bravely faced the birds, making no move to threaten them.
 
 The birds closed in, and the bird holding the cloth grabbed Astalir’s muzzle and shoved the cloth over Astalir’s muzzle.
 
-Astalir exhaled and clothed his eyes, and let his limbs go limp. Sharp talons grabbed his legs and antlers, and dug into his stomache. Astalir let out a squeal, but quickly held it in. He peeked open his eyes as they carried him into the sky. They were taking him to the shooting range.
+Astalir exhaled and clothed his eyes, and let his limbs go limp. Sharp talons grabbed his legs and antlers, and dug into his stomach. Astalir let out a squeal, but quickly held it in. He peeked open his eyes as they carried him into the sky. They were taking him to the shooting range.
 
-From his vantage point, Astalir could see the party leaving the town. And Revali was with them, on the complete other side of town from Revali’s house. Astalir smiled briefly.
+From his vantage point, Astalir could see the party leaving the town. And Revali was with them, completely on the other side of town from Revali’s house. Astalir smiled briefly.
 
-The birds dropped him off behind a hill, where you couldn’t see from the shooting range. They placed him in a snow mound while they cleaned the snow off a round stone altar. They placed him on the altar, and began chanting. One of them pulled out a dagger, and wiped it with his robe.
+The birds dropped him off behind a hill, where you couldn’t see from the shooting range. They placed him in a snow mound while they cleaned the snow off a round stone altar. They placed him on the altar and began chanting. One of them pulled out a dagger and wiped it with his robe.
 
-Astalir’s eyes went wide. His antlers glowed iridescent and he jumped into the air above the birds and landed behind them, running away.
+Astalir’s eyes went wide. His antlers glowed iridescent, he jumped into the air above the birds, and landed gracefully in the snow behind them, running away.
 
 “Catch him! He must not escape!” The bird leader yelled. The birds all chased the deer behind a hill, where the deer found himself in a dead end. The deer turned around, and threatened to charge, thrashing his antlers forward.
 
@@ -5672,25 +5672,25 @@ One brave bird flew up over the deer, landed behind it, and grabbed its muzzle. 
 
 The birds all gasped in shock. “It’s fake!” They turned back to the altar, where deer tracks trailed off in the opposite direction, before ending altogether in the middle between two hills. The birds all stood in shock.
 
-Meanwhile, a strangely-proportioned robed arakroca@AST flew away back to Wind’s Crossing. As it@AST landed behind a building, its@AST robes disappeared and it became just a regular arakroca@AST. This lanky arakroca@AST walked up to Revali’s house.
+Meanwhile, a strangely proportioned robed aarakocra@AST flew away back to Wind’s Crossing. As it@AST landed behind a building, its@AST robes disappeared and it became just a regular aarakocra@AST. This lanky aarakocra@AST walked up to Revali’s house.
 
-Two arakroca guards stopped the lanky arakroca@AST from entering. “What are you doing here?” They spoke in Arakroca.
+Two aarakocra guards stopped the lanky aarakocra@AST from entering. “What are you doing here?” They spoke in Aarakocran.
 
-The lanky arakroca@AST didn’t respond, but instead pulled out a piece of paper. On the paper, written in Revali’s hand writing, was a note that requested delivery of Revali’s medication to the shooting range. It was even signed by Revali.
+The lanky aarakocra@AST didn’t respond, but instead pulled out a piece of paper. On the paper, written in Revali’s handwriting, was a note that requested delivery of Revali’s medication to the shooting range. It was even signed by Revali.
 
-The two guards looked at each other, and shrugged. “Very well then, you@AST may enter.” The guards let him@AST in.
+The two guards looked at each other and shrugged. “Very well then, you@AST may enter.” The guards let him@AST in.
 
-Once inside, the lanky arakroca@AST got down on all fours and turned into a deer. Astalir’s antlers glowed, and the room was torn apart. Books and bags flew everywhere. “There’s gotta be something in here.” A bottle of medication flew by. “Oh, there that is.” Astalir placed the medication on the table by the door, for when he needed to leave.
+Once inside, the lanky aarakocra@AST got down on all fours and turned into a deer. Astalir’s antlers glowed, and the room was torn apart. Books and bags flew everywhere. “There’s gotta be something in here.” A bottle of medication flew by. “Oh, there that is.” Astalir placed the medication on the table by the door, for when he needed to leave.
 
 Which he had to do sooner than expected. Wings flapped outside, and footsteps approached the door.
 
 “Sir? I thought you were at the shooting range?” The guard said from outside.
 
-“Yeah and now I’m here. Move.” The door handle jiggled.
+“Yeah, and now I’m here. Move.” The door handle jiggled.
 
-Astalir’s eyes darted around. He piled books in front of the door, and re-locked it. He slipped out the back exit of the house, just as the front door opened and a caw-caw echoed through the building. Astalir turned into a bird and flew off.
+Astalir’s eyes darted around. He piled books in front of the door and re-locked it. He slipped out of the back exit of the house, just as the front door opened and a caw-caw echoed through the building. Astalir turned into a bird and flew off.
 
-Astalir easily catches up to the party, although he is a bit disappointed he wasn’t able to get the answers to his questions. What were those robed birds doing? Were they going to sacrifice him? If so, to who? Astalir didn’t get a good look at the runes on the altar. Astalir thinks about it as he follows the party’s tracks to the edge of town in Canadia, turning back into a deer to blend in with the moose roaming the streets, and avoiding an annoying noisy syrup salesman.
+Astalir easily catches up to the party, although he is a bit disappointed that he wasn’t able to get the answers to his questions. What were those robed birds doing? Were they going to sacrifice him? If so, to who? Astalir didn’t get a good look at the runes on the altar. Astalir thinks about it as he follows the party’s tracks to the edge of town in Canadia, turning back into a deer to blend in with the moose roaming the streets, and avoiding an annoying noisy syrup salesman.
 
 ===
 
@@ -5716,13 +5716,13 @@ Gra sniffed it. “Smells like… human?”
 
 Gra kicked the spot where it was and immediately regretted it. “Not like that!”
 
-“Well be more specific next time.” Reesu made the bag visible again, and it floated into the air, following Reesu down into the depths of the boat.
+“Well, be more specific next time.” Reesu made the bag visible again, and it floated into the air, following Reesu down into the depths of the boat.
 
 “All aboard?” Captain Johnny asked Gra.
 
 Gra did a headcount, then came back to the top deck. “Yeah, I think so.”
 
-Captain Johnny unmoored the boat, and set sail. The Howling Wolf was now heading to the lizard folk kingdom.
+Captain Johnny unmoored the boat and set sail. The Howling Wolf was now heading to the lizard folk kingdom.
 
 As the boat left the bay, a deer ran up onto the dock. “Hey, is that…”
 
@@ -5770,7 +5770,7 @@ Captain Johnny and Reesu brought the boats close enough to cross.
 
 “Gale, come with me. Let’s see if anyone’s still alive.” Gra picked up Gale and hopped aboard. “Hello? Any here alive?”
 
-Gale went around checking for signs of life. “This one think all dead.”
+Gale went around checking for signs of life. “This one thinks all dead.”
 
 Gra ran to the stairs to the lower deck. “Hello? Any one down there?”
 
@@ -5780,15 +5780,15 @@ Gra backed up, but tripped on the last and fell over backward onto the deck.
 
 The yelling sailor drove his sword into Gra, stabbing him in the chest.
 
-“Ok, that’s enough out of you.” Reesu made a fist and the yelling sailor floated into the air and dunked head first into the water below. “Astalir, would you do me the favor of cooling this guy down? Looks like he’s got some sort of brain swelling. Some ice should do.”
+“Ok, that’s enough out of you.” Reesu made a fist and the yelling sailor floated into the air and dunked headfirst into the water below. “Astalir, would you do me the favor of cooling this guy down? Looks like he’s got some sort of brain swelling. Some ice should do.”
 
 Astalir’s antlers glowed and the water around the yelling pirate’s head froze in place. The sailor stopped yelling.
 
-But more yelling happened. Six more sailors came up the stairs, yelling with their swords drawn. They all seemed to have strange bumps on their head, like a bruise blown up into a balloon and attached to their skull.
+But more yelling happened. Six more sailors came up the stairs, yelling with their swords drawn. They all seemed to have strange bumps on their heads, like a bruise blown up into a balloon and attached to their skull.
 
 “Get back!” Silber yelled. He chucked a grenade into the stairwell, killing all the sailors instantly.
 
-“This one heal you.” Gale laid a clawed hand on Gra, fingers glowing. Gra’s wound sealed up. “And a little extra, prevent infection.” Gale cured Gra of any disease he may have gotten from the blade.
+“This one heals you.” Gale laid a clawed hand on Gra, fingers glowing. Gra’s wound sealed up. “And a little extra, prevent infection.” Gale cured Gra of any disease he may have gotten from the blade.
 
 “Everyone alright?” Gra stood up.
 
@@ -5822,7 +5822,7 @@ Meanwhile, in Sui’s adventures:
 
 When Sui woke up, he found the note Reesu left him. He felt betrayed and abandoned for no reason. He and Leona set out to go back to Canadia.
 
-When they got to Canadia, where they took care of a rat infestation in the syrup salesman’s basement. Sui got bit by a rat, which seemed to suck blood out of him. Leona got the rat off him and they killed the rest of the rats.
+When they got to Canadia, where they took care of a rat infestation in the syrup salesman’s basement. Sui got bitten by a rat, which seemed to suck blood out of him. Leona got the rat off him, and they killed the rest of the rats.
 
 The syrup salesman told them that their party set sail on a boat earlier that day, and were long gone. Sui and Leona spent the night in Canadia.
 
@@ -5858,13 +5858,13 @@ The cylinder floated in front of Gra’s face. “C’mon, you know you want it.
 
 Meanwhile, Astalir was below deck going through all the rooms. He entered a room and the furniture started shifting, the drawers opened, and knick-knacks flew around the room. After a few seconds, it all dropped lifelessly on the floor and Astalir left.
 
-He went in Daisy’s room, who hid under her covers to shield herself from the commotion. “Who are you and what are you doing in my room?”
+He went into Daisy’s room, who hid under her covers to shield herself from the commotion. “Who are you and what are you doing in my room?”
 
 Astalir looked at her with a blank stare as the room continued to thrash about. Then he left, leaving everything to fall down.
 
 Astalir walked into Shank’s room, who was still fast asleep from all his alcohol consumption the previous night. The chair cushion flew to the ceiling, the desk drawer spilled onto the floor, and a set of jacks flew around the room.
 
-Shank’s eyes peaked open. He spied fresh meat, just delivering itself to him. His stomache rumbled. He grabbed his shortsword under his blanket and prepared to lift the covers up.
+Shank’s eyes peaked open. He spied fresh meat, just delivering itself to him. His stomach rumbled. He grabbed his shortsword under his blanket and prepared to lift the covers up.
 
 “Foooood!” He swung his sword with enough force to launch himself out of bed and into the deer.
 
@@ -5874,9 +5874,9 @@ Shank jiggled the sword back and forth, but it wouldn’t come free. Wasting no 
 
 Astalir grunted, twisted his neck, and flung Shank’s sword out of his hands. The sword twirled into the wall, making a shiny platform big enough for a mouse. Astalir snorted out his nostrils.
 
-Shank stood there, staring at the deer, glancing at his sword. He tried to swing his cutlass or any of his other weapons, but Astalir blocked them with his antlers. Shank hesitated to strike, lest he loose another weapon.
+Shank stood there, staring at the deer, glancing at his sword. He tried to swing his cutlass or any of his other weapons, but Astalir blocked them with his antlers. Shank hesitated to strike, lest he lose another weapon.
 
-Suddenly a big tall green half-orc barged through the open doorway and punched the small green goblin in the face. “That’s *my* deer you’re hurting! You don’t hurt my deer!”
+Suddenly a big, tall green half-orc barged through the open doorway and punched the small green goblin in the face. “That’s *my* deer you’re hurting! You don’t hurt my deer!”
 
 Shank growls at Gra.
 
@@ -5926,11 +5926,11 @@ Gra lowered his fists slowly. “So, you’re not going to hurt my deer again?�
 
 “Ok.” Gra rubbed his forehead. “Reesu, why do you always gotta grab the weird ones?”
 
-“I grabbed you didn’t I?”
+“I grabbed you, didn’t I?”
 
 Gra groaned.
 
-“Actually, Shank is quite powerful. Watch this.” Astalir’s antlers lit up as a tiny version of Shank, Bob, and Drathalion appeared on the desk. The tiny Shank fell out of the sky and fell Bob with a quick flurry of slices. Tiny Drathalion shot tiny Shank in the back, but that didn’t stop him. Tiny Shank lept onto her, slicing her up good. Tiny Drathalion threw up a rock wall between them and limped away. But tiny Shank was too fast, easily getting around the wall and stabbing her unconscious. Then, the tiny version disappeared. “He’s a super skilled fighter. He could come in handy.” Then Astalir looked at Gra’s face.
+“Actually, Shank is quite powerful. Watch this.” Astalir’s antlers lit up as a tiny version of Shank, Bob, and Drathalion appeared on the desk. The tiny Shank fell out of the sky and fell Bob with a quick flurry of slices. Tiny Drathalion shot tiny Shank in the back, but that didn’t stop him. Tiny Shank leapt onto her, slicing her up good. Tiny Drathalion threw up a rock wall between them and limped away. But tiny Shank was too fast, easily getting around the wall and stabbing her unconscious. Then, the tiny version disappeared. “He’s a super skilled fighter. He could come in handy.” Then Astalir looked at Gra’s face.
 
 It was pure rage. His neck veins were bulging, and his fist and arm muscles were throbbing. He pulled his fist back for a punch. “You little shi—”
 
@@ -5940,7 +5940,7 @@ Gra breathed heavily in and out. “But he hurt you. He *hurt* you.”
 
 “It was a controlled encounter, a test of skill. Don was there to heal us right back up. It’s ok, he’s with us.”
 
-Gra glanced at Astalir, and all he saw was the slash in Astalir’s neck. “Then what’s this!” He turned back to Shank. “You’ll pay for that!” Gra plunged his fist straight into Shank’s face, but stopped just short of an inch from him.
+Gra glanced at Astalir, and all he saw was the slash on Astalir’s neck. “Then what’s this!” He turned back to Shank. “You’ll pay for that!” Gra plunged his fist straight into Shank’s face but stopped just short of an inch from him.
 
 Reesu held out a hand, pulling on invisible reigns. “Gra, it was a misunderstanding. Let it go.”
 
@@ -5956,7 +5956,7 @@ The sound of raindrops hitting the top deck echoed down to their chambers.
 
 “Ah! How about a swimming lesson?”
 
-“I swear to god, Reesu, if you try to get me to do a swimming lesson again I’ll—”
+“I swear to god, Reesu, if you try to get me to do a swimming lesson again, I’ll—”
 
 “Come on, it’s been so long since you had one.”
 
@@ -6006,7 +6006,7 @@ Reesu pushed Gale away. “Remember, Gra, dive feet first!” Reesu let go.
 
 “Gra! Look down!” Astalir yelled from the deck.
 
-Below Gra, the water calmed and frosted over. A floating disk of ice formed just under Gra’s feet. He landed with a thud and a crack, but he took no damage and the ice disk held. He slid on his stomache toward the edge, but a spike appeared on the surface, allowing him to get a grip.
+Below Gra, the water calmed and frosted over. A floating disk of ice formed just under Gra’s feet. He landed with a thud and a crack, but he took no damage and the ice disk held. He slid on his stomach toward the edge, but a spike appeared on the surface, allowing him to get a grip.
 
 “How you doin’ down there, Gra?” Reesu called out.
 
@@ -6018,7 +6018,7 @@ Below Gra, the water calmed and frosted over. A floating disk of ice formed just
 
 “Ok, it’s time for your first lesson then!” Reesu smiled. “The doggy paddle!”
 
-Frost in the shape of tentacles melted around the edge of the ice sheet. The ice sheet slowly sinking into the ocean.
+Frost in the shape of tentacles melted around the edge of the ice sheet. The ice sheet slowly sunk into the ocean.
 
 Gra grabbed onto the spike in the middle of the disk, delaying the inevitable. “Reesuuu!”
 
@@ -6044,7 +6044,7 @@ The sharks got closer.
 
 “Reesu!”
 
-“Fiiine…” Reesu pointed up at the thunder storm raining on their “swimming lesson”, sending a spark up into the dark clouds. Then a bolt of lightning struck a shark, frying it instantly. The electricity spread out in an area, frying two other sharks too. The three fried sharks floated belly-up to the surface of the water.
+“Fiiine…” Reesu pointed up at the thunderstorm raining on their “swimming lesson”, sending a spark up into the dark clouds. Then a bolt of lightning struck a shark, frying it instantly. The electricity spread out in an area, frying two other sharks too. The three fried sharks floated belly-up to the surface of the water.
 
 Gra’s arm hairs stood on end, slightly singed. “Reesu, that was stupid! You’re also in the water! I’m in the water! *We’re* in the water!”
 
@@ -6056,7 +6056,7 @@ Reesu shrugged. “We’re still here, aren’t we? Besides, a little shock won�
 
 “Reesu!”
 
-“Fine, I’ll deal with them another way.” The tentacle-shaped marks on the floating ice disk filled in with water and the ice started rising again. One of the sharks coming at Gra floated up into the air and flopped for dear life.
+“Fine, I’ll deal with them another way.” The tentacle-shaped marks on the floating ice disk filled with water and the ice started rising again. One of the sharks coming at Gra floated up into the air and flopped for dear life.
 
 The last shark came straight for Gra, mouth wide open, bearing rows and rows of sharp teeth.
 
@@ -6092,7 +6092,7 @@ Reesu shrugged it off. She pulled up the grappled shark, still squirming. She fr
 
 There was no response.
 
-Reesu’s smile turned upside down,, she looked down at the ground, and rubbed her shoulder. She looked up at the commotion on the deck.
+Reesu’s smile turned upside down, she looked down at the ground, and rubbed her shoulder. She looked up at the commotion on the deck.
 
 “These sharks are too heavy! I can’t lift them from here.” Astalir strained.
 
@@ -6120,7 +6120,7 @@ Reesu’s smile returned. “Well, look at you two playing so nicely. Let me get
 
 “Nice work, guys.” Reesu said. “Now to get the other three.”
 
-They got the rest of the sharks. Astalir sliced open their middles, examining their stomache contents. Shank bit indiscriminately into all the sharks, tasting around for the juiciest meat.
+They got the rest of the sharks. Astalir sliced open their middles, examining their stomach contents. Shank bit indiscriminately into all the sharks, tasting around for the juiciest meat.
 
 “Why sharks all taste charcoal?” He complained.
 
@@ -6214,7 +6214,7 @@ No response.
 
 “I’ve been trying to get in for a while now, and haven’t gotten in. There’s no way you’re going to get in.”
 
-Astalir ignored her. He pushed the door in, but it didn’t budge. He tried peeking into the room to cast mage hand from inside, but when he did, he got a squirt of water in the eye. “Ok, Gra, stand back!” Astalir leaned up againt the opposite wall in this narrow hallway and charged at the door. The door didn’t budge.
+Astalir ignored her. He pushed the door in, but it didn’t budge. He tried peeking into the room to cast mage hand from inside, but when he did, he got a squirt of water in the eye. “Ok, Gra, stand back!” Astalir leaned up against the opposite wall in this narrow hallway and charged at the door. The door didn’t budge.
 
 Astalir’s eyes darted around. He tried freezing the holes that the water was flowing in through, but again the extreme pressure of the water broke the ice instantly. Finally, he turned his attention to Reesu.
 
@@ -6268,7 +6268,7 @@ Reesu stumbled backward in surprise, but managed to refocus on her water spell. 
 
 “Shank? Help!” Astalir squeaked out before being muffled.
 
-“What do?” Shank swayed left and right, then darted into a room. He came back with a bent coat hangar. He slipped in through the doorframe and tried lifting the barricade, but the coat hangar bent instead.
+“What do?” Shank swayed left and right, then darted into a room. He came back with a bent coat hanger. He slipped in through the doorframe and tried lifting the barricade, but the coat hanger bent instead.
 
 Reesu patted him on the head as she pushed him out of the way. “Good idea, Shanky.” She froze some of the water flowing up into the room into solid thin bars. They lifted up under the barricade, unlocking it.
 
@@ -6314,11 +6314,11 @@ Gra coughed.
 
 Gra grabbed the helmet and clamped it down.
 
-“Eya!” Reesu focuses on the helmet and it tears itself from Gra’s grasp.
+“Eya!” Reesu focuses on the helmet, and it tears itself from Gra’s grasp.
 
 Gra’s brows were down, as was his mouth. The bags under his eyes told Reesu that he was fed up with her nonsense.
 
-“I’ll keep it brief, don’t worry.” Reesu made herself comfy on his lap. She swung her arms around his neck, and drew in close. Her lips approached his, but the look in his eyes gave her pause. Instead, she planted them on his cheek. “There, that was what I wanted to tell you.”
+“I’ll keep it brief, don’t worry.” Reesu made herself comfy on his lap. She swung her arms around his neck and drew in close. Her lips approached his, but the look in his eyes gave her pause. Instead, she planted them on his cheek. “There, that was what I wanted to tell you.”
 
 Gra scowled.
 
@@ -6348,13 +6348,13 @@ Gale cried, and tears fell from Astalir’s eyes.
 
 “Cry? No, that was, uh, shape water.” Astalir shook.
 
-“Ok, well I know just what to do.” Gra shut the door in Reesu’s face, and barricaded it.
+“Ok, well I know just what to do.” Gra shut the door in Reesu’s face and barricaded it.
 
 He picked up his animals and plopped onto the bed. Astalir laid across the headboard pillows and rested his head on Gra’s chest. Gale made himself comfy in the nook between Gra’s knees. Gra laid a hand on both of them, softly stroking their fur. It wasn’t long before they were both sound asleep.
 
 “Goodnight, my pets.”
 
-Outside, in the hallway, Reesu has a fist raised, ready to knock on the door. She hangs her head, and lowers her fist. “Ok, I hear you.” She rubs a tear out of her eye. “Shank!”
+Outside, in the hallway, Reesu has a fist raised, ready to knock on the door. She hangs her head and lowers her fist. “Ok, I hear you.” She rubs a tear out of her eye. “Shank!”
 
 “Reesu call?”
 
@@ -6370,7 +6370,7 @@ Reesu and Shank cuddled in bed. Reesu squeezed Shank tight while she stroked his
 
 “Shh, shh…”
 
-Reesu watched as Shank sank into a slumber. He breathed so softly, especially for a batlle-scarred, emotionally-wounded goblin. She let him sleep.
+Reesu watched as Shank sank into a slumber. He breathed so softly, especially for a battle-scarred, emotionally wounded goblin. She let him sleep.
 
 Outside, it was raining. Reesu wandered up to the top deck, wrapped some invisible tentacles around the bow railings to keep herself attached, and let herself drift off into a magical sleep.
 
@@ -6392,11 +6392,11 @@ The entity gave a low chuckle. “Reesu, the eternal trickster. As lively as eve
 
 “No, I’m not giving you a handjob.”
 
-“There’s my girl. You’ll know your assignment in the moment you need it. No fun unless I keep you guessing.”
+“There’s my girl. You’ll know your assignment the moment you need it. No fun unless I keep you guessing.”
 
 “Yeah, fun. It’s been fun, but I must be waking up now.”
 
-“Surely you’d like to stay for a few more hours of fun? Perhaps 144 more hours?”
+“Surely, you’d like to stay for a few more hours of fun? Perhaps 144 more hours?”
 
 “No, I got a cuddle party to crash.”
 
@@ -6408,7 +6408,7 @@ The entity laughed. “Godpower, Reesu. My power, specifically.” It chuckled t
 
 When she did wake up, it was to the voice of Shank screaming her name. “Reesu! Shank in water! Save Shank!”
 
-“Shank?” She looked around, but he was nowhere in the room. The noise was coming from outside. She rushed to the top deck, and found Shank overboard and getting left behind. “Shank!” She dove into the water and grabbed him. One more moment more, and she was climbing the side of the ship, dragging him back onto the deck.
+“Shank?” She looked around, but he was nowhere in the room. The noise was coming from outside. She rushed to the top deck and found Shank overboard and getting left behind. “Shank!” She dove into the water and grabbed him. One more moment more, and she was climbing the side of the ship, dragging him back onto the deck.
 
 “Shank thank you. Shank no like water.”
 
@@ -6442,7 +6442,7 @@ Reesu and Shank rushed to him. “Are you ok?”
 
 “Eh, I’ve seen worse. He’ll be fine.” Bob walked off.
 
-Off in the distance, the main land of the lizard folk country appeared. The party prepared to disembark, allowing Reesu a perfect excuse to postpone processing her feelings and her patron’s mysterious request. She shrugged it off. It’s time for another adventure.
+Off in the distance, the mainland of the lizard folk country appeared. The party prepared to disembark, allowing Reesu a perfect excuse to postpone processing her feelings and her patron’s mysterious request. She shrugged it off. It’s time for another adventure.
 
 ===
 
