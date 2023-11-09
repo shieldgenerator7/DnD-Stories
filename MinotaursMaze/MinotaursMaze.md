@@ -4166,7 +4166,9 @@ Drathalion took the note, and then tapped Gra on the shoulder. “I might need s
 
 Drathalion nodded.
 
-Gra and Drathalion left, heading straight for the given address.
+Gra and Drathalion left, heading straight for the given address. When they got there, Gra knocked on the door.
+
+“Hello? Toppol? Are you there?”
 
 [scene: reesu daisy find house of rats]
 
