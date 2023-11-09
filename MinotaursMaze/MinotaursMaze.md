@@ -3970,7 +3970,7 @@ Revali stared straight into Silber’s robotic eyes. “You’re on. And when I 
 
 ======
 
-=== 2023-07-21 ===
+=== 2023-11-08 ===
 
 === This chapter under construction ===
 
@@ -4140,9 +4140,33 @@ Drathalion shook her head subtly.
 
 “Thank you. I take good care of it.” Daisy patted her hair back down.
 
-[scene: daisy arrives]
+“Daisy, have you seen Toppol?” Jodi asked.
 
-[scene: gra declares the party should look for those rowdy patrons]
+“No, isn’t he back in the kitchen?”
+
+“No, he isn’t. He didn’t show up to work yesterday either.”
+
+“He’s probably on a delivery. Maybe to Wind’s Crossing?”
+
+“I checked the delivery orders. There’s nothing here about Wind’s Crossing. And besides, we’ve only ever delivered there once several years ago.”
+
+“Sleeping in?”
+
+“For two days? That’s not like him.”
+
+“I can look for him.” Drathalion volunteered. “Do you know where he lives?”
+
+Jodi wrote his address on a piece of paper. “Here.”
+
+Drathalion took the note, and then tapped Gra on the shoulder. “I might need some help.”
+
+“Ok.” Gra stood up. He nodded at Daisy. “Daisy, it was nice to meet you, but me and Ast—Drathalion here have to go look for Toppa.”
+
+“I hope you find him.”
+
+Drathalion nodded.
+
+Gra and Drathalion left, heading straight for the given address.
 
 [scene: reesu daisy find house of rats]
 
