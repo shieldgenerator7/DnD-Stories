@@ -5006,13 +5006,7 @@ Reesu takes a sip of her endless bottle of alcohol before ordering a bottle of a
 
 Shank ordered a glass of milk.
 
-Captain Johnny went stopped by on his way up the stairs. “Be sure to get a good night’s sleep in, Shank. We got a lot of traveling to do in the morning.”
-
-“Aye aye, Captain.”
-
-“Goodnight.” Captain Johnny went upstairs.
-
-Bob also slipped by unnoticed.
+The rest of the party went upstairs to sleep, saying goodnight as they passed by.
 
 When it was just Reesua and Shank left at the bar, Reesu opened her bottle. “Shank, would you like some alcohol?”
 
