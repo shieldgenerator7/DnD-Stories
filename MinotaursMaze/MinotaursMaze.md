@@ -4474,11 +4474,11 @@ The lizard folk attack and the party finds out what was in the letter they were 
 
 # ( 16 ) S2E1: It’s All Fun and Games Until Someone Gets Drunk
 
-Gra’s stomache rumbled as he stroked Astalir’s fur. He was cuddling with him in bed at the inn at Wind’s Crossing, along with Reesu and Gale. After the battle they had just fought, it was nice to spend some quality time with friends, even if those friends were fast asleep.
+Gra’s stomach rumbled as he stroked Astalir’s fur. He was cuddling with him in bed at the inn at Wind’s Crossing, along with Reesu and Gale. After the battle they had just fought, it was nice to spend some quality time with friends, even if those friends were fast asleep.
 
 Astalir’s fur was soft and fluffy for a deer. If there were things hidden in his fur, Gra didn’t feel it. Astalir’s muscles twitched as he pet his back, and he gave a little snort.
 
-Gra’s stomache rumbled. He could eat a whole deer right now. No, not a deer. Well, at least not *this* deer. Gra sat up in bed.
+Gra’s stomach rumbled. He could eat a whole deer right now. No, not a deer. Well, at least not *this* deer. Gra sat up in bed.
 
 “Something wrong?” Reesu laid on the other side of the bed, holding Gale on her chest. Her hands were at her side, but Gale’s fur still moved as if he was getting pets.
 
@@ -4506,7 +4506,7 @@ Gale woke up. “What? Huh?”
 
 “You want to come with me on a—” Gra looked at Astalir to make sure he was asleep. “A hunting trip?”
 
-“This one will help you.” Gale’s stomache also rumbled. “This one hungry.”
+“This one will help you.” Gale’s stomach also rumbled. “This one hungry.”
 
 “Come on buddy, let’s go.” Gra picked up Gale and put him on his shoulders.
 
@@ -4646,7 +4646,7 @@ Reesu opened the window from across the room.
 
 They all watched in anticipation as the climbing noise showed itself: a little green goblin with big, floppy ears in a brown leather jacket. He held his chest, where a pool of blood was staining his yellowing white undershirt. He stumbled into the room, landing on his face. As soon as he stood up, he shut the window. His breathing was rapid and frantic. He sat down in the corner, looking up at the window.
 
-Outside, Arakroca patrols flew around, pecking at the windows. They pecked at this window, and after looking inside, they left.
+Outside, aarakocra patrols flew around, pecking at the windows. They pecked at this window, and after looking inside, they left.
 
 The goblin sighed, taking a few deep breaths.
 
@@ -4672,7 +4672,7 @@ The goblin nodded.
 
 “Shank.”
 
-“I’m Reesu. This firbolg is Daisy, the tabaxi is Drathalion, and the shadar kai is Bob.”
+“I’m Reesu. This firbolg is Daisy, the tabaxi is Drathalion, and the shadar-kai is Bob.”
 
 “Want some zombie jerky?” Bob offered him some.
 
@@ -4694,7 +4694,7 @@ The goblin nodded.
 
 Reesu handed him the deck.
 
-Shank drew a card, and his legs got thicker. “Whoa! Shank super fast now!”
+Shank drew a card, and his legs got thicker. “Whoa! Shank super-fast now!”
 
 Reesu smiled. “I think I’m going to have as much fun with you as I do with Gale.”
 
@@ -4904,9 +4904,9 @@ Drathalion drew her bow.
 
 Bob shrugged. “Ok.” Before Drathalion could unleash her arrow, Bob dashed to her and swiped her with his shortsword.
 
-Drathalion dodged, but got slashed in the side. She split in two, flanking Bob from both sides. She loosed her arrow, which cut across Bob’s arm.
+Drathalion dodged but got slashed in the side. She split in two, flanking Bob from both sides. She loosed her arrow, which cut across Bob’s arm.
 
-Bob spun and threw daggers at both Drathalions, hitting them both square in the chest. “I don’t want to fight anymore.” He took out a bag of baked crispy potatoes, and ate one.
+Bob spun and threw daggers at both Drathalions, hitting them both square in the chest. “I don’t want to fight anymore.” He took out a bag of baked crispy potatoes and ate one.
 
 Drathalion snook up behind him and daggered him. He caught the blade with his bag of potatoes and shoved Drathalion. Then, with his sword, he plunged it into Drathalion’s chest.
 
@@ -4952,7 +4952,7 @@ Drathalion drew her dagger, but she was skewered to a wall, and couldn’t reach
 
 “Hey! That’s cheating!” Reesu exclaimed. “How dare you wall in front of my dog’s face!”
 
-“Yeah, what she said.” A beer-wielding Arakroca named Lor-Tay stood on the sidelines next to Reesu. “How does she even have that? She doesn’t look like a spellcaster.”
+“Yeah, what she said.” A beer-wielding Aarakocra named Lor-Tay stood on the sidelines next to Reesu. “How does she even have that? She doesn’t look like a spellcaster.”
 
 Reesu leaned over and explained it to him. It took a whole 5 minutes of commenting on the battle.
 
@@ -5038,15 +5038,15 @@ Shank nodded. “Shank like.”
 
 “Bartender, strongest drink!”
 
-The Arakroca behind the bar spoke in clicks and whistles, cleaning a glass.
+The aarakocra behind the bar spoke in clicks and whistles, cleaning a glass.
 
 Reesu made an illusion of a mug of ale, but then increased its size.
 
-The Arakroca chirped, holding up a super-sized mug.
+The aarakocra chirped, holding up a super-sized mug.
 
 Reesu shook her head. She added strong arms to the side of the illusory mug.
 
-The Arakroca scratched its head.
+The aarakocra scratched its head.
 
 Then the doors to the tavern opened, and in walked Drathalion.
 
@@ -5054,9 +5054,9 @@ Then the doors to the tavern opened, and in walked Drathalion.
 
 Drathalion looked pensive as she approached the bar and claimed a stool across the bar from Reesu.
 
-The Arakroca bartender chirped.
+The aarakocra bartender chirped.
 
-Drathalion chirped back, pointing to some Arakrocan symbols that just appeared on the counter.
+Drathalion chirped back, pointing to some Aarakocran symbols that just appeared on the counter.
 
 The bartender nodded, and brought Drathalion some berry juice.
 
@@ -5494,7 +5494,7 @@ Outside, Gra is coming back from his hunting trip. He came into Wind’s Crossin
 
 “We had a bet and you lost. Besides, we’re almost there.” Gra patted him on the back.
 
-Gra stopped and addressed an arakroca staring at them. “Hello, do you know where we can sell our game?”
+Gra stopped and addressed an aarakocra staring at them. “Hello, do you know where we can sell our game?”
 
 The arakroca spoke in arakrocan, but nonetheless pointed to a row of buildings with other merchants.
 
@@ -5578,7 +5578,7 @@ Reesu tells Gra about the drinking game, and why Shank wants to get strong, and 
 
 “You’re kidding.” Gra groaned. “You got Astalir drunk?”
 
-“The good news is that neither of them will remember spilling the beans! So Shank won’t try to spill Astalir’s gus!”
+“The good news is that neither of them will remember spilling the beans! So Shank won’t try to spill Astalir’s guts!”
 
 “This is not good. You cannot keep him.”
 
