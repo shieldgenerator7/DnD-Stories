@@ -3970,12 +3970,6 @@ Revali stared straight into Silber’s robotic eyes. “You’re on. And when I 
 
 ======
 
-=== 2023-11-08 ===
-
-=== This chapter under construction ===
-
-=== please wait for the official completion announcement ===
-
 After the party had their fun with the cards, it was time to start the day. And what better way to start than with breakfast?
 
 “I’ll have a sausage with a side of bread.” Reesu ordered.
@@ -4170,15 +4164,73 @@ Gra and Drathalion left, heading straight for the given address. When they got t
 
 “Hello? Toppol? Are you there?”
 
-[scene: reesu daisy find house of rats]
+They waited for a minute.
 
-[scene: gra drath find don’s house]
+Drathalion pressed her ears to the door. “I don’t hear anything.”
 
-[scene: gra drath find one rowdy patron, who refuses to stop]
+“Well I guess he’s not home.”
 
-[scene: drath tries poo into reesu’s pocket, reesu splashes goo in drath’s face]
+“Hold on.” Drathalion, using a lockpick, finagled the door open. The latch was unlocked, but the door didn’t open. Drathalion leaned into the door, and it finally burst open.
 
-Summary: The party searches the town for 4 ruffians causing problems at the Sticky Bucket, but they only find random people and a basement full of rats instead. Basically, nothing important happened.
+The inside was bloodsoaked. Blood covered the inside of the door, soaked into the carpet, and dotted the walls. But only in this one spot.
+
+“It looks like someone was murdered here.” Drathalion noted.
+
+“But then where’s the body?” Gra pushed past her to look inside.
+
+Drathalion shut the door and turned into Astalir.
+
+They searched the house. The dining room had burnt-out candles lining the table, which was set with fine tableware. The kitchen was full of moldy foods, some of which were chopped next to the stove. A pot of moldy soup sat on the stove, kept warm by a gas-fueled flame. Astalir looked at the stove and it turned itself off. The bedrooms were messy, albeit empty of clues. The bathroom was similarly clueless. The backdoor was blocked by a huge pile of empty vegetable crates.
+
+Finally, Astalir checked the basement. It was dark down there. He tried to stare through it with his dark vision, but it was still dark. He brightened up the room with his antlers, but it was still dark.
+
+“I can’t see down there.”
+
+“Let me see.” Gra investigated, and found the same thing. His lit torch got swallowed by the darkness. “This isn’t normal darkness.”
+
+A scurry and a squeak approached from the dark, and multiplied 10 times.
+
+Astalir closed his eyes, antlers aglow. “It’s some kind of small, furry thing.”
+
+“Probably a rat.”
+
+“Maybe.” Astalir focused on it. It scraped and scratched the floor, resisting Astalir’s magical pull.
+
+In the light, Gra was confirmed correct. It was a rat. But not an ordinary one. Its front teeth were jagged and asymmetrical, red with dripping blood. Its eyes were bloodshot and stared with intent to kill. Upon seeing Gra and Astalir, it leapt at them, jaws agape.
+
+“Gah!” Gra screamed in surprise. He instinctively threw his fist at it. The rat flew back into the darkness, in which it scurried away. “You ok?”
+
+“Yeah, it didn’t hit me at all.”
+
+“Do you think Toppol is in there?”
+
+“Based on the blood stains at the front door,” Astalir pondered, “and the lack of blood trail… I’d say no.”
+
+“We can’t go in there anyway.” Gra rubbed his fist.
+
+“Jodi’s not going to like this.”
+
+“We don’t know what happened to him. Maybe he just had an accident and is at the hospital.”
+
+“There would be a blood trail leading somewhere.”
+
+“Maybe this bloodstain is old?”
+
+“The front door was stuck shut because of the dried blood. That means that the front door wasn’t used since the “accident”. Based on the blockage by the backdoor, it would mean he’s been using a window to get in and out.”
+
+“Yeah, that seems unlikely.” Gra laughed. “Well then, what happened to him?”
+
+“I don’t know.” Astalir looked around suspiciously. He turned back into Drathalion and opened the front door. Outside, there was no sign of a blood trail.
+
+Gra and Drathalion returned to the tavern.
+
+“Any luck?” Jodi asked.
+
+Drathalion shook her head. “We didn’t find him.”
+
+“I hope he’s ok.”
+
+Drathalion looked down at the counter, hood up. “I hope so too.”
 
 # Chapter 11
 
