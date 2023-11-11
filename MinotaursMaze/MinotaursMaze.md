@@ -4236,13 +4236,103 @@ Drathalion looked down at the counter, hood up. “I hope so too.”
 
 *Author’s Note: This section about Silber and Micro is originally from Chapter 9*
 
-[scene 3: silber arrives at winds crossing, challenges Revali]
+It was a windy day in Wind’s Crossing. Specks of snow swam across the white peaks, dusting everything in its path. The windsock on a nearby pole danced in a particular direction, changing which way it pointed every now and then. The grass crunched under Silber’s weight as Revali led him to the shooting range.
 
-[scene 4: silber out guns Revali, wins contest, puts Revali to shame]
+“There’s 3 rounds.” An aarakocra with its whistle around its neck, known as Teba, announced. “Each round you have 1 shot per target to try to hit it. The first round is normal, the second round is blindfolded, and the third round is upside down. Any questions?”
 
-[scene 5: Revali flies off, disheartened]
+Revali raised his hand. “How badly do you think I’m going to beat him?”
 
-[scene 6: don appears and slow claps]
+Teba ignored him. “Alright, Revali, you can go first.”
+
+“No, I want the newbie to go first. Good luck, you’ll need it.”
+
+“Luck is for people who can’t aim.” Silber nonchalantly set up his gun stand and placed Eagle Shot on it. He dusted some snow off it. Looking through the scope, he angled his gun towards the target 100ft away. He pulled the trigger. *BOOM!*
+
+“Inner ring: 50 points!” Teba declared.
+
+Silber adjusted his stand and lined up for the 200ft target. *BOOM!*
+
+“Bullseye!”
+
+“Looks like I’m not wasting my time with an amateur.” Revali retorted.
+
+And lastly, Silber shot the 300ft target. *BOOM!*
+
+“Bullseye!”
+
+“Lucky shot.” Revali put a wing to the wind. “South-east. Now let me show you how it’s really done.” Revali took out an immaculately carved bow and loaded an arrow into it. He shot at the first target.
+
+“Inner ring: 50 points!”
+
+“Damn. The wind changed direction just as I shot.” He touched his wing to the wind again. “East.” He shot the 200ft target.
+
+“Near miss: 0 points.”
+
+“Looks like you might need some luck.” Silber said.
+
+“That arrow was defective.” Revali searched his quiver for a perfect arrow and loaded it. He lined up his shot, and shot the arrow straight into the 300ft target.
+
+“Bullseye!”
+
+“Ha! You see, stranger. *That* is how it’s done!” Revali held his wings in the air, as if trying to get a crowd to cheer.
+
+“Round 2: blindfolded.” Teba announced.
+
+Micro helped Silber put on his blindfold. Revali put his on by himself.
+
+Silber blasts through all three targets, even with the blindfold on. He didn’t get a single bullseye though.
+
+“Hmmph. Not a single bullseye? Pathetic.”
+
+Revali on the other hand, struggles. He barely hit the first two, but somehow manages to hit the last shot. “The wind was so loud I couldn’t hear the target.”
+
+“Round 3: Upside down!” Teba announced.
+
+Micro held Silber upside down. He shot all three targets with ease, even with keeping the blindfold on.
+
+“Heh, not a single bullseye. And you had to get help.” Revali gagged. “Watch this!” He flapped his wings and spun around in the air, floating upside down. He shot all the targets in quick succession, hitting every target. The last hit was a bullseye. “Bullseye!” Revali landed. “What do you think, Teba? Should I kick out this loser the old-fashioned way, or should I make him a new target? He looks like he could take at least a hit or two before we have to replace him.”
+
+Teba counted the points on a clipboard he carried. “Winner—”
+
+“Revali!” Revali cheered.
+
+Teba grunted. “Winner: Silber!”
+
+“What!” Revali grabbed the clipboard and looked at the points. “You totaled these wrong!”
+
+Teba took back his clipboard. “No, that’s correct. I triple-checked it. You’ve been beaten, fair and square.”
+
+“But he has a gun! And I have a bow. He should be forced to use a bow too!”
+
+“You should’ve declared that as a part of the challenge.” Teba shrugged.
+
+“I want a rematch.”
+
+“You’re beat. We’re done here.” Silber refused.
+
+“Come on!”
+
+“No.”
+
+Micro growled.
+
+Revali broke an arrow in two and threw its pieces on the ground. “This isn’t over.” Revali flew off to his house.
+
+Slow clapping appeared behind Silber. “Well done. I’ve never seen that bird be put down like that before.” It was Don, fading into view. “What are you? Some sort of golem?”
+
+“I prefer the word ‘turret’.”
+
+“Ha! Well with aim like that, you certainly are.”
+
+“I believe there was a bounty on Revali’s pride?”
+
+“Yes. How about a discount on some magic bullets? They’re buy 3 get 1 free.”
+
+“I’ll take 12.” Silber nudged Micro, who handed Don a bag full of gold.
+
+Don chuckled as he took the bag and handed over a handheld box. “Excellent.”
+
+=======
 
 === 2023-07-20 ===
 
