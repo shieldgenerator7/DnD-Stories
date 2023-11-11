@@ -3906,7 +3906,7 @@ Reesu was quick. “Ring around the Jodi!”
 
 Everyone laughed. Jodi gave an awkward chuckle. Drathalion cringed.
 
-# Chapter 10
+# Chapter 10 – Dangerous Fun
 
 *Author’s Note: This section about Silber and Micro was originally from Chapter 9*
 
@@ -4003,6 +4003,10 @@ They walked through town, looking for the blacksmith.
 “Is something wrong?”
 
 “Jodi seemed rather upset by them.”
+
+“Who?”
+
+“The rowdy bar patrons. They keep smashing glasses.”
 
 “Ah, they’re just having fun. That’s bars for you.”
 
@@ -4160,11 +4164,13 @@ Drathalion took the note, and then tapped Gra on the shoulder. “I might need s
 
 Drathalion nodded.
 
-Gra and Drathalion left, heading straight for the given address. When they got there, Gra knocked on the door.
+Gra and Drathalion left, heading straight for the given address.
 
-“Hello? Toppol? Are you there?”
+When they got there, Gra knocked on the door. “Hello? Toppa? Are you there?”
 
-They waited for a minute.
+“Toppol, we’re friends of Jodi’s.” Drathalion added.
+
+They waited for a minute. No response.
 
 Drathalion pressed her ears to the door. “I don’t hear anything.”
 
@@ -4202,17 +4208,17 @@ In the light, Gra was confirmed correct. It was a rat. But not an ordinary one. 
 
 “Yeah, it didn’t hit me at all.”
 
-“Do you think Toppol is in there?”
+“Do you think Toppa is in there?”
 
-“Based on the blood stains at the front door,” Astalir pondered, “and the lack of blood trail… I’d say no.”
+“Based on the blood stains at the front door,” Astalir pondered, “and the lack of blood trail… I’d say no, Top*pol* isn’t in there.”
 
-“We can’t go in there anyway.” Gra rubbed his fist.
+“We can’t go in there anyway.” Gra rubbed his fist. It wasn’t bleeding.
 
 “Jodi’s not going to like this.”
 
 “We don’t know what happened to him. Maybe he just had an accident and is at the hospital.”
 
-“There would be a blood trail leading somewhere.”
+“There would be a blood trail leading somewhere.” Astalir illuminated the bloody area with his antlers.
 
 “Maybe this bloodstain is old?”
 
@@ -4222,9 +4228,39 @@ In the light, Gra was confirmed correct. It was a rat. But not an ordinary one. 
 
 “I don’t know.” Astalir looked around suspiciously. He turned back into Drathalion and opened the front door. Outside, there was no sign of a blood trail.
 
-Gra and Drathalion returned to the tavern.
+Gra and Drathalion returned to the tavern. Along the way, a moose took a dump as it crossed the street in front of them. The turd mysteriously followed them to the tavern.
 
-“Any luck?” Jodi asked.
+Reesu greeted them at the door. “Guess what Gra!”
+
+“What?”
+
+“I’ve got a surprise for you!” Reesu jumped at Gra and slammed a bread-covered sausage down his throat. “All the way down the hatch!” The sausage and bread forced themselves down his throat.
+
+Gra gagged at first, but then decided to swallow. “Reesu! That… was both tasty and disgusting. And dangerous!”
+
+“No, it was fun!”
+
+“Maybe for you!” Gra spit the remaining chunks of bread out of his mouth.
+
+The mysterious floating moose turd wandered over to Reesu, aiming for her skirt pocket.
+
+“Ew!” Reesu swatted it away with an invisible tentacle. “Astalir! That’s gross!”
+
+“What?” Drathalion turned to her. “Who’s Astalir? I’m Drathalion.”
+
+Reesu squinted at the cat. “Don’t play games with me.”
+
+“I think what they’re trying to say,” Gra separated the two. “Is that you shouldn’t force things on people when they don’t want it.”
+
+“Hmmph.” Drathalion nodded, relaxing a bit.”
+
+“Ok, I’ll let this one slide…” Reesu stared at Drathalion.
+
+“Now let’s get back in the tavern.”
+
+They sat down in their previous seats at the bar.
+
+Jodi approached Drathalion, cleaning a glass. “Any luck?”
 
 Drathalion shook her head. “We didn’t find him.”
 
