@@ -4370,13 +4370,11 @@ Don chuckled as he took the bag and handed over a handheld box. “Excellent.”
 
 =======
 
-=== 2023-07-20 ===
+=== 2023-11-11 ===
 
 === this chapter under construction ===
 
 === please wait for the official completion announcement ===
-
-[scene 1: reesu buys human blood at butcher shop, syrup at vendor]
 
 “I’m tired of waiting around. Gra, can I see those cards?” Sui asks.
 
@@ -4394,7 +4392,117 @@ Sui snores in response.
 
 “Sui,” Gra said. “I didn’t mean that literally!”
 
-[scene 3: gra and daisy play the stick game]
+“Oh wow he’s really out!” Reesu exclaimed. She giggled as she got off her stool. “I just got a really funny idea. Wait right here.” She left the tavern.
+
+“Oh no…” Gra groaned, rubbing his forehead.
+
+“You ok?” Daisy asked. “You look stressed.”
+
+“I’m fine. It’s just Reesu, like usual.”
+
+“Oh what’s wrong with her?”
+
+“I don’t know. She’s a psychopath or something.”
+
+“Well I have something to take your mind off things.”
+
+“What’s that?”
+
+“Have you heard of the stick game?”
+
+“No.”
+
+“I’ll explain it.” Daisy took out a stick. “I hide the stick behind my back, and now you have to guess which hand it’s in.”
+
+“That one.”
+
+“You got it! That’s one point for you.” Daisy passed the stick. “Now it’s your turn.”
+
+“Ok which hand is holding the stick?”
+
+“Your left hand.”
+
+“Nope. It was my right hand.”
+
+“Good one. My turn.”
+
+Daisy and Gra played the stick game for a while.
+
+======
+
+Reesu followed her nose to the butcher shop in town. Inside, there was a clear display full of all sorts of meat: ham, bacon, porkchops, etc. Reesu rang the bell on the top.
+
+“Just a minute.”
+
+Reesu snatched a raw slice of bacon with an invisible tentacle and slurped it up before the butcher arrived.
+
+“What can I get for you?”
+
+“Something smells really good in here.” Reesu wafted it all in. “What are you working on back there?"
+
+“Tsk, tsk.” He shook his head. "‘It's a shame, you’re so young. But needs are needs. Now what part would you like?”
+
+“Do you have blood?”
+
+“How much?”
+
+“I want a big bucket full.”
+
+“Aw! You’re a hungry little one. I’ll get that for you.” He went into the back and hobbled over with a bucket almost as big as Reesu, filled to the brim with a scarlet liquid.
+
+“How much?”
+
+“For you, it’s free. Just so long as you promise when you’re full grown, you won’t feed on me.” The butcher chuckled.
+
+“Huh?”
+
+“You know, ‘the lily wilts at sunset’?”
+
+“What are you talking about?”
+
+“Wait, are you not a…” The butcher stopped himself. “Have a good day, little one.”
+
+“Not a what? I’m not a what?”
+
+“Not old enough to be buying blood on your own?”
+
+Reesu gave him a quizzical glance, too confused to be mad. She shrugged. “If being over 900 years old isn’t old enough, I don’t know what is.”
+
+“I-I-I—wow….” The butcher stammered. “You’re higher rank than you look. I’m deeply sorry, countess.”
+
+“Ok… thanks for the blood.”
+
+“Anytime.”
+
+The bucket floated above Reesu’s head as she left, and the butcher stared in awe at how easily she moved it.
+
+Reesu returned to the tavern. As she entered, Drathalion discretely snuck out a side window to avoid her. “That deer’s smart.”
+
+Sui lay unconscious on his stool, head slumped over on the counter.
+
+Reesu chuckled evilly to herself as she turned invisible and snuck up on Sui. With a *WHAM!* She turned visible again and slammed the bucket of blood upside down onto Sui’s head. Blood splattered everywhere: Sui, Sui’s stool, the counter around Sui, the floor around Sui, and the people around Sui, namely Gra.
+
+“Reesu! What are you doing!” Gra yelled.
+
+“Surprise!”
+
+“What’s going on?” Sui poked his head up, completely in the dark under the bucket. “Why’s everything smell like blood?”
+
+“It’s because it is blood!”
+
+“Reesu! That’s gross!”
+
+“Don’t worry, I got it from the butcher. It’s professionally sanitized.”
+
+“I don’t think that’s how it works.”
+
+“Wait…” Sui sniffed the blood. “Is this *human* blood?”
+
+“Let me see.” Reesu dipped a finger in the bloody pool and tasted it. “Wow, you’re right! It *is* human blood!”
+
+“Where did you get *human* blood?” Gra stood up.
+
+“The butcher shop.”
 
 [scene 4: drath goes out to pee]
 
