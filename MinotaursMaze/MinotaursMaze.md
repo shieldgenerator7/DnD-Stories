@@ -4486,6 +4486,12 @@ Reesu chuckled evilly to herself as she turned invisible and snuck up on Sui. Wi
 
 “Surprise!”
 
+“Gah!” Gra wiped himself off with a napkin.
+
+“He’s still asleep.” Reesu peeked under the bucket at Sui’s eyes. “That unconscious card really works wonders.”
+
+“He’s lucky, not having to be awake to see this.”
+
 “What’s going on?” Sui poked his head up, completely in the dark under the bucket. “Why’s everything smell like blood?”
 
 “It’s because it is blood!”
@@ -4503,6 +4509,44 @@ Reesu chuckled evilly to herself as she turned invisible and snuck up on Sui. Wi
 “Where did you get *human* blood?” Gra stood up.
 
 “The butcher shop.”
+
+“Hey what’s this?” Reesu picked up the stick that Daisy had set on the counter.
+
+“That’s a stick. For the stick game.” Daisy explained the rules to Reesu.
+
+Reesu and Daisy play a round, and Daisy wins.
+
+“Wow, you’re good at this game.” Reesu said.
+
+“I’ve been playing it since I was a kid.”
+
+“I want a rematch. Gra, help me out.”
+
+“2 versus 1? That doesn’t sound fair.” Gra said.
+
+“It’s ok, I’ve got Jodi on my team.” Daisy called out. “Right, Jodi?”
+
+“Sure.” He responded from the back.
+
+“Well, that’s not fair. You’ve both been playing this your whole lives.”
+
+“Ok, I’ll take Gra and you can take Jodi.” Daisy suggested.
+
+“This one help Gra.” Gale hopped onto Gra’s lap.
+
+“Ok, but now we need a third person.” Reesu looked at Drathalion.
+
+The whole party looked at her.
+
+The cat took one look at Reesu and shook her head. “I’d rather not.”
+
+“Come on, we gotta balance the team.” Gra said. “You’d be on Jodi’s team.”
+
+“Ok.” Drathalion sat next to Jodi.
+
+The party played the stick game, but with a coin. Drathalion tried sticking the coin in Reesu’s pocket when it was there turn to hide, but Reesu batted it away, and Jodi ended up hiding the coin. In the end, Jodi’s experience mixed with Drathalion’s illusions won them the game. The party all said good game.
+
+And then the ruffians entered.
 
 [scene 4: drath goes out to pee]
 
