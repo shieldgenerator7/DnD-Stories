@@ -9,13 +9,13 @@ D&D Class
 | **Level** | **Prof. Bonus** | **Features**                           | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
 | 1st       | +2              | Spellcasting, Reality Observer         | 1                  | 0                         | 2                | 5ft               | 10ft             | 3 rounds           |
 | 2nd       | +2              | Bond Affinity                          | 1                  | 1                         | 3                | 10ft              | 20ft             | 1 min              |
-| 3rd       | +2              | Bending Style                          | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
+| 3rd       | +2              | Arcane Skill, Bending Style            | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
 | 4th       | +2              | Ability Score Improvement              | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
 | 5th       | +3              | Bending Style Feature, Bending Trick   | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
 | 6th       | +3              | Bending Trick                          | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
 | 7th       | +3              | Reality Studier, Bending Style Feature | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
 | 8th       | +3              | Ability Score Improvement              | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
-| 9th       | +4              | Rejuvenation                           | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
+| 9th       | +4              | Rejuvenation, Arcane Survival          | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
 | 10th      | +4              | Free Modding, Bending Trick            | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
 | 11th      | +4              | Energy Store, Bending Style Feature    | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
 | 12th      | +4              | Ability Score Improvement              | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
@@ -128,6 +128,10 @@ You learn one Bond Affinity option at level 1. You gain Bond Affinity options as
 
 Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
 
+# Arcane Skill
+
+At level 3, you can channel your magic into all your endeavors. Whenever you make an ability check, you may spend spell points to decrease the DC by 1 per spell point spent.
+
 # Bending Style
 
 At level 3, you choose a Bending Style, as listed below. The Bending Style you choose will give you features at levels 3, 5, 7, 11, and 15. They will also grant you bonus Bond Affinity options.
@@ -185,6 +189,10 @@ At level 7, when you learn a new spell in your bonded schools, you regain spell 
 # Rejuvenation
 
 At level 9, when you cast a spell from your bonded schools, you heal for the number of spell points spent to cast it.
+
+# Arcane Survival
+
+At level 9, you can channel your magic into keeping yourself safe. Whenever you must make a saving throw, you can spend spell points to decrease the DC by 1 per spell point spent.
 
 # Free Modding
 
@@ -499,7 +507,7 @@ At level 11, you can hardly fail. You get advantage on all ability checks and sa
 
 ### Plot Armor
 
-At level 15, no can hurt you. Whenever you have to make a saving throw, the DC is lowered by your spellcasting ability modifier. Additionally, any attack roll against you has disadvantage.
+At level 15, no can hurt you. Whenever you have to make a saving throw, the DC is automatically lowered by your spellcasting ability modifier. Additionally, any attack roll against you has disadvantage.
 
 ### Dictation
 
@@ -513,7 +521,7 @@ You don’t like casting spells directly, and instead prefer to infuse items wit
 
 At level 3, you gain the ability to infuse an item with a spell.
 
-You may spend 1 hour or more infusing an item you’re holding with a spell from your bonded schools. The spell costs double the amount of spell points it normally would. Make an ability check in your spellcasting ability. The DC equals the spell’s casted level times 2, plus 10, minus the number of hours you spend infusing it. You may spend extra spell points to decrease this DC by 1 per extra spell point spent. On a success, the item is infused with the spell. On a failure, the spell points are still spent, but the item is not infused with the spell.
+You may spend 1 hour or more infusing an item you’re holding with a spell from your bonded schools. The spell costs double the amount of spell points it normally would. Make an ability check in your spellcasting ability. The DC equals the spell’s casted level times 2, plus 10, minus the number of hours you spend infusing it. On a success, the item is infused with the spell. On a failure, the spell points are still spent, but the item is not infused with the spell.
 
 Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. The infused spell always uses the Bond Affinity option applied to it when it was infused.
 
