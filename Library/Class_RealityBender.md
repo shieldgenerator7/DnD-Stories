@@ -521,6 +521,10 @@ An item can only be infused with one spell at a time. If you infuse an infused i
 
 Infused items are infused permanently. They don’t lose their infusion when they leave your Tether Range, and they don’t expire after your Spell Duration.
 
+If the infused spell has range of Self, it targets the active user of the item. If the active user changes to another creature during the spell, the target switches to the new active user. If there is no active user, it targets no one, but does not end the spell early.
+
+If the infused spell requires concentration, activating it a second time ends the spell effect of its previous activations. It uses the “concentration” of the item, and not the concentration of the user.
+
 ### Item Upgrading
 
 At level 5, you can upgrade infused items you’re previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to yours. When you do this, you may choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
