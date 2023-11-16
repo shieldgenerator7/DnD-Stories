@@ -11,22 +11,22 @@ D&D Class
 | 2nd       | +2              |                                                      | 1                  | 1                         | 3                | 10ft              | 20ft             | 1 min              |
 | 3rd       | +2              | Bending Style                                        | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
 | 4th       | +2              | Ability Score Improvement                            | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
-| 5th       | +3              | Bending Style Feature                                | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
-| 6th       | +3              |                                                      | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
 | 7th       | +3              | Reality Studier, Bending Style Feature               | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
 | 8th       | +3              | Ability Score Improvement, Bond Affinity Improvement | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
 | 9th       | +4              | Rejuvenation                                         | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              |                                                      | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
 | 11th      | +4              | Energy Store, Bending Style Feature                  | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
 | 12th      | +4              | Ability Score Improvement                            | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
 | 13th      | +5              | Recasting                                            | 3                  | 4                         | 57               | 250ft             | 2500ft           | 30 d               |
-| 14th      | +5              |                                                      | 3                  | 4                         | 65               | 300ft             | 1mi              | 180 d              |
 | 15th      | +5              | Refill, Bending Style Feature                        | 3                  | 4                         | 65               | 400ft             | 5mi              | 1 yr               |
 | 16th      | +5              | Ability Score Improvement                            | 3                  | 5                         | 74               | 500ft             | 15mi             | 5 yr               |
-| 17th      | +6              |                                                      | 4                  | 5                         | 79               | 750ft             | 100mi            | 10 yr              |
-| 18th      | +6              |                                                      | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
 | 19th      | +6              | Ability Score Improvement                            | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | +6              |                                                      | 4                  | 5                         | 100              | 1mi               | Inf.             | Inf.               |
+| 5th       | +3              | Bending Style Feature, Bending Trick   | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
+| 6th       | +3              | Bending Trick                          | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
+| 10th      | +4              | Bending Trick                          | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
+| 14th      | +5              | Bending Trick                          | 3                  | 4                         | 65               | 300ft             | 1mi              | 180 d              |
+| 17th      | +6              | Bending Trick                          | 4                  | 5                         | 79               | 750ft             | 100mi            | 10 yr              |
+| 18th      | +6              | Bending Trick                          | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
+| 20th      | +6              | Bending Trick                          | 4                  | 5                         | 100              | 1mi               | Inf.             | Inf.               |
 
 # Class Features
 
@@ -149,17 +149,41 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 -   Increase two ability scores of your choice by 1, max 20.
 -   Increase your spellcasting ability score by 1, max 30.
 
-# Reality Studier
+# Bending Trick
 
-At level 7, when you learn a new spell in your bonded schools, you regain spell points equal to that spell’s casted level.
+At level 5, you learn a little trick you can use on a daily basis. Choose one of your bonded schools, and then choose to learn a bending trick appropriate for that school:
+
+-   Trinket (Conjuration): Create an object that fits inside a 1ft cube.
+-   Summon (Conjuration): Choose a creature or object within your Tether Range or that you have seen within your Spell Duration, and teleport them to any open space within 30ft of you.
+-   Intuition (Divination): Ask the DM a question about something within your Cast Range or happened within your Spell Duration, and they will answer “yes” or “no”, or if the answer isn’t clear-cut, “maybe”.
+-   Step in Shoes (Divination): Choose a creature you can see within range. You become blind to your own senses and instead sense everything from that creature’s senses, including senses you yourself don’t have.
+-   Block (Abjuration): As a reaction, block all damage that would be dealt to you until the end of the turn. Not bound to Spell Duration.
+-   Tether (Abjuration): As a bonus action, choose a creature within Cast Range, and a point or object within Cast Range. That creature can’t move more than 30ft from the point or object by nonmagical means. If the creature manages to get 35ft or more from the point or object, this effect ends early.
+-   Opine (Enchantment): State your opinion, and all creatures within Cast Range that can receive your communication and know the language must make a Charisma saving throw. On a failure, they agree with your opinion unquestionably.
+-   Sway (Enchantment): Choose a creature within Cast Range
+-   Materialmorph (Transmutation): Choose an object within Cast Range and that can fit into a 1ft cube. It becomes a material of your choosing, gaining the stats and effects of that new material.
+-   Petmorph (Transmutation): Choose a creature within Cast Range and that can fit into a 1ft cube. It becomes another creature of your choice that can also fit into a 1ft cube.
+-   Disguise (Illusion): Change your appearance, your voice, and your smell.
+-   Hallucination (Illusion): A target creature sees what you want them to see. You can also make them not see something that is there. The creature can make an Intelligence check, and on a success, discern that the hallucinations aren’t real.
+-   Stasis (Evocation): Choose a creature. That creature can’t move or take actions, bonus actions, or reactions. They are immune to all damage and can’t be targeted or effected by any spell. If they are unconscious, they don’t make death saves but also can’t be stabilized.
+-   Energy Blast (Evocation): Make a ranged spell attack against a creature you can see within Cast Range. On a hit, the creature takes 1d12 damage with a damage type of your choice: cold, fire, acid, lightning, thunder.
+-   Wake (Necromancy): Choose a creature that died within the last 10 seconds. They get up with 10 temporary hit points. They can move and attack like normal but can’t cast spells. If they make death saving throws, they do so at advantage. If they die for good or stabilize, this effect ends early.
+-   Necrofy (Necromancy): Choose a creature within Cast Range. It must succeed on a Constitution saving throw, or it becomes weak to necrotic damage, and takes an extra 1d4 necrotic damage whenever it takes other types of damage.
+
+You can learn an additional bending trick at levels 6, 10, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
 
 # Bond Affinity Improvement
+Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as an action.
 
 At level 8, when you may learn a new Bond Affinity option, you now have more options to choose from:
+Once you use a bending trick, you can’t use that bending trick again until you finish a short rest.
 
 -   Focused: Double your spellcasting ability modifier for this spell cast.
 -   Capital: Double the amount of levels this spell cast is upcast by, if it is already being upcast.
 -   Animating: Cast this spell without requiring concentration.
+# Reality Studier
+
+At level 7, when you learn a new spell in your bonded schools, you regain spell points equal to that spell’s casted level.
 
 # Rejuvenation
 
