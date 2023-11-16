@@ -184,7 +184,9 @@ Once you use a bending trick, you can’t use that bending trick again until you
 
 # Reality Studier
 
-At level 7, when you learn a new spell in your bonded schools, you regain spell points equal to that spell’s casted level.
+At level 7, you can more easily absorb information about spells. As an action, you may use your Reality Observer feature on an ongoing spell effect.
+
+As an action, you can study an ongoing spell effect. While looking at a spell effect that you used Reality Observer on within the past minute, you can use your action to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level. On a success, you figure out how to cast the spell and can cast the new spell without having to complete a long rest. On a failure, you don’t figure out the spell. Either way, you regain 1 spell point.
 
 # Rejuvenation
 
