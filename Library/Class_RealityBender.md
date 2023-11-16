@@ -7,8 +7,6 @@ D&D Class
 |           |                 |                                                      |                    |                           |                  | **Spell Casting** |                  |                    |
 |-----------|-----------------|------------------------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
 | **Level** | **Prof. Bonus** | **Features**                                         | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | +2              | Spellcasting, Reality Observer, Bond Affinity        | 1                  | 1                         | 2                | 5ft               | 10ft             | 3 rounds           |
-| 2nd       | +2              |                                                      | 1                  | 1                         | 3                | 10ft              | 20ft             | 1 min              |
 | 3rd       | +2              | Bending Style                                        | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
 | 4th       | +2              | Ability Score Improvement                            | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
 | 7th       | +3              | Reality Studier, Bending Style Feature               | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
@@ -20,6 +18,8 @@ D&D Class
 | 15th      | +5              | Refill, Bending Style Feature                        | 3                  | 4                         | 65               | 400ft             | 5mi              | 1 yr               |
 | 16th      | +5              | Ability Score Improvement                            | 3                  | 5                         | 74               | 500ft             | 15mi             | 5 yr               |
 | 19th      | +6              | Ability Score Improvement                            | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
+| 1st       | +2              | Spellcasting, Reality Observer         | 1                  | 0                         | 2                | 5ft               | 10ft             | 3 rounds           |
+| 2nd       | +2              | Bond Affinity                          | 1                  | 1                         | 3                | 10ft              | 20ft             | 1 min              |
 | 5th       | +3              | Bending Style Feature, Bending Trick   | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
 | 6th       | +3              | Bending Trick                          | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
 | 10th      | +4              | Bending Trick                          | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
@@ -110,21 +110,23 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 # Bond Affinity
 
-At level 1, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you may choose up to one Bond Affinity option that you learned to apply to it:
+At level 2, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you may spend extra spell points to choose a Bond Affinity option that you learned to apply to it:
 
--   Powerful: Double any and all dice rolls that you roll for this spell cast.
--   Replenishing: Regain spell points equal to this spell’s base level after casting this spell.
--   Quick: Cast this spell as a bonus action, if the spell’s cast time is 1 action.
--   Reactive: Cast this spell as a reaction, if the spell’s cast time is 1 bonus action.
--   Reaching: Double your Cast Range for this spell cast.
--   Remote: Double your Tether Range for this spell cast.
--   Lasting: Double your Spell Duration for this spell cast.
+-   Powerful: 2 Spell Points. Roll 2 extra dice whenever you would roll dice for this spell cast.
+-   Replenishing: 2 Spell Points. Regain spell points equal to this spell’s base level plus one after casting this spell.
+-   Quick: 1 Spell Point. Cast this spell as a bonus action, if the spell’s cast time is 1 action.
+-   Reactive: 2 Spell Points. Cast this spell as a reaction, if the spell’s cast time is 1 action or 1 bonus action.
+-   Hasty: 1 Spell Point. Cast this spell as an action, if the spell’s cast time is 1 minute.
+-   Capital: 2 Spell Points. Upcast this spell by the amount of levels it is already being upcast by.
+-   Animating: 1 Spell Point. Cast this spell without requiring concentration.
+-   Focused: 2 Spell Points. Add your spellcasting ability modifier to the spellcasting ability modifier used by this spell cast.
+-   Reaching: 2 Spell Points. Increase this spell’s cast range by your Cast Range.
+-   Remote: 2 Spell Points. Increase this spell’s tether range by your Tether Range.
+-   Lasting: 2 Spell Points. Increase this spell’s spell duration by your Spell Duration.
 
 You learn one Bond Affinity option at level 1. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
 Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
-
-At level 8, more Bond Affinity options become available for you to choose from.
 
 # Bending Style
 
@@ -172,15 +174,10 @@ At level 5, you learn a little trick you can use on a daily basis. Choose one of
 
 You can learn an additional bending trick at levels 6, 10, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
 
-# Bond Affinity Improvement
 Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as an action.
 
-At level 8, when you may learn a new Bond Affinity option, you now have more options to choose from:
 Once you use a bending trick, you can’t use that bending trick again until you finish a short rest.
 
--   Focused: Double your spellcasting ability modifier for this spell cast.
--   Capital: Double the amount of levels this spell cast is upcast by, if it is already being upcast.
--   Animating: Cast this spell without requiring concentration.
 # Reality Studier
 
 At level 7, when you learn a new spell in your bonded schools, you regain spell points equal to that spell’s casted level.
