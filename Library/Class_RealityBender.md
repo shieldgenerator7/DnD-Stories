@@ -26,7 +26,7 @@ D&D Class
 | 17th      | +6              | Bending Trick                          | 4                  | 5                         | 79               | 750ft             | 100mi            | 10 yr              |
 | 18th      | +6              | Bending Trick                          | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
 | 19th      | +6              | Ability Score Improvement              | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | +6              | Bending Trick                          | 4                  | 5                         | 100              | 1mi               | 1000000mi        | 1000 yr            |
+| 20th      | +6              | Reality Command, Bending Trick         | 4                  | 5                         | 100              | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
@@ -201,6 +201,12 @@ At level 13, when one of your spells ends, you sense it, and may use your reacti
 # Refill
 
 At level 15, you can replenish your spell points. As a bonus action, regain spell points equal to your current health. Once you use this feature, you can’t do so again until you finish a short or long rest.
+
+# Reality Command
+
+At level 20, you can rally your energy into one big spell. When you add two or more Bond Affinity options to a spell, you may choose to ignore the spell point cost of the Bond Affinity options, and pay only the spell’s spell point cost.
+
+Once you use this feature, you must finish a long rest before you can use it again.
 
 # Bending Styles
 
