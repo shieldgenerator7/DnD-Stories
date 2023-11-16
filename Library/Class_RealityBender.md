@@ -4,28 +4,28 @@ D&D Class
 
 # Class Table
 
-|           |                 |                                                      |                    |                           |                  | **Spell Casting** |                  |                    |
-|-----------|-----------------|------------------------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
-| **Level** | **Prof. Bonus** | **Features**                                         | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 3rd       | +2              | Bending Style                                        | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
-| 4th       | +2              | Ability Score Improvement                            | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
-| 7th       | +3              | Reality Studier, Bending Style Feature               | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
-| 8th       | +3              | Ability Score Improvement, Bond Affinity Improvement | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
-| 9th       | +4              | Rejuvenation                                         | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
-| 11th      | +4              | Energy Store, Bending Style Feature                  | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
-| 12th      | +4              | Ability Score Improvement                            | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
-| 13th      | +5              | Recasting                                            | 3                  | 4                         | 57               | 250ft             | 2500ft           | 30 d               |
-| 15th      | +5              | Refill, Bending Style Feature                        | 3                  | 4                         | 65               | 400ft             | 5mi              | 1 yr               |
-| 16th      | +5              | Ability Score Improvement                            | 3                  | 5                         | 74               | 500ft             | 15mi             | 5 yr               |
-| 19th      | +6              | Ability Score Improvement                            | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
+|           |                 |                                        |                    |                           |                  | **Spell Casting** |                  |                    |
+|-----------|-----------------|----------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
+| **Level** | **Prof. Bonus** | **Features**                           | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
 | 1st       | +2              | Spellcasting, Reality Observer         | 1                  | 0                         | 2                | 5ft               | 10ft             | 3 rounds           |
 | 2nd       | +2              | Bond Affinity                          | 1                  | 1                         | 3                | 10ft              | 20ft             | 1 min              |
+| 3rd       | +2              | Bending Style                          | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
+| 4th       | +2              | Ability Score Improvement              | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
 | 5th       | +3              | Bending Style Feature, Bending Trick   | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
 | 6th       | +3              | Bending Trick                          | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
+| 7th       | +3              | Reality Studier, Bending Style Feature | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
+| 8th       | +3              | Ability Score Improvement              | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
+| 9th       | +4              | Rejuvenation                           | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
 | 10th      | +4              | Bending Trick                          | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
+| 11th      | +4              | Energy Store, Bending Style Feature    | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
+| 12th      | +4              | Ability Score Improvement              | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
+| 13th      | +5              | Recasting                              | 3                  | 4                         | 57               | 250ft             | 2500ft           | 30 d               |
 | 14th      | +5              | Bending Trick                          | 3                  | 4                         | 65               | 300ft             | 1mi              | 180 d              |
+| 15th      | +5              | Refill, Bending Style Feature          | 3                  | 4                         | 65               | 400ft             | 5mi              | 1 yr               |
+| 16th      | +5              | Ability Score Improvement              | 3                  | 5                         | 74               | 500ft             | 15mi             | 5 yr               |
 | 17th      | +6              | Bending Trick                          | 4                  | 5                         | 79               | 750ft             | 100mi            | 10 yr              |
 | 18th      | +6              | Bending Trick                          | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
+| 19th      | +6              | Ability Score Improvement              | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
 | 20th      | +6              | Bending Trick                          | 4                  | 5                         | 100              | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
