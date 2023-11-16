@@ -16,7 +16,7 @@ D&D Class
 | 7th       | +3              | Reality Studier, Bending Style Feature | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
 | 8th       | +3              | Ability Score Improvement              | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
 | 9th       | +4              | Rejuvenation                           | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | Bending Trick                          | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
+| 10th      | +4              | Free Modding, Bending Trick            | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
 | 11th      | +4              | Energy Store, Bending Style Feature    | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
 | 12th      | +4              | Ability Score Improvement              | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
 | 13th      | +5              | Recasting                              | 3                  | 4                         | 57               | 250ft             | 2500ft           | 30 d               |
@@ -185,6 +185,10 @@ At level 7, when you learn a new spell in your bonded schools, you regain spell 
 # Rejuvenation
 
 At level 9, when you cast a spell from your bonded schools, you heal for the number of spell points spent to cast it.
+
+# Free Modding
+
+At level 10, you figure out how to freely modify your spells. Whenever you add a Bond Affinity option to a spell, you may apply any number of additional Bond Affinity options to it, as long as you can pay the extra spell point cost.
 
 # Energy Store
 
