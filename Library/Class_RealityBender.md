@@ -26,7 +26,7 @@ D&D Class
 | 14th      | +5              | Bending Trick                          | 3                  | 4                         | 65               | 300ft             | 1mi              | 180 d              |
 | 17th      | +6              | Bending Trick                          | 4                  | 5                         | 79               | 750ft             | 100mi            | 10 yr              |
 | 18th      | +6              | Bending Trick                          | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
-| 20th      | +6              | Bending Trick                          | 4                  | 5                         | 100              | 1mi               | Inf.             | Inf.               |
+| 20th      | +6              | Bending Trick                          | 4                  | 5                         | 100              | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
