@@ -1,6 +1,8 @@
-Reality Bender
+# Reality Bender
 
 D&D Class
+
+version 0.0.3
 
 # Class Table
 
