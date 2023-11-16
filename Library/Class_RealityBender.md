@@ -106,7 +106,7 @@ Using this feature, it’s possible to have learned a 9th level spell at level 1
 
 # Reality Observer
 
-Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is.
+Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
 
 # Bond Affinity
 
