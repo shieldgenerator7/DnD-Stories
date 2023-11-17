@@ -6787,3 +6787,319 @@ Along the way, they had to go through the misty graveyard again. They tried walk
 The stranger was a man with the face of a deer, with a matching pair of antlers. He asked them if they had seen a dark-skinned rogue, but they said no. The stranger followed them to town, where they parted ways.
 
 Sui and Leona returned to the kobold cave, where they found the kobold chief dead, pierced by a dozen arrows. Upon seeing Sui’s new dragon wings, Sylla and the rest of the kobolds worshipped him even more than they did before. Sui made himself right at home as the new leader of the kobold cave.
+
+# ( 19 ) S2E4
+
+The party disembarked *The Howling Wolf* onto the mainland that held within it, somewhere, the lizardfolk kingdom.
+
+Astalir, on all fours, scouted ahead to see if he could find how to get there. The map to “Terry Town” that he had found on the “merchant” ship was very limited, and only showed very little of the mainland.
+
+Off in the distance, he heard some shouting, laughing, and beer guzzling. He got close enough to get a look. It was a camp full of tents and human men sitting around campfires. Astalir retreated back to Gra.
+
+“So, what did you find?”
+
+Astalir told him what he saw. “There was some mention of Robin Hood.”
+
+“Sounds like bandits.” Gra rubbed his chin. “We should avoid them.”
+
+“I want to see if they know how to get to our destination.”
+
+“Hmm.” Gra scanned the horizon. “Very well. Go out there, get some information, and come right back. Do *not* engage them in battle or enter their camp. Ok?”
+
+“I’m not Reesu.”
+
+“So you understand?”
+
+“Yes, I understand.” Astalir nodded.
+
+“Good.” Gra grabbed Astalir and petted his head. “I don’t want my little deer buddy getting hurt. Be safe out there.”
+
+“Will do.” Astalir smiled.
+
+Astalir took off down the path, but he didn’t get far before running into Reesu, who he nearly tripped over. “Reesu?”
+
+“Hi Astalir, where are you going?” She leaned forward, hands behind her back, sweet eyes open.
+
+“To do some recon.”
+
+“Recon? That sounds like fun. Mind if I join?”
+
+“Why do you want to do recon? You’re not the… recon type.”
+
+“I heard you were going to meet some bandits. I’d like to eat them too.”
+
+“I’m not eating them.”
+
+“No, silly, I said ‘meet’ them.” She looked up at him sweetly.
+
+Astalir side-eyed her.
+
+“Plus, if you get into trouble, I can bail you out.”
+
+Astalir rolled his eyes. “Fine, come along.”
+
+“Yay!” Reesu clapped her hands and hopped on Astalir’s back. “Giddy up!”
+
+“I didn’t say you could ride me.”
+
+“Can I ride you?” Reesu stroked Astalir’s neck. “We’ll get there much faster that way.”
+
+“Ah… sure.” Astalir took off down the trail, Reesu on his back.
+
+She tried to hold onto his antlers, but she shook him off. She settled for wrapping invisible tentacles around his waist, securing herself to him like a seatbelt. It was very effective at keeping her on, despite the ups and downs of his running cycle.
+
+Finally, they got to the bandit camp, and the cheers and shouts of the human men became apparent. “Ok, Reesu, time to get off.”
+
+Reesu slid off and landed on the ground.
+
+“Hey, you can shapeshift, right?”
+
+In response, Reesu grew taller, blackened her fingernails, sprouted fur all around her body, and donned a set of antlers. “Hey, you can shapeshift, right?”
+
+“Very nice.” Astalir stood on his hindlegs and became bipedal. His antlers glowed, and an image of Robin Hood appeared over top of him. “Can you a bandit?”
+
+Reesu peeked around their cover at one of the bandits. “No.”
+
+“Why not?”
+
+“Because I don’t want to.”
+
+“Well, Reesu, this is a diplomatic mission. We want to get in and out without confrontation—”
+
+“I’ve got a better idea.” Reesu pulled up on her hand like she was pulling off a glove, and it disappeared. She did the same with the other hand. She touched her invisible hand to her chest, and touched moved her right nub to Robin Hood’s chest. An indent appeared on his chest before the nub touched. Slowly, Reesu began to fade away, rippling out from where she laid her hand.
+
+Robin Hood turned back into Astalir. “Reesu what are you doing?”
+
+“Relax, this is going to be great.”
+
+Astalir disappeared gradually but steadily. Finally, there was nothing left of them, just empty air.
+
+“Reesu?” Astalir looked down at his hands. He couldn’t see them.
+
+“Relax, we’re just invisible. Do your ‘tear the room apart’ thing and we can get out without having to talk to anyone of them.”
+
+“Ok…” *THUD*. Astalir suddenly saw the ground from up close.
+
+“Oh, and it helps if you keep your hands out of your line of sight, to avoid the shock of not being able to see them.”
+
+“Thanks, I think I’ll just walk.” Astalir stood on all fours.
+
+“I think it came from over here.” One of the bandits were getting closer.
+
+“Good luck! Bye!” Reesu’s footprints suddenly ended as an overhead branch dipped down and dropped some leaves.
+
+Astalir stood motionless as the bandits approached. If he moved, he could make noise with his footsteps, and he would leave behind a strange set of appearing hoofprints, which would tip them off that there was something invisible walking around.
+
+The bandits approached but didn’t find anything.
+
+One bandit got close to Astalir and examined his hoofprints. “It looks like a deer was here.”
+
+“Any clue where it went?”
+
+“No, the tracks end here.” The bandit idly took a stick and tapped the hoofprint.
+
+Astalir moved his leg out of the way so the stick wouldn’t make contact.
+
+“Hey! I didn’t do it!” A shout came from within the camp. “Stop hitting me!”
+
+“Sounds like a fight!” The stick bandit said. He and the other bandit ran back to the camp.
+
+Astalir breathed a sigh of relief. He sneakily approached the camp, and noticed that there was a big crowd gathered around the largest tent.
+
+He didn’t waste any time. He moved from tent to tent, moving things around in a dizzying storm of items. He found mostly dirty laundry, hidden coin purses, and random kernels of corn.
+
+He didn’t even bother trying to be stealthy about it. The fact that he was invisible and there was a lot of commotion in the big central tent gave him all the cover he needed. That is, until the commotion stopped.
+
+“Ok, break it up people.” A big, deep voice bellowed. “You two, come with me to my tent.”
+
+Astalir peeked out of the current tent he was in to find three men walking his way. He hurried up and ransacked the rest of the room. Hidden in a corner, he found another map to Terry Town, but this one had a particular location circled. Astalir pocketed the map in his fur, and then jumped out of the tent, letting the door flap around in the wind.
+
+The deep-voiced bandit growled when he got close. He looked inside his tent and flipped out. “Who did this?”
+
+“Not me.” The two guys who had been fighting, both heavily bruised in the face, shrugged.
+
+“Hey, who went through my stuff?” Another bandit called out.
+
+“Why is my sock not under my covers where it usually is?”
+
+“Someone dumped my corn stash!”
+
+The bandits were all in a frenzy about their tents being ransacked.
+
+The deep voiced bandit called out. “Fan out! Scour the camp! We’ve got a thief among us! Let’s find him!”
+
+The bandits all drew there weapons and peeled their eyes to keep a look out for any would-be thief.
+
+“Which one of us do you think it is? I bet it’s laundry-licking Larry.”
+
+“Nah, he’s sneaky when he takes your stuff. Whoever did this is not one of us.”
+
+Astalir hid behind a bush and watched the bandits roam around. They weren’t going to find him, or Reesu, at least not until the spell wears off. Speaking of which, how long did it last? Astalir couldn’t risk getting caught out, so he had to act fast to search all the tents. So far, he had only searched half of the camp.
+
+He snuck around the camp no problem, pausing any time anyone paid any attention to the very quiet steps he was taking.
+
+He got to the next tent on his list. He opened the flap quietly, and peeked his head inside. It was vacant, but not empty. He tore the room apart. Objects flew off all over everywhere. It made a lot of noise, but so far no bandit had come to investigate.
+
+Among the chaos, he found a rolled up piece of paper. He stopped to unroll it, allowing the objects flying through the air to fall. One of them was a glass jar with holes in the lid. It shattered when it hit the ground, releasing a small frog.
+
+The frog let out a loud *RIIIIBBBBIIIT*, almost too loud for such a small animal.
+
+Astalir winced. He looked behind him, and found a bandit running toward him. He grabbed the scroll without looking at it and ran off behind the tent.
+
+“Kremet, how did you get out of your jar? Are you ok?” The bandit entered the tent. “My room! It’s torn apart! The thief! He was here!”
+
+Astalir stepped on a twig while going around the tent.
+
+The frog bandit followed, trying to sneak up on the invisible deer.
+
+Astalir froze, hoping the frog bandit would go away.
+
+But the frog bandit kept moving closer, and would soon be touching him.
+
+Astalir reacted by turning visible and running off into the forest.
+
+“An invisible deer!” The frog bandit readied his crossbow and ran after him.
+
+Astalir, smugly, was actually in the same spot. He was still invisible, and had instead sent a silent image of himself out into the woods.
+
+The silent image clone of Astalir ran through the woods, leading the frog bandit and a few other bandits away. Eventually the illusory deer jumped over a log and disappeared. The bandits all looked around confused, trying to find the “invisible deer” that was no longer even there.
+
+Astalir took the opportunity to sneak around the rest of the camp. He found a pool of water, and he salivated. Finally, a place to cool off to escape the heat! He looked around briefly for bandits, but didn’t care enough. He dived into the pound, and took a sip. It was fresh water! He drank it up.
+
+A bandit spotted him and pointed. “Look! Something invisible is in the water!”
+
+Astalir looked down. Although his leg was indeed invisible, it very visibly displaced the water around it. “Shoot.”
+
+The bandit did just that. He lifted his crossbow, aimed at the center of the displacement in the water, and pulled the trigger.
+
+Astalir splashed in the pool and froze the wave. It caught the tail end of the bolt, stopping it in its tracks, just inches from his chest.
+
+Suddenly the crossbow bandit flew backwards into the tree line, floated up into the air, and split in two. Behind him, a little red-haired girl with an evil grin faded into view.
+
+Astalir recoiled. He jumped out of the water, freezing some specks of snow onto his fur as he did so. He lifted a pool of water to float behind him. He approached the little girl.
+
+“Ok, Reesu let’s go.”
+
+“No.”
+
+“C’mon, we got what we came here for. Let’s get out of here.”
+
+“Maybe you got what you came here for…” She jumped out of the trees and kidnapped another bandit, killing it instantly. “But I haven’t.”
+
+“Reesu, your invisibility spell wore off. They can see you now.”
+
+“So?” Reesu knabbed another bandit, who was searching for the bandit that had just been killed. “They can see you too now, you know.”
+
+Astalir looked at his leg. The snowflakes stuck to it outlined his otherwise invisible limb. “Oh.”
+
+“That was pretty stupid of you to jump in the pond. Good thing I was—” Reesu took a bite out of a bandit. “—there to save you.”
+
+“Yeah, yeah, you’re right. Now let’s go.”
+
+“No!” Reesu took down another solitary bandit. She roamed around the camp, killing bandits one by one.
+
+“You’re sick, Reesu. Bye.” Astalir ran off into the woods, holding his pool of freshwater behind him. Astalir ran back to Gra, leaving Reesu by herself in the bandit camp.
+
+=======
+
+“What these ones will do now?” Gale asked.
+
+“We wait for Astalir to come back from his scouting mission.” Gra held Gale in his lap.
+
+A knocking noise came from the woods.
+
+“Stranger, 3:00.” Silber said. He was standing on the cliffside.
+
+“Why is robot talking in time?” Gale asked.
+
+“He’s telling us the direction of that sound, whatever it is.” Gra answered.
+
+“Shank go find out.” Shank ran off towards the sound.
+
+“Well we better make sure he doesn’t get in trouble.” Gra put Gale on his shoulder and followed.
+
+In the woods, they found a grey-scaled dragonborn wearing a white pair of shorts held up by a blue belt. He was punching a tree.
+
+“Hut-hut-hut! Hut-hut-hut!” His rhythm was very consistent and infectious.
+
+Shank pulled out his short sword and swung it to the rhythm.
+
+The dragonborn seemed to not notice them. “Hut-hut-hut! Hut-hut-hut!” He continued punching the tree. “Hut-hut-HUT!” With a surprisingly agile kick, he knocked Shank’s sword right out of his hand. “What are you doing here?”
+
+“Shank here you punch tree. Shank want to fight, prove skill.”
+
+“Ah, you want to challenge *me* to a duel?”
+
+“Shank duel tree puncher.”
+
+“The name’s Kluurthal. And alright, I’ll duel you. First to get their opponent to half health wins.”
+
+“Shank fight.”
+
+Kluurthal got in a flurry of blows in quick succession, but Shank stabbed him through the arm and straight into his chest, pinning his arm down. Then Shank stabbed him with his other swords, and Kluurthal was stuck to the very tree he was punching.
+
+“Very well,” Kluurthal spit out some blood. “You have bested me in combat. Next time… next time I won’t go easy on you.”
+
+“You strong warrior, but…” Shank pondered. “Not stronger than Shank.”
+
+“What happened here!” Gra shouted as he caught up. “Shank what did you do?”
+
+“Shank fight tree puncher. Shank win.”
+
+“He got me alright. Say, can you help me out?”
+
+“Gale.” Gra set Gale down and removed Shank’s swords from the dragonborn.
+
+Gale wasted no time in healing his wounds. Glowing paws pressed into his chest, sealing the punctures closed.
+
+“These your friends?”
+
+“Shank friends with robot. Robot friends with orc and rat.”
+
+“Yeah, the goblin’s with us.” Gra confirmed. “Sorry he hurt you so bad.”
+
+“No, it was a duel. He got me fair and square.”
+
+Off in the distance, sounds of approaching hooves could be heard. Gra turned his attention to it, but didn’t see Astalir. Instead, a constellation of melting snowflakes twinkled closer as a ball of floating water chased it. As it got closer, the snowflakes more obviously formed a deer shape.
+
+“Astalir?”
+
+“It’s me.”
+
+“What happened to you? Are you some kind of spirit creature now? Is this your true form?”
+
+“No, I’m just invisible. And I don’t know how to end the spell.”
+
+“What’s with all this?” Gra touched a snowflake.
+
+“I have to keep cool somehow.”
+
+“Ah, good idea. I take it you found some drinking water?”
+
+Astalir motioned behind him. “Yep.”
+
+The party follows Kluurthal to the nearest town, which Astalir noted to be Terry Town. He pulled out the map he stole from the deep-voiced bandit’s tent. The circled place seemed to be a bakery. He found the shop and walked in.
+
+Inside was an old woman behind the counter. Astalir asked her a specific question in thieves’ cant, and she responded by giving him a blueberry bun. He paid her with a rock disguised as a coin.
+
+He took the bun and ate it while wandering around the streets. He bumped into an official-looking human who introduced himself as Terry. Terry wanted to know what business he had in this town, so Astalir took out a piece of paper and Terry read it. The message was written in a language that Terry didn’t know, so Terry just let him go.
+
+Astalir found a nice, shady spot to relax and get out of the heat.
+
+=======
+
+*Author’s note: I fell asleep at the tail end of this session, and had a dream. This section is based on that dream.*
+
+As Astalir laid in the shade, he gazed at the back alley he was in. It was overgrown with plants and shrubbery, with only a thin walking path to move around in. The part he was laying in was occupied by thick grass that heavily obscured him from view of passersby. As the sun shone down from overhead, Astalir drifted off to sleep.
+
+“Hey buddy, come here.” Gra waved to Astalir. “I got something for you.”
+
+Astalir waved his nose around in the air, picking up the scent of the treat.
+
+“It’s berry juice, your favorite!” Gra uncapped his canteen and held it up to Astalir’s nose.
+
+It smelled like blueberries fresh of the vine on a summer’s day, mixed in with the fresh scent of spring dirt.
+
+Astalir licked his lips. His antlers glowed, and the berry juice snaked out of the canteen and marched into his mouth. Astalir gulped it all down. It tasted like sweet grapes mixed with strawberries.
+
+Then Astalir woke up. The alleyway was empty, save for a passing cat. Astalir got up and moved to another corner, to be out of the sunlight again. He drifted back to sleep.
