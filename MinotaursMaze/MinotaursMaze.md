@@ -6788,15 +6788,19 @@ The stranger was a man with the face of a deer, with a matching pair of antlers.
 
 Sui and Leona returned to the kobold cave, where they found the kobold chief dead, pierced by a dozen arrows. Upon seeing Sui’s new dragon wings, Sylla and the rest of the kobolds worshipped him even more than they did before. Sui made himself right at home as the new leader of the kobold cave.
 
-# ( 19 ) S2E4
+# ( 19 ) S2E4: Fresh Water
 
 The party disembarked *The Howling Wolf* onto the mainland that held within it, somewhere, the lizardfolk kingdom.
 
-Astalir, on all fours, scouted ahead to see if he could find how to get there. The map to “Terry Town” that he had found on the “merchant” ship was very limited, and only showed very little of the mainland.
+It was significantly hotter over here on the mainland. The party took off their winter clothes and stuffed them in Gra’s bag of holding. Gale seemed to really love the heat, while the others were not so happy. Reesu took extra time getting out of the ocean water, Gra removed his shirt, and Astalir tried freezing salt water.
+
+The salt water did not freeze. So Astalir went on to search for some fresh water to keep himself cool. He was panting heavily, despite Gra letting him take a drink from his canteen. He climbed cliffs and stared off into the distance, but he didn’t find anything, not even a river. He eventually found some berries, but they only helped so much. Gra suggested that the lizardfolk kingdom might have more shade.
+
+Astalir, on all fours, scouted ahead to see if he could find how to get there. The map to “Terry Town” that he had found on the “merchant” ship was very limited, and only showed very little of the mainland. Not very useful, unfortunately.
 
 Off in the distance, he heard some shouting, laughing, and beer guzzling. He got close enough to get a look. It was a camp full of tents and human men sitting around campfires. Astalir retreated back to Gra.
 
-“So, what did you find?”
+“So, what did you find?” Gra asked.
 
 Astalir told him what he saw. “There was some mention of Robin Hood.”
 
