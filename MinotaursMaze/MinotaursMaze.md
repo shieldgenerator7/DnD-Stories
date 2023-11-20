@@ -4268,7 +4268,7 @@ Drathalion shook her head. “We didn’t find him.”
 
 Drathalion looked down at the counter, hood up. “I hope so too.”
 
-# Chapter 11
+# Chapter 11 – Breaking Bad Habits
 
 *Author’s Note: This section about Silber and Micro is originally from Chapter 9*
 
@@ -4369,12 +4369,6 @@ Slow clapping appeared behind Silber. “Well done. I’ve never seen that bird 
 Don chuckled as he took the bag and handed over a handheld box. “Excellent.”
 
 =======
-
-=== 2023-11-11 ===
-
-=== this chapter under construction ===
-
-=== please wait for the official completion announcement ===
 
 “I’m tired of waiting around. Gra, can I see those cards?” Sui asks.
 
@@ -4546,37 +4540,233 @@ The cat took one look at Reesu and shook her head. “I’d rather not.”
 
 The party played the stick game, but with a coin. Drathalion tried sticking the coin in Reesu’s pocket when it was there turn to hide, but Reesu batted it away, and Jodi ended up hiding the coin. In the end, Jodi’s experience mixed with Drathalion’s illusions won them the game. The party all said good game.
 
-And then the ruffians entered.
+Drathalion’s ears pricked. She got up from the bar.
 
-[scene 4: drath goes out to pee]
+Gra asked, “Where are you going?”
 
-[scene 5: reesu dumps bucket of blood and syrup on sui]
+“Out to pee.” Drathalion walked out the front door.
 
-[scene 6: reesu tells party about human blood from butcher]
+Daisy gawked. “She does know the bar has a bathroom, right?”
 
-[scene 7: drath follows the ruffians into the tavern]
+Gra shrugged. “She’s a wild animal. She prefers trees.”
 
-[scene 8: drath tries to scare ruffians with words]
+Daisy did a double take. “I’m so confused.”
 
-[scene 9: ruffians break glass against wall]
+Reesu slid a drink to her. “Don’t worry about it. Ale?”
 
-[scene 10: jodi asks for gra’s help]
+Daisy took a sip.
 
-[scene 11: gra finds old friend mog, tells him to get out]
+Meanwhile, outside, Drathalion stood next to a tree just past the treeline. “Ah, this is so much easier as a biped.”
 
-[scene 12: gra intimidates the rest of them into leaving]
+A small crowd rustled and bustled up to the tavern door.
 
-[scene 13: the party cleans up the glass and collects it in bucket]
+Drathalion peeked around to see who it was. It was the ruffians, the ones who shattered mugs for fun and caused her friend a lot of stress. They swung the door open wildly, nearly pulling it off its hinges. Drathalion stopped pissing.
 
-[scene 14: drath tries to slip a glass piece into reesu’s pocket]
+She snuck through the trees to the tavern entrance, and followed them in discreetly. She hid up against a wall with a good line of sight to their table.
 
-[scene 15: drath and daisy introduce to each other]
+They sat at their usual table, which was more or less reserved for them, due to the fact it was beaten and battered and a bit sticky from all their antics. No one else was willing to sit there. They pushed aside the broken bits of glass under the table to make way for their muddy boots.
 
-[scene 16: gra and daisy play stick game, daisy wins]
+“Firbolg! Your guests are here!” They yelled into the kitchen.
 
-[scene 17: reesu and daisy play stick game, daisy wins]
+“Y-yes?” Jodi emerged, notebook ready. “W-what can I g-get for you tod-today?”
 
-[scene 18: party plays stick game: gale drath gra vs don jodi reesu, team 2 wins]
+“B-beer!” The orc mocked. “And wipe this table!” He pointed to a message on the table reading, *GO AWAY YOU RUFFIANS*. “I don’t appreciate graffiti on my table. Unless it’s mine.” He ran his fingers over an etching, *MOG WAS HERE*. “Ha.”
+
+“Yes-s, of course.” Jodi went back to the kitchen, grabbed four beers and a rag. “S-so sorry.” He wiped the offending message with soap and water, but it didn’t disappear. Instead, it changed.
+
+*YOU RUFFIANS ARE NOT WELCOME HERE.*
+
+Jodi wiped it again.
+
+*LEAVE NOW OR FACE THE CONSEQUENCES*.
+
+Mog grabbed Jodi’s arm. “What you trying to pull? I said wipe it off.”
+
+Jodi sweated, and dumped the water pale on the floor as he pulled his arm back from the orc. “M-my apologies. I’ll g-get that cleaned.”
+
+Drathalion let the menacing text fade, and sent a message to Gra by writing on his mug, *THEY’RE BACK*.
+
+Gra took one look at the mug and took a sip instead of getting up. His drink floated to the back to the bottom of the mug instead of going into his mouth.
+
+*HELP*.
+
+Gra sighed. “Ok.” He got out of his seat. He approached the table.
+
+“Why, if it isn’t Gra the Halfbreed.” Mog slammed his mug on the table. “Came to finish what we started?”
+
+Gra took a deep breath, and laid his hands on the table. “Mog, you have to leave.”
+
+“Listen to this half-orc scum.” Mog grabbed his mug. “He can’t stand being in the presence of a pure-breed.”
+
+“Mog, you have to leave.” Gra clenched his fist.
+
+“I have to leave as much as you should’ve left your mother’s womb. Not at all.” The ruffians all laughed and took another swig.
+
+Gra grumbled.
+
+“What are you going to do, rage on us?” Mog pointed at Gra. “I assume you remember what happened *last time* you did that?”
+
+Gra slammed his fist on the table, pounding the table so hard their drinks nearly spilled. “Leave now, or there won’t be a *next time*.”
+
+Mog nearly fell out of his chair. “Calm down, half-man. We were already on our way out. Weren’t we, boys?”
+
+The other three ruffians all nodded. They threw their empty mugs against the wall, shattering them. Then they got up and left.
+
+Gra stood there, huffing over the table, even after they left.
+
+“Thanks, Gra.” Jodi handed Gra a mug of beer. “Here’s a beer, on the house.”
+
+Gra didn’t even look. He grabbed the mug and threw it against the wall.
+
+Jodi took a step back. “W-whoa.”
+
+Gra snapped out of it, looking around. “Oh, hi Jodi.” He glanced at the mug he just destroyed. “Sorry about that, I’ll clean it up.”
+
+“It’s no problem—”
+
+“No, I… I need to do it.” Gra took the broom from Jodi and gathered the glass shards into a pile.
+
+“Wow Gra, you didn’t explode this time!” Reesu poked Gra. “You’ve really grown in the 15 years I was away.”
+
+“Reesu, don’t test me right now.”
+
+“Why, are you going to *rage*?” Reesu pulled herself up onto his shoulder and whispered in his ear.
+
+Gra turned his head, and continued sweeping. He whistled a tune.
+
+“Wow, you’re managing your anger so well. But what if I—”
+
+A piece of glass floated up and bee-lined for Reesu’s pocket.
+
+“Hey!” She slapped the piece of glass back to the floor. She looked around. Drathalion was still standing in the corner. “I’ll make you eat this! Don’t mess with me!”
+
+Drathalion hid deeper in the corner.
+
+Gra pointedly whistled louder.
+
+Reesu sighed. “Gra, we don’t do anything fun anymore.” She complained. “Why don’t we go punch some holes in some walls? Isn’t that what you want to do right now?”
+
+Gra whistled, sweeping faster.
+
+“When I left you, you were so little back then. But now you’re big. Ah, you’re still as nice as ever.”
+
+“And you’re still as scary as ever.”
+
+“Thank you.”
+
+“AHHHH!” Sui woke up with a bucket on his head. “Why am I covered in human blood!”
+
+“Human?” Gra glared at Reesu. “You told me you got it from the butcher.”
+
+“I did.” Reesu hopped off Gra and went over to Sui to take the bucket off. “There, all better.” She licked the top of his head. “Wow, that *is* human blood. No wonder it smelled so good.”
+
+“The butcher gave you human blood?” Drathalion stepped out of the shadows. She looked at Gra.
+
+“We gotta check that out.” Gra handed the broom to Jodi. “Reesu, hop on.”
+
+“Are we going to punch down some walls?”
+
+“We’re going to go punch down some walls.” Gra motioned to Gale and Daisy as he marched out of the tavern.
+
+“Bye! Thanks for taking that elsewhere!” Jodi waved.
+
+Reesu showed Gra where she got the blood from. Drathalion, Gale, and Daisy followed behind him.
+
+“This is definitely the place.” Reesu sniffed the air. They entered the shop.
+
+“Ah, countess, welcome back.” The butcher said. “I trust you enjoyed the bucket?”
+
+“Oh, I enjoyed it immensely.” Reesu laughed.
+
+“And I see you brought your friends. I’m sorry, but I don’t think I have enough… supply… to satisfy all of you.”
+
+“Well then.” Gra slammed the bucket of human blood on the counter. “You can satisfy me by telling me where you got this bucket of *human* blood.”
+
+The butcher gulped. “That’s pig’s blood.”
+
+“He’s lying!” Reesu cheered.
+
+Gra and Reesu interrogated the butcher, while Drathalion snuck out around back. She opened the back door quietly, such that the old squeaky hinges didn’t even make a peep. She stepped lightly around the messy puddles on the floor, and found the freezer room, where a human body was hanging from a hook. It was pale and had a few pieces chopped off.
+
+Drathalion wiggled her fingers at the floor, causing glowing text to appear in a trail, *DEAD BODY THIS WAY DEAD BODY THIS WAY DEAD BODY THIS WAY*. Then she snuck out back again and made her way to the party.
+
+Daisy screamed when she saw the text trail on the floor. “You do kill humans!”
+
+“No I didn’t kill anyone!” The butcher protested.
+
+“Then how do you explain that?” Gra pointed.
+
+Reesu faded from existence. A tip-tap-patter-tap traveled down the hall, following the glowing words.
+
+“*I* didn’t kill him!” The butcher insisted. “I merely processed him.”
+
+“Making zombie jerky?” Bob asked.
+
+“I’m just doing what my customer base wants. Don’t hurt me.”
+
+“Why butcher?” A voice moaned from down the hall. “Why do I have no hands?”
+
+Everyone turned to see what it was. A limp-limbed humanoid with no pants on crept slowly toward them. The light in the hall was dim, illuminated only by the text on the floor. It moaned in pain the whole way. Finally, it got close enough to the light to make out its face.
+
+“Toppol!” Daisy gasped. “What have you done to him?”
+
+“He killed me…” The walking corpse that was formerly known as Toppol pointed with a floppy finger at the butcher.
+
+“I didn’t! I didn’t!” He ripped his apron off and threw it on the corpse, and ran out of the building.
+
+“Nah-uh!” Reesu reached out. “Where do you think you’re going?”
+
+The butcher struggled to move, but he soon floated into the air. “Please, I have family! Don’t hurt me!”
+
+“So did Toppol!” Daisy spat through tears. “I’m getting the cops.”
+
+“No need, I’ll butch him right here.”
+
+“Reesu, not in public!” Gra pulled her back.
+
+“Aw… but I want to see his guts.”
+
+“No.”
+
+“Ok.”
+
+Daisy returned with an officer. After presenting the evidence, and presenting more evidence, the officer finally agreed to arrest the butcher. He threw him in jail.
+
+Reesu entered the shop and went behind the counter, opening the cash register. “Gra, I need your bag.”
+
+“Yeah, sure, whatever.”
+
+“Thanks.” Reesu dumped the cash register’s contents into the bag.
+
+Except for coin, which rolled on the floor around the counter. Reesu reached down to pick it up, but it floated on its own toward her pocket.
+
+“Drathalion! I said no!” Reesu swatted the coin with an invisible tentacle, but it didn’t move. “No!” She swatted it some more, with her actual hands even. It kept coming. “No! Astalir! No!”
+
+The coin floated into her pocket, which shifted in a way that resembled a coin going into it.
+
+“No!” Reesu put her hand in her pocket but found nothing. She pulled her pockets out, but there was nothing in it.
+
+Drathalion showed herself, smug expression on her face.
+
+“Why? Astalir why?”
+
+“You know why.” Drathalion snapped her fingers and a piece of deer jerky appeared in Reesu’s hand.
+
+She crushed it, but it was an illusion. “Ok, what do you want?”
+
+“I want an apology. And an assurance you won’t do it again.”
+
+Reesu grumbled. “How about this?” Reesu took off her necklace that Don had given her. It was a piece of obsidian in the shape of an arrowhead on a string. She handed it to her.
+
+Drathalion took it and put it in her pocket. “I’ll accept this apology.”
+
+“So we’re agreed on no more forcing things into other’s pockets?”
+
+“And mouths.”
+
+“Fiiine.” Reesu pushed past Drathalion. “But you’re no fun.”
+
+“Good.”
 
 [scene 19: reesu and gra reminisce]
 
@@ -4587,30 +4777,6 @@ And then the ruffians entered.
 [scene 22: daisy leaves, cleans herself]
 
 [scene 23: gra apologizes to daisy]
-
-[scene 24: drath slips an illusion coin into reesu’s pocket]
-
-[scene 25: reesu gives drath her obsidian necklace (originally from Don)]
-
-[scene 26: drath accepts it as an apology]
-
-[scene 27: gale gets drunk on clams, reesu picks him up]
-
-[scene 28: party confronts the butcher]
-
-[scene 29: party finds out the butcher murdered someone]
-
-[scene 30: daisy goes to get help]
-
-[scene 31: drath sneaks into butcher shop, investigates, finds body, makes trail]
-
-[scene 32: reesu and gale turn invisible, enter butcher shop]
-
-[scene 33: reesu tricks the butcher into thinking the corpse came back to life]
-
-[scene 34: the butcher runs away]
-
-[scene 35: the butcher gets got by the officer]
 
 # Chapter 12
 
