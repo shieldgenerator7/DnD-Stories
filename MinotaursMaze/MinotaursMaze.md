@@ -4780,27 +4780,305 @@ Drathalion took it and put it in her pocket. “I’ll accept this apology.”
 
 # Chapter 12
 
-=== 2023-07-12 ===
+=== 2023-11-25 ===
 
 === Chapter under construction ===
 
-[scene 1: party checks in for the night]
+“That butcher deserves the full force of the law for killing Toppol.” Daisy clapped her hands together. “I’m sure glad we took care of him.”
 
-[scene 2: gra pays for a double room for him and drath]
+“So am I!” Reesu happily munched on a raw leg bone, peeling the flesh off with her teeth.
 
-[scene 3: reesu pays for a creepy room for gale]
+“Where’d you get that?” Daisy asked. “Who’s leg is that?”
 
-[scene 4: party pays for their rooms]
+Reesu smiled evilly. “Don’t worry, it’s *not* Toppol.”
 
-[scene 5: gra and drath go the room]
+“Spit him out! He deserves a proper burial!”
 
-[scene 6: drath turns into astalir]
+“No!”
 
-[scene 7: gra picks up astalir, pets him]
+“Spit him out!”
 
-[scene 8: gra and astalir discuss drath]
+“No!”
 
-[scene 9: astalir falls asleep in gra’s arms]
+“Ok, break it up.” Gra came between them. “Reesu, spit it out.”
+
+“Ah, why are you siding with her?” Reesu spat Toppol’s leg into Daisy’s arms.
+
+Daisy’s face went from disgust to despair.
+
+“Because your cannibalistic tendencies should not be encouraged.” Gra insisted.
+
+“But I’m not a cannibal!”
+
+“Yes you are.”
+
+“YeS yOu ArE.” Reesu mocked.
+
+Gra grumbled.
+
+Meanwhile, Drathalion was deep in thought. The butcher had said that he didn’t kill Toppol. But if he didn’t, who did? Toppol’s house had a big patch of blood on it, so that was most likely the scene of the murder. So how did Toppol’s body end up at the butcher’s shop? There was lots of blood all over the butcher shop, but it could have been from other animal bodies.
+
+“Hey, Ali—Drathalion, are you ok?” Gra put a hand on her shoulder.
+
+“Yeah, I’m fine, just thinking about Toppol.”
+
+“The world is a cruel place.” Gra shrugged. “These things happen.”
+
+“Hmm.”
+
+“But hey, if it makes you feel better, you can sleep in my room tonight.”
+
+“Thanks, Gra, I’ll do that.”
+
+“This one also does no want to sleep alone.” Gale said.
+
+“It’s ok, Gaaale!” Reesu picked Gale up. “You can sleep with me.”
+
+“Oh, this one no—”
+
+“Come on Gale! It’ll be fun!”
+
+“Ok, this one accepts.”
+
+The party gets to the inn.
+
+Daisy ran in with a leg, crying.
+
+“Daisy! What’s wrong?” Jodi caught her in a big hug. “Are you ok?”
+
+She couldn’t get words out enough to speak.
+
+“Toppla is… no longer with us.” Gra took the leg. “But we caught the guy who butchered him.”
+
+“The guy who *butchered* him.” Drathalion repeated.
+
+“What? Toppol’s dead?” Jodi rubbed Daisy’s back.
+
+Drathalion nodded. “Unfortunately. Jodi…” Drathalion put her palms towards his face. *HAVE YOU NOTICED ANYTHING SUSPICIOUS IN THIS TOWN?*
+
+Jodi shook his head. He squeezed Daisy tight.
+
+Drathalion glowered at no one in particular.
+
+“Hey Jodi, sorry to interrupt, but we need a room.” Gra said.
+
+Jodi nodded, a tear in his eye. “Isenyul!”
+
+A dwarf came out from the kitchen. “Yes?” He took one look at Jodi. “Oh.” Then he looked at Gra. “Do you need help with your leg, sir?”
+
+“No, I’d like a room.”
+
+“Ah, doing some DIY medical treatment?”
+
+“No.”
+
+“Well you better take care of that soon, before your leg rots away.”
+
+“It’s not my leg.” Gra sighed. “I just need a room.”
+
+“Well it won’t be any longer if you treat it like that.”
+
+“Please, I need a room.”
+
+“Ok, here’s number 2.” The dwarf handed Gra a key. “Good luck with your leg.”
+
+Gra went up to his room without saying a word. Drathalion followed.
+
+“Aye, do the more of ya need a room?” The dwarf addressed the rest of the party.
+
+Bob got a room for himself.
+
+Then Reesu raised her hand. “Me! I want a room!”
+
+“Aw little lass, you should ask your parents.”
+
+“I want a room!”
+
+“Ok, are your parents around?”
+
+“I’m not a kid, I’m old enough to get a room for myself.”
+
+“No, young lass, you must be an adult to rent a room.”
+
+Reesu sighed. “Ok, here’s some gold. My parents asked me to rent a room for them.”
+
+“Ok. Here’s the key to room 3.”
+
+“No, I want the key to the room that smells nice. Right, Gale?”
+
+“Ah, yes!” Gale nodded. “This one also wants a room that smells nice.”
+
+“Is this your parent? I thought it was your pet.”
+
+“Sure.” Reesu said. “Can I have that room key?”
+
+“Room 3 smells nice, last I checked.”
+
+“No, I want the one down the hall from it.”
+
+“Which room is that?”
+
+“Room 6.”
+
+The dwarf leaned over the counter and stared straight into Reesu’s eyes. “You’re not a little girl, are you?”
+
+Reesu leaned in close and whispered confidently, “The lily wilts at sunset.”
+
+The dwarf, wide-eyed, nodded slowly in realization. “Right. Of course. I’ll get that for you.” He dips behind the counter and then rises again with the key.
+
+The key was a normal skeleton key, made of iron. It had several dark splotches on it that smelled vaguely of human blood. The tag it came with was non-uniformly maroon with a recently painted “6” on it. Closer inspection reveals several more fainted 6s behind layers of red.
+
+Reesu licked it. “Yep, that’s the one.”
+
+“Just one question, young lass.” The dwarf grabbed her hand. “A rat? Are you sure that’s wise?”
+
+“Who are you to question *me*?”
+
+“Yes, you’re right. Very sorry.” He backed off. “What would you like me to feed the rat?”
+
+“Is that one talking about this one? This one no rat.”
+
+“Oh, he’ll have clams. Can you deliver that to the room?” Reesu jumped to adjust Gale on her shoulders.
+
+“”Yes, very well.”
+
+Reesu whispered quietly to the dwarf. “And can you make them alcoholic?”
+
+“If you want.” The dwarf then addressed Gale. “I hope you have no regrets.”
+
+“What that mean? This one confused.”
+
+“Nothing, Gale, he’s being tricky. Come on! Let’s go up to our room!”
+
+Reesu carried Gale up to room number six. The door was hard to find. It wasn’t between rooms 5 and 7, but Reesu knew how to get there by scent. You turn a few corners and it’s the only door down a longer-than-normal hallway. The windowless passage amplified Reesu’s shadows. She double checked to make sure her tentacles weren’t suddenly visible.
+
+Gale gulped. “Reesu, this hallway no smell nice.”
+
+“You want free clams, don’t you?”
+
+“Yes, this one like clams.”
+
+“And you trust me, right?”
+
+“This one…”
+
+“When have I ever steered you wrong?”
+
+“This one…”
+
+“Trust me, it’ll be fine. You’ll get clams.”
+
+“Ok, this one trust you. For clams.”
+
+“Good.”
+
+They got to the door. It had several cracks and splinters all around it, especially around the edges. Extra boards were nailed to it to reinforce it. The key encountered resistance when pushing it into the lock, as if there was something inside pushing it out. Reesu turned the key, and the door nearly fell off its hinges as it swung open.
+
+Reesu narrowly dodged it, pulling Gale out of the way.
+
+“That door no friendly.”
+
+“It’s ok, Gale.” Reesu walked into the room and plopped Gale onto the bed. “Just wait right here and the clams will be on their way.”
+
+Gale clung to Reesu. “This one no stay unless Reesu also stay.”
+
+“But I… have to use the bathroom.”
+
+“Then this one come with you.”
+
+“Ok, I guess I can hold it in.”
+
+“This room no smell nice. This room smell like death.”
+
+“But doesn’t that smell nice?”
+
+“No.”
+
+=======
+
+Gra and Drathalion arrive in their room and shut the door. Drathalion sits on the bed while Gra takes his armor off. “Ah, that feels nice.”
+
+Drathalion removes the bubble coat. “Yeah, it sure does.”
+
+Gra stared at Drathalion.
+
+“What?”
+
+“Aren’t you going to turn back to normal?”
+
+“This is how I am.”
+
+“No, I mean Astalir.”
+
+Drathalion got up and went to the door. Peaking through it, she scanned the outside of the door. She inserted an onyx stone and the door lock clicked. She tested the door, and it didn’t open.
+
+“Everything ok?”
+
+“Yeah.” Drathalion dropped to all fours and turned into Astalir.
+
+“Astalir!” Gra smiled, arms wide.
+
+“Shh! Not so loud!”
+
+“Oh, sorry.” Gra covered his mouth. “Astalir!” He whispered, reaching down and picking up the deer into a hug. “It’s good to see you buddy!”
+
+Astalir wagged his tail and licked Gra’s arm.
+
+“How are you doing?” Gra held Astalir’s bandaged limb.
+
+“It still hurts. I won’t be able to walk on it for awhile.”
+
+“I’m sorry to hear that, buddy.” Gra pulled out his bag. “Hopefully this will help?”
+
+Astalir’s nostrils clenched shut.
+
+Gra pulled out some berries and held them in his hand.
+
+Astalir glared at Gra. “You’ve been holding out on me?” Astalir licked up a berry.
+
+“I didn’t want to give away your disguise.” Gra petted Astalir’s head. “Plus it’s not the same when you’re disguised. I missed this.”
+
+“Bleat!” was all Astalir could say as he gobbled up the berries.
+
+Gra laughed. “Not so loud, buddy.” Gra stroked Astalir’s fur from his head to his shoulder.
+
+It didn’t take long for Astalir to finish the berries. Once he did, he cuddled up next to Gra on the bed. Gra pulled him under his arm, letting him rest his head in his lap. Gra petted him as he closed his eyes.
+
+“So, when are you going to give it up?”
+
+“What?”
+
+“The disguise?”
+
+“Yeah.”
+
+“Well, I’m injured. Until I’m healed, walking on all fours is difficult.”
+
+“But you don’t need a disguise to walk on two legs.”
+
+“It’d look weird. Would you want to see a weird deer walking on its hind legs? Or would you rather see a beautiful tabaxi?”
+
+“I’d rather see someone I know I can trust.”
+
+“Well I don’t know I can trust.”
+
+“You trust me, don’t you?”
+
+“You’re not the one I don’t trust. You should choose your friends more carefully.”
+
+“Hmm.” Gra nodded. “She’s gotten me out of a lot of tight spots. I bet if you got to know her a bit better, you’d find that, deep down, she has your best interests at heart.”
+
+“Like feeding me deer jerky?”
+
+“Well I’m sure she didn’t mean anything by it.” Gra paused. “But don’t worry. I’ll make sure she doesn’t do anything like that to you again.”
+
+“Promise?”
+
+“Promise.” Gra rubbed his head against Astalir’s. “Now get some sleep, you’ll need your rest for tomorrow’s journey when the blizzard dies down.”
+
+Astalir inhaled, relaxing his head on Gra’s lap. “Bleeeaaaat.” He exhaled.
+
+“Goodnight Astalir.” Gra petted the deer gently until his ears flitted down and his tail flopped onto the bed.
 
 [scene 10: reesu lays drunk gale in bed]
 
