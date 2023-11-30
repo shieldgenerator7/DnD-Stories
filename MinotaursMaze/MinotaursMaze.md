@@ -3366,15 +3366,15 @@ With Gale and Drathalion asleep, and Sui resting by the campfire, only Gra was u
 
 “Hey Gra, wanna see how high we can stack these bandit bodies?”
 
-“Nah, I’m pooped.” Gra flopped onto the ground, looking up at the night sky.
+“Nah, I’m fucking exhausted.” Gra flopped onto the ground, faceplanting into the dirt.
 
-“Come on, Gra! It’ll be fun!” Reesu sat on his face.
+“Come on, Gra! It’ll be fun!” Reesu sat on his head.
 
-“Hmt mof my mace.” Gra mumbled under Reesu.
+“Hmt mof my mead.” Gra mumbled under Reesu. He pushed her, but she didn’t move.
 
-“What was that?” Reesu crouched over his face.
+“What was that?” Reesu crouched over his head.
 
-“Get off my face.”
+“Get off my head.”
 
 Reesu stood up. “Ok, now do you want to do stuff?”
 
@@ -3394,7 +3394,7 @@ Reesu stood up. “Ok, now do you want to do stuff?”
 
 “Don’t you have arrows?”
 
-“I do. Here you go.”
+“I do.” Gra grunted. “…Here you go.”
 
 “Thanks.” Reesu pulled Robin Hood’s head out of Gra’s bag of holding. She tossed it in the air 30 feet from her, and a tentacle appeared on the ground where it would land, and tossed it back to her. She played catch with herself for a few minutes. Then Robin Hood’s eye popped out of its socket.
 
@@ -3408,7 +3408,7 @@ Then she realized she was hungry. She raided Gra’s bag of holding and found a 
 
 “Where’s the deer?”
 
-“You the *cat*?”
+“You mean the *cat*?”
 
 “Oh yeah, where’s the cat?”
 
