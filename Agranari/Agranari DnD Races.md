@@ -161,6 +161,22 @@ Feat (M): Antlers: Str, Con, Cha
 
 Languages: Common, Magic Etching (leave messages behind)
 
+## Stats
+
+BendingPower: 1d10 – How powerful your bending is
+
+HoofLength: (1d100 + 20)/120 – How long your hoof clippings are, in inches
+
+HoofLife: 1d10 – How long your hoof clippings last in the wild, in days
+
+BendCastTime: 11 - BendingPower – How many rounds it takes to complete a transformation
+
+## Features
+
+Adirada’s Lie – You can bend reality to your will. As an action, choose a target creature or object within range and change it into another creature or object. Your middle hand hoof will grow with each change. As part of the same action, you can clip of the extra growth from your hoof. When that hoof clipping breaks, attached or not, the change associated with it will revert.
+
+Reality Bender – You can activate Adirada’s Lie as a bonus action.
+
 # Bear
 
 Darkvision, Smellvision, Hearvision
