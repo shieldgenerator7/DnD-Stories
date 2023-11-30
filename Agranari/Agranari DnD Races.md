@@ -66,9 +66,86 @@ Run Speed
 
 Str, Dex, Con
 
-Racial Ability: Hindsight. As an action, you can view any event that has happened where you are standing within the past 10 minutes.
+Racial Ability: Hindsight. As an action, you can view any event that has happened where you are standing.
 
 Languages: Common, Howl (send messages across long distances)
+
+## Stats
+
+HindSightPower: Disadvantage(1d10,1d10,1d10) – How powerful your HindSight is
+
+HindSightUnit: /HindSightPower/
+
+1.  Seconds
+2.  Minutes
+3.  Hours
+4.  Days
+5.  Weeks
+6.  Months
+7.  Years
+8.  Decades
+9.  Centuries
+10. Millenia
+
+HindSightMaxRewind: 1d100 – How far back in time you can see, in units of your HindSightUnit
+
+HindSightRewindSpeed: Disadvantage(1d100,1d100,1d100) – How fast you can rewind into the past, in units of your HindSightUnit
+
+HindSightForwardSpeed: Disadvantage(1d100,1d100) – How fast you can come back into the present, in units of your HindSightUnit
+
+AdrenalinePower: 1d10 – How powerful your adrenaline is
+
+## Features
+
+Hind Sight – As an action, you may activate your Hind Sight to look into the past. You can go back as far as your HindSightRewindSpeed, in the units of your HindSightUnit. If your Hind Sight is already active, you may use 1 free action to go further back in time an additional amount up to your HindSightMaxRewind speed. Alternatively, you may use that 1 free action to come back to the present, at a rate up to your HindSightForwardSpeed. If you go forward to catch up to the present, your Hind Sight ends. Taking damage and falling unconscious does not end your Hind Sight. During Hind Sight, you see from your location, but in the past. This only effects your vision; your ears, nose, and other senses all perceive the present. Time moves forward, even in the past, because your Hind Sight is relative to your current position in time.
+
+Scene Reconstruction – Whenever you roll Investigation to investigate events that have happened recently within your HindSightMaxRewind duration, you gain advantage.
+
+Crit Pointing – Whenever you land a crit against an opponent, you gain 1 crit range against that opponent until end of combat.
+
+Opponent Study – Whenever an opponent misses you with a weapon attack, they get -1 to hit you with that weapon until end of combat.
+
+Born Fighter – Whenever you land a melee weapon attack on an opponent, you get +1 to hit them until end of combat.
+
+Adrenaline Rush – As a bonus action, gain increased power. For 1 minute, you have +1 AC, +1 to hit to all opponents, +10 movement speed, and the ability to take the Dash action as a bonus action. You can use this feature a number of times equal to your AdrenalinePower, and you regain charges after a long rest.
+
+Tense Jump – As a reaction, gain +5 AC against weapon attacks until the next attack that misses.
+
+Battle Mercy – Opponents that are blinded, prone, or grappled can’t make opportunity of attacks on you.
+
+Track Prey – When you enter combat with a creature who you have been observing for at least the past 10 minutes, gain +1 crit range against them, and +1 to hit them.
+
+Lick Wounds – As an action, lick your wounds or the wounds of a target creature. Heal the target for 1d4. If your Adrenaline Rush is active, increase the healing by an additional 1d10. Your Adrenaline Rush ends.
+
+Howl – As an action, encode a short message into a howl. The message can be heard up to 1 mile away. If you hear a howl, you understand what the howl’s message, and may also be able to pinpoint where the howl came from and who sent the howl.
+
+## Backgrounds
+
+Wolves tend to have combat-related professions
+
+Guard – Their ability to detect danger and avoid attacks makes them ideal guards. Wolf Guards are highly regarding all throughout the land for their ability to deter would-be trespassers, assassins, and thieves.
+
+Soldier – Wolves fighting in war win many battles. A single wolf can tear through half an army by itself, and when combined with its pack, a wolf army is near unstoppable.
+
+Mercenary – Rarely will a wolf work for money. Wolves usually work for a cause they believe in, but some may be swayed by coin. The wolves that do mercenary work fight in wars, assassinate targets, and kill whoever their client wants.
+
+Historian – Exceptional wolves can see so far back into the past that they can write history with first-hand experience. These wolves become scholars and consultants in a lot of fields.
+
+Investigator – Being able to see into the past makes a wolf an excellent choice for figuring out what happened at a crime scene. They can easily vindicate innocent suspects and track down criminals.
+
+Gladiator – A few wolves become popular in the arena, where they show off their fighting prowess in tournaments. These wolves tend to be loyal to their fans more than anything else.
+
+Den Sitter – Younglings are hard to keep track, no matter the species. A wolf’s Hindsight makes it easy to tell where little pups, fawns, chicks, etc have run off to, and their combat prowess makes it easy to discipline little ones. Most den sitters keep in close contact with the little ones they watch as they grow up.
+
+Scout – Wolves are fast and can cover large distances quickly. Scouts tend to have a higher ability to remember lots of details, and can track enemy movements easily. Reporting findings is easy with their long-range howl, helping generals plan for battles.
+
+General – An experienced battle wolf is often put in a position of power to oversee combat operations. A good general knows where to place their troops to play to their strengths and maximize the chances of victory.
+
+Town Crier – A disciplined wolf can easily keep track of the time of day with their Hindsight, down to the minute. Then, they howl at the start of every hour to let the townsfolk know what time it is.
+
+Singer – Howling isn’t merely practical, but also an art form. Wolf singers can sing far and wide, inspiring all who hear with songs about loyalty, family, and the moon god.
+
+Hunter – Wolves are carnivores, and someone has to go get the meat. Hunters track down their prey with Hindsight, catch up to them with their speed, and bring back their prey to share with their family.
 
 # Deer
 
