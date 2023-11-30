@@ -207,6 +207,34 @@ Adirada’s Lie – You can bend reality to your will. As an action, choose a ta
 
 Reality Bender – You can activate Adirada’s Lie as a bonus action.
 
+## Backgrounds
+
+Most deer work on farms growing plants.
+
+Gardener – Most deer villages have found various ways of speeding up plant growth cycles and increasing yield. Gardeners tend to the plants and keep them growing strong.
+
+Gatherer – Plants need water to grow, and these deer find that water and bring it to them. They may also be responsible for finding plant food and bringing it to a common collection pile.
+
+Composter – Recycling plant material takes a long time, but composters can speed up the process by breaking down the components manually. They tend to stink from their long hours next to the pile, but some individuals find it alluring.
+
+Forester – Trees are plants too. Foresters wander the woods, helping the trees grow strong and healthy.
+
+Ko – Each deer village has a Ko, or leader, that oversees the gardening and village activities. They also respond to requests from outsiders to correct “Adirada’s little mistakes” with permanent transformations to the requester’s body.
+
+Slave – Deer are the most valuable and sought after forced laborers in the entire land due to their very useful, but seldom threatening, ability to freely alter reality. They are usually kidnapped from a deer village and forced to live far away in an entirely other village. These deer slaves grant their masters virtually anything they desire: gold, sweets, technology.
+
+Thespians – Able to manipulate light as well as matter, thespians travel the land, delighting every village with their life-like illusions. They spread tails of heroes and stories of tragedies.
+
+Scientist – Struck with a penchant to find the truth, these deer seek to understand the very nature of their world—and the universe. They travel the world looking for answers to their questions. Several deer devote their entire lives to answering a single, ever-expanding question.
+
+Appraiser – It takes a reality bender to know when reality has been bent. Appraisers examine items to tell if they’ve been crafted manually or simply created by another deer.
+
+Banker – Deer are very often the most honest species in the land, and a natural pick for storing valuables you want kept track of. Bankers accept assets, store them in vaults, and give them back at the client’s request. Bankers often spend their whole lives in the same location.
+
+Judge – Resolving conflicts often requires getting to the heart of the truth, a talent especially suited for deer. A deer that can detect lies can also very easily make a judgement that best adheres to the law.
+
+Decorator – Beauty is in the eye of the beholder, and most beholders agree with a deer’s taste in décor. Decorators change the colors of buildings, decorate interiors, and make spaces more pleasurable to live in. These deer can achieve renown and are welcomed throughout the land.
+
 # Bear
 
 Darkvision, Smellvision, Hearvision
