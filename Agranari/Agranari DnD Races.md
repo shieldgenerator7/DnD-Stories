@@ -58,6 +58,36 @@ Heat Metal – When you Ignite an object made of metal, you can melt it given en
 
 Sign Language – Cats have their own sign language. You can talk to others who know Cat Sign Language without making any sound. You can perceive their message as long as you can see them, have line of sight, and are within your Vision Range of them. Your Vision Range isn’t effected by nonmagical darkness.
 
+## Backgrounds
+
+Cat cities tend to be technologically advanced, letting their citizens delve into their desires more than other species.
+
+Blacksmith – A cat with a strong Heart Fire can make a strong hearth fire, and excel at crafting weapons, armor, and tools. Each blacksmith has a special brand that they put on all their crafts.
+
+Inventor – These cats have a passion for improving the lives of others, and will experiment until they make something that solves a problem for their people, and then move onto a new problem.
+
+Mechanic – Someone’s gotta maintain all the inventions throughout the cities. Mechanics keep the machines running and often make tweaks to optimize them for new needs, in addition to retrofitting the machines when they get updates to their design.
+
+Bard – These cats bring joy to their fellow citizens with songs of merriment and cheer. They can be found playing in the streets, in the bars, and even on the road.
+
+Hermit – Some cats find comfort in solitude and choose to live life alone in the woods. These cats like to fish, sleep in trees, and hang out on sunny days.
+
+Royal – The royal cat family is quite large, and many citizens boast having royal blood in their lines. These cats are afforded special privileges in the cat kingdom, including additional food, equipment, and servants. They often live care-free lives and get to do whatever their heart desires without consequence.
+
+Spy – Cats are very good at being silent, and with the right equipment, can be virtually undetectable. Spies skulk among the enemy evesdropping on meetings, snooping in rooms stealing secrets, and undermining enemy alliances by planting controversial evidence.
+
+Thief – When a cat sets its eyes on something, it doesn’t stop until it gets it. Thieves contrive elaborate plans to steal the most valuable of artifacts from the most secure vaults. Or, if they’re just petty, sneak into houses to take various valuables and sneak away.
+
+Foot Soldier – Cats supposedly have nine lives, which come in handy on the battlefield. Foot soldiers very often spend all nine of them dying on the battlefield, making their allies’ weapons and items more powerful. Their equipment very often gives them an advantage in war.
+
+Cartographer – Wanderlust strikes a lucky few, who embark on a lifelong adventure to explore and map the land. They leave their homelands for months at a time, even years, and some never come home at all. They feel right at home in the untamed wilderness.
+
+Author – Passionate about their favorite subjects, they endeavor to find out everything they can about them. They write books upon books about the subject. Some authors write numerous volumes on the same topic, while others find inspiration to write from several different topics.
+
+Lamplighter – The fun doesn’t have to stop at dusk. Lamplighters visit each street, lighting the lanterns aglow with their fire. They don’t have to do anything all day, but they have to move fast at sunset.
+
+Shopkeeper – Some cats want to horde everything, but find they get more joy from trading. Shopkeepers buy and sell goods, usually relating to one specific type of thing. They do what they can to satisfy their customers, and very often have regulars who buy stuff just for the joy of buying.
+
 # Wolf
 
 Darkvision, Smellvision
