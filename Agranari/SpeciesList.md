@@ -1,62 +1,18 @@
 # Agranari D&D Species
 
+This is a list of playable species that you can play as.
+
 # Cat
 
 Darkvision
 
 Climbing Speed
 
-Dex, Cha
+Dex +1, Cha +1
 
-Species Ability: Heart Fire. You can enhance your attacks, use your will power to increase chances of success, and light things on fire
+Species Ability: Heart Fire. Will yourself to succeed and light things on fire.
 
-Languages: Common, Sign Language (send messages silently)
-
-## Stats
-
-When you create your character, roll for each of these stats:
-
-Firepower: 1d10 – How strong your fire power is
-
-Fire points: 1d10 \* Firepower – How many fire points you have to spend per long rest
-
-Fire cost: 1d20 - Firepower – How much hp it costs to spend 1 fire point
-
-Fire damage: 1d4 + Firepower – How much extra fire damage your attacks do per fire point spent to amplify it
-
-Will power: 1d4 + (1d100 % Firepower) – How much bonus to add to attack rolls, ability checks, and saving throws per fire point spent
-
-Heal power: 1d6 + (Firepower \* 1d100/100) – How much health to regenerate when using the cauterize action
-
-Fire target max range: 1d10 \* Firepower – the furthest target away that you can use ignite on
-
-Fire spread per round: Firepower\^2 / 10 – how many feet per round your fire spreads, min 1
-
-Fire ignite DC: 10 + Firepower – The DC for the Constitution save for when creatures need to avoid being ignited
-
-Vision Range: 120 + (WIS \* 10) – How far away you can perceive someone using Cat Sign Language
-
-## Features
-
-Heart Fire – You have a pool of firepoints to spend each long rest. Whenever you spend a firepoint, you take fire damage equal to your Firecost for each firepoint spent.
-
-Burnout – Whenever you reach 0 firepoints for the first time each long rest, you lose -1 max health.
-
-Heartfire Will – Whenever you must roll a d20, you may spend any number of firepoints to gain a bonus equal to the number of firepoints \* your Willpower.
-
-Flame Strike – Whenever you hit something with a weapon attack, you can spend firepoints to deal extra fire damage to the target: fire damage equal to the number of firepoints spent \* your Firedamage
-
-Ignite – As an action, target a creature or object within your fire target max range. Deal your fire damage to it. They must make a Constitution saving throw (DC = Fire ignite DC) or become ignited.
-
-Flash Fire – At the start of your turn, if there are targets that you Ignited and are on fire, the fire spreads in all directions a distance equal to your FireSpreadPerRound.
-
-Cauterize – When you Ignite a creature, instead of dealing damage, you can instead cauterize its wounds: you heal it for your heal power, remove a status effect from it, and prevent all healing for that creature for a number of rounds equal to your Firepower.
-
-Passion – Whenever you make a roll related to your heart’s one true passion, you gain advantage on it.
-
-Heat Metal – When you Ignite an object made of metal, you can melt it given enough time.
-
-Sign Language – Cats have their own sign language. You can talk to others who know Cat Sign Language without making any sound. You can perceive their message as long as you can see them, have line of sight, and are within your Vision Range of them. Your Vision Range isn’t effected by nonmagical darkness.
+Languages: Common, Sign Language
 
 ## Backgrounds
 
@@ -94,60 +50,11 @@ Darkvision, Smellvision
 
 Run Speed
 
-Str, Dex, Con
+Str +1, Dex +1, Con +1
 
-Species Ability: Hindsight. As an action, you can view any event that has happened where you are standing.
+Species Ability: Hindsight. Look into the past.
 
-Languages: Common, Howl (send messages across long distances)
-
-## Stats
-
-HindSightPower: Disadvantage(1d10,1d10,1d10) – How powerful your HindSight is
-
-HindSightUnit: /HindSightPower/
-
-1.  Seconds
-2.  Minutes
-3.  Hours
-4.  Days
-5.  Weeks
-6.  Months
-7.  Years
-8.  Decades
-9.  Centuries
-10. Millenia
-
-HindSightMaxRewind: 1d100 – How far back in time you can see, in units of your HindSightUnit
-
-HindSightRewindSpeed: Disadvantage(1d100,1d100,1d100) – How fast you can rewind into the past, in units of your HindSightUnit
-
-HindSightForwardSpeed: Disadvantage(1d100,1d100) – How fast you can come back into the present, in units of your HindSightUnit
-
-AdrenalinePower: 1d10 – How powerful your adrenaline is
-
-## Features
-
-Hind Sight – As an action, you may activate your Hind Sight to look into the past. You can go back as far as your HindSightRewindSpeed, in the units of your HindSightUnit. If your Hind Sight is already active, you may use 1 free action to go further back in time an additional amount up to your HindSightMaxRewind speed. Alternatively, you may use that 1 free action to come back to the present, at a rate up to your HindSightForwardSpeed. If you go forward to catch up to the present, your Hind Sight ends. Taking damage and falling unconscious does not end your Hind Sight. During Hind Sight, you see from your location, but in the past. This only effects your vision; your ears, nose, and other senses all perceive the present. Time moves forward, even in the past, because your Hind Sight is relative to your current position in time.
-
-Scene Reconstruction – Whenever you roll Investigation to investigate events that have happened recently within your HindSightMaxRewind duration, you gain advantage.
-
-Crit Pointing – Whenever you land a crit against an opponent, you gain 1 crit range against that opponent until end of combat.
-
-Opponent Study – Whenever an opponent misses you with a weapon attack, they get -1 to hit you with that weapon until end of combat.
-
-Born Fighter – Whenever you land a melee weapon attack on an opponent, you get +1 to hit them until end of combat.
-
-Adrenaline Rush – As a bonus action, gain increased power. For 1 minute, you have +1 AC, +1 to hit to all opponents, +10 movement speed, and the ability to take the Dash action as a bonus action. You can use this feature a number of times equal to your AdrenalinePower, and you regain charges after a long rest.
-
-Tense Jump – As a reaction, gain +5 AC against weapon attacks until the next attack that misses.
-
-Battle Mercy – Opponents that are blinded, prone, or grappled can’t make opportunity of attacks on you.
-
-Track Prey – When you enter combat with a creature who you have been observing for at least the past 10 minutes, gain +1 crit range against them, and +1 to hit them.
-
-Lick Wounds – As an action, lick your wounds or the wounds of a target creature. Heal the target for 1d4. If your Adrenaline Rush is active, increase the healing by an additional 1d10. Your Adrenaline Rush ends.
-
-Howl – As an action, encode a short message into a howl. The message can be heard up to 1 mile away. If you hear a howl, you understand what the howl’s message, and may also be able to pinpoint where the howl came from and who sent the howl.
+Languages: Common, Howl
 
 ## Backgrounds
 
@@ -183,29 +90,13 @@ Darkvision, Smellvision, Hearvision
 
 Run Speed
 
-Dex, Wis
+Dex +1, Wis +1
 
-Species Ability: Reality Bend. As an action, turn 1 thing within 5ft of you into another thing.
+Species Ability: Adirada’s Lie. Bend reality.
 
-Feat (M): Antlers: Str, Con, Cha
+Species Passive (Male): Antlers. Wield a melee weapon with your face.
 
-Languages: Common, Magic Etching (leave messages behind)
-
-## Stats
-
-BendingPower: 1d10 – How powerful your bending is
-
-HoofLength: (1d100 + 20)/120 – How long your hoof clippings are, in inches
-
-HoofLife: 1d10 – How long your hoof clippings last in the wild, in days
-
-BendCastTime: 11 - BendingPower – How many rounds it takes to complete a transformation
-
-## Features
-
-Adirada’s Lie – You can bend reality to your will. As an action, choose a target creature or object within range and change it into another creature or object. Your middle hand hoof will grow with each change. As part of the same action, you can clip of the extra growth from your hoof. When that hoof clipping breaks, attached or not, the change associated with it will revert.
-
-Reality Bender – You can activate Adirada’s Lie as a bonus action.
+Languages: Common, Antler Scratch
 
 ## Backgrounds
 
@@ -243,51 +134,11 @@ Climb Speed
 
 Str +5, Con +5, Wis +1, Cha +1
 
-Species Ability: Bloodlust. Sense those that are injured. Get bonus to attack and deal bonus damage based on the target’s missing health.
+Species Ability: Bloodlust. Sense those that are injured and get bonuses against them.
 
 Hit Die: 1d10
 
 Languages: Common
-
-## Stats
-
-BloodlustPower: 1d10 – How powerful your Bloodlust is
-
-BloodlustMaxRange: 1d10 – How many miles you can sense something that has been injured
-
-DamageRequiredPerBonus: 25 - 1d20 - BloodlustPower (min 3) – How much missing health a target has to have to grant you +1 damage against them
-
-HealPerDamage: (1d10 \* BloodlustPower) / 100 – How much hp you heal when dealing damage, rounded up
-
-PreyRushSpeed: MovementSpeed \* (BloodlustPower/10), rounded up to the nearest 5ft
-
-BiteBonusDamage: BloodlustPower
-
-HealPower: 1d10
-
-## Features
-
-Bear Body: You can only wear armor made specifically for bears. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-
-Bear Hide: You gain soft AC equal to your Constitution modifier, with the damage reduction also equal to your Constitution modifier.
-
-Bloodlust: Whenever a creature within your BloodlustMaxRange is missing health or feeling pain, your saber nose drips blood. You can tell in which direction the creature is, and in which direction their pain originates from. You may also be able to sense what kind of pain it is.
-
-Prey Rush: Whenever a creature with missing health becomes within your movement range of you, you may use your reaction to move toward that creature, up to your PreyRushSpeed distance, and make a melee attack on that creature.
-
-Bite: As an action, you make a melee weapon attack against a creature with your mouth. This is a Strength-based weapon, and deals 1d10 base piercing damage. If the target is below quarter health, you deal extra damage equal to your BiteBonusDamage.
-
-Wound Tearing: Whenever you deal melee damage to a creature with missing health, deal additional damage equal to the target’s missing health / your DamageRequiredPerBonus, rounded up. This excludes your Bite attack.
-
-Pain Frenzy: Whenever a creature you can see becomes newly severely wounded (below half health), you must make a Wisdom saving throw, with DC equal to 10 + your BloodlustPower. On a successful save, you fight off the desire to eat them. On a failed save, you must use your next turn to move toward that creature and Bite them.
-
-Sating Bite: Whenever you deal damage with your Bite, heal yourself for hp equal to the damage you dealt \* your HealPerDamage, rounded up.
-
-Garaftle’s Blessing: As an action, lay your glowing palm on a target creature to seal a wound. Heal that creature for 1d10 +HealPower hp. You can’t use this feature on that same creature again until they finish a long rest.
-
-Empathy: Gain advantage on all Insight checks, Medicine checks, and checks made to revive or stabilize a creature.
-
-Hibernation: At the end of each winter, increase one of your ability scores by 1, with no limit.
 
 ## Backgrounds
 
@@ -297,24 +148,15 @@ Bears work with animals most of the time.
 
 Most bear villages trade in livestock. They raise, breed, and slaughter livestock species like cows, pigs, chickens, etc. This is a major trade good for them. They also herd sheep for their wool.
 
--   HealPerDamage: Advantage x1
-
 Medic – Bears are very often trained in medicine, and given Garaftle’s Blessing, which allows them to do a great bit of healing. Most bear medics live in other villages, where they serve as the main medic.
 
 ### Veterinarian
 
 A bear trained in medicine might pursue a career in taking care of sick and injured animals, traveling from village to village making house calls for the various livestock and pets that find themselves in unfortunate situations.
 
--   HealPower: Advantage x2
--   BloodlustPower: Disadvantage x1
-
 ### Monster
 
 When a bear gives in to their desire to eat and consume flesh, they lose themselves to this insatiable goal, becoming a monster scarier than any feral beast. They tend to be quickly hunted down, but rumors say some escaped to the mountains.
-
--   BloodlustPower: Advantage x2
--   DamageRequiredPerBonus: Advantage x2
--   Wisdom: Disadvantage x2
 
 Counselor – Their natural inclination towards empathy allows them to help others understand their situation in a different light, and help them navigate it to improve their lives.
 
@@ -324,19 +166,13 @@ Deliveries – Their strength makes them suited to carrying large packages from 
 
 Bodyguards – Fools tend to see bears as the perfect body guard, but their bloodlust usually ends up killing the very ones who hired them. Still, some seek to employ a bear for personal safety.
 
-## Acknowledgements
-
-<https://www.dandwiki.com/wiki/Awakened_Bear_(5e_Race)>
-
 # Peacock
 
 Flight Speed
 
-Dex, Cha
+Dex +1, Cha +1
 
-Species Ability: Petrify. As an action, petrify an enemy, reducing their max hp. If their max hp gets to 0, they become petrified.
-
-Feat (M): Tail feathers: Cha
+Species Ability (Male): Petrify. Turn things to stone.
 
 Languages: Common
 
@@ -344,17 +180,11 @@ Languages: Common
 
 Swim Speed
 
-Str, Con, Int
+Str +2, Con +1, Int +1
 
-Species Ability: Telekinesis. As a bonus action, move 1 thing within 30ft of you. Weight limit depends on your Str.
+Species Ability: Telekinesis. Move things with your mind.
 
 Languages: Common
-
-## Feats
-
-### Multifocus
-
-You can move multiple things with Telekinesis in the same action, as long as their combined weight is under the limit.
 
 # Spider
 
@@ -362,32 +192,10 @@ Blindsight, Tremorsense
 
 Climb Speed
 
-Int, Wis
+Int +1, Wis +1
 
-Species Ability: Drain. As an action, place a web in a 15ft square. The web does 1d4 necrotic to those who stand in it, and also roots them if they fail a Str save. You can tap the web to heal for the damage done.
+Species Ability: Web Spinner. Spin webs and cast Spider-specific spells.
 
-Species Ability: Web Pattern. Access to Spider-specific spells.
-
-Feat (F): Spiderling: Int, Wis
+Species Passive (Female): Spiderette. Gain bonuses and spell power.
 
 Languages: Common
-
-## Spells
-
-### Light Drain
-
-Can be used to turn you into a silhouette, granting you +5 on Stealth (Dexterity) checks and advantage on Stealth rolls.
-
-Can be used to emit a bright light out to 10ft, and dim light out to a further 10ft.
-
-### Heat Drain
-
-Can be used to give immunity to fire damage.
-
-Can be used to deal damage equal to the fire damage it prevented.
-
-### Will Drain
-
-Can be used to drain a creature of their will power. Wis save, if they fail, they take no action on their turn.
-
-Can be used to give a creature will power: +1 action on their turn.
