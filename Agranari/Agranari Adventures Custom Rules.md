@@ -34,6 +34,16 @@ Each species has its own unique stats to roll for, all of which will be recorded
 
 This is essentially a replacement for Class, but it’s more similar to Background in DnD terms. You choose your background from the list of backgrounds available for your Species. Your background gives you stat bonuses and some extra features.
 
+If there is a certain background that you want that isn’t listed for your species, work with the DM to figure out if that background is available, or if there’s another similar background that is suitable.
+
+### Name
+
+Each species has its own naming conventions. Please follow the naming conventions of the species. If you’re having trouble, you can come up with a name or randomly generate one, and the DM will come up with a name that is similar to the original, but that fits the species.
+
+### Starting Item
+
+It is likely that your character starts with an heirloom of a lost family member, such as a sibling, parent, or grandparent. These items come in many varieties, depending on your starting location and species. Work with your DM to figure out what kind of item you start with.
+
 # Advantage / Disadvantage
 
 Advantage and Disadvantage are reworked to be more flexible. Advantage and Disadvantage will often have a multiplier after it that says how many extra dice to roll, and how many dice to take away. If there is no multiplier specified, it is assumed that the multiplier is 1.
