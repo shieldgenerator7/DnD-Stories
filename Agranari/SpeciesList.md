@@ -8,9 +8,11 @@ Darkvision
 
 Climbing Speed
 
-Dex +1, Cha +1
+Dex , Cha
 
 Species Ability: Heart Fire. Will yourself to succeed and light things on fire.
+
+Virtue: Happiness
 
 Languages: Common, Sign Language
 
@@ -48,11 +50,13 @@ Shopkeeper – Some cats want to horde everything, but find they get more joy fr
 
 Darkvision, Smellvision
 
-Run Speed
+Run Speed, Swim Speed
 
-Str +1, Dex +1, Con +1
+Str, Dex, Con
 
 Species Ability: Hindsight. Look into the past.
+
+Virtue: Loyalty
 
 Languages: Common, Howl
 
@@ -88,13 +92,15 @@ Hunter – Wolves are carnivores, and someone has to go get the meat. Hunters tr
 
 Darkvision, Smellvision, Hearvision
 
-Run Speed
+Run Speed, Swim Speed
 
-Dex +1, Wis +1
+Dex, Wis
 
 Species Ability: Adirada’s Lie. Bend reality.
 
 Species Passive (Male): Antlers. Wield a melee weapon with your face.
+
+Virtue: Truth
 
 Languages: Common, Antler Scratch
 
@@ -130,13 +136,15 @@ Decorator – Beauty is in the eye of the beholder, and most beholders agree wit
 
 Darkvision, Smellvision, Hearvision
 
-Climb Speed
+Climb Speed, Swim Speed
 
-Str +5, Con +5, Wis +1, Cha +1
+Str, Con, Wis, Cha
 
 Species Ability: Bloodlust. Sense those that are injured and get bonuses against them.
 
-Hit Die: 1d10
+Species Passive: Bear Hide. Use your size to your advantage.
+
+Virtue: Compassion
 
 Languages: Common
 
@@ -144,19 +152,13 @@ Languages: Common
 
 Bears work with animals most of the time.
 
-### Rancher
-
-Most bear villages trade in livestock. They raise, breed, and slaughter livestock species like cows, pigs, chickens, etc. This is a major trade good for them. They also herd sheep for their wool.
+Rancher – Most bear villages trade in livestock. They raise, breed, and slaughter livestock species like cows, pigs, chickens, etc. This is a major trade good for them. They also herd sheep for their wool.
 
 Medic – Bears are very often trained in medicine, and given Garaftle’s Blessing, which allows them to do a great bit of healing. Most bear medics live in other villages, where they serve as the main medic.
 
-### Veterinarian
+Veterinarian – A bear trained in medicine might pursue a career in taking care of sick and injured animals, traveling from village to village making house calls for the various livestock and pets that find themselves in unfortunate situations.
 
-A bear trained in medicine might pursue a career in taking care of sick and injured animals, traveling from village to village making house calls for the various livestock and pets that find themselves in unfortunate situations.
-
-### Monster
-
-When a bear gives in to their desire to eat and consume flesh, they lose themselves to this insatiable goal, becoming a monster scarier than any feral beast. They tend to be quickly hunted down, but rumors say some escaped to the mountains.
+Monster – When a bear gives in to their desire to eat and consume flesh, they lose themselves to this insatiable goal, becoming a monster scarier than any feral beast. They tend to be quickly hunted down, but rumors say some escaped to the mountains.
 
 Counselor – Their natural inclination towards empathy allows them to help others understand their situation in a different light, and help them navigate it to improve their lives.
 
@@ -170,9 +172,11 @@ Bodyguards – Fools tend to see bears as the perfect body guard, but their bloo
 
 Flight Speed
 
-Dex +1, Cha +1
+Dex, Cha
 
 Species Ability (Male): Petrify. Turn things to stone.
+
+Virtue: Perfection
 
 Languages: Common
 
@@ -180,9 +184,11 @@ Languages: Common
 
 Swim Speed
 
-Str +2, Con +1, Int +1
+Str, Con, Int
 
 Species Ability: Telekinesis. Move things with your mind.
+
+Virtue: Hard Work
 
 Languages: Common
 
@@ -192,10 +198,12 @@ Blindsight, Tremorsense
 
 Climb Speed
 
-Int +1, Wis +1
+Int, Wis
 
 Species Ability: Web Spinner. Spin webs and cast Spider-specific spells.
 
 Species Passive (Female): Spiderette. Gain bonuses and spell power.
 
-Languages: Common
+Virtue: Safety
+
+Languages: Common, Morse
