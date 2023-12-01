@@ -64,7 +64,7 @@ Languages: Common, Howl
 
 Wolves tend to have combat-related professions
 
-Guard – Their ability to detect danger and avoid attacks makes them ideal guards. Wolf Guards are highly regarding all throughout the land for their ability to deter would-be trespassers, assassins, and thieves.
+Guard – Their ability to detect danger and avoid attacks makes them ideal guards. Wolf Guards are highly regarded all throughout the land for their ability to deter would-be trespassers, assassins, and thieves.
 
 Soldier – Wolves fighting in war win many battles. A single wolf can tear through half an army by itself, and when combined with its pack, a wolf army is near unstoppable.
 
@@ -87,6 +87,8 @@ Town Crier – A disciplined wolf can easily keep track of the time of day with 
 Singer – Howling isn’t merely practical, but also an art form. Wolf singers can sing far and wide, inspiring all who hear with songs about loyalty, family, and the moon god.
 
 Hunter – Wolves are carnivores, and someone has to go get the meat. Hunters track down their prey with Hindsight, catch up to them with their speed, and bring back their prey to share with their family.
+
+Bounty Hunter – Show them a picture of the target, and they’ll have them hunted down within a day—dead or alive. Wolves are the most feared bounty hunters alive.
 
 # Deer
 
@@ -132,6 +134,8 @@ Judge – Resolving conflicts often requires getting to the heart of the truth, 
 
 Decorator – Beauty is in the eye of the beholder, and most beholders agree with a deer’s taste in décor. Decorators change the colors of buildings, decorate interiors, and make spaces more pleasurable to live in. These deer can achieve renown and are welcomed throughout the land.
 
+Miracle Worker – Not all injuries heal over time. For those injuries, these deer have the answer. They heal wounds and injuries thought to be incurable, helping the blind see, the lame walk, and the mute speak.
+
 # Bear
 
 Darkvision, Smellvision, Hearvision
@@ -168,6 +172,8 @@ Deliveries – Their strength makes them suited to carrying large packages from 
 
 Bodyguards – Fools tend to see bears as the perfect body guard, but their bloodlust usually ends up killing the very ones who hired them. Still, some seek to employ a bear for personal safety.
 
+Butcher – Working with meat is a bear’s delight. Butchers know exactly where to cut to get the most meat out of their livestock.
+
 # Peacock
 
 Flight Speed
@@ -180,6 +186,32 @@ Virtue: Perfection
 
 Languages: Common
 
+## Backgrounds (Male)
+
+Peacocks are masters of their art. “If you do, per*fect*.”
+
+Artist – Peacocks will make an art out of anything, and master it too.
+
+Idol – Peacock feathers are the prettiest thing in the land, and those who have it, flaunt it. They spend all day swarmed by adoring fans and pruning themselves to stay beautiful.
+
+Peafo Fighter – Peacocks trained in the way of Peafo are quick and light on their feet, and can defeat any foe in a duel.
+
+Crafter – Making objects meant to last isn’t easy, and many pieces take a month or more to finish. Crafters create art pieces that are unique to stand the test of time.
+
+Preserver – Objects in stone don’t age. Preservers petrify objects—and sometimes creatures—to allow them a safe journey into the future.
+
+Inspector – Peacocks have an eye for perfection, and things that are imperfect stick out like a sore thumb. Inspectors can tell at a glance whether or not something is up to the standards, and what can be done about it.
+
+## Backgrounds (Female)
+
+*Author’s Note: This is a reflection of the state of the world, and not something I necessarily endorse.*
+
+Peahens are humble.
+
+Homemaker – Peahens keep the home tidy to support their mate.
+
+Adorer – Peahens adore a public celebrity figure.
+
 # Beaver
 
 Swim Speed
@@ -191,6 +223,20 @@ Species Ability: Telekinesis. Move things with your mind.
 Virtue: Hard Work
 
 Languages: Common
+
+## Backgrounds
+
+Beavers are very industrious, and tend to keep their hands busy.
+
+Builder – Beavers build dams, homes, and other buildings. Builders use stone, wood, and metal to erect structures.
+
+Patcher – Buildings don’t last forever, but Patchers make sure they last a little longer. These beavers fix cracks in walls, refurbish sidings, and plug holes.
+
+Assembler – Putting together the same parts over and over is time consuming, but these beavers work hard until the job is done. They accomplish repetitive tasks with a speed unmatched by any other species.
+
+Lumberjack – Beaver teeth are super effective at cutting down trees. Lumberjacks cut down trees and carry logs to the river, where they are transported to a nearby buildsite.
+
+Miner – Beavers may not be the best at digging, but they’re better suited to it. Miners unearth stone and precious minerals that are used in other locations to build structures and construct tools.
 
 # Spider
 
@@ -207,3 +253,35 @@ Species Passive (Female): Spiderette. Gain bonuses and spell power.
 Virtue: Safety
 
 Languages: Common, Morse
+
+## Backgrounds
+
+Spiders are reclusive, so their jobs tend to be solitary.
+
+Archivist – Spiders keep lots of secrets hidden away. It’s the Archivist’s duty to store them in the proper place, and keep track of what is hidden where.
+
+Sentry – These spiders deny entry to trespassers, which is pretty much everyone. They set traps and spook intruders into running away.
+
+Trapper – Food is scarce, but it can be found. Trappers set traps designed to catch prey, which is then eaten.
+
+Mage – These spiders spend a lifetime learning the magic of the web. They use their webs to cast spells.
+
+Seamstress – Spider silk is strong. These spiders use their silk—and that of others—to weave robes that spiders can wear. Clothing made of spider silk is a major trade good for the spiders.
+
+Telecomms – These spiders transit signals across the web to warn other spiders of approaching danger. They also transmit messages to coordinate with other spiders.
+
+Exile – Spiders deemed to dangerous to live in the web are expelled, doomed to wander the lands on their own. Most exiles die within a month of leaving.
+
+Ambassador – These brave spiders venture out into the world to represent spider kind in the political round table of the species.
+
+Culler – There’s not always enough to feed everyone. Luckily, those that are weak make great snacks. The cullers ensure all spiders in the web can be fed by feeding on those who cannot be fed.
+
+Digger – The web isn’t going to expand itself. These spiders create new tunnels and maintain existing ones.
+
+Queen – Most spiders lay eggs occasionally, but queens lay eggs constantly. They very often have entire chambers dedicated to just their eggs.
+
+Fetcher – Trade outposts are left vacant, except for the regular trips made by the fetchers. They bring trade goods to the outpost and take back trade goods to the web.
+
+Poisoner – Some spiders secrete toxic venom. They extract it from themselves so other spiders or species can use it for their own means. This is a major trade good for the spiders.
+
+Warner – Some tunnels are dangerous. Warners write caution signs on the walls to tell other spiders what is safe and what is not safe.
