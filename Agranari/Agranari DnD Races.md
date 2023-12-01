@@ -241,9 +241,11 @@ Darkvision, Smellvision, Hearvision
 
 Climb Speed
 
-Str x2, Con x2, Wis, Cha
+Str +5, Con +5, Wis +1, Cha +1
 
 Racial Ability: Bloodlust. Sense those that are injured. Get bonus to attack and deal bonus damage based on the target’s missing health.
+
+Hit Die: 1d10
 
 Languages: Common
 
@@ -253,27 +255,35 @@ BloodlustPower: 1d10 – How powerful your Bloodlust is
 
 BloodlustMaxRange: 1d10 – How many miles you can sense something that has been injured
 
-DamageRequiredPerBonus: 1d20 – BloodlustPower (min 5) – How much missing health a target has to have to grant you +1 damage against them
+DamageRequiredPerBonus: 25 - 1d20 - BloodlustPower (min 3) – How much missing health a target has to have to grant you +1 damage against them
 
 HealPerDamage: (1d10 \* BloodlustPower) / 100 – How much hp you heal when dealing damage, rounded up
 
+PreyRushSpeed: MovementSpeed \* (BloodlustPower/10), rounded up to the nearest 5ft
+
+BiteBonusDamage: BloodlustPower
+
+HealPower: 1d10
+
 ## Features
 
-Bear Strength – After you roll your ability scores and assign them, double your Strength score and your Constitution score.
+Bear Body: You can only wear armor made specifically for bears. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+Bear Hide: You gain soft AC equal to your Constitution modifier, with the damage reduction also equal to your Constitution modifier.
 
 Bloodlust: Whenever a creature within your BloodlustMaxRange is missing health or feeling pain, your saber nose drips blood. You can tell in which direction the creature is, and in which direction their pain originates from. You may also be able to sense what kind of pain it is.
 
-Prey Rush: Whenever a creature with missing health becomes within your movement range of you, you may use your reaction to move toward that creature, up to your movement range, and make a melee attack on that creature.
+Prey Rush: Whenever a creature with missing health becomes within your movement range of you, you may use your reaction to move toward that creature, up to your PreyRushSpeed distance, and make a melee attack on that creature.
 
-Bite: As an action, you make a melee weapon attack against a creature with your mouth. This is a Strength-based weapon, and deals 1d10 base piercing damage.
+Bite: As an action, you make a melee weapon attack against a creature with your mouth. This is a Strength-based weapon, and deals 1d10 base piercing damage. If the target is below quarter health, you deal extra damage equal to your BiteBonusDamage.
 
-Wound Tearing: Whenever you deal melee damage to a creature with missing health, deal additional damage equal to the target’s missing health / your DamageRequiredPerBonus, rounded up.
+Wound Tearing: Whenever you deal melee damage to a creature with missing health, deal additional damage equal to the target’s missing health / your DamageRequiredPerBonus, rounded up. This excludes your Bite attack.
 
 Pain Frenzy: Whenever a creature you can see becomes newly severely wounded (below half health), you must make a Wisdom saving throw, with DC equal to 10 + your BloodlustPower. On a successful save, you fight off the desire to eat them. On a failed save, you must use your next turn to move toward that creature and Bite them.
 
 Sating Bite: Whenever you deal damage with your Bite, heal yourself for hp equal to the damage you dealt \* your HealPerDamage, rounded up.
 
-Garaftle’s Blessing: As an action, lay your glowing palm on a target creature to seal a wound. Heal that creature for 4d4 hp. You can’t use this feature on that same creature again until they finish a long rest.
+Garaftle’s Blessing: As an action, lay your glowing palm on a target creature to seal a wound. Heal that creature for 1d10 +HealPower hp. You can’t use this feature on that same creature again until they finish a long rest.
 
 Empathy: Gain advantage on all Insight checks, Medicine checks, and checks made to revive or stabilize a creature.
 
@@ -283,13 +293,28 @@ Hibernation: At the end of each winter, increase one of your ability scores by 1
 
 Bears work with animals most of the time.
 
-Rancher – Most bear villages trade in livestock. They raise, breed, and slaughter livestock species like cows, pigs, chickens, etc. This is a major trade good for them. They also herd sheep for their wool.
+### Rancher
+
+Most bear villages trade in livestock. They raise, breed, and slaughter livestock species like cows, pigs, chickens, etc. This is a major trade good for them. They also herd sheep for their wool.
+
+-   HealPerDamage: Advantage x1
 
 Medic – Bears are very often trained in medicine, and given Garaftle’s Blessing, which allows them to do a great bit of healing. Most bear medics live in other villages, where they serve as the main medic.
 
-Veterinarian – A bear trained in medicine might pursue a career in taking care of sick and injured animals, traveling from village to village making house calls for the various livestock and pets that find themselves in unfortunate situations.
+### Veterinarian
 
-Monster – When a bear gives in to their desire to eat and consume flesh, they lose themselves to this insatiable goal, becoming a monster scarier than any feral beast. They tend to be quickly hunted down, but rumors say some escaped to the mountains.
+A bear trained in medicine might pursue a career in taking care of sick and injured animals, traveling from village to village making house calls for the various livestock and pets that find themselves in unfortunate situations.
+
+-   HealPower: Advantage x2
+-   BloodlustPower: Disadvantage x1
+
+### Monster
+
+When a bear gives in to their desire to eat and consume flesh, they lose themselves to this insatiable goal, becoming a monster scarier than any feral beast. They tend to be quickly hunted down, but rumors say some escaped to the mountains.
+
+-   BloodlustPower: Advantage x2
+-   DamageRequiredPerBonus: Advantage x2
+-   Wisdom: Disadvantage x2
 
 Counselor – Their natural inclination towards empathy allows them to help others understand their situation in a different light, and help them navigate it to improve their lives.
 
@@ -298,6 +323,10 @@ Mediator – Combining their empathy with their ability to enforce rules, many b
 Deliveries – Their strength makes them suited to carrying large packages from one town to another.
 
 Bodyguards – Fools tend to see bears as the perfect body guard, but their bloodlust usually ends up killing the very ones who hired them. Still, some seek to employ a bear for personal safety.
+
+## Acknowledgements
+
+<https://www.dandwiki.com/wiki/Awakened_Bear_(5e_Race)>
 
 # Peacock
 
