@@ -1,4 +1,4 @@
-# Agranari D&D Races
+# Agranari D&D Species
 
 # Cat
 
@@ -8,7 +8,7 @@ Climbing Speed
 
 Dex, Cha
 
-Racial Ability: Heart Fire. You can enhance your attacks, use your will power to increase chances of success, and light things on fire
+Species Ability: Heart Fire. You can enhance your attacks, use your will power to increase chances of success, and light things on fire
 
 Languages: Common, Sign Language (send messages silently)
 
@@ -96,7 +96,7 @@ Run Speed
 
 Str, Dex, Con
 
-Racial Ability: Hindsight. As an action, you can view any event that has happened where you are standing.
+Species Ability: Hindsight. As an action, you can view any event that has happened where you are standing.
 
 Languages: Common, Howl (send messages across long distances)
 
@@ -185,7 +185,7 @@ Run Speed
 
 Dex, Wis
 
-Racial Ability: Reality Bend. As an action, turn 1 thing within 5ft of you into another thing.
+Species Ability: Reality Bend. As an action, turn 1 thing within 5ft of you into another thing.
 
 Feat (M): Antlers: Str, Con, Cha
 
@@ -243,7 +243,7 @@ Climb Speed
 
 Str +5, Con +5, Wis +1, Cha +1
 
-Racial Ability: Bloodlust. Sense those that are injured. Get bonus to attack and deal bonus damage based on the target’s missing health.
+Species Ability: Bloodlust. Sense those that are injured. Get bonus to attack and deal bonus damage based on the target’s missing health.
 
 Hit Die: 1d10
 
@@ -334,7 +334,7 @@ Flight Speed
 
 Dex, Cha
 
-Racial Ability: Petrify. As an action, petrify an enemy, reducing their max hp. If their max hp gets to 0, they become petrified.
+Species Ability: Petrify. As an action, petrify an enemy, reducing their max hp. If their max hp gets to 0, they become petrified.
 
 Feat (M): Tail feathers: Cha
 
@@ -346,7 +346,7 @@ Swim Speed
 
 Str, Con, Int
 
-Racial Ability: Telekinesis. As a bonus action, move 1 thing within 30ft of you. Weight limit depends on your Str.
+Species Ability: Telekinesis. As a bonus action, move 1 thing within 30ft of you. Weight limit depends on your Str.
 
 Languages: Common
 
@@ -364,9 +364,9 @@ Climb Speed
 
 Int, Wis
 
-Racial Ability: Drain. As an action, place a web in a 15ft square. The web does 1d4 necrotic to those who stand in it, and also roots them if they fail a Str save. You can tap the web to heal for the damage done.
+Species Ability: Drain. As an action, place a web in a 15ft square. The web does 1d4 necrotic to those who stand in it, and also roots them if they fail a Str save. You can tap the web to heal for the damage done.
 
-Racial Ability: Web Pattern. Access to Spider-specific spells.
+Species Ability: Web Pattern. Access to Spider-specific spells.
 
 Feat (F): Spiderling: Int, Wis
 
