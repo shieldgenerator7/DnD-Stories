@@ -60,3 +60,49 @@ You have a Soft AC equal to your AC + Soft AC Bonus. When you take damage from a
 
 Example:  
 You have an AC of 13, a Soft AC Bonus of 5, and a Soft AC Damage Reduction of 3. Therefore your Soft AC is (13 + 5) = 18. An enemy attacks you with a 15 to hit. It beats your AC, so the attack hits. However, it doesn't meet your Soft AC, so you apply damage reduction. The rolled attack damage is 7, so the damage you take is (7 - 3) = 4.
+
+# On Your Turn
+
+On your turn, as normal, you can take 1 action, 1 bonus action, move, and get your reaction back.
+
+Additionally, you have 1 object interaction action, and 1 free action.
+
+As an action, you can use a feature or spell that normally takes a bonus action.
+
+# Turn Delay
+
+At the start of combat, you may willingly lower your initiative.
+
+# In Motion
+
+If you end your turn without using all your movement, you may, as a reaction, move up to your remaining movement. If this is in response to another creature moving, you do not provoke Attack of Opportunity from that moving creature with this movement.
+
+# Hold Action -\> Turn Reaction
+
+There is no longer any “Hold” action. On your turn, if you did not use one or more of your action, bonus action, or movement, you may take your turn “later”.
+
+As a reaction, you may use your action if unused, bonus action if unused, and/or movement if not fully used.
+
+# Drop Prone
+
+As a reaction to being targeted by a ranged attack, you may drop prone to impose disadvantage on the attack roll.
+
+# Death Saves
+
+When you take damage, you can drop below 0 hitpoints.
+
+If you have 0 hitpoints or less at the start of your turn, you need to make death saving throw: a Constitution saving throw with DC = 10 + your negative hp. On a success, you heal for 1d4. On a failure, you take 1d4 damage.
+
+You don’t regain consciousness from healing in this way. If your hitpoints drops below your max hp in the negative, you die. If you roll a crit, you automatically succeed, and you heal for 3d4 instead. If you roll a fumble, you take 2d4 damage instead.
+
+If someone stabilizes you with a successful Medical roll, you are brought up to 1 hp instantly.
+
+# Acknowledgements
+
+<https://www.dandwiki.com/wiki/Action_Points_(5e_Variant_Rule)>
+
+<https://www.dandwiki.com/wiki/In_Motion_(5e_Variant_Rule)>
+
+<https://www.dandwiki.com/wiki/Drop_Prone_(5e_Variant_Rule)>
+
+<https://www.dandwiki.com/wiki/Dire_Death_(5e_Variant_Rule)>
