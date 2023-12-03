@@ -179,33 +179,49 @@ Hunter – Wolves are carnivores, and someone has to go get the meat. Hunters tr
 
 # Deer
 
-Darkvision, Smellvision, Hearvision
+Darkvision, Keen Smell, Keen Hearing
 
 Run Speed
 
-Dex, Wis
+Int, Cha
+
+Hit Die: 1d6
+
+Saving throws: Int, Cha
 
 Species Ability: Reality Bend. As an action, turn 1 thing within 5ft of you into another thing.
 
 Feat (M): Antlers: Str, Con, Cha
 
-Languages: Common, Magic Etching (leave messages behind)
+Languages: Common, Antler Scratch (leave messages behind)
 
 ## Stats
 
 BendingPower: 1d10 – How powerful your bending is
 
-HoofLength: (1d100 + 20)/120 – How long your hoof clippings are, in inches
+HoofLength: (1d100 + 20)/240 – How long your individual hoof clippings are, in inches
 
-HoofLife: 1d10 – How long your hoof clippings last in the wild, in days
+HoofLife: 1d10 + BendingPower – How long your hoof clippings last in the wild, in days
 
 BendCastTime: 11 - BendingPower – How many rounds it takes to complete a transformation
 
+BendingRange: 1d100 (Disadvantage x4) \* BendingPower / 5 (rounded down) \* 5 – How far away you can bend reality, in feet
+
+DistancePerBendingPowerReduction: 1d20 (Disadvantage) \* 5 – How much distance is needed for each 1 point of BendingPower reduction, when bending at range
+
 ## Features
 
-Adirada’s Lie – You can bend reality to your will. As an action, choose a target creature or object within range and change it into another creature or object. Your middle hand hoof will grow with each change. As part of the same action, you can clip of the extra growth from your hoof. When that hoof clipping breaks, attached or not, the change associated with it will revert.
+Adirada’s Lie – You can bend reality to your will. As an action, choose a target creature or object within range and change it into another creature or object. Your middle hand hoof will grow with each change.
+
+Clip Hoof – As an action, you can clip off any amount of hoof sections from your middle hoof. When that hoof clipping breaks, attached or not, the change associated with it will revert.
 
 Reality Bender – You can activate Adirada’s Lie as a bonus action.
+
+Quickfooted - As an action, you can Dash and Disengage. As a bonus action, you can Dash.
+
+[Color Name] – As an action, you can use Adira’s Lie to change the color of the target to [Color Name].
+
+Change Color – As an action, you can Lie to change the color of the target to any color you want, in any pattern.
 
 ## Backgrounds
 
@@ -243,9 +259,13 @@ Climb Speed
 
 Str +5, Con +5, Wis +1, Cha +1
 
-Species Ability: Bloodlust. Sense those that are injured. Get bonus to attack and deal bonus damage based on the target’s missing health.
-
 Hit Die: 1d10
+
+Saving Throws: Str, Con, Wis
+
+Skills: Choose 2 from Athletics, Intimidation, Medicine, Survival
+
+Species Ability: Bloodlust. Sense those that are injured. Get bonus to attack and deal bonus damage based on the target’s missing health.
 
 Languages: Common
 
@@ -267,11 +287,13 @@ HealPower: 1d10
 
 ## Features
 
-Bear Body: You can only wear armor made specifically for bears. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+Bear Body: You can only wear armor made specifically for bears. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. Being prone doesn’t impose disadvantage to ranged attacks against you.
 
 Bear Hide: You gain soft AC equal to your Constitution modifier, with the damage reduction also equal to your Constitution modifier.
 
 Bloodlust: Whenever a creature within your BloodlustMaxRange is missing health or feeling pain, your saber nose drips blood. You can tell in which direction the creature is, and in which direction their pain originates from. You may also be able to sense what kind of pain it is.
+
+Multiattack: When you take the attack action on your turn, you can attack twice instead of once. You must attack with a different weapon the second time.
 
 Prey Rush: Whenever a creature with missing health becomes within your movement range of you, you may use your reaction to move toward that creature, up to your PreyRushSpeed distance, and make a melee attack on that creature.
 
@@ -307,6 +329,19 @@ A bear trained in medicine might pursue a career in taking care of sick and inju
 
 -   HealPower: Advantage x2
 -   BloodlustPower: Disadvantage x1
+-   Saving throws: Wis
+-   Skills: Animal Handling
+-   Advantage on Investigation checks to determine the cause of pain in an animal.
+
+Veterinarian: General Practioner – Works on all animals just about equally. Usually is assigned to a specific village, where they spend their careers.
+
+-   Gain +2 to Medicine checks when treating an animal.
+-   Gain +2 to Animal Handling checks when treating an individual animal you’ve met before.
+
+Veterinarian: Specialist – Works on one or two farm animal species in particular. When working with an animal of these species:
+
+-   Gain Advantage on Medicine checks
+-   Gain Advantage on Animal Handling checks
 
 ### Monster
 

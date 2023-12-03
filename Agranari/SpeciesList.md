@@ -90,13 +90,15 @@ Hunter – Wolves are carnivores, and someone has to go get the meat. Hunters tr
 
 Bounty Hunter – Show them a picture of the target, and they’ll have them hunted down within a day—dead or alive. Wolves are the most feared bounty hunters alive.
 
+Messager – A network of howlposts run along the roads between villages, where howlers carry messages across vast distances that any one wolf would not be able to do alone. These outposts also serve as emergency stations, where any creature can stop and signal for help.
+
 # Deer
 
-Darkvision, Smellvision, Hearvision
+Darkvision, Keen Smell, Keen Hearing
 
-Run Speed, Swim Speed
+Run Speed
 
-Dex, Wis
+Int, Cha
 
 Species Ability: Adirada’s Lie. Bend reality.
 
@@ -180,7 +182,7 @@ Flight Speed
 
 Dex, Cha
 
-Species Ability (Male): Petrify. Turn things to stone.
+Species Ability (Male): The Eye. Turn things to stone.
 
 Virtue: Perfection
 
