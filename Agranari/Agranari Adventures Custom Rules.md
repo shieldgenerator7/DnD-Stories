@@ -24,7 +24,7 @@ This is essentially your Race, in DnD terms. You can choose from one of the foll
 -   Bear
 -   Spider
 
-Your species gives you ability score bonuses, background, languages, and0 extra features. It also determines your hit die.
+Your species gives you ability score bonuses, background, languages, and extra features. It also determines your hit die.
 
 Each species has its own unique set of backgrounds to choose from, each with their own stat bonuses.
 
@@ -40,6 +40,10 @@ If there is a certain background that you want that isn’t listed for your spec
 
 Each species has its own naming conventions. Please follow the naming conventions of the species. If you’re having trouble, you can come up with a name or randomly generate one, and the DM will come up with a name that is similar to the original, but that fits the species.
 
+### Appearance
+
+Your appearance will be determined by your species. You may choose to take the species ability of your chosen species, but if you do, it effects a small part of your appearance. Each species has an “imperfection” that means they have the species ability. If you don’t want the imperfection to be a part of your character’s apearnce, then you can forego taking the species ability.
+
 ### Starting Item
 
 It is likely that your character starts with an heirloom of a lost family member, such as a sibling, parent, or grandparent. These items come in many varieties, depending on your starting location and species. Work with your DM to figure out what kind of item you start with.
@@ -48,9 +52,9 @@ It is likely that your character starts with an heirloom of a lost family member
 
 Advantage and Disadvantage are reworked to be more flexible. Advantage and Disadvantage will often have a multiplier after it that says how many extra dice to roll, and how many dice to take away. If there is no multiplier specified, it is assumed that the multiplier is 1.
 
-When rolling Advantage x1, roll 1 additional die, and remove the lowest die. Advantage x2: 2 additional dice, remove the lowest 2 dice.
+When rolling Advantage x1, roll 1 additional die, and remove the lowest die. Advantage x2: 2 additional dice, remove the lowest 2 dice. This also works for Advantage x3, x4, etc.
 
-When rolling Disdvantage x1, roll 1 additional die, and remove the highest die. Disdvantage x2: 2 additional dice, remove the highest 2 dice.
+When rolling Disdvantage x1, roll 1 additional die, and remove the highest die. Disdvantage x2: 2 additional dice, remove the highest 2 dice. This also works for Disdvantage x3, x4, etc.
 
 This way, Advantage and Disadvantage can be combined in more ways than just canceling each other out, and can be stacked on top of each other.
 
@@ -71,21 +75,21 @@ As an action, you can use a feature or spell that normally takes a bonus action.
 
 # Turn Delay
 
-At the start of combat, you may willingly lower your initiative.
+At the start of combat, you may willingly lower your initiative roll. You must keep the new value until end of combat.
 
-# In Motion
-
-If you end your turn without using all your movement, you may, as a reaction, move up to your remaining movement. If this is in response to another creature moving, you do not provoke Attack of Opportunity from that moving creature with this movement.
-
-# Hold Action -\> Turn Reaction
+# Reaction Turn
 
 There is no longer any “Hold” action. On your turn, if you did not use one or more of your action, bonus action, or movement, you may take your turn “later”.
 
-As a reaction, you may use your action if unused, bonus action if unused, and/or movement if not fully used.
+As a reaction, you may use your action if unused, bonus action if unused, and/or any remaining movement if not fully used.
 
-# Drop Prone
+If you move as part of this reaction, and this reaction is taken in response to another creature moving, you do not provoke Attack of Opportunity from that moving creature with this movement.
+
+# Prone Actions
 
 As a reaction to being targeted by a ranged attack, you may drop prone to impose disadvantage on the attack roll.
+
+As a bonus action, you may stand up from being prone without spending any movement.
 
 # Death Saves
 
@@ -96,6 +100,10 @@ If you have 0 hitpoints or less at the start of your turn, you need to make deat
 You don’t regain consciousness from healing in this way. If your hitpoints drops below your max hp in the negative, you die. If you roll a crit, you automatically succeed, and you heal for 3d4 instead. If you roll a fumble, you take 2d4 damage instead.
 
 If someone stabilizes you with a successful Medical roll, you are brought up to 1 hp instantly.
+
+# Melee Finisher
+
+As a reaction to landing a successful melee attack, you may deal an additional 1d4 bludgeoning damage to the target. Until the end of your next turn, enemies have Advantage x2 to hit you with an attack.
 
 # Acknowledgements
 
