@@ -12,7 +12,7 @@ The grizzly bear didn’t respond.
 
 Zajar walked up to him and stood in front of him.
 
-The grizzly bear didn’t respond.
+The grizzly bear didn’t respond. Instead, he breathed quietly, silently snoring. His nose had a little knob attached to it with a cleanly sliced end, as if it had been cut.
 
 Zajar’s nose dripped. He wiped the blood off his nose and looked around. There was a pigsty with lots of pigs. At least one of which was seriously injured, or worse. Zajar shrugged as he stepped off the porch. The last step creaked under his weight.
 
