@@ -1,2 +1,5 @@
 ~$*.md
 ~*.tmp
+*.docx
+~$*.xlsx
+~$*.docx
