@@ -4,7 +4,7 @@ This is a list of playable species that you can play as.
 
 # Cat
 
-Base Features: Darkvision, Climbing speed
+Base Features: Darkvision, Blindsight, Keen Hearing, Climbing speed
 
 Species Ability: Heart Fire. Will yourself to succeed and light things on fire.
 

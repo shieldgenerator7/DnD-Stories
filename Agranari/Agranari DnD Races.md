@@ -2,7 +2,7 @@
 
 # Cat
 
-Darkvision
+Darkvision, Blindsight (whiskers), Keen Hearing
 
 Climbing Speed
 
