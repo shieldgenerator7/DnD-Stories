@@ -200,7 +200,7 @@ Adorer – Peahens adore a public celebrity figure.
 
 Base Features: Swim Speed
 
-Species Ability: Telekinesis. Move things with your mind.
+Species Ability: Lazy Beaver’s Crutch. Move things with your mind.
 
 Virtue: Hard Work
 

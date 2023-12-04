@@ -217,7 +217,11 @@ Clip Hoof – As an action, you can clip off any amount of hoof sections from yo
 
 Reality Bender – You can activate Adirada’s Lie as a bonus action.
 
+Delayed Change – You can choose to make your changes silently, and have them manifest all at once when you finish casting the spell.
+
 Quickfooted - As an action, you can Dash and Disengage. As a bonus action, you can Dash.
+
+Run Speed – You have a run speed of 45ft. When you move in a (mostly) straight line, you may use your Run Speed instead of your Walk Speed. This applies to other features that use your Walk Speed as a base value.
 
 [Color Name] – As an action, you can use Adira’s Lie to change the color of the target to [Color Name].
 
