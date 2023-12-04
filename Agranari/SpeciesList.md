@@ -4,11 +4,7 @@ This is a list of playable species that you can play as.
 
 # Cat
 
-Darkvision
-
-Climbing Speed
-
-Dex , Cha
+Base Features: Darkvision, Climbing speed
 
 Species Ability: Heart Fire. Will yourself to succeed and light things on fire.
 
@@ -48,11 +44,7 @@ Shopkeeper – Some cats want to horde everything, but find they get more joy fr
 
 # Wolf
 
-Darkvision, Smellvision
-
-Run Speed, Swim Speed
-
-Str, Dex, Con
+Base Features: Darkvision, Keen Smell, Run Speed, Swim Speed
 
 Species Ability: Hindsight. Look into the past.
 
@@ -94,11 +86,7 @@ Messager – A network of howlposts run along the roads between villages, where 
 
 # Deer
 
-Darkvision, Keen Smell, Keen Hearing
-
-Run Speed
-
-Int, Cha
+Base Features: Darkvision, Keen Smell, Keen Hearing, Run Speed
 
 Species Ability: Adirada’s Lie. Bend reality.
 
@@ -140,11 +128,7 @@ Miracle Worker – Not all injuries heal over time. For those injuries, these de
 
 # Bear
 
-Darkvision, Smellvision, Hearvision
-
-Climb Speed, Swim Speed
-
-Str, Con, Wis, Cha
+Base Features: Darkvision, Keen Smell, Keen Hearing, Climb Speed, Swim Speed
 
 Species Ability: Bloodlust. Sense those that are injured and get bonuses against them.
 
@@ -178,9 +162,7 @@ Butcher – Working with meat is a bear’s delight. Butchers know exactly where
 
 # Peacock
 
-Flight Speed
-
-Dex, Cha
+Base Features: Flight Speed
 
 Species Ability (Male): The Eye. Turn things to stone.
 
@@ -216,9 +198,7 @@ Adorer – Peahens adore a public celebrity figure.
 
 # Beaver
 
-Swim Speed
-
-Str, Con, Int
+Base Features: Swim Speed
 
 Species Ability: Telekinesis. Move things with your mind.
 
@@ -242,11 +222,7 @@ Miner – Beavers may not be the best at digging, but they’re better suited to
 
 # Spider
 
-Blindsight, Tremorsense
-
-Climb Speed
-
-Int, Wis
+Base Features: Blindsight, Tremorsense, Climb Speed
 
 Species Ability: Web Spinner. Spin webs and cast Spider-specific spells.
 
