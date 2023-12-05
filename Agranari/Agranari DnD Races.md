@@ -149,6 +149,8 @@ Lick Wounds – As an action, lick your wounds or the wounds of a target creatur
 
 Howl – As an action, encode a short message into a howl. The message can be heard up to 1 mile away. If you hear a howl, you understand what the howl’s message, and may also be able to pinpoint where the howl came from and who sent the howl.
 
+Quick Attack – As a reaction, hit a target within your reach with a melee attack.
+
 ## Backgrounds
 
 Wolves tend to have combat-related professions
@@ -183,9 +185,9 @@ Darkvision, Keen Smell, Keen Hearing
 
 Run Speed
 
-Int, Cha
+Int +1, Cha +1
 
-Hit Die: 1d6
+Hit Die: 1d8
 
 Saving throws: Int, Cha
 
@@ -219,9 +221,11 @@ Reality Bender – You can activate Adirada’s Lie as a bonus action.
 
 Delayed Change – You can choose to make your changes silently, and have them manifest all at once when you finish casting the spell.
 
+Spell Pausing – You may pause casting a spell and its progress will be kept. You may resume casting the spell at any time, provided you haven’t clipped the hoof holding it. If you pause a spell and then begin casting another spell with the same hoof, then the paused spell will be considered “complete” and you will not be able to resume casting it.
+
 Quickfooted - As an action, you can Dash and Disengage. As a bonus action, you can Dash.
 
-Run Speed – You have a run speed of 45ft. When you move in a (mostly) straight line, you may use your Run Speed instead of your Walk Speed. This applies to other features that use your Walk Speed as a base value.
+Run Speed – You have a run speed of +30ft. When you move in a (mostly) straight line, you may add your Run Speed to your Walk Speed.
 
 [Color Name] – As an action, you can use Adira’s Lie to change the color of the target to [Color Name].
 
@@ -298,6 +302,8 @@ Bear Hide: You gain soft AC equal to your Constitution modifier, with the damage
 Bloodlust: Whenever a creature within your BloodlustMaxRange is missing health or feeling pain, your saber nose drips blood. You can tell in which direction the creature is, and in which direction their pain originates from. You may also be able to sense what kind of pain it is.
 
 Multiattack: When you take the attack action on your turn, you can attack twice instead of once. You must attack with a different weapon the second time.
+
+Opportunity Attack: As a reaction to a damaged creature entering or exiting your melee range, you may make a melee attack on them. A damaged creature is one that is below full health.
 
 Prey Rush: Whenever a creature with missing health becomes within your movement range of you, you may use your reaction to move toward that creature, up to your PreyRushSpeed distance, and make a melee attack on that creature.
 
