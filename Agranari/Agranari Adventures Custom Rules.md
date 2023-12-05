@@ -65,6 +65,8 @@ You have a Soft AC equal to your AC + Soft AC Bonus. When you take damage from a
 Example:  
 You have an AC of 13, a Soft AC Bonus of 5, and a Soft AC Damage Reduction of 3. Therefore your Soft AC is (13 + 5) = 18. An enemy attacks you with a 15 to hit. It beats your AC, so the attack hits. However, it doesn't meet your Soft AC, so you apply damage reduction. The rolled attack damage is 7, so the damage you take is (7 - 3) = 4.
 
+Most creatures have a Soft AC Bonus of 0, meaning they don’t have any Soft AC.
+
 # On Your Turn
 
 On your turn, as normal, you can take 1 action, 1 bonus action, move, and get your reaction back.
@@ -104,6 +106,14 @@ If someone stabilizes you with a successful Medical roll, you are brought up to 
 # Melee Finisher
 
 As a reaction to landing a successful melee attack, you may deal an additional 1d4 bludgeoning damage to the target. Until the end of your next turn, enemies have Advantage x2 to hit you with an attack.
+
+# Opportunity Attack
+
+This is no longer a general rule. Instead, it is a feature with new text:
+
+*As a reaction to a creature entering or exiting your melee range, you may make a melee attack against them.*
+
+Not all creatures will have this feature.
 
 # Acknowledgements
 
