@@ -417,6 +417,38 @@ Feat (F): Spiderling: Int, Wis
 
 Languages: Common
 
+Backgrounds
+
+Spiders are reclusive, so their jobs tend to be solitary.
+
+Archivist – Spiders keep lots of secrets hidden away. It’s the Archivist’s duty to store them in the proper place, and keep track of what is hidden where.
+
+Sentry – These spiders deny entry to trespassers, which is pretty much everyone. They set traps and spook intruders into running away.
+
+Trapper – Food is scarce, but it can be found. Trappers set traps designed to catch prey, which is then eaten.
+
+Mage – These spiders spend a lifetime learning the magic of the web. They use their webs to cast spells.
+
+Seamstress – Spider silk is strong. These spiders use their silk—and that of others—to weave robes that spiders can wear. Clothing made of spider silk is a major trade good for the spiders.
+
+Telecomms – These spiders transit signals across the web to warn other spiders of approaching danger. They also transmit messages to coordinate with other spiders.
+
+Exile – Spiders deemed to dangerous to live in the web are expelled, doomed to wander the lands on their own. Most exiles die within a month of leaving.
+
+Ambassador – These brave spiders venture out into the world to represent spider kind in the political round table of the species.
+
+Culler – There’s not always enough to feed everyone. Luckily, those that are weak make great snacks. The cullers ensure all spiders in the web can be fed by feeding on those who cannot be fed.
+
+Digger – The web isn’t going to expand itself. These spiders create new tunnels and maintain existing ones.
+
+Queen – Most spiders lay eggs occasionally, but queens lay eggs constantly. They very often have entire chambers dedicated to just their eggs.
+
+Fetcher – Trade outposts are left vacant, except for the regular trips made by the fetchers. They bring trade goods to the outpost and take back trade goods to the web.
+
+Poisoner – Some spiders secrete toxic venom. They extract it from themselves so other spiders or species can use it for their own means. This is a major trade good for the spiders.
+
+Warner – Some tunnels are dangerous. Warners write caution signs on the walls to tell other spiders what is safe and what is not safe.
+
 ## Spells
 
 ### Light Drain
