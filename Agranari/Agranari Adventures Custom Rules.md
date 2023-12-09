@@ -6,7 +6,7 @@ These are the custom rules for this campaign.
 
 ## Ability Scores
 
-Roll 1d20 at advantage x1 for each ability score individually. Then, you may reroll 1 ability score. Then, you may swap two ability scores.
+Roll 1d20 at advantage x1 for each ability score individually. Then, you may reroll 1 ability score. Then, you may rearrange the ability scores.
 
 ## Character Options
 
@@ -24,7 +24,7 @@ This is essentially your Race, in DnD terms. You can choose from one of the foll
 -   Bear
 -   Spider
 
-Your species gives you ability score bonuses, background, languages, and extra features. It also determines your hit die.
+Your species gives you ability score bonuses, a background, languages, and extra features. It also determines your hit die.
 
 Each species has its own unique set of backgrounds to choose from, each with their own stat bonuses.
 
@@ -85,23 +85,11 @@ There is no longer any “Hold” action. On your turn, if you did not use one o
 
 As a reaction, you may use your action if unused, bonus action if unused, and/or any remaining movement if not fully used.
 
-If you move as part of this reaction, and this reaction is taken in response to another creature moving, you do not provoke Attack of Opportunity from that moving creature with this movement.
-
 # Prone Actions
 
 As a reaction to being targeted by a ranged attack, you may drop prone to impose disadvantage on the attack roll.
 
 As a bonus action, you may stand up from being prone without spending any movement.
-
-# Death Saves
-
-When you take damage, you can drop below 0 hitpoints.
-
-If you have 0 hitpoints or less at the start of your turn, you need to make death saving throw: a Constitution saving throw with DC = 10 + your negative hp. On a success, you heal for 1d4. On a failure, you take 1d4 damage.
-
-You don’t regain consciousness from healing in this way. If your hitpoints drops below your max hp in the negative, you die. If you roll a crit, you automatically succeed, and you heal for 3d4 instead. If you roll a fumble, you take 2d4 damage instead.
-
-If someone stabilizes you with a successful Medical roll, you are brought up to 1 hp instantly.
 
 # Melee Finisher
 
