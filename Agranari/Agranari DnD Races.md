@@ -417,7 +417,15 @@ Feat (F): Spiderling: Int, Wis
 
 Languages: Common
 
-Backgrounds
+## Features
+
+Exoskeleton – Any damage die that rolls a 1 or 2 does no damage to you. If at least 1 damage die does no damage, the damage bonus for the attack also does no damage.
+
+Necrotic Absorption – Necrotic damage heals this Spiderling instead of damaging it.
+
+Web Shoot – Shoots a web that covers a 5ft square. Creatures in the square take 1d4 necrotic damage at the start of their turn and when entering the square. When a creature takes necrotic damage from the web, they must succeed on a DC7 Strength saving throw or be rooted until the start of their next turn.
+
+## Backgrounds
 
 Spiders are reclusive, so their jobs tend to be solitary.
 
@@ -448,6 +456,16 @@ Fetcher – Trade outposts are left vacant, except for the regular trips made by
 Poisoner – Some spiders secrete toxic venom. They extract it from themselves so other spiders or species can use it for their own means. This is a major trade good for the spiders.
 
 Warner – Some tunnels are dangerous. Warners write caution signs on the walls to tell other spiders what is safe and what is not safe.
+
+### Drell Hunter Gatherer
+
+Hunt prey and find food under the snow in the mountainous wilderness.
+
+-   \+1 CON
+-   Resistance to cold damage
+-   Languages: Drell
+-   Removed languages: English
+-   Removed species ability: Web Pattern
 
 ## Spells
 

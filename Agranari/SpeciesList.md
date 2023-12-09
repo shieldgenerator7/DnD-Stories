@@ -263,3 +263,5 @@ Fetcher – Trade outposts are left vacant, except for the regular trips made by
 Poisoner – Some spiders secrete toxic venom. They extract it from themselves so other spiders or species can use it for their own means. This is a major trade good for the spiders.
 
 Warner – Some tunnels are dangerous. Warners write caution signs on the walls to tell other spiders what is safe and what is not safe.
+
+Drell Hunter Gatherer – Hunt prey and find food under the snow in the mountainous wilderness.
