@@ -103,6 +103,12 @@ This is no longer a general rule. Instead, it is a feature with new text:
 
 Not all creatures will have this feature.
 
+# Exhaustion
+
+Each point of exhaustion gives you -1 to attack rolls, ability checks, and saving throws.
+
+When you take a short rest or a long rest, for each hour you spend resting, you can remove 1 point of exhaustion.
+
 # Acknowledgements
 
 <https://www.dandwiki.com/wiki/Action_Points_(5e_Variant_Rule)>
