@@ -8,11 +8,25 @@ Some spells can be bended. This is similar to the “At Higher Levels” section
 
 Deer spells can be cast on one’s self, or on another creature or object. Spells that refer to “you” in their description can still be cast on other targets, with “you” referring to the target.
 
+For DnD, these spells:
+
+-   Count as being of the Transmutation school of magic (mostly)
+-   Are not ritual spells
+-   Have a “casting time” equal to their Difficulty
+-   Have a range determined by your spell power and the spell’s difficulty
+-   Can target any creature / object in range, as applicable
+-   Require Somatic components only
+-   Are not Concentration
+-   Have a duration essentially equal to your hoof durability
+-   Have a spellcasting ability of your choice when you create the character (not that it means anything for most spells)
+
+Not all these spell attributes line up perfectly, in terms of how they work mechanically, but it’s what you can write in the sheet to make a reasonable amount of sense.
+
 # Buff Ability Score
 
 Difficulty: 15
 
-Increase a target’s ability score by 1.
+Increase one of your ability scores by 1.
 
 Spell Bend
 
