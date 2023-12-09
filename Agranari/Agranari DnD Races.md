@@ -102,7 +102,7 @@ Languages: Common, Howl (send messages across long distances)
 
 ## Stats
 
-HindSightPower: Disadvantage(1d10,1d10,1d10) – How powerful your HindSight is
+HindSightPower: 1d10 (Disadvantage x2)– How powerful your HindSight is
 
 HindSightUnit: /HindSightPower/
 
@@ -119,9 +119,9 @@ HindSightUnit: /HindSightPower/
 
 HindSightMaxRewind: 1d100 – How far back in time you can see, in units of your HindSightUnit
 
-HindSightRewindSpeed: Disadvantage(1d100,1d100,1d100) – How fast you can rewind into the past, in units of your HindSightUnit
+HindSightRewindSpeed: 1d100 (Disadvantage x2)– How fast you can rewind into the past, in units of your HindSightUnit
 
-HindSightForwardSpeed: Disadvantage(1d100,1d100) – How fast you can come back into the present, in units of your HindSightUnit
+HindSightForwardSpeed: 1d100 (Disadvantage) – How fast you can come back into the present, in units of your HindSightUnit
 
 AdrenalinePower: 1d10 – How powerful your adrenaline is
 
@@ -133,23 +133,23 @@ Scene Reconstruction – Whenever you roll Investigation to investigate events t
 
 Crit Pointing – Whenever you land a crit against an opponent, you gain 1 crit range against that opponent until end of combat.
 
-Opponent Study – Whenever an opponent misses you with a weapon attack, they get -1 to hit you with that weapon until end of combat.
+Opponent Study – Whenever an opponent misses you with a weapon attack, they get -1 to hit you with that weapon until end of combat. However, if they roll a crit on an attack against you, that weapon resets to -0 to hit you.
 
 Born Fighter – Whenever you land a melee weapon attack on an opponent, you get +1 to hit them until end of combat.
 
-Adrenaline Rush – As a bonus action, gain increased power. For 1 minute, you have +1 AC, +1 to hit to all opponents, +10 movement speed, and the ability to take the Dash action as a bonus action. You can use this feature a number of times equal to your AdrenalinePower, and you regain charges after a long rest.
+Adrenaline Rush – As a bonus action, gain increased power. For the duration, you have bonus AC, bonus to hit to all opponents, bonus movement speed, and the ability to take the Dash action as a bonus action. You can end Adrenaline Rush as a free action. Adrenaline Rush automatically ends if you fall unconscious. After Adrenaline Rush ends, take levels of exhaustion based on how long it was active.
 
-Tense Jump – As a reaction, gain +5 AC against weapon attacks until the next attack that misses.
+Jump Dodge – As a reaction to getting targeted by an attack, move 5ft in any direction and gain bonus AC against that attack.
 
-Battle Mercy – Opponents that are blinded, prone, or grappled can’t make opportunity of attacks on you.
+Battle Mercy – You gain bonus AC against opponents that are blinded, prone, or grappled.
 
-Track Prey – When you enter combat with a creature who you have been observing for at least the past 10 minutes, gain +1 crit range against them, and +1 to hit them.
+Track Prey – When you enter combat with a creature who you have been observing for enough minutes before battle, you can make an Investigation ability check on them, with a DC equal to their AC. If you succeed, gain bonus crit range against them, and a bonus to hit them.
 
 Lick Wounds – As an action, lick your wounds or the wounds of a target creature. Heal the target for 1d4. If your Adrenaline Rush is active, increase the healing by an additional 1d10. Your Adrenaline Rush ends.
 
-Howl – As an action, encode a short message into a howl. The message can be heard up to 1 mile away. If you hear a howl, you understand what the howl’s message, and may also be able to pinpoint where the howl came from and who sent the howl.
+Howl – As an action, encode a short message into a howl. The message can be heard up to 1 mile away. If you hear a howl, you understand that howl’s message, and may also be able to pinpoint where the howl came from and who sent the howl.
 
-Quick Attack – As a reaction, hit a target within your reach with a melee attack.
+Quick Attack – As a reaction, hit a target within your reach with a melee attack. If you hit your attack, you may counter the action, bonus action, or movement you reacted to instead of dealing damage.
 
 ## Backgrounds
 
