@@ -42,7 +42,7 @@ Each species has its own naming conventions. Please follow the naming convention
 
 ### Appearance
 
-Your appearance will be determined by your species. You may choose to take the species ability of your chosen species, but if you do, it effects a small part of your appearance. Each species has an “imperfection” that means they have the species ability. If you don’t want the imperfection to be a part of your character’s apearnce, then you can forego taking the species ability.
+Your appearance will be determined by your species. You may choose to take the species ability of your chosen species, but if you do, it effects a small part of your appearance. Each species has an “imperfection” that means they have the species ability. If you don’t want the imperfection to be a part of your character’s appearance, then you can forego taking the species ability.
 
 ### Starting Item
 
@@ -54,7 +54,7 @@ Advantage and Disadvantage are reworked to be more flexible. Advantage and Disad
 
 When rolling Advantage x1, roll 1 additional die, and remove the lowest die. Advantage x2: 2 additional dice, remove the lowest 2 dice. This also works for Advantage x3, x4, etc.
 
-When rolling Disdvantage x1, roll 1 additional die, and remove the highest die. Disdvantage x2: 2 additional dice, remove the highest 2 dice. This also works for Disdvantage x3, x4, etc.
+When rolling Disadvantage x1, roll 1 additional die, and remove the highest die. Disadvantage x2: 2 additional dice, remove the highest 2 dice. This also works for Disadvantage x3, x4, etc.
 
 This way, Advantage and Disadvantage can be combined in more ways than just canceling each other out, and can be stacked on top of each other.
 
