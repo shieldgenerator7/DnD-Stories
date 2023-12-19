@@ -30,7 +30,7 @@ Increase one of your ability scores by 1.
 
 Spell Bend
 
--   (Difficulty +30): Increase the ability score by an additional 1 point.
+-   (Difficulty +12): Increase the ability score by an additional 1 point.
 -   (Difficulty +10): Increase an additional ability score by 1 point.
 
 # Change Appearance
@@ -78,7 +78,7 @@ Increase or decrease your size by up to 10%.
 
 Spell Bend:
 
--   (Difficulty +20): Increase the percentage by up to an additional 10%.
+-   (Difficulty +10): Increase the percentage by up to an additional 10%.
 
 # Muscular Limb
 
@@ -91,7 +91,7 @@ Alternatively, you can decrease your muscles, with the same rules, but with a -5
 Spell Bend
 
 -   Extra limb (Difficulty +15): Apply this effect to 1 additional limb.
--   Extra muscles (Difficulty +30): Increase the Strength bonus by +5 and the movement speed bonus by +5.
+-   Extra muscles (Difficulty +18): Increase the Strength bonus by +5 and the movement speed bonus by +5.
 
 # Modify Sense
 
@@ -141,3 +141,15 @@ Spell Bend
 
 -   (Difficulty +10): Increase the bonus by an additional +1.
 -   (Difficulty +10): Increase the damage reduction by an additional +1.
+
+# Silent Step
+
+Difficulty: 20
+
+Modify your hooves, paws, feet, etc. to not make any noise when traversing terrain. You get a +5 bonus to Stealth checks relating to sound.
+
+# Minor Camouflage
+
+Difficulty: 10
+
+Change your skin and fur to match your surroundings. As long as you stay in that one spot, you are very difficult to spot. You get a +5 to Stealth checks relating to sight.
