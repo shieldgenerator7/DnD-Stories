@@ -387,3 +387,307 @@ The rancher snorted a whiff of bacon. “You know, that’s not a bad idea. But 
 Gra chuckled. “Alright, Zajar, you got yourself a deal.”
 
 Zajar smiled, looking into the face of the silver coin, which smiled back.
+
+# Chapter 2 – Zemorsin, Deer Slave
+
+A young fawn lowered his head. He saw another fawn. It lowered its head. They ran at each other. They banged heads.
+
+He made himself bigger. He gave himself bigger muscles. They ran at each other. They banged heads. He ran over the other fawn. The other fawn screamed.
+
+Mommy deer was mad at him.
+
+A mommy deer carried the other fawn away.
+
+Big bad wolf came to talk to mommy deer. It had a scary glowing eye.
+
+The young fawn didn’t like scary wolf. He tried to make scary wolf go away. But scary wolf grabbed him. Scary wolf stole him. Scary wolf took him to scary wolf village.
+
+Scary wolf village had no other fawns to bang heads into.
+
+He was bad young fawn. He hurt other fawn. Mommy deer sent scary wolf to take young fawn to scary wolf village. Young fawn was sad.
+
+Young fawn stay with wolf family. Wolf family have wolf mommy, wolf daddy, and wolf brother. Young fawn try bang heads with wolf brother, but wolf brother no like bang heads. Wolf brother like bite young fawn.
+
+Wolf mommy make young fawn eat nasty food. Wolf mommy make young fawn sleep at night. Wolf daddy make young fawn lift bricks. Wolf daddy make young fawn pick up rocks.
+
+Young fawn try to leave scary wolf village. But scary wolf find him. Scary wolf tell him story. Scary bear find young fawn, and eat young fawn. Young fawn scared. Young fawn stay in wolf village with wolf family. No bears in wolf village.
+
+=======
+
+“Zemorsin.” An adult deer approached the young fawn. He stood over him, with a white-furred chest and a glorious pair of antlers.
+
+Zemorsin looked up at the deer. “Bleat?”
+
+The deer pulled him into a dark corner, with their backs to the light.
+
+“Take this, and keep it safe.” The deer stuck a sharp, pointy object in Zemorsin’s hand.
+
+Zemorsin examined it. It was a hoof clipping. Along the side, the name “ZEMORSIN” was etched into its side. “It me!”
+
+“Yes, now hang onto it. When the time is right, you’ll know what to do with it.”
+
+Zemorsin nodded and stuck it in his fur.
+
+=======
+
+After several failed attempts, Zemorsin finally escaped the wolf village for more than a day. The scary wolf with the glowing eye hadn’t managed to find him this time so far.
+
+As free as he was, he was far from safe. The woods he ran through were said to be infested with peacocks who could turn you into a statue with a glance. So far, he’d gotten lucky, and only seen a few peacocks walking along the road. So far, they hadn’t seen him.
+
+He traveled for days. Through forests, swamps, and mountains he traveled. He passed several towns, but didn’t trust them enough to go in. He was hungry, thirsty, and exhausted.
+
+Finally, after a week or some of traveling, he found the delicious smell of food out in the middle of nowhere. His mouth salivated just from the smell of strawberries and blueberries.
+
+He walked in the woods alongside a road, keeping alert to hide in case anyone came by.
+
+And someone did. A doe walked along the road, towing a two-wheeled cart behind her. In the cart was a bunch of hay. Her ear twitched and she looked in his direction.
+
+Zemorsin ducked and stayed still.
+
+After a brief moment, the doe continued forward, humming a cheerful tune.
+
+Zemorsin breathed a sigh of relief, and followed her along the trail, keeping in the thick brush. His hooves were light and soft, and had been for several days since he modified them to be quieter. As he walked, he barely made any noise.
+
+The doe pulled the wagon into a clearing in the trees where a dirt courtyard laid before a tall wooden silo. She stuck her muzzle in the air and called out, *BLEE-***EEEAA***-AT!*
+
+Heavy footsteps approached from behind the silo. After a minute, a bear appeared from within the silo! It wore a vest and a straw hat.
+
+Zemorsin gulped. He didn’t have much experience with bears. There was that one bear with the scary glowing hand that removed a cut from his arm. But that was a nice bear. Other bears, so he heard, were raging monsters who would hunt you down and eat you. Zemorsin sat behind a bush and changed his fur color to blend in with the shrubs, watching and listening intently.
+
+“Good morning, Karti,” The bear greeted the deer.
+
+“Why hello, Gra Bear.” Karti let go of the cart handles.
+
+“How was your trip?”
+
+“It was pretty relaxing. It’s a nice day for a walk.”
+
+“Hopefully your walk was a little smoother this time.” Gra reached into the wagon and picked up the entire pile of hay in his arms.
+
+“It was! I noticed you fixed those potholes. Thank you.” Karti did some stretches.
+
+“Not a problem. I couldn’t have those troubling you again.”
+
+“Well I’ll let you know if they return.” Karti laughed. She straightened her legs and bent down, reaching for her hooves, tail up.
+
+Gra disappeared into the silo for a minute, then came back out. “Thanks for the delivery, Karti.” He handed Karti a good-sized leather bag.
+
+“You know I’d do anything for your pork rinds!” She reached into the bag and popped one into her mouth. “Thanks a bunch!”
+
+“Any time. Would you like to stay for a cup of tea?”
+
+“Thanks for the offer, but I have a bunch more deliveries to make. Maybe next time!” She picked up the cart handles and walked away.
+
+“See you next month!” Gra waved.
+
+“Next month!” Karti called back. She walked past Zemorsin’s bush.
+
+Zemorsin held his breath.
+
+The doe’s ear flicked in his direction, but she was too busy popping pork rinds to pay attention to him. She pulled the cart down the winding forest path until she was out of view.
+
+Zemorsin turned back to the bear. He was gone! Zemorsin looked around frantically, trying to find him. Then he heard a thumping sound from within the silo, as if someone was stacking things and moving things around.
+
+A low growl came from within the silo. “Ah, that’s a good supply delivery.” The bear continued to do stuff from within the silo.
+
+Zemorsin climbed a tree to get a better vantage point. This ranch had a pig pen with a pig shelter, a chicken enclosure with two chicken coops, and another big building behind the silo. He heard the bear leave the silo and enter through a door farther away.
+
+Zemorsin took this opportunity to raid the silo. He climbed down the tree and ran into the silo. The smells of several different foods greeted him at the entrance: oats, barley, hay, chicken feed, and the sweet, sweet smell of strawberries and blueberries.
+
+He followed his nose into the dark chamber that held the berries. The small slit windows at the top barely let any illumination into the room, but it was enough.
+
+The room was lined on all four walls with crates and crates of goodies. Zemorsin peeked into one of the crates on the top. It had strawberries! But when he picked one up, it was stuck to the other ones, and had an all too familiar texture: stone.
+
+He jumped back. Stone? He peeked in. The berries were all stone, and stuck together. He sniffed the air. There were definitely berries here, somewhere.
+
+He looked at the entrance. His wolf father entered the room. “Zemorsin! Move those rocks!”
+
+He nodded, and picked up the crate, setting it on the floor. The berry smell got stronger.
+
+“Again!”
+
+Zemorsin picked up the next crate, and set it on the floor. The crate underneath had actually berries! “I did it, father!” Zemorsin looked at the entrance, but his wolf father had disappeared.
+
+His wolf mother walked in. “Zemorsin! Eat those berries!” Then she disappeared.
+
+He nodded. He reached a grabby hoof in and pulled out a handful of berries. He stuffed them in his mouth, greens and all. He ate handful after handful, gobbling the delicious berries down. He spent a good long time filling his empty belly.
+
+Then a door creaked, and heavy footsteps thumped out to the yard.
+
+Zemorsin peaked around the corner of the room entrance, looking into the middle of the ranch.
+
+The bear was walking to the pig pen. He opened the gate and went inside. Several dozen pigs surrounded him.
+
+“Grain! Corn! Barley!” The bear greeted each pig as they came to him. “Are you ready for your lunch? Are you ready for your lunch?"
+
+*OINK OINK!* The pigs all oinked in excitement.
+
+“Ok, I’ll go get you your lunch.”
+
+The bear turned and looked in his direction.
+
+Zemorsin ducked and slinked further into the silo, out of view.
+
+“Hello?” The bear called out. “Is someone there?”
+
+The hairs on the back of Zemorsin’s fluffy neck stood on end. He ran out of the silo and hid in some weeds up against the silo wall. He changed his fur color to blend in with the weeds.
+
+The footsteps approached. “Hello?” The bear counted quietly in the distance, then continued coming closer. “Henrietta, that better not be you getting into the chicken feed again!”
+
+The bear searched the silo. “Did I leave these berries unstacked again?” After some moving around, the bear came outside.
+
+Zemorsin held his breath.
+
+The bear looked at him, but didn’t seem to register his presence. After a moment, he stepped closer. He stared in his general direction.
+
+Zemorsin froze, steadying his muscles to not make any movements.
+
+The bear shrugged. “Huh, must’ve been a wild animal.” He looked around. “Who’s hungry?” The bear went back into the silo and picked up some food to take to the pigs and chickens.
+
+Zemorsin was frozen in fear. He let himself relax enough to breathe and sit comfortably, but that was it.
+
+The scary wolf peaked out from behind a tree.
+
+Zemorsin jumped as he sat.
+
+“Bears will eat you whole!” The scary wolf laughed as it disappeared behind the tree.
+
+Zemorsin waited several hours, listening as the bear fed the animals, did his chores, and rocked in his chair. It became afternoon, which led into dusk, and then into night. Finally when the half moon was high in the sky, the bear opened his creaky door, creaked across the floor boards to a corner of the ranch house, creaked on something else, and started creaking himself. The bear snored loudly. No wonder this guy had no neighbors within 5 miles.
+
+Zemorsin pricked his ears. Other than the bear, he couldn’t hear anyone else in the area. No strange scents were nearby, and he didn’t see anyone around. Still, his fear held him in place.
+
+Finally, the cold night air convinced him to move. The dusk breeze chilled him to shivers. He had been used to sleeping in cold areas, but he never realized how more comfortable it was to be in a wind-free area.
+
+He stood up, surveying his surroundings again. No one was there. He tiptoed into the silo, trying to get comfy among the crates. He looked down into a crate, and saw a bunch of rocks.
+
+His wolf father jumped out from behind a crate. “Zemorsin! No sleeping on the job!”
+
+Zemorsin jumped back, clutching his hoof clippings. He left the silo behind, in search of another hiding place. He followed the wind into the ranch. He snuck past the house.
+
+The bear inside continued to snore loudly, until he didn’t. The bear snorted and was suddenly silent.
+
+Zemorsin froze. He was in the open.
+
+The bear snored again, and continued to snore.
+
+Zemorsin hastened his step, still taking care to not make any noise. He walked around the house, and found a porch. It had no railings, but it was only as tall as Zemorsin was, which wasn’t very tall. He could see through the spaces between the steps, where there was a bunch of empty space. Plus lots of weeds!
+
+The front of the porch was covered with a wooden lattice pattern. Zemorsin tried to fit his head in, but he was too big. Not a problem!
+
+Zemorsin focused his power through his middle hoof, placing it on his chest. As his hoof grew, his body shrank. His legs shortened and his height decreased. The already big world got even bigger to him. After shrinking down to a third of his size, he finally stopped shrinking. He was roughly the size of a house cat. He snapped his hoof off, and put the clipping with the other ones, which were about the size of his head now.
+
+He crawled through the gaps in the lattice and cozied himself up among the weeds. It was still cold, but there was less wind here, and more weeds, which made the place comfier. Plus, there was no a roof! A roof through which he could still see the half moon, sure, but a roof nonetheless.
+
+Zemorsin closed his eyes, and went to sleep.
+
+=======
+
+The snoring stopped.
+
+Zemorsin woke up. It was the crack of dawn, and the creak of doors.
+
+The bear was inside the ranch house, creaking his way to the porch. The door creaked open, and the old bear waddled out to the porch. Dust fell from the floor boards above Zemorsin as the bear walked to his rocking chair.
+
+*Kreeeee… Innng… Kreeeee… Innng…*
+
+Zemorsin kept his head down, waiting for the bear to leave.
+
+“Welp, better get ready for the wolf delivery!” The bear stepped down the stairs.
+
+Three wolves popped out from behind the barn, and one little wolf growled. They all looked straight at him through the lattice.
+
+Zemorsin closed his eyes and shook his head. When he opened his eyes, they were gone.
+
+The bear grabbed the sliding door handle and slid the front door of the barn wide open. Inside the barn, there was a whole wall of horrors: bloody tools, bloody weapons of war, and big patches of blood covering counters and floors.
+
+Zemorsin turned away. He waited under the porch, listening as the bear went deep into the barn and made a lot of noise.
+
+An hour or so later, a cart was coming up the driveway. It was being pulled by a peacock!
+
+The scary wolf’s head dropped down from the porch. “Peacocks! There was one near our wolf village once. A deer went into the forest to investigate it. He never returned. A search party was sent in to find him. They never returned either. I was sent in to find them, all alone. I didn’t find them, but I did find statues of them. Real-life, full-size, *statues*.” The scary wolf chuckled as he pulled his head back up onto the porch.
+
+Zemorsin’s heart raced as he examined his fur pattern to make sure he was blending in. He watched in anticipation as the peacock got closer and closer.
+
+Just when the peacock looked his way, he turned towards the barn, paying him no mind.
+
+Zemorsin sighed in relief.
+
+The peacock turned so Zemorsin could see the back of his two-wheeled wagon. It had a lot of stone in the back.
+
+Wolf father crawled under the wagon. “Zemorsin! Help with the delivery!”
+
+Zemorsin jumped back against the wall, holding his hoof clippings tight.
+
+The peacock walked in front of the wagon, and when he passed by, wolf father was gone.
+
+The peacock knocked on a side door to the barn. “Gra, you in there?”
+
+Gra opened the door. “Good morning, Pooroo. How are you?”
+
+“Just fine, Gra. How’s your little project going?”
+
+“Oh, my B&B? Not too bad, still gotta get the rooms set up. Got them cleaned up though, at least.”
+
+“That’s good to hear. You got the goods?”
+
+“Yeah, come on in.” Gra led Pooroo into the barn. “I’ve got Salt and Vinegar ready for you.”
+
+“Oh they’re good-sized too!” Pooroo delighted.
+
+Zemorsin couldn’t see what they were doing, but he could hear the sound of gravel falling into a pit, but the pit was lined with flesh. It was definitely not a pleasant sound.
+
+Gra grunted, and came out of the barn carrying two pig-sized boulders. He gently placed them into the cart, which was reinforced with steel. He then clapped his hands together, spraying dust everywhere. “That’s some good meats.”
+
+“The wolves sure think so.” Pooroo grabbed the handles to his cart. “They said your pigs are by far their favorite.”
+
+“Why that’s a might fine compliment. I’m glad they enjoy them so much.”
+
+“You take pride in work, to the point of perfection.” Pooroo smiled. “You would’ve made a fine peacock.”
+
+“And you’re extra compassionate. Would make for a decent bear.”
+
+Pooroo chuckled. “In another life, maybe.”
+
+“Say, you want to stick around for some tea? Those pigs ain’t going nowhere.”
+
+“I’d love to, Gra, but I gotta make my quota. Pleasure doing business with you.”
+
+“And with you.” Gra nodded.
+
+The peacock pulled the cart back down the driveway and away.
+
+“What?”
+
+Zemorsin looked at the bear, who seemed to have been looking at him until just a moment ago. His ears folded back. He shrank back into the weeds, and sat still.
+
+“What… a lovely day it is today!” The bear looked at the rocking chair on the porch. He stepped forward. “What a nice day to sit on the porch and rock.” He took more steps forward.
+
+Zemorsin froze as the bear got closer.
+
+The bear patted around his vest. “Where is it?” He dipped his paws into the pockets, pulling out chicken feed and other random oddities. “Aha!” He pulled out a carrot and gave it a good, long sniff. “Look at this carrot! Look at this delicious, delectable carrot!” He took a few steps closer, until he was right in front of the porch. “I’m going to eat this carro—whoops!” The carrot fell on the ground in front of Zemorsin.
+
+His stomach rumbled. He was hungry, and the carrot looked appetizing.
+
+“Oh no!” The bear cried. “I dropped my carrot. Oh well, I guess it’ll just stay there until someone picks it up. Anyway, I’ve got chores to do.” He walked around to the side of the house, where the footstep sounds stopped. But then a *plink* hit the far side of the house.
+
+Zemorsin flitted his ears about. Then he looked around. There was no sign of the bear, though he had a feeling he was still close.
+
+But he was too hungry. He reached out and grabbed the carrot, and munched on it happily. Zemorsin glanced over to where he last saw the bear, and saw his big muzzle peaking out from the side of the house. His eyes were staring straight at him, even through the stairs!
+
+Zemorsin jumped through the lattice, grabbing his hoof clippings and carrots on the way out. He ran past the bear to the woods.
+
+“Hey, young fawn!” The bear called out. “It’s fine, I’m not going to hurt you.”
+
+Zemorsin kept running.
+
+“Do you want some tea?”
+
+Zemorsin jumped behind a bush and changed his fur pattern to blend in. He peeked back at the bear, collecting yet another hoof clipping.
+
+The bear was looking in his general direction, but was scanning the tree line. “Where’d he go?”
+
+Zemorsin sighed in relief.
+
+“Well, it was good to see children here again.” The bear walked up the porch and rocked in his chair.
+
+Zemorsin sat in the bush, watching him. He snacked on his carrot.
