@@ -20,7 +20,7 @@ Firepower: 1d10 – How strong your fire power is
 
 Fire points: 1d10 \* Firepower – How many fire points you have to spend per long rest
 
-Fire cost: 1d20 - Firepower – How much hp it costs to spend 1 fire point
+Fire cost: 20 - 1d20 (Adv) – Firepower (min 1) – How much hp it costs to spend 1 fire point
 
 Fire damage: 1d4 + Firepower – How much extra fire damage your attacks do per fire point spent to amplify it
 
