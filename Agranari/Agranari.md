@@ -390,44 +390,6 @@ Zajar smiled, looking into the face of the silver coin, which smiled back.
 
 # Chapter 2 – Zemorsin, Deer Slave
 
-A young fawn lowered his head. He saw another fawn. It lowered its head. They ran at each other. They banged heads.
-
-He made himself bigger. He gave himself bigger muscles. They ran at each other. They banged heads. He ran over the other fawn. The other fawn screamed.
-
-Mommy deer was mad at him.
-
-A mommy deer carried the other fawn away.
-
-Big bad wolf came to talk to mommy deer. It had a scary glowing eye.
-
-The young fawn didn’t like scary wolf. He tried to make scary wolf go away. But scary wolf grabbed him. Scary wolf stole him. Scary wolf took him to scary wolf village.
-
-Scary wolf village had no other fawns to bang heads into.
-
-He was bad young fawn. He hurt other fawn. Mommy deer sent scary wolf to take young fawn to scary wolf village. Young fawn was sad.
-
-Young fawn stay with wolf family. Wolf family have wolf mommy, wolf daddy, and wolf brother. Young fawn try bang heads with wolf brother, but wolf brother no like bang heads. Wolf brother like bite young fawn.
-
-Wolf mommy make young fawn eat nasty food. Wolf mommy make young fawn sleep at night. Wolf daddy make young fawn lift bricks. Wolf daddy make young fawn pick up rocks.
-
-Young fawn try to leave scary wolf village. But scary wolf find him. Scary wolf tell him story. Scary bear find young fawn, and eat young fawn. Young fawn scared. Young fawn stay in wolf village with wolf family. No bears in wolf village.
-
-=======
-
-“Zemorsin.” An adult deer approached the young fawn. He stood over him, with a white-furred chest and a glorious pair of antlers.
-
-Zemorsin looked up at the deer. “Bleat?”
-
-The deer pulled him into a dark corner, with their backs to the light.
-
-“Take this, and keep it safe.” The deer stuck a sharp, pointy object in Zemorsin’s hand.
-
-Zemorsin examined it. It was a hoof clipping. Along the side, the name “ZEMORSIN” was etched into its side. “It me!”
-
-“Yes, now hang onto it. When the time is right, you’ll know what to do with it.”
-
-Zemorsin nodded and stuck it in his fur.
-
 =======
 
 After several failed attempts, Zemorsin finally escaped the wolf village for more than a day. The scary wolf with the glowing eye hadn’t managed to find him this time so far.
