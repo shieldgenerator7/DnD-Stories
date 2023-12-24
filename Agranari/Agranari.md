@@ -1,8 +1,8 @@
 # Agranari Adventures
 
-# Chapter 1 – Zajar Zernam, Bear Veternarian
+# Chapter 1 – Zajar Zernam, Bear Veterinarian
 
-It was a nice and sunny day as Zajar Zernam walked along the path to the ranch. The sun shone brilliantly through the tree tops, the birds chirped, and his nose wasn’t bleeding. He wiggled his little black bear tail as he walked on two legs along the trail. His pouch, containing his medicine and tools, bounced along with each step. Soon the ranch house came into view, peeking between the trees.
+It was a nice and sunny day as Zajar Zernam walked along the path to the ranch. The sun shone brilliantly through the treetops, the birds chirped, and his nose wasn’t bleeding. He wiggled his little black bear tail as he walked on two legs along the trail. His pouch, containing his medicine and tools, bounced along with each step. Soon the ranch house came into view, peeking between the trees.
 
 The house was a moderate size, one story, with a sizable porch. On said porch, an old grizzly bear rocked back and forth in a rocking chair, cowboy hat tipped forward over his head.
 
@@ -34,7 +34,7 @@ Zajar’s nose dripped. He wiped the blood off his nose and looked around. There
 
 “Ah, just call me Gra.” Gra took him to the pigpen, where a pig was laying on the ground motionless.
 
-Zajar knelt on the ground next to the pig. The injury was immediately obvious: its hind leg had been slashed and has hanging on by a thin sheet of muscle. As he got close, Zajar’s nose bled profusely. He wiped it away, but it dripped so much he had to let it drip all over the ground. He grabbed the leg and the pig’s flesh and pushed them together. Holding it with one hand, he freed his healing hand. He raised his left hand, revealing a burn mark in the middle of his palm. The mark glowed a bright yellow, and he slapped it down on the pig’s wound. Like magic, the flesh around the leg sealed and glued itself back together. As it healed under his hand, he used his other hand to adjust the bone position to make sure it went back together correctly.
+Zajar knelt on the ground next to the pig. The injury was immediately obvious: its hind leg had been slashed and was hanging on by a thin sheet of muscle. As he got close, Zajar’s nose bled profusely. He wiped it away, but it dripped so much he had to let it drip all over the ground. He grabbed the leg and the pig’s flesh and pushed them together. Holding it with one hand, he freed his healing hand. He raised his left hand, revealing a burn mark in the middle of his palm. The mark glowed a bright yellow, and he slapped it down on the pig’s wound. Like magic, the flesh around the leg sealed and glued itself back together. As it healed under his hand, he used his other hand to adjust the bone position to make sure it went back together correctly.
 
 “You fixed Corn, thank you kindly.” Gra said.
 
@@ -44,7 +44,7 @@ Zajar wiped blood from his nose. “Not a problem.” His nose tingled, but it s
 
 “Well unfortunately, I can’t bring them back from the dead.”
 
-“Oh they’re not dead, *yet*. They got kidnapped by some monster a few days ago.” He pointed to a spot in the pig fence where debris and woodchips littered the ground. “I just put repaired that fence, haven’t had time to paint it yet.”
+“Oh, they’re not dead, *yet*. They got kidnapped by some monster a few days ago.” He pointed to a spot in the pig fence where debris and woodchips littered the ground. “I just put repaired that fence, haven’t had time to paint it yet.”
 
 “What’s stopping you from finding them?”
 
@@ -248,7 +248,7 @@ Zajar took in the smell of pig blood, the delicious, delicious smell. “The hau
 
 “Spices it is then. She was a sweet girl.” He took a pig carcass off a hook and laid it on a counter. He took his knife and carved a few slices off the side. “I’m sure the wolves won’t mind a few missing slices.” He took the slices to his ranch house, where he put them on a pan and lit a fire in the living room fireplace.
 
-“That’s smelling good.” Zajar salvated to the point of drooling.
+“That’s smelling good.” Zajar salivated to the point of drooling.
 
 “So, about the pigs. Did you see who kidnapped them?”
 
@@ -308,7 +308,7 @@ Like the other room, this one was covered in dust and cobwebs. But the bed in th
 
 Zajar gasped. He peeked outside the door to check on Gra, who was still silently poking the bacon.
 
-Turning his attention back to the room, Zajar looked under the bed. There, hidden under a pile of dust, cobwebs, and bloodstained sheets, was a single silver coin. It cuddled up in his hand as he brought it into the daylight. A blue shimmer flashed across its face as Zajar examined it. He gently placed it in his shoulderbag.
+Turning his attention back to the room, Zajar looked under the bed. There, hidden under a pile of dust, cobwebs, and bloodstained sheets, was a single silver coin. It cuddled up in his hand as he brought it into the daylight. A blue shimmer flashed across its face as Zajar examined it. He gently placed it in his shoulder bag.
 
 Search complete, he reassembled the door to the best of his ability and relocked it. Key back in box, he went to the kitchen to hide it.
 
@@ -320,7 +320,7 @@ Zajar showed him the hiding place behind the knives where he found it.
 
 “I hid it.”
 
-“Can you tell me—” Gra took a deep breath and turned away. “Nevermind. Don’t tell me.”
+“Can you tell me—” Gra took a deep breath and turned away. “Never mind. Don’t tell me.”
 
 “Mr. Oathswan?”
 
