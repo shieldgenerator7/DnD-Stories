@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Tak Redwind",
+        "nicknames": [
+            "Tak",
+            "squirrel"
+        ],
+        "id": "TAK",
+        "portrait": "portraits/squirrel.png",
+        "portraitCredit": "shieldgenerator7",
+        "player": "shieldgenerator7",
+        "race": "Squirrel",
+        "class": "Wind Chaser",
+        "age": 20,
+        "height": "5'10\"",
+        "description": "A red-furred squirrel with blue runes on his fur.",
+        "specialty": "Wind Bending"
+    },
+    {
+        "name": "Sergeant Furfoot",
+        "nicknames": [
+            "Sg",
+            "Furfoot"
+        ],
+        "id": "FFT",
+        "portrait": "portraits/squirrel.png",
+        "portraitCredit": "shieldgenerator7",
+        "player": "shieldgenerator7",
+        "race": "Chipmunk",
+        "class": "Wind Chaser",
+        "age": 30,
+        "height": "5'10\"",
+        "description": "A chipmunk with a helmet and an unusually long tail.",
+        "specialty": "Giving Orders"
+    }
+]
