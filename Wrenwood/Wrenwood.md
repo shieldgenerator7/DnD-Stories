@@ -1,7 +1,7 @@
 # Leaf Riders of Wrenwood
 
 Story about the page-a-day quest calendar from Sundial Games. It’s about what happened in my playthrough. You can get the game here:  
-<https://sundialgamesllc.itch.io/2024-quest-calendar>
+[Leaf Riders of Wrenwood (Page-A-Day Calendar)](https://sundialgamesllc.itch.io/2024-quest-calendar)
 
 Heads up: my custom character is probably going to be a species not listed in the calendar, and its probably going to have custom abilities, so things might get wild later on xD
 
