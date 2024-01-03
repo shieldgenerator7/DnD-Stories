@@ -1,6 +1,7 @@
 # Leaf Riders of Wrenwood
 
-Story about the page-a-day quest calendar from Sundial Games. Here’s what happened in my playthrough.
+Story about the page-a-day quest calendar from Sundial Games. It’s about what happened in my playthrough. You can get the game here:  
+<https://sundialgamesllc.itch.io/2024-quest-calendar>
 
 Heads up: my custom character is probably going to be a species not listed in the calendar, and its probably going to have custom abilities, so things might get wild later on xD
 
@@ -14,27 +15,27 @@ Tak Redwind stood proudly on the ceremonial stump, beaming with pride at each bl
 
 “You’ve done well, and proven that you have what it takes to be a Wrenwood guard.” The camp chief held up a slice of an acorn, coated in amber. “You’ve earned this acorn badge. Wear it proudly.”
 
-Tak should at attention. “I will.”
+Tak stood at attention. “I will.”
 
-The graduation ceremony concluded. Of the 15 or so recruits in his class, Tak was the top student, not only showing the highest aptitude in wind bending, but also lifting his classmates up (literally), to help them achieve the best they can.
+The graduation ceremony concluded. Of the dozen or so recruits in his class, Tak was the top student, not only showing the highest aptitude in wind bending, but also lifting his classmates up (literally) to help them achieve to the best of their abilities.
 
 Tak was assigned to the burrows as a patrol guard. He was given a day to travel. Thanks to his wind ability, he was able to get himself and the two other newly appointed guards with the same assignment to the burrows in half the time allotted to him. The other new guards convinced him to get to know the area a bit better, and have some fun.
 
 “Sure.” Tak shrugged. He wandered around for a bit, and found a downed tree. Squirrels, beavers, and foxes gathered around it, cutting it into pieces. Tak picked up an axe laying on the ground. “What are we doing here?”
 
-The beaver said cutting that they’re cutting the tree down for lumber, and that they could use help getting the leafy branches off before they can cut the wood into sections.
+The beaver said that they’re cutting the tree down for lumber, and that they could use help getting the leafy branches off, which they have to do before they can cut the wood into sections.
 
 “Stand back.” Tak ordered.
 
-The animals gasped in anticipation of what he could do. They recognized the symbols that adorned his coat, and not just anyone could earn such symbols.
+The animals gasped in anticipation of what he would do. They recognized the symbols that adorned his coat, and knew what they meant. Not many people earned such symbols.
 
 Tak stood at the base of the tree, and swung the axe towards the branches. He called upon the wind to blow the axe through branches, pruning them cleanly off the tree. The axe landed in the dirt just beyond.
 
-The animals are clapped and cheered, as a whole hour of work was completed in just a few seconds.
+The animals all clapped and cheered, as a whole hour of work was completed in just a few seconds.
 
 “Get me another axe.” Tak held out his hand.
 
-The animals helped him prune the tree for about an hour or so, in which time he almost completely pruned the branches from the tree. Then his new guard buddies heard all the commotion and cheering and came over to see.
+A fox handed him another axe, and he did it again. The animals helped him prune the tree for about an hour or so, in which time he almost completely pruned the branches from the tree. Then his new guard buddies heard all the cheering and came over to see.
 
 “Tak! What are you doing?”
 
@@ -90,7 +91,7 @@ Sg Furfoot led Tak to the site where the tree had been just yesterday. There wer
 
 “Clean this place up. Put everything in a pile over there.”
 
-“Yes, sir!” Tak immediately got to work, creating a cyclone. It surrounded a mess of twigs, shrinking around them and pulling them into a pile. Then he moved the cyclone to the designated pile spot, pulling the twigs with it. He did this for the remaining loose assortment of leaves and twigs. After that was cleared, he picked up 3 amber he found on the ground. Then he focused on the heavier debris: he pulled it himself, using the wind to give him strength. When he was all done, the brush was all in a neat pile.
+“Yes, sir!” Tak immediately got to work, creating a cyclone. It surrounded a mess of twigs, shrinking around them and pulling them into a pile. Then he moved the cyclone to the designated pile spot, pulling the twigs with it. He did this for the remaining loose assortment of leaves and twigs. After that was cleared, he picked up 3 amber he found on the ground. Then he focused on the heavier debris. He pulled it himself, using the wind to give him strength. When he was finished, the brush was all in a neat pile.
 
 “Very impressive, indeed.” Sg Furfoot commended.
 
@@ -105,5 +106,7 @@ His buddy happened to be patrolling by as he arrived. “Oh man, Tak! They got y
 “I’m happy doing any duty they need me to.”
 
 “You, happy? That’s the first I’m hearing of this!” His buddy laughed.
+
+Tak unloaded the brush into the compost pile and went back to patrol the perimeter.
 
 =======
