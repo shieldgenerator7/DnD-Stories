@@ -133,4 +133,158 @@ His buddy happened to be patrolling by as he arrived. “Oh man, Tak! They got y
 
 Tak unloaded the brush into the compost pile and went back to patrol the perimeter.
 
-=======
+======= 2024-01-03 =======
+
+Tak went back to his patrol, but was stopped by Sg Furfoot. He told him that group of diggers needed help removing overgrown roots from an old burrow, and that Tak would be great at the job because he was good at pruning the downed tree. Sg Furfoot handed him an axe and shoved Tak towards the hole.
+
+Tak jumped in, landing with a soft thud and woosh. Wind blew past the other critters at the base.
+
+“Are you the one here to help us?”
+
+“Yes. What can I help you with?” Tak stood up.
+
+“Aren’t you the one who chopped the tree up yesterday?"
+
+“That was me.”
+
+“Oh we’re saved!” The critters cheered. “These roots are so tough, we thought we’d never get through them. But with your help, we’ll clear them in no time.”
+
+Tak stood proudly. “I will do my best. Now, show me to the roots.”
+
+They lead him to the bunker, where they show him the dense roots.
+
+“See? The roots are all underneath the beds.” They shake the beds, showing how unstable they are. “We can’t jump on them like this!”
+
+Tak goes into the room alone.
+
+The other critters stand back. “Go on, do your thing. We’ll just watch from out here.”
+
+“What are you doing? Aren’t you going to help?” Tak looked back.
+
+“No, we don’t want to get hit by your axe. Show us your awesome moves!”
+
+Tak wrinkled his nose. “Ok.” He picked up his axe and swung it at the roots, hardly scratching them. He swung again, summoning all the wind power he could muster, which was none at all. His command of the wind wasn’t working on in this tunnel, where the air was stagnant. He swung the axe into the root, and it got stuck. The handle broke when he tried pulling it out.
+
+“Boo! Show us your wind powers!”
+
+Sweat dripped on Tak’s brow. “Uh… how about in the next room?”
+
+The critters agreed. They took Tak to the next room, where roots were crawling over storage containers. Some had been here so long the roots grew over them, causing them to be sealed shut.
+
+“Ok, now show us!”
+
+Tak spied a young root that looked easy to break. He held up his spear and, while taking in a big deep breath, threw the spear at the root as he blew with his mouth. His own breath was enough to give his spear just enough speed to splinter the root and lodge itself in the wall beyond. A rotting container being held shut by the root fell open, and a warding ointment fell out.
+
+The critters cheered! “That was awesome! Again! Again!”
+
+Tak smiled proudly. “Ok, but you need to blow with me. Stand behind me, take in a deep breath, and when I throw the spear, blow as hard as you can. Got it?”
+
+The critters all nodded. They did exactly what Tak told them, and he gained a lot of wind power to throw his spear. Their blowing was just enough to give him the power he needed. He threw his spear again and again, freeing up all the containers. It took over an hour, but he did it.
+
+He wiped his brow, exhausted. He picked up the warding ointment that had fallen out of the crate. “Good work, critters. Now it’s time to head home.”
+
+“No, wait, can you also help us get into our stash? There was a cave in and some of our valuables got lost in it.”
+
+“Ok.” Tak agreed.
+
+They took him to the cave in. They worked together to clear the rubble, and after a while, they were able to go in again.
+
+“Yay! Our treasure!” They cheered. “Here, here’s some amber for you. Thank you so much!”
+
+“I’m just doing my duty.” Tak held his chin high.
+
+Suddenly, a scratching sound came from below.
+
+“Another tremor?” A critter asked, worriedly. “Run!” The critters ran out, climbing out of the hole.
+
+“What?” Tak asked.
+
+“It’s a tremor! Like the one that caused the collapse of the treasure room!”
+
+Tak decided to investigate instead. He followed the noise to an empty room.
+
+======= 2024-01-04 =======
+
+The ground shook, and crumbled. Tak noticed in time, and jumped to the side. “Ah!”
+
+Then the noise stopped and the ground settled. Tak peered over the edge of the hole. He didn’t see anything, because it was too dark. So he closed his eyes and listened. There was a scurrying sound from down below.
+
+“Hello? Anyone down there?” Tak called out.
+
+There was no answer, except a light breeze blowing down into the pit.
+
+“A breeze?” Tak smiled. He called down into the pit, “Don’t worry, I’m coming for you.”
+
+Tak jumped into the pit, softening his landing with his wind powers. A wave of wind washed over the rocks beneath him, clearing him a little landing pad.
+
+======= 2024-01-05 =======
+
+He stood up, and listened. His ears twitched forward. The scurrying was moving away from him.
+
+“Hello? I’m here to help get you out.” He walked closer, and the scurrying stopped. “Come here.”
+
+Then two little red dots appeared in front of him. Then another pair of red dots.
+
+SCREEEEEECH
+
+Tak could barely make out their forms, but could tell they were not mammals, but rather some kind of giant arthropod, potentially ants.
+
+One of the ants lunged at him with its mandibles wide open.
+
+Tak swung his spear at it, and it landed on the spear, impaling itself.
+
+Before Tak could get the spear out of it, the next ant flanked him and screeched.
+
+Tak blocked the ant with the dead ant’s body, trying to stab it in the process. The ant dodged, and came up behind him.
+
+Tak quickly drank a combat tonic while keeping the second ant away. Now feeling the adrenaline, he pulled really hard and got his spear out of the first ant. He swung around just in time to block the second ant.
+
+It pressed up against his spear handle, trying desperately to nibble on his face.
+
+Tak took in a deep breath, and when he exhaled, he blew the ant away from him. The ant slammed against the wall, hitting its head bad on a rocky spike.
+
+It just had a concussion, it moved to get back up.
+
+Tak exhaled as he threw his spear, sending it straight into the ant’s thorax, killing it instantly.
+
+A third ant stood off in the distance, throwing spikes at Tak.
+
+He nimbly dodged them as he retrieved his spear. Then he threw his spear all the way down the tunnel, piercing straight through its exoskeleton.
+
+All sorts of skittering and scurrying moved down the tunnel away from him.
+
+He breathed a sigh of relief. He examined his injuries. Luckily, he had none. Not even a scratch. But, he was exhausted. He found 3 amber among the ant corpses.
+
+======= 2024-01-06 =======
+
+He walked down the tunnel, following the breeze. He picked up his spear and used it as a walking stick. After a few minutes of walking, he found a tunnel that led up to the surface. He climbed up, almost losing his grip. That’s when he smelled it: the awful smell of the compost pile.
+
+“Hey! Help!” Tak called out.
+
+It wasn’t long before a familiar voice called back. “Hey, Tak, is that you?” It was his buddy!
+
+“It’s me. Can you help me out here?”
+
+“Sure thing, buddy.” His buddy helped him out of the pit. “Where’ve you been? There’s rumors you were crushed in a cave-in.”
+
+“It feels like it.” Tak brushed himself off. “Where’s the sergeant? I’ve got urgent news.”
+
+His buddy took him to the sergeant and spread the word that he was safe.
+
+Tak told Sg Furfoot about his encounter with the ants.
+
+“This is very serious indeed.” Sg Furfoot pondered. “You must warn the council at the Crownspire City, right away. Ask to meet with High Guard Captain Flint Clawthorn, he’ll know what to do.”
+
+“Yes, sir!”
+
+“Tak, you’re tired.” His buddy protested. “You should rest.”
+
+“It’s my duty.”
+
+His buddy sighed. “Ok, if you’re going, I’m coming with you.” His buddy handed him a sage leaf. “Here, you need this more than I do.” He laughed.
+
+Tak and his buddy left the burrow to go to Crownspire City. Tak used his wind powers to speed them up when he could, but he was too exhausted to keep it up.
+
+======= 2024-01-07 =======
+
+Along the way, he accidentally dropped 2 amber in his haste.
