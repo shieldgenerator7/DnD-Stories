@@ -11,23 +11,23 @@ The dates listed are for the events that happened on that day’s calendar page,
 
 Here are the custom rules I’m playing with.
 
-**Scavenging instead of Pickpocketing**
+## Scavenging instead of Pickpocketing
 
 If the page has a Pickpocket symbol, but also has a task in which you could reasonably find loose amber laying around, you may choose to scavenge instead of pickpocketing to avoid losing virtue on a roll of 4.
 
 This supplements pg19 of the rules.
 
-**Difficulty Setting – Hard Mode**
+## Difficulty Setting – Hard Mode
 
 "Make each roll in a round and decide whether to use an ability before making the next roll." -Rules pg15
 
-**Retroactive Boon Usage**
+## Retroactive Boon Usage
 
 When you get a boon, you may immediately apply it to a previous d20 result rolled on the same page, as long as it follows Schroedinger's Rule (ie you cant add it to a previous roll that would cause you to not get the boon in the first place).
 
 This supplements pg26 of the rules.
 
-**Schroedinger's Rule**
+## Schroedinger's Rule
 
 Anything in the past that did not significantly influence the present can be retroactively changed.
 
