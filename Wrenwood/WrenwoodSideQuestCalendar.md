@@ -238,3 +238,62 @@ If the result is 10 or less: The river carries the toy downstream faster than yo
 
 If the result is 11 or more: You quickly grab the toy before it gets away. If the boy is with you, you hand it to him and he happily plays with it in the dirt. If the boy is not with you, gain a +2 bonus to all rolls on this page, and give the toy to him if you find him.
 
+## Thursday, January 4, 2024
+
+A loud screech sound echoes from the cave. The boy runs out of the forest and to his mom, who is waiting where you last saw her.
+
+Before investigating the noise, you go back to the mother, who gives you 1 amber for finding her son. Then you go back to the cave.
+
+When you investigate the cave, you see tiny glowing red eyes. You hear another screech.
+
+1.  Recall info about the red eyes. [roll d20 + Intelligence]
+2.  Decide how to react
+    1.  Bellow at the creatures to scare them. [roll d20 + Strength]
+    2.  Seal up the cave entrance. [roll d20 + Constitution]
+    3.  Charge at the creatures. [roll d20 + Dexterity]
+
+=======
+
+### 1. Recall info about the red eyes. [roll d20 + Intelligence]
+
+If you try to remember if you’ve heard of anything like this, [roll d20 + Intelligence].
+
+**If the result is 7 or less**: You don’t recall seeing or hearing anything like this before. By the time you realize they aren’t friendly, they’re already on top of you. Gain a -2 penalty to your next roll.
+
+**If the result is between 8 and 14:** You remember something about them, and realize they’re not friendly.
+
+**If the result is 15 or more:** You recognize them immediately as insects, and remember that they’re a major threat. Gain a +2 bonus to your next roll.
+
+### 2. Decide how to react
+
+Upon recognizing they’re a threat, you decide to take action. You can bellow to scare them off, seal off the cave entrance, or charge at them.
+
+### 2.A. Bellow at the creatures to scare them. [roll d20 + Strength]
+
+You take in a deep breath, getting ready to scream at the top of your lungs.
+
+**If the result is 9 or less:** Your scream fails to impress them, and they continue charging towards you.
+
+**If the result is between 10 and 16:** Your scream gives them pause, and one of them drops something before continuing to charge at you. Gain 1 Combat Tonic.
+
+**If the result is between 17 or more:** Your scream scares them. One of them drops something that you pick up. Gain 1 Combat Tonic. The enemies all have the Frightened condition on tomorrow’s page: you may reroll their attack value and take the lower amount.
+
+### 2.B. Seal up the cave entrance. [roll d20 + Constitution] Reminder: Earth Molder
+
+Using your earth bending powers, you create stalagmites and stalactites to seal up the cave entrance, trapping them inside.
+
+**If the result is 9 or less:** The enemies are too fast. They slip through before you can seal it off, catching you off guard. Enemies get +2 to their attack value on tomorrow’s page.
+
+**If the result is between 10 and 16:** You seal up the cave entrance to keep most enemies at bay, but some of the enemies are just fast enough to slip through before you can. The ones that got through approach you.
+
+**If the result is 17 or more:** You seal up the cave entrance fast enough to lock all the enemies in. But now you hear a scratching sound, and recognize that they’re digging through to come out. When they do, they’re all coming out of one small hole, making them easy targets. Gain a +2 bonus to all attack rolls on tomorrow’s page.
+
+### 2.C. Charge at the creatures. [roll d20 + Dexterity]
+
+You give a battlecry, lower your antlers, and charge full force into the enemies, aiming for the first one. While you charge, the enemies throw spears at you.
+
+**If the result is 8 or less:** During your charge, you take several spear wounds. Reduce your health by 3. You miss the first enemy, and find yourself in the middle of several enemies. Gain a -2 penalty to all your attack rolls on tomorrow’s page.
+
+**If the result is between 9 and 14:** During your charge, you take a few spear wounds. Reduce your health by 2. You then hit the first enemy and shove it back. Gain a +5 bonus to your first attack roll on tomorrow’s page.
+
+**If the result is 15 or more:** During your charge, you take a spear wound. Reduce your health by 1. You then hit the first enemy, piercing right through its exoskeleton with your antler tines. Gain a +10 to your first attack roll on tomorrow’s page, and a +5 bonus to all other attack rolls on tomorrow’s page.
