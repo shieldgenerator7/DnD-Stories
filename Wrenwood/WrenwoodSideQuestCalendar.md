@@ -240,9 +240,9 @@ If the result is 11 or more: You quickly grab the toy before it gets away. If th
 
 ## Thursday, January 4, 2024
 
-A loud screech sound echoes from the cave. The boy runs out of the forest and to his mom, who is waiting where you last saw her.
+A loud screech sound echoes from the cave. If the boy isn’t with you, he runs out of his hiding spot and hides behind you.
 
-Before investigating the noise, you go back to the mother, who gives you 1 amber for finding her son. Then you go back to the cave.
+Before investigating the noise, you try to shoo the boy away, but he insists on following you. So you investigate the cave, with him close behind.
 
 When you investigate the cave, you see tiny glowing red eyes. You hear another screech.
 
@@ -258,11 +258,11 @@ When you investigate the cave, you see tiny glowing red eyes. You hear another s
 
 If you try to remember if you’ve heard of anything like this, [roll d20 + Intelligence].
 
-**If the result is 7 or less**: You don’t recall seeing or hearing anything like this before. By the time you realize they aren’t friendly, they’re already on top of you. Gain a -2 penalty to your next roll.
+**If the result is 7 or less**: You don’t recall seeing or hearing anything like this before. By the time you realize they aren’t friendly, they’re already on top of you. Gain a -2 penalty to your next roll (\#2 below).
 
 **If the result is between 8 and 14:** You remember something about them, and realize they’re not friendly.
 
-**If the result is 15 or more:** You recognize them immediately as insects, and remember that they’re a major threat. Gain a +2 bonus to your next roll.
+**If the result is 15 or more:** You recognize them immediately as insects, and remember that they’re a major threat. Gain a +2 bonus to your next roll (\#2 below).
 
 ### 2. Decide how to react
 
@@ -274,9 +274,9 @@ You take in a deep breath, getting ready to scream at the top of your lungs.
 
 **If the result is 9 or less:** Your scream fails to impress them, and they continue charging towards you.
 
-**If the result is between 10 and 16:** Your scream gives them pause, and one of them drops something before continuing to charge at you. Gain 1 Combat Tonic.
+**If the result is between 10 and 16:** Your scream gives them pause, and one of them drops something before continuing to charge at you. Add 1 Combat Tonic to your inventory.
 
-**If the result is between 17 or more:** Your scream scares them. One of them drops something that you pick up. Gain 1 Combat Tonic. The enemies all have the Frightened condition on tomorrow’s page: you may reroll their attack value and take the lower amount.
+**If the result is between 17 or more:** Your scream scares them. One of them drops something that you pick up. Add 1 Combat Tonic to your inventory. The enemies all have the Frightened condition on tomorrow’s page: you may reroll their attack value and take the lower amount.
 
 ### 2.B. Seal up the cave entrance. [roll d20 + Constitution] Reminder: Earth Molder
 
@@ -297,3 +297,33 @@ You give a battlecry, lower your antlers, and charge full force into the enemies
 **If the result is between 9 and 14:** During your charge, you take a few spear wounds. Reduce your health by 2. You then hit the first enemy and shove it back. Gain a +5 bonus to your first attack roll on tomorrow’s page.
 
 **If the result is 15 or more:** During your charge, you take a spear wound. Reduce your health by 1. You then hit the first enemy, piercing right through its exoskeleton with your antler tines. Gain a +10 to your first attack roll on tomorrow’s page, and a +5 bonus to all other attack rolls on tomorrow’s page.
+
+# Friday, January 5, 2024
+
+The enemy insects approach you, and you engage in battle.
+
+=======
+
+### Combat
+
+Use the instructions, enemy stats, and amber collection rules from this day on the official calendar page, but play it as Rut battling the insects in the cave instead of Tak battling insects in a tunnel.
+
+Remember to apply any modifiers from yesterday. As a reminder:
+
+If you tried to scare the insects (\#2A) and succeeded (17 or more), all the insects gain the Frightened condition, and you may reroll their attack values and take the lower amount.
+
+If you tried to seal the cave entrance (\#2B) and failed (9 or less), all the insects gain a +2 bonus to all their attack values on this page.
+
+If you tried to seal the cave entrance (\#2B) and succeeded (17 or more), you gain a +2 bonus to all your attack rolls on this page.
+
+If you tried charging at the insects (\#2C) and failed (8 or less), you gain a -2 penalty to all your attack rolls on this page.
+
+If you tried charging at the insects (\#2C) and passed (between 9 and 14), you gain a +5 bonus to your first attack roll on this page.
+
+If you tried charging at the insects (\#2C) and succeeded (15 or more), you gain a +10 bonus to your first attack roll on this page, and a +5 bonus to all other attack rolls on this page.
+
+### Post-Combat
+
+After the battle is over, if you are still alive, the enemies retreat back into the cave. You hand the boy back to his mother, who gives you 1 amber for saving him from the insects. Note “Boy Saved” somewhere for future reference.
+
+If you die, the enemies rush out of the cave and attack the little boy. If you have “Team Synergy” written down from earlier, or if Tak has “High Alert” written down from earlier, someone nearby hears the commotion and fends off the enemies; and then the mother uses a Health Potion on you. If not, then the enemies capture the little boy and he disappears, and you note “Missing Boy” somewhere for future reference.
