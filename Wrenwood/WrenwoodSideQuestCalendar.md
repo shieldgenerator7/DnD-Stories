@@ -178,7 +178,7 @@ You stop patrolling to relax in the shade. When Sergeant Furfoot walks by, you m
 
 You may choose to automatically roll a 2 on this roll.
 
-If the result is 12 or less: Sergeant Furfoot finds you slacking off and reprimands you. “Get back to work, recruit!”. Gain a -2 penalty to your next roll on this page.
+If the result is 12 or less: Sergeant Furfoot finds you slacking off and reprimands you. “Get back to work, recruit!”. He slaps you with his sword. Reduce your health by 1. Gain a -2 penalty to your next roll on this page.
 
 If the result is 13 or more: You successfully hide from Sergeant Furfoot, who must still think you’re out on patrol. Gain a +2 bonus to your next roll on this page.
 
@@ -188,11 +188,11 @@ If you chose to do the assigned tasks, do them with Tak on his page. If you chos
 
 You get up out of the shade and go for a quick jog around the perimeter. You scan the area as you go, [roll d20 + Wisdom]
 
-If the result is 7 or below: You don’t notice anything, not even the roots on the ground. You trip and fall. Reduce your health by 1.
+**If the result is 7 or below:** You don’t notice anything, not even the roots on the ground. You trip and fall. Reduce your health by 1.
 
-If the result is between 8 and 14: You don’t notice anything, but have a nice relaxing run.
+**If the result is between 8 and 14:** You don’t notice anything, but have a nice relaxing run.
 
-If the result is 15 or more: While running, you notice a nice shady spot with lots of scenery. You take a nap. Restore 1 health.
+**If the result is 15 or more:** While running, you notice a nice shady spot with lots of scenery. You take a nap. Restore 1 health.
 
 ## Wednesday, January 3, 2024
 
@@ -216,9 +216,9 @@ Begin at the (x) and navigate around the map. Visit each numbered area along you
 
 As you go into the forest, you call out for the boy, [roll d20 + Charisma]:
 
-If the result is 10 or less: You hear no response.
+**If the result is 10 or less:** You hear no response.
 
-If the result is 11 or more: The boy calls back to you. Gain a +2 bonus to all rolls on this page.
+**If the result is 11 or more:** The boy calls back to you. Gain a +2 bonus to all rolls on this page.
 
 ### Area 2 – The Cave
 
@@ -228,11 +228,11 @@ You peek into the dark cave. You don’t see any signs of the boy, but you do he
 
 You go back into the forest. If you scan the trees to see if he’s in one, [roll d20 + Wisdom].
 
-If the result is 10 or less: You don’t find him.
+**If the result is 10 or less:** You don’t find him.
 
-If the result is between 11 and 14: You don’t find him, but you find a stray piece of amber. Gain 1 amber.
+**If the result is between 11 and 14:** You don’t find him, but you find a stray piece of amber. Gain 1 amber.
 
-If the result is 15 or more: You find him! He was hiding in the trees. You help him get down safely, and escort him back to the clearing.
+**If the result is 15 or more:** You find him! He was hiding in the trees. You help him get down safely, and escort him back to the clearing.
 
 ### Area 4 – The River
 
@@ -242,9 +242,11 @@ If the boy isn’t with you, you look but don’t find the boy.
 
 You look in the river and find a toy floating downstream. The riverbed is made of dirt. If you wade into the river to grab it, [roll a d20 + Dexterity]. Reminder: Earth Molder
 
-If the result is 10 or less: The river carries the toy downstream faster than you can grab it. If the boy is with you, he starts crying.
+**If the result is 8 or less:** The river carries the toy downstream faster than you can grab it. If the boy is with you, he starts crying. You slip on your way out. Reduce your health by 2.
 
-If the result is 11 or more: You quickly grab the toy before it gets away. If the boy is with you, you hand it to him and he happily plays with it in the dirt. If the boy is not with you, gain a +2 bonus to all rolls on this page, and give the toy to him if you find him.
+**If the result is between 9 and 12:** The river carries the toy downstream faster than you can grab it. If the boy is with you, he starts crying.
+
+**If the result is 13 or more:** You quickly grab the toy before it gets away. If the boy is with you, you hand it to him and he happily plays with it in the dirt. If the boy is not with you, gain a +2 bonus to all rolls on this page, and give the toy to him if you find him.
 
 ## Thursday, January 4, 2024
 
@@ -341,14 +343,16 @@ If you die, the enemies rush out of the cave and attack the little boy. If you h
 You escort the mother and the boy back to their burrow, and then report to Sg Furfoot.
 
 1.  Report your findings to Sg Furfoot.
-2.  Find Tak. [roll d20 + Intellect]. Reminder: Earth Molder
+2.  Find Tak. [roll d20 + Intellect] Reminder: Earth Molder
 3.  Prepare for your journey.
+
+=======
 
 ### 1. Report your findings to Sg Furfoot.
 
 You report the incident to Sg Furfoot, who ponders it. “This report is most distressing. You must find recruit Tak and report this to Crownspire City at once!” He commends you for your bravery. You gain 1 amber.
 
-### 2. Find Tak. [roll d20 + Intellect]. Reminder: Earth Molder
+### 2. Find Tak. [roll d20 + Intellect] Reminder: Earth Molder
 
 You search for Tak. Sg Furfoot gave you his last known location, which was underground. If you have “Team Synergy” written down from earlier, gain a +2 bonus to this roll. If Tak has “High Alert” written down from earlier, gain a +2 bonus to this roll.
 
@@ -364,14 +368,67 @@ You and Tak prepare for your journey to Crownspire City.
 
 If Tak tried to cook some meals (2024-01-01) and succeeded (11 or more), add 1 Meal Ration to your inventory.
 
-If Rut tried to distribute meals (2024-01-01) and succeeded (13 or more), add 1 Meal Ration to your inventory.
+If you tried to distribute meals (2024-01-01) and succeeded (13 or more), add 1 Meal Ration to your inventory.
 
-If Rut tried to find his bunker (2024-01-01) and succeeded (11 or more), add 1 Meal Ration to your inventory.
+If you tried to find his bunker (2024-01-01) and succeeded (11 or more), add 1 Meal Ration to your inventory.
 
-If Rut helped people while on patrol (2024-01-02) and succeeded (15 or more), add 1 Meal Ration to your inventory.
+If you helped people while on patrol (2024-01-02) and succeeded (15 or more), add 1 Meal Ration to your inventory.
 
-“Got everything?” Tak asked.
+“Got everything?” Tak asks.
 
-“I got all the meal rations packed, so I think so.” Rut answered. “How about you?”
+“I got all the meal rations packed, so I think so.” You answer. “How about you?”
 
-“Yep!” Tak patted his nuts. “Let’s go.”
+“Yep!” Tak pats his nuts. “Let’s go.”
+
+## Sunday, January 7
+
+You and Tak travel to Crownspire City.
+
+1.  Navigate along the road. [roll d20 + Wisdom]
+2.  Run to the city. [roll d20 + Dexterity]
+3.  Consume a Meal Ration.
+4.  Arrive at Crownspire City.
+
+=======
+
+### 1. Navigate along the road. [roll d20 + Wisdom]
+
+You and Tak navigate along the road to make sure you don’t take a wrong turn.
+
+If Tak tried to determine his location (2024-01-06) and succeeded (11 or more), Tak gains a +2 bonus to this roll.
+
+Tak and Rut roll separately, and you take the higher of the two rolls.
+
+**If the result is 7 or less:** You get lost, and the travel time takes longer. Consume 1 Meal Ration. If you don’t have any Meal Rations, reduce your health by 1, and reduce Tak’s health by 1.
+
+**If the result is between 8 and 14:** You easily navigate to the city.s
+
+**If the result is 15 or more:** You easily navigate to the city, and along the way, you find some loot on the ground. Gain 1 amber. Tak also gains 1 amber.
+
+### 2. Run to the city. [roll d20 + Dexterity]
+
+Tak uses his wind powers to get you both to the city faster.
+
+Tak and Rut roll separately, and you take the lower of the two rolls. Tak may use his Gust ability on Rut’s roll.
+
+If you tried to navigate (\#1) and passed (8 or more), you and Tak both get a +2 bonus to this roll.
+
+**If the result is 7 or less**: Either Tak is too tired to use his wind powers, or you are too slow, but either way, you have to go at a slow pace, which is average for most people. Consume 1 meal ration. If you don’t have any Meal Rations, reduce your health by 1, and reduce Tak’s health by 1.
+
+**If the result is between 8 and 14**: Tak speeds you both up, getting you both there in half the time it would take normally.
+
+**If the result is 15 or more:** Tak speeds you both up, but even faster than last time. Skip step \#3.
+
+### 3. Consume a Meal Ration.
+
+“I’m getting hungry,” you say. “How about you?”
+
+“Same, but we should eat while we travel.” Tak looks straight forward.
+
+“No picnicking? You’re no fun,” you say as you pull out a meal ration and split it with him.
+
+Consume 1 meal ration. If you don’t have any Meal Rations, reduce your health by 1, and reduce Tak’s health by 1.
+
+### 4. Arrive at Crownspire City.
+
+If you both survived the journey and made it to Crownspire City, both you and Tak may take a rest.
