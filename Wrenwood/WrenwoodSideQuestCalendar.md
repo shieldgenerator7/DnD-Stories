@@ -1,7 +1,7 @@
 # Leaf Riders of Wrenwood Side Quest Calendar
 
 This side quest calendar is fan content designed to work with the 2024 Quest Calendar by Sundial Games. You can get it here:  
-<https://sundialgamesllc.itch.io/2024-quest-calendar>
+https://sundialgamesllc.itch.io/2024-quest-calendar
 
 This side quest calendar follows fan-created characters, but includes canon characters. Starting out, you’ll be playing Rut Quakehoof, a deer earth bender.
 
@@ -178,9 +178,9 @@ You stop patrolling to relax in the shade. When Sergeant Furfoot walks by, you m
 
 You may choose to automatically roll a 2 on this roll.
 
-If the result is 12 or less: Sergeant Furfoot finds you slacking off and reprimands you. “Get back to work, recruit!”. He slaps you with his sword. Reduce your health by 1. Gain a -2 penalty to your next roll on this page.
+**If the result is 12 or less:** Sergeant Furfoot finds you slacking off and reprimands you. “Get back to work, recruit!”. He slaps you with his sword. Reduce your health by 1. Gain a -2 penalty to your next roll on this page.
 
-If the result is 13 or more: You successfully hide from Sergeant Furfoot, who must still think you’re out on patrol. Gain a +2 bonus to your next roll on this page.
+**If the result is 13 or more:** You successfully hide from Sergeant Furfoot, who must still think you’re out on patrol. Gain a +2 bonus to your next roll on this page.
 
 ### 3. Continue Patrolling
 
@@ -198,15 +198,15 @@ You get up out of the shade and go for a quick jog around the perimeter. You sca
 
 You get back to patrol. It’s not long before you a lady approaches you. “Hey, patrol person. Can you help me my find my son? He ran off into the woods and I’m worried about his safety.” She tells you his name and you go in the direction she says he went.
 
-(2)
+        (2)
 
-\|
+        \|
 
 (x) --- (1) --- (3)
 
-\|
+        \|
 
-(4)
+        (4)
 
 Begin at the (x) and navigate around the map. Visit each numbered area along your path. Explore and resolve each area you visit before you choose your next.
 
