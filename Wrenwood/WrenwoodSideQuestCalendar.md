@@ -5,6 +5,8 @@ This side quest calendar is fan content designed to work with the 2024 Quest Cal
 
 This side quest calendar follows fan-created characters, but includes canon characters. Starting out, you’ll be playing Rut Quakehoof, a deer earth bender.
 
+There will be no hidden symbols here, so refer to the main calendar for finding the hidden symbols. If the main calendar has a hidden symbol on a day, you can use that same hidden symbol in this side quest calendar.
+
 # 01 – January
 
 ## Rut Quakehoof – Earth Molder
@@ -127,4 +129,60 @@ If Tak is not with you, you may [roll d20 + Charisma]. If the result is 15 or hi
 **If the result is 10 or less:** You find your bunker, and start to settle in. But then someone comes in and tells you that you’re in their house. You got the wrong burrow! You leave, tired and demoralized. Reduce your health by 1.
 
 **If the result is 11 or more:** You find your bunker and settle in. While you’re here, you take a nap. Gain a +2 bonus to the next roll you make on this page. If Tak is with you, he also gains a +2 bonus to the next roll he makes on his page.
+
+## Tuesday, January 2, 2024
+
+You stand at attention before Sergeant Furfoot as he gives you a list of your duties for the day. “Listen up, Rut. As a new member of The Burrows, you have much to prove. I have some important jobs for you to handle today.”
+
+Do all the tasks:
+
+1.  Patrol the perimeter. [roll d20 + Wisdom]
+2.  Clean the training grounds. [roll d20 + Constitution] Reminder: Earth Molder
+3.  Haul some supplies. [roll d20 + Strength]
+
+=======
+
+### 1. Patrol the perimeter. [roll d20 + Wisdom]
+
+“I need you to patrol the outer perimeter of The Burrows. Keep an eye out for any signs of intruders or suspicious activity. Report back immediately if you spot anything out of the ordinary.”
+
+On patrol, you find the compost pile before too long. It stinks like rotten eggs in an outhouse.
+
+**If the result is 7 or less:** You quickly walk the perimeter, trying to observe the grounds beyond. With it being your first day, you aren’t sure what constitutes unusual activity, except for maybe the unusual smell of the compost pile. You report this to Sg Furfoot, but he is not amused. “Stop getting distracted, Rut,” he reprimands you.
+
+**If the result is between 8 and 14:** Walking the perimeter, you notice some trainees setting up some targets, some civilians digging new burrows, and a pickup game of Acornball. You mold targets out of dirt for the trainees, make a hole for the burrowers, and straighten up the Acornball court. Someone tips you 1 amber.
+
+**If the result is 15 or more:** Walking the perimeter, you notice some trainees setting up some targets, some civilians digging new burrows, and a pick up game of Acornball. You mold targets out of dirt for the trainees, make a hole for the burrowers, and straighten up the Acornball court. Someone tips you 1 amber. Gain 1 Virtue.
+
+### 2. Decide what to do next
+
+You are super distracted. You have tasks to do, but you want to relax.
+
+If you decide to continue doing your tasks, meet up with Tak and do challenges \#2 and \#3 with him on his page. You and Tak both use the higher roll among your dice rolls for these two challenges.
+
+If you decide to not do the tasks, you continue patrolling.
+
+### 2. Hide from Sg Furfoot
+
+If you chose to do the assigned tasks, do them with Tak on his page. If you chose to continue patrolling, continue.
+
+You stop patrolling to relax in the shade. When Sergeant Furfoot walks by, you may hide from him and [roll d20 + Dexterity]. Reminder: Earth Molder
+
+You may choose to automatically roll a 2 on this roll.
+
+If the result is 12 or less: Sergeant Furfoot finds you slacking off and reprimands you. “Get back to work, recruit!”. Gain a -2 penalty to your next roll on this page.
+
+If the result is 13 or more: You successfully hide from Sergeant Furfoot, who must still think you’re out on patrol. Gain a +2 bonus to your next roll on this page.
+
+### 3. Continue Patrolling
+
+If you chose to do the assigned tasks, do them with Tak on his page. If you chose to continue patrolling, continue.
+
+You get up out of the shade and go for a quick jog around the perimeter. You scan the area as you go, [roll d20 + Wisdom]
+
+If the result is 7 or below: You don’t notice anything, not even the roots on the ground. You trip and fall. Reduce your health by 1.
+
+If the result is between 8 and 14: You don’t notice anything, but have a nice relaxing run.
+
+If the result is 15 or more: While running, you notice a nice shady spot with lots of scenery. You take a nap. Restore 1 health.
 
