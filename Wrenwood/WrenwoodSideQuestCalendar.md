@@ -7,9 +7,17 @@ This side quest calendar follows fan-created characters, but includes canon char
 
 There will be no hidden symbols here, so refer to the main calendar for finding the hidden symbols. If the main calendar has a hidden symbol on a day, you can use that same hidden symbol in this side quest calendar.
 
+## How to Use
+
+At the start of the day, do this side quest calendar first, as it may override what you do on the main calendar page. The main calendar page follows the main character, and this side quest calendar follows a supporting character. The two characters can interact with each other and effect each other’s rolls and results.
+
+It’s a good idea to record your rolls for ability checks. Sometimes they’re mentioned in a future page. If you don’t remember what you rolled, assume you rolled a 2.
+
+Start the side quest calendar with the following character, Rut Quakehoof.
+
 # 01 – January
 
-## Rut Quakehoof – Earth Molder
+## Rut Quakehoof – Earth Molder (Deer)
 
 Naturally talented at earth bending, he passed his classes at the Academy of Elemental Arts with flying colors. He crushed his competition, making them eat his dust. He got away with doing less than his best work, so he barely tries. He likes to hang out and relax, and thought that guard duty was a perfect opportunity to do just that.
 
@@ -298,7 +306,7 @@ You give a battlecry, lower your antlers, and charge full force into the enemies
 
 **If the result is 15 or more:** During your charge, you take a spear wound. Reduce your health by 1. You then hit the first enemy, piercing right through its exoskeleton with your antler tines. Gain a +10 to your first attack roll on tomorrow’s page, and a +5 bonus to all other attack rolls on tomorrow’s page.
 
-# Friday, January 5, 2024
+## Friday, January 5, 2024
 
 The enemy insects approach you, and you engage in battle.
 
@@ -327,3 +335,43 @@ If you tried charging at the insects (\#2C) and succeeded (15 or more), you gain
 After the battle is over, if you are still alive, the enemies retreat back into the cave. You hand the boy back to his mother, who gives you 1 amber for saving him from the insects. Note “Boy Saved” somewhere for future reference.
 
 If you die, the enemies rush out of the cave and attack the little boy. If you have “Team Synergy” written down from earlier, or if Tak has “High Alert” written down from earlier, someone nearby hears the commotion and fends off the enemies; and then the mother uses a Health Potion on you. If not, then the enemies capture the little boy and he disappears, and you note “Missing Boy” somewhere for future reference.
+
+## Saturday, January 6
+
+You escort the mother and the boy back to their burrow, and then report to Sg Furfoot.
+
+1.  Report your findings to Sg Furfoot.
+2.  Find Tak. [roll d20 + Intellect]. Reminder: Earth Molder
+3.  Prepare for your journey.
+
+### 1. Report your findings to Sg Furfoot.
+
+You report the incident to Sg Furfoot, who ponders it. “This report is most distressing. You must find recruit Tak and report this to Crownspire City at once!” He commends you for your bravery. You gain 1 amber.
+
+### 2. Find Tak. [roll d20 + Intellect]. Reminder: Earth Molder
+
+You search for Tak. Sg Furfoot gave you his last known location, which was underground. If you have “Team Synergy” written down from earlier, gain a +2 bonus to this roll. If Tak has “High Alert” written down from earlier, gain a +2 bonus to this roll.
+
+**If the result is 10 or less:** You don’t find him. After an hour passes, you report back to Sg Furfoot, and find Tak waiting for you.
+
+**If the result is between 11 and 16:** You find Tak just as he’s getting out of a hole. You talk to him. Tak gains a +2 bonus to challenge \#2 on his page today.
+
+**If the result is 17 or more:** You find Tak at the bottom of a hole. You help him out. Tak gains a +2 bonus to challenge \#1 and challenge \#2 on his page today. “Man, am I glad to see you,” Tak says.
+
+### 3. Prepare for your journey
+
+You and Tak prepare for your journey to Crownspire City.
+
+If Tak tried to cook some meals (2024-01-01) and succeeded (11 or more), add 1 Meal Ration to your inventory.
+
+If Rut tried to distribute meals (2024-01-01) and succeeded (13 or more), add 1 Meal Ration to your inventory.
+
+If Rut tried to find his bunker (2024-01-01) and succeeded (11 or more), add 1 Meal Ration to your inventory.
+
+If Rut helped people while on patrol (2024-01-02) and succeeded (15 or more), add 1 Meal Ration to your inventory.
+
+“Got everything?” Tak asked.
+
+“I got all the meal rations packed, so I think so.” Rut answered. “How about you?”
+
+“Yep!” Tak patted his nuts. “Let’s go.”
