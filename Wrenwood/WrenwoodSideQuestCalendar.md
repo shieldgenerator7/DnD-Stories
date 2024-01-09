@@ -186,3 +186,55 @@ If the result is between 8 and 14: You don’t notice anything, but have a nice 
 
 If the result is 15 or more: While running, you notice a nice shady spot with lots of scenery. You take a nap. Restore 1 health.
 
+## Wednesday, January 3, 2024
+
+You get back to patrol. It’s not long before you a lady approaches you. “Hey, patrol person. Can you help me my find my son? He ran off into the woods and I’m worried about his safety.” She tells you his name and you go in the direction she says he went.
+
+(2)
+
+\|
+
+(x) --- (1) --- (3)
+
+\|
+
+(4)
+
+Begin at the (x) and navigate around the map. Visit each numbered area along your path. Explore and resolve each area you visit before you choose your next.
+
+=======
+
+### Area 1 – The Clearing
+
+As you go into the forest, you call out for the boy, [roll d20 + Charisma]:
+
+If the result is 10 or less: You hear no response.
+
+If the result is 11 or more: The boy calls back to you. Gain a +2 bonus to all rolls on this page.
+
+### Area 2 – The Cave
+
+You peek into the dark cave. You don’t see any signs of the boy, but you do hear a strange scurrying sound. You stop to investigate. [You may explore further before returning here.]
+
+### Area 3 – The Forest
+
+You go back into the forest. If you scan the trees to see if he’s in one, [roll d20 + Wisdom].
+
+If the result is 10 or less: You don’t find him.
+
+If the result is between 11 and 14: You don’t find him, but you find a stray piece of amber. Gain 1 amber.
+
+If the result is 15 or more: You find him! He was hiding in the trees. You help him get down safely, and escort him back to the clearing.
+
+### Area 4 – The River
+
+You go to the river. Its loud roar is relaxing.
+
+If the boy isn’t with you, you look but don’t find the boy.
+
+You look in the river and find a toy floating downstream. The riverbed is made of dirt. If you wade into the river to grab it, [roll a d20 + Dexterity]. Reminder: Earth Molder
+
+If the result is 10 or less: The river carries the toy downstream faster than you can grab it. If the boy is with you, he starts crying.
+
+If the result is 11 or more: You quickly grab the toy before it gets away. If the boy is with you, you hand it to him and he happily plays with it in the dirt. If the boy is not with you, gain a +2 bonus to all rolls on this page, and give the toy to him if you find him.
+
