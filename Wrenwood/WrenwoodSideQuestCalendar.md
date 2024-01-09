@@ -198,15 +198,15 @@ You get up out of the shade and go for a quick jog around the perimeter. You sca
 
 You get back to patrol. It’s not long before you a lady approaches you. “Hey, patrol person. Can you help me my find my son? He ran off into the woods and I’m worried about his safety.” She tells you his name and you go in the direction she says he went.
 
-. . . . . . . . (2) . . . . . . . .
+. . . . . . . (2) . . . . .
 
-. . . . . . . . \| . . . . . . . .
+. . . . . . . | . . . . .
 
 (x) --- (1) --- (3)
 
-. . . . . . . . \| . . . . . . . .
+. . . . . . . | . . . . .
 
-. . . . . . . . (4) . . . . . . . .
+. . . . . . . (4) . . . . .
 
 Begin at the (x) and navigate around the map. Visit each numbered area along your path. Explore and resolve each area you visit before you choose your next.
 
