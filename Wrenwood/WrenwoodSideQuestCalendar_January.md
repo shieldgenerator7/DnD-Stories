@@ -13,8 +13,6 @@ It’s a good idea to record your rolls for ability checks. Sometimes they’re 
 
 When you find a pickpocket or backpack symbol on a page, you may roll it for both Tak and Rut separately. You may roll the Sunday Lottery for both Tak and Rut separately.
 
-When the page refers to “you”, it means you the player. This is different from the main page, in which “you” refers to Tak. This side quest calendar refers to the side character by their name (Rut for the first week).
-
 Start the side quest calendar with the following character, Rut Quakehoof.
 
 # 0 - Rut Quakehoof – Earth Molder (Deer)
@@ -63,18 +61,18 @@ Amber: 0
 
 # Monday, January 1, 2024
 
-Rut arrives at The Burrow early for his first day of duty. He has some time to explore and get familiar with the outpost before he must report to Sergeant Furfoot.
+You arrive at The Burrow early for your first day of duty. There is some time to explore and get familiar with the outpost before you must report to Sergeant Furfoot.
 
-1.  Convince Tak to explore with Rut. [roll d20 + Charisma]
+1.  Convince Tak to explore with you. [roll d20 + Charisma]
 2.  Explore all the areas of the outpost in any order you desire.
 
 =======
 
 While The Burrow is primarily a military outpost and training ground, several civilian facilities and accommodations exist to create a small-town atmosphere.
 
-There are many enticing smells and sounds that catch Rut’s interest.
+There are many enticing smells and sounds that catch your interest.
 
-## 1. Convince Tak to explore with Rut. [roll d20 + Charisma]
+## 1. Convince Tak to explore with you. [roll d20 + Charisma]
 
 “Hey, Tak, we’ve been traveling for a long time. Let’s take a break and have some fun.”
 
@@ -82,27 +80,27 @@ If you are also playing Tak, you may choose to automatically roll either a 2 or 
 
 **If the result is 14 or less:** Tak shakes his head and wanders off on his own. “There’s work to be done here, we’ve got to help out the best we can.”
 
-**If the result is 15 or more:** Tak shrugs and follows along. “I am pretty tired after that journey. I could use a little break. But right after we report to the sergeant, ok?” Tak is with Rut for the rest of the page.
+**If the result is 15 or more:** Tak shrugs and follows along. “I am pretty tired after that journey. I could use a little break. But right after we report to the sergeant, ok?” Tak is with you for the rest of the page.
 
 ## 2. Explore all the areas of the outpost in any order you desire.
 
 Options include: Waterfall, Acornball Court, Cooking Site, Bunker
 
-If Tak is with Rut, Tak doesn’t explore the Fallen Tree or Supply Post areas on the main page.
+If Tak is with you, he doesn’t explore the Fallen Tree or Supply Post areas from his page.
 
 ### Waterfall
 
-If Tak is with Rut, you may choose to explore the Waterfall area on the main page first, rolling separately for Tak and Rut.
+If Tak is with you, you may choose to do his Waterfall challenge on the main calendar page first, rolling separately for Tak and Rut.
 
-If Tak is not with Rut, you may [roll d20 + Charisma]. If the result is 15 or higher, Tak happens to meet Rut here, and is with him for this area.
+If Tak is not with you, you may [roll d20 + Charisma]. If the result is 15 or higher, he happens to meet you here, and is with you for this area.
 
-At the Waterfall, Rut finds several people relaxing in the hot springs behind the falls. The walls of the spring are made of hardened dirt. They welcome him to come sit with them. If he does, [roll d20 + Constitution]. Reminder: Earth Molder
+At the Waterfall, you find several people relaxing in the hot springs behind the falls. The walls of the spring are made of hardened dirt. They welcome you to come sit with them. If you do, [roll d20 + Constitution]. Reminder: Earth Molder
 
-**If the result is 8 or less:** As he sits down, he sits on a sharp rock. They laugh at him. Reduce his health by 1.
+**If the result is 8 or less:** As you sit down, you sit on a sharp rock. They laugh at you. Reduce your health by 1.
 
-**If the result is between 9 and 16:** He sits down and makes a comfy spot for himself. He has a nice chat with the locals.
+**If the result is between 9 and 16:** You sit down and make a comfy spot for yourself. You have a nice chat with the locals.
 
-**If the result is 17 or more:** As he sits down, he molds the dirt beneath him to achieve the perfect levels of comfort. The others around him notice and ask how he did that. He molds the dirt around them too, increasing their comfort level. Gain 1 Virtue. If Tak is with him, they both restore 1 health.
+**If the result is 17 or more:** As you sit down, you mold the dirt beneath you to achieve the perfect levels of comfort. The others around you notice and ask how you did that. You mold the dirt around them too, increasing their comfort level. Gain 1 Virtue. If Tak is with you, you and Tak both restore 1 health.
 
 ### Acornball Court
 
