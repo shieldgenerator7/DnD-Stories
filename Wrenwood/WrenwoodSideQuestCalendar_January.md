@@ -1,4 +1,4 @@
-# Leaf Riders of Wrenwood Side Quest Calendar
+# Leaf Riders of Wrenwood Side Quest Calendar - January
 
 This side quest calendar is fan content designed to work with the 2024 Quest Calendar by Sundial Games. You can get it here:  
 https://sundialgamesllc.itch.io/2024-quest-calendar
@@ -15,9 +15,7 @@ It’s a good idea to record your rolls for ability checks. Sometimes they’re 
 
 Start the side quest calendar with the following character, Rut Quakehoof.
 
-# 01 – January
-
-## Rut Quakehoof – Earth Molder (Deer)
+# 0 - Rut Quakehoof – Earth Molder (Deer)
 
 Naturally talented at earth bending, he passed his classes at the Academy of Elemental Arts with flying colors. He crushed his competition, making them eat his dust. He got away with doing less than his best work, so he barely tries. He likes to hang out and relax, and thought that guard duty was a perfect opportunity to do just that.
 
@@ -25,35 +23,43 @@ Tak Redwind and him are buddies, but he annoys Tak with his persistent unwilling
 
 He was assigned to The Burrows, traveling there with Tak from Crownspire City after graduation.
 
-### Stats
+## Stats
 
 Max HP: 16  
 Atk: +1  
 Def: +3  
 Dmg: d8
 
-### Traits
+## Traits
 
 Str -1, Dex -2, **Con +4**  
 **Int +2**, Wis -2, Cha -1
 
-### Abilities
+## Abilities
 
-Earth Molder – Gain +2 to all rolls involving dirt. (In Combat, Out of Combat)
+### Earth Molder
 
-Hardy – Once per page: Reroll any d20 + Constitution roll and take the new result. (Out of Combat)
+Gain +2 to all rolls involving dirt. (In Combat, Out of Combat)
 
-Antlers – If your attack roll is at least 5 higher than the enemy’s defense value, increase the damage you deal by 1. (In Combat)
+### Hardy
 
-Stone Wall – If your defense roll is at least 5 higher than the opponent's attack value, reduce the damage you take by 1, minimum 0. (In Combat)
+Once per page: Reroll any d20 + Constitution roll and take the new result. (Out of Combat)
 
-### Equipment & Loot
+### Antlers
+
+If your attack roll is at least 5 higher than the enemy’s defense value, increase the damage you deal by 1. (In Combat)
+
+### Stone Wall
+
+If your defense roll is at least 5 higher than the opponent's attack value, reduce the damage you take by 1, minimum 0. (In Combat)
+
+## Equipment & Loot
 
 Weapon: Antlers
 
 Amber: 0
 
-## Monday, January 1, 2024
+# Monday, January 1, 2024
 
 You arrive at The Burrow early for your first day of duty. There is some time to explore and get familiar with the outpost before you must report to Sergeant Furfoot.
 
@@ -66,7 +72,7 @@ While The Burrow is primarily a military outpost and training ground, several ci
 
 There are many enticing smells and sounds that catch your interest.
 
-### 1. Convince Tak to explore with you. [roll d20 + Charisma]
+## 1. Convince Tak to explore with you. [roll d20 + Charisma]
 
 “Hey, Tak, we’ve been traveling for a long time. Let’s take a break and have some fun.”
 
@@ -76,7 +82,7 @@ If you are also playing Tak, you may choose to automatically roll either a 2 or 
 
 **If the result is 15 or more:** Tak shrugs and follows along. “I am pretty tired after that journey. I could use a little break. But right after we report to the sergeant, ok?”
 
-### 2. Explore all the areas of the outpost in any order you desire.
+## 2. Explore all the areas of the outpost in any order you desire.
 
 Options include: Waterfall, Acornball Court, Cooking Site, Bunker
 
@@ -138,7 +144,7 @@ If Tak is not with you, you may [roll d20 + Charisma]. If the result is 15 or hi
 
 **If the result is 11 or more:** You find your bunker and settle in. While you’re here, you take a nap. Gain a +2 bonus to the next roll you make on this page. If Tak is with you, he also gains a +2 bonus to the next roll he makes on his page.
 
-## Tuesday, January 2, 2024
+# Tuesday, January 2, 2024
 
 You stand at attention before Sergeant Furfoot as he gives you a list of your duties for the day. “Listen up, Rut. As a new member of The Burrows, you have much to prove. I have some important jobs for you to handle today.”
 
@@ -150,7 +156,7 @@ Do all the tasks:
 
 =======
 
-### 1. Patrol the perimeter. [roll d20 + Wisdom]
+## 1. Patrol the perimeter. [roll d20 + Wisdom]
 
 “I need you to patrol the outer perimeter of The Burrows. Keep an eye out for any signs of intruders or suspicious activity. Report back immediately if you spot anything out of the ordinary.”
 
@@ -162,7 +168,7 @@ On patrol, you find the compost pile before too long. It stinks like rotten eggs
 
 **If the result is 15 or more:** Walking the perimeter, you notice some trainees setting up some targets, some civilians digging new burrows, and a pick up game of Acornball. You mold targets out of dirt for the trainees, make a hole for the burrowers, and straighten up the Acornball court. Someone tips you 1 amber. Gain 1 Virtue.
 
-### 2. Decide what to do next
+## 2. Decide what to do next
 
 You are super distracted. You have tasks to do, but you want to relax.
 
@@ -170,7 +176,7 @@ If you decide to continue doing your tasks, meet up with Tak and do challenges \
 
 If you decide to not do the tasks, you continue patrolling.
 
-### 2. Hide from Sg Furfoot
+## 2. Hide from Sg Furfoot
 
 If you chose to do the assigned tasks, do them with Tak on his page. If you chose to continue patrolling, continue.
 
@@ -182,7 +188,7 @@ You may choose to automatically roll a 2 on this roll.
 
 **If the result is 13 or more:** You successfully hide from Sergeant Furfoot, who must still think you’re out on patrol. Gain a +2 bonus to your next roll on this page.
 
-### 3. Continue Patrolling
+## 3. Continue Patrolling
 
 If you chose to do the assigned tasks, do them with Tak on his page. If you chose to continue patrolling, continue.
 
@@ -194,17 +200,17 @@ You get up out of the shade and go for a quick jog around the perimeter. You sca
 
 **If the result is 15 or more:** While running, you notice a nice shady spot with lots of scenery. You take a nap. Restore 1 health.
 
-## Wednesday, January 3, 2024
+# Wednesday, January 3, 2024
 
 You get back to patrol. It’s not long before you a lady approaches you. “Hey, patrol person. Can you help me my find my son? He ran off into the woods and I’m worried about his safety.” She tells you his name and you go in the direction she says he went.
 
 . . . . . . . (3) . . . . .
 
-. . . . . . . | . . . . .
+. . . . . . . \| . . . . .
 
 (x) --- (1) --- (2)
 
-. . . . . . . | . . . . .
+. . . . . . . \| . . . . .
 
 . . . . . . . (4) . . . . .
 
@@ -212,7 +218,7 @@ Begin at the (x) and navigate around the map. Visit each numbered area along you
 
 =======
 
-### Area 1 – The Clearing
+## Area 1 – The Clearing
 
 As you go into the forest, you call out for the boy, [roll d20 + Charisma]:
 
@@ -220,11 +226,11 @@ As you go into the forest, you call out for the boy, [roll d20 + Charisma]:
 
 **If the result is 11 or more:** The boy calls back to you. Gain a +2 bonus to all rolls on this page.
 
-### Area 2 – The Cave
+## Area 2 – The Cave
 
 You peek into the dark cave. You don’t see any signs of the boy, but you do hear a strange scurrying sound. You stop to investigate. [You may explore further before returning here.]
 
-### Area 3 – The Forest
+## Area 3 – The Forest
 
 You go back into the forest. If you scan the trees to see if he’s in one, [roll d20 + Wisdom].
 
@@ -234,7 +240,7 @@ You go back into the forest. If you scan the trees to see if he’s in one, [rol
 
 **If the result is 15 or more:** You find him! He was hiding in the trees. You help him get down safely, and escort him back to the clearing.
 
-### Area 4 – The River
+## Area 4 – The River
 
 You go to the river. Its loud roar is relaxing.
 
@@ -248,7 +254,7 @@ You look in the river and find a toy floating downstream. The riverbed is made o
 
 **If the result is 13 or more:** You quickly grab the toy before it gets away. If the boy is with you, you hand it to him and he happily plays with it in the dirt. If the boy is not with you, gain a +2 bonus to all rolls on this page, and give the toy to him if you find him.
 
-## Thursday, January 4, 2024
+# Thursday, January 4, 2024
 
 A loud screech sound echoes from the cave. If the boy isn’t with you, he runs out of his hiding spot and hides behind you.
 
@@ -264,7 +270,7 @@ When you investigate the cave, you see tiny glowing red eyes. You hear another s
 
 =======
 
-### 1. Recall info about the red eyes. [roll d20 + Intelligence]
+## 1. Recall info about the red eyes. [roll d20 + Intelligence]
 
 If you try to remember if you’ve heard of anything like this, [roll d20 + Intelligence].
 
@@ -274,7 +280,7 @@ If you try to remember if you’ve heard of anything like this, [roll d20 + Inte
 
 **If the result is 15 or more:** You recognize them immediately as insects, and remember that they’re a major threat. Gain a +2 bonus to your next roll (\#2 below).
 
-### 2. Decide how to react
+## 2. Decide how to react
 
 Upon recognizing they’re a threat, you decide to take action. You can bellow to scare them off, seal off the cave entrance, or charge at them.
 
@@ -308,13 +314,13 @@ You give a battlecry, lower your antlers, and charge full force into the enemies
 
 **If the result is 15 or more:** During your charge, you take a spear wound. Reduce your health by 1. You then hit the first enemy, piercing right through its exoskeleton with your antler tines. Gain a +10 to your first attack roll on tomorrow’s page, and a +5 bonus to all other attack rolls on tomorrow’s page.
 
-## Friday, January 5, 2024
+# Friday, January 5, 2024
 
 The enemy insects approach you, and you engage in battle.
 
 =======
 
-### Combat
+## Combat
 
 Use the instructions, enemy stats, and amber collection rules from this day on the official calendar page, but play it as Rut battling the insects in the cave instead of Tak battling insects in a tunnel.
 
@@ -332,13 +338,13 @@ If you tried charging at the insects (\#2C) and passed (between 9 and 14), you g
 
 If you tried charging at the insects (\#2C) and succeeded (15 or more), you gain a +10 bonus to your first attack roll on this page, and a +5 bonus to all other attack rolls on this page.
 
-### Post-Combat
+## Post-Combat
 
 After the battle is over, if you are still alive, the enemies retreat back into the cave. You hand the boy back to his mother, who gives you 1 amber for saving him from the insects. Note “Boy Saved” somewhere for future reference.
 
 If you die, the enemies rush out of the cave and attack the little boy. If you have “Team Synergy” written down from earlier, or if Tak has “High Alert” written down from earlier, someone nearby hears the commotion and fends off the enemies; and then the mother uses a Health Potion on you. If not, then the enemies capture the little boy and he disappears, and you note “Missing Boy” somewhere for future reference.
 
-## Saturday, January 6
+# Saturday, January 6
 
 You escort the mother and the boy back to their burrow, and then report to Sg Furfoot.
 
@@ -348,11 +354,11 @@ You escort the mother and the boy back to their burrow, and then report to Sg Fu
 
 =======
 
-### 1. Report your findings to Sg Furfoot.
+## 1. Report your findings to Sg Furfoot.
 
 You report the incident to Sg Furfoot, who ponders it. “This report is most distressing. You must find recruit Tak and report this to Crownspire City at once!” He commends you for your bravery. You gain 1 amber.
 
-### 2. Find Tak. [roll d20 + Intellect] Reminder: Earth Molder
+## 2. Find Tak. [roll d20 + Intellect] Reminder: Earth Molder
 
 You search for Tak. Sg Furfoot gave you his last known location, which was underground. If you have “Team Synergy” written down from earlier, gain a +2 bonus to this roll. If Tak has “High Alert” written down from earlier, gain a +2 bonus to this roll.
 
@@ -362,7 +368,7 @@ You search for Tak. Sg Furfoot gave you his last known location, which was under
 
 **If the result is 17 or more:** You find Tak at the bottom of a hole. You help him out. Tak gains a +2 bonus to challenge \#1 and challenge \#2 on his page today. “Man, am I glad to see you,” Tak says.
 
-### 3. Prepare for your journey
+## 3. Prepare for your journey
 
 You and Tak prepare for your journey to Crownspire City.
 
@@ -380,7 +386,7 @@ If you helped people while on patrol (2024-01-02) and succeeded (15 or more), ad
 
 “Yep!” Tak pats his nuts. “Let’s go.”
 
-## Sunday, January 7
+# Sunday, January 7
 
 You and Tak travel to Crownspire City.
 
@@ -391,7 +397,7 @@ You and Tak travel to Crownspire City.
 
 =======
 
-### 1. Navigate along the road. [roll d20 + Wisdom]
+## 1. Navigate along the road. [roll d20 + Wisdom]
 
 You and Tak navigate along the road to make sure you don’t take a wrong turn.
 
@@ -405,7 +411,7 @@ Tak and Rut roll separately, and you take the higher of the two rolls.
 
 **If the result is 15 or more:** You easily navigate to the city, and along the way, you find some loot on the ground. Gain 1 amber. Tak also gains 1 amber.
 
-### 2. Run to the city. [roll d20 + Dexterity]
+## 2. Run to the city. [roll d20 + Dexterity]
 
 Tak uses his wind powers to get you both to the city faster.
 
@@ -419,7 +425,7 @@ If you tried to navigate (\#1) and passed (8 or more), you and Tak both get a +2
 
 **If the result is 15 or more:** Tak speeds you both up, but even faster than last time. Skip step \#3.
 
-### 3. Consume a Meal Ration.
+## 3. Consume a Meal Ration.
 
 “I’m getting hungry,” you say. “How about you?”
 
@@ -429,6 +435,6 @@ If you tried to navigate (\#1) and passed (8 or more), you and Tak both get a +2
 
 Consume 1 meal ration. If you don’t have any Meal Rations, reduce your health by 1, and reduce Tak’s health by 1.
 
-### 4. Arrive at Crownspire City.
+## 4. Arrive at Crownspire City.
 
 If you both survived the journey and made it to Crownspire City, both you and Tak may take a rest.
