@@ -1,4 +1,4 @@
-# Leaf Riders of Wrenwood Side Quest Calendar - January
+# Leaf Riders of Wrenwood Side Quest Calendar – January 2024
 
 This side quest calendar is fan content designed to work with the 2024 Quest Calendar by Sundial Games. The official calendar is required to play this side quest. You can get it here:  
 https://sundialgamesllc.itch.io/2024-quest-calendar
@@ -461,3 +461,95 @@ Consume 1 meal ration. If you don’t have any Meal Rations, reduce your health 
 ## 4. Arrive at Crownspire City.
 
 If you both survived the journey and made it to Crownspire City, both you and Tak may take a rest.
+
+# Monday, January 8 – Kindle Thymestew – Fire Starter (Rat)
+
+This week you will playing as Kindle Thymestew, the Fire Starter.
+
+Kindle Thymestew was born with a knack for starting fires, being quite the troublesome arsonist in her youth. Until one day someone introduced her to cooking, which gave her a constructive outlet for her fire powers. Over time she grew quite adept at cooking food to the exact right temperature, and eventually gained employment in the Crownspire royal kitchen as a stew brewer.
+
+She briefly attended the Academy of Elementary Arts, where she originally met Thatch Springwillow. They eventually became coworkers, and now they help each other out on a regular basis. Thatch delivers her fresh ingredients, and she helps him tend to his plants. However, things have gotten stressful in the kitchen lately with the Turning Leaf festival approaching, and she hasn’t had time to visit him and the tree lately.
+
+## Stats
+
+Max HP: 9  
+Atk: +3  
+Def: +1  
+Dmg: d10
+
+## Traits
+
+**Str +1**, Dex +0, **Con +2**  
+Int -3, **Wis +1**, Cha -1
+
+## Abilities
+
+### Cooking Adept
+
+Add +2 to all rolls involving cooking and handling ingredients. (Out of Combat)
+
+### Fireball
+
+Once per enemy: Take -2 from your Attack roll, and if you still hit, add +2 to your Damage roll.
+
+### Spells
+
+You have 1 Spell Point you can use to cast spells. Regain all used spell points on a Rest.
+
+### Campfire
+
+1 Spell Point: Create a Campfire.
+
+## Monday, January 8
+
+“You’re finally here, Double. We’ve got a lot of work to do, so get right to it. We have all those pots over there that need to have soup in them, on the double, Double.” – Master Chef Stemkin Longears, Head Chef
+
+1.  Fill the pots. [roll d20 + Strength]
+    1.  Boil the water. [roll d20 + Constitution] Reminder: Cooking Adept
+    2.  Add the ingredients. [roll d20 + Wisdom] Reminder: Cooking Adept
+
+=======
+
+Kindle takes great care to do her job well. She earned this position, and despite how her head chef treats her, she wants to impress him.
+
+### 1. Filling the pots. [roll d20 + Strength]
+
+You take each pot to the sink one at a time and fill it about three-quarters full of water.
+
+**If the result is 5 or less:** The pots are too heavy, and you drop one on your foot. Reduce your health by 1. Take a -3 penalty from the rest of your rolls on this page.
+
+**If the result is between 6 and 11:** The pots are really heavy, and you take too much time filling them. The head chef yells at you to go faster. Take a -2 penalty to the rest of your rolls on this page.
+
+**If the result is between 12 and 19:** The pots are heavy, but you manage to fill them in a reasonable amount of time. The head chef yells at you to go faster. Take a -1 penalty to the rest of your rolls on this page.
+
+**If the result is 20 or more:** You quickly fill the pots in no time at all. The head chef nods approval. Gain a +1 bonus to the rest of your rolls on this page.
+
+### 2. Boiling the water. [roll d20 + Constitution] Reminder: Cooking Adept
+
+You snap your fingers, lighting the tip of your index finger on fire. You touch it to the stove, lighting the fuel aflame. You do this for each of the pots, then you watch them boil.
+
+If the result is 5 or less: You take a long time to light the fires, and your finger hurts by the end. Reduce your health by 2. Take a -3 penalty to the rest of your rolls on this page.
+
+If the result is between 6 and 11: You take longer than usual to light the fires, and your finger hurts by the end. Reduce your health by 1. Take a -2 penalty to the rest of your rolls on this page.
+
+If the result is between 12 and 19: You light the fires and boil the water to a satisfactory degree, but your finger still gets a little burnt. Reduce your health by 1. The head chef yells at you to work faster. Take a -1 penalty to the rest of your rolls on this page.
+
+If the result is 20 or more: You light the fires so quickly that only the tip of your fur is singed. The head chef smiles as he watches you light the fires. Gain a +1 bonus to the rest of your rolls on this page.
+
+### 3. Adding the ingredients. [roll d20 + Wisdom] Reminder: Cooking Adept
+
+You find the cans of fresh ingredients ready for your use. You fill each pot with the ingredients, careful to add just the right amount.
+
+**If the result is 5 or less:** You add too much spice! The stew is ruined and you have to start over. The awful taste lingers in your mouth. Reduce your health by 1. Take a -3 penalty to the rest of your rolls on this page.
+
+**If the result is between 6 and 11:** You add the ingredients, and it’s passable, but not up to your standards. You throw the stew away. Take a -2 penalty to the rest of your rolls on this page.
+
+**If the result is between 12 and 19:** You add just the right amount of ingredients to pass the head chef’s taste testing standards. He shrugs and says, “Acceptable.” Take a -1 penalty to the rest of your rolls on this page.
+
+**If the result is 20 or more:** You add the perfect amount of ingredients, and the head chef’s eyebrows raise in amazement when he tastes it. Gain a +1 bonus to the rest of your rolls on this page.
+
+“Why does the head chef call you ‘Double’?” a fellow chef asks Kindle.
+
+“Because her name is ‘Times Two’.” another chef replied.
+
+“No, it’s *Thyme Stew*,” Kindle corrected.
