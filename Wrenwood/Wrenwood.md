@@ -33,6 +33,18 @@ This supplements pg26 of the rules.
 
 Anything in the past that did not significantly influence the present can be retroactively changed.
 
+## Boon Inspiration
+
+Boons are earned per character, and stay with the character that rolled the nat 20. Each character can earn multiple boons. However, only 1 boon can be applied to any given roll; you cannot apply multiple boons to the same roll.
+
+This overrides pg26 of the rules.
+
+## Meal Rations
+
+If you have taken damage from hunger that has not been healed yet, you may consume 1 Meal Ration to restore 1 hp. This basically means you can consume Meal Rations after the fact to get your hp back.
+
+This supplements pg25 of the rules.
+
 # Chapter 1 – Tak Redwind
 
 ======= 2024-01-01 =======
