@@ -45,6 +45,14 @@ If you have taken damage from hunger that has not been healed yet, you may consu
 
 This supplements pg25 of the rules.
 
+## Refusal to Pickpocket
+
+When you see a pickpocket symbol, you may forego rolling for amber to instead gain 1 Virtue.
+
+This supplements pg19 of the rules.
+
+Thanks to @DebMarie for this rule.
+
 # Chapter 1 – Tak Redwind
 
 ======= 2024-01-01 =======
