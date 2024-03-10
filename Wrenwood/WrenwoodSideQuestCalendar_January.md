@@ -505,14 +505,14 @@ You have 1 Spell Point you can use to cast spells. Regain all used spell points 
 “You’re finally here, Double. We’ve got a lot of work to do, so get right to it. We have all those pots over there that need to have soup in them, on the double, Double.” – Master Chef Stemkin Longears, Head Chef
 
 1.  Fill the pots. [roll d20 + Strength]
-    1.  Boil the water. [roll d20 + Constitution] Reminder: Cooking Adept
-    2.  Add the ingredients. [roll d20 + Wisdom] Reminder: Cooking Adept
+2.  Boil the water. [roll d20 + Constitution] Reminder: Cooking Adept
+3.  Add the ingredients. [roll d20 + Wisdom] Reminder: Cooking Adept
 
 =======
 
 Kindle takes great care to do her job well. She earned this position, and despite how her head chef treats her, she wants to impress him.
 
-### 1. Filling the pots. [roll d20 + Strength]
+### 1. Fill the pots. [roll d20 + Strength]
 
 You take each pot to the sink one at a time and fill it about three-quarters full of water.
 
@@ -524,19 +524,19 @@ You take each pot to the sink one at a time and fill it about three-quarters ful
 
 **If the result is 20 or more:** You quickly fill the pots in no time at all. The head chef nods approval. Gain a +1 bonus to the rest of your rolls on this page.
 
-### 2. Boiling the water. [roll d20 + Constitution] Reminder: Cooking Adept
+### 2. Boil the water. [roll d20 + Constitution] Reminder: Cooking Adept
 
 You snap your fingers, lighting the tip of your index finger on fire. You touch it to the stove, lighting the fuel aflame. You do this for each of the pots, then you watch them boil.
 
-If the result is 5 or less: You take a long time to light the fires, and your finger hurts by the end. Reduce your health by 2. Take a -3 penalty to the rest of your rolls on this page.
+**If the result is 5 or less:** You take a long time to light the fires, and your finger hurts by the end. Reduce your health by 2. Take a -3 penalty to the rest of your rolls on this page.
 
-If the result is between 6 and 11: You take longer than usual to light the fires, and your finger hurts by the end. Reduce your health by 1. Take a -2 penalty to the rest of your rolls on this page.
+**If the result is between 6 and 11:** You take longer than usual to light the fires, and your finger hurts by the end. Reduce your health by 1. Take a -2 penalty to the rest of your rolls on this page.
 
-If the result is between 12 and 19: You light the fires and boil the water to a satisfactory degree, but your finger still gets a little burnt. Reduce your health by 1. The head chef yells at you to work faster. Take a -1 penalty to the rest of your rolls on this page.
+**If the result is between 12 and 19:** You light the fires and boil the water to a satisfactory degree, but your finger still gets a little burnt. Reduce your health by 1. The head chef yells at you to work faster. Take a -1 penalty to the rest of your rolls on this page.
 
-If the result is 20 or more: You light the fires so quickly that only the tip of your fur is singed. The head chef smiles as he watches you light the fires. Gain a +1 bonus to the rest of your rolls on this page.
+**If the result is 20 or more:** You light the fires so quickly that only the tip of your fur is singed. The head chef smiles as he watches you light the fires. Gain a +1 bonus to the rest of your rolls on this page.
 
-### 3. Adding the ingredients. [roll d20 + Wisdom] Reminder: Cooking Adept
+### 3. Add the ingredients. [roll d20 + Wisdom] Reminder: Cooking Adept
 
 You find the cans of fresh ingredients ready for your use. You fill each pot with the ingredients, careful to add just the right amount.
 
@@ -553,3 +553,164 @@ You find the cans of fresh ingredients ready for your use. You fill each pot wit
 “Because her name is ‘Times Two’.” another chef replied.
 
 “No, it’s *Thyme Stew*,” Kindle corrected.
+
+# Tuesday, January 9
+
+The head chef announces to you that you are under review, and to make your next round of stews the best yet. Determined to succeed, you start the process again.
+
+=======
+
+Start with your bonus or penalty that you had yesterday. Do yesterday’s page again, but with the following special rules: Whenever you gain a bonus to your rolls, gain an additional +1 bonus and heal 1 health. Whenever you take damage from a roll, take an additional 1 damage.
+
+# Wednesday, January 10
+
+**This page overrides part of Thatch’s calendar page. Do this page first before doing the main calendar page.**
+
+Master Chef Stemkin Longears does an inspection of your work.
+
+1.  Add finishing touches. [roll d20 + Dexterity] Reminder: Cooking Adept
+2.  Keep composure. [roll d20 + Charisma]
+3.  Take a break.
+
+=======
+
+## 1. Add finishing touches. [roll d20 + Dexterity] Reminder: Cooking Adept
+
+Before the head chef gets here, you quickly add the final touches to your stew. The head chef takes a ladle and tastes the stew. He mulls it around in his mouth for a bit before giving a judgement.
+
+**If the result is 5 or less:** “Too much spice. You disappointment me.” Take a -3 penalty to the rest of your rolls on this page.
+
+**If the result is between 6 and 11:** “Amateurish. You have much to learn.” Take a -2 penalty to the rest of your rolls on this page.
+
+**If the result is between 12 and 19:** “Acceptable. Needs a pinch more parsley.” Take a -1 penalty to the rest of your rolls on this page.
+
+**If the result is 20 or more:** The head chef’s eyebrows raise. “Decent! This stew is ready to be served.” Skip step 2 and go directly to step 3.
+
+## 2. Keep composure. [roll d20 + Charisma]
+
+You need to keep your composure to keep form and not risk losing your job. The head chef looks at you for a response.
+
+You think of something to say, trying to keep your emotions in check.
+
+**If the result is 5 or less:** The heat, the constant pressure, and the long days of non-stop brewing have gotten to you, and the head chef’s words were the final straw. “It’s fine!” You say. “It’s a good stew, but you’re too picky and stuck up to realize it!”  
+“How dare you question my exquisite taste. Give me your apron and get out of here!”
+
+**If the result is between 6 and 11:** “I tried my best, sir, honest!” You say.  
+“Well if that’s your best, it’s rather pathetic. Get out my sight.”
+
+**If the result is between 12 and 19:** You don’t say anything, holding back what you really feel like saying.  
+“Well, I’ve seen enough. I’ll take it from here. Go take your lunch break.”
+
+**If the result is 20 or more:** “Yes, sir,” you say, “I’ll do better next time.”  
+“See that you do. This will have to do for now. The heat seems to be getting to you. Go take your lunch break.”
+
+## 3. Take a break.
+
+Go do Thatch’s page on the main calendar page now. If Thatch explores Area 4, come back and do Option A. If not, do Option B.
+
+### 3A. Thatch visits Area 4 (The Kitchen)
+
+Thatch meets you on your way out of the kitchen. “Hi Kindle!”
+
+“Hi Thatch. How can I help you?”
+
+“I need ingredients for some salves for the tree. Do you have any I could borrow?”
+
+“We’re fresh out. I can help you find some.”
+
+“I don’t want to impose if you’re busy.” Thatch turns to leave.
+
+“Nah, I need a break anyways.” Kindle follows him out of the kitchen.
+
+Kindle is with Thatch for the rest of the page. If Kindle is with Thatch for Area 5 and/or Area 6, roll separately for both Thatch and Kindle.
+
+### 3B. Kindle goes to the garden alone
+
+Kindle goes to the garden, but on the way, the hallway is really crowded. It is really difficult to move through it. [roll d20 + Charisma]
+
+**If the result is 10 or less:** You have difficulty moving through the hallway.
+
+**If the result is 11 or more:** You slip through the hallway without issue.
+
+# Thursday, January 11
+
+You go to the garden, where you run into Thatch. You tell Thatch about your day, and he asks for your help finding some plants.
+
+=======
+
+Do Thatch’s page, with the following special instructions. Roll separately for both Thatch and Kindle, and collect the combined total of the ingredients they harvested.
+
+If Kindle takes damage, she gets a -1 to the rest of her rolls on this page.  
+“This is really frustrating!” Kindle’s fingers light up.  
+Thatch blows the flames out. “Keep calm, Kindle. Take a deep breath. It’s ok.”
+
+# Friday, January 12
+
+Suddenly, the earth shakes and 4 carnivorous worms burst from the ground!
+
+=======
+
+Use the worms’ stats from Thatch’s page. There are 4 worms, instead of 2. Thatch battles 2 and Kindle battles 2. They each battle their worms separately, but with some options to help each other. They may use their abilities on the other’s rolls, may attack each other’s enemy, and may block damage for each other.
+
+Thatch may spend spell points to increase the values of Kindle’s rolls. For example, Thatch can cast Barkfur on Kindle to give her an extra d4 on all her defense rolls.
+
+Kindle may use her abilities on Thatch’s rolls. For example, she can use Fireball on Thatch’s attack, to give him a -2 on attack and a +2 on damage.
+
+They may attack each other’s enemy. However, they may only attack once per round. If an enemy wasn’t attacked, then the character it’s attacking has to roll for defense. Essentially, you sacrifice an option to attack a creature for the increased chance of fending off another creature.
+
+Example 1: Thatch misses his enemy or doesn’t deal enough damage to kill it, and is at 1 hp, so even if he blocks, he takes lethal damage. Kindle decides to attack his enemy instead, foregoing the opportunity to attack her own enemy this round. She attacks Thatch’s enemy, hits, rolls for damage, and kills it. Thatch no longer has to roll to block. Kindle rolls to block her enemy, and then takes the appropriate amount of damage.
+
+Thatch can block an attack for Kindle, and Kindle can block an attack for Thatch. To block an attack for someone, roll for defense and take the appropriate amount of damage. Each character can only block once per round.
+
+Example 2: Kindle attacks, hits, and kills her enemy, so she doesn’t have to block it. Thatch is at 1 hp and misses his enemy or hits it but doesn’t deal enough damage to kill it. Because Kindle already attacked her enemy this turn, she can’t attack Thatch’s enemy. But she didn’t block this turn yet, so she can block Thatch’s enemy. Kindle rolls for defense, and takes the appropriate amount of damage from Thatch’s enemy. And Thatch takes no damage, surviving to live another day.
+
+After combat is over, Thatch and Kindle collect amber separately, as shown on Thatch’s page. If Thatch and Kindle both deal damage to an enemy and kill it, then it counts as 1 enemy for both of them.
+
+# Saturday, January 13
+
+Thatch asks for your help making the salves. With your expertise in cooking and mixing ingredients, your skills will come quite in handy.
+
+=======
+
+Do Thatch’s page, with these special instructions.
+
+For step \#1, roll separately for Thatch and Kindle, taking the higher roll, and ignoring the lesser roll. Then give the penalty and/or bonus to both of them.
+
+For steps \#2, \#3, and \#4, choose whether to have Thatch or Kindle roll for it. You may switch out who you choose on the next roll. Remember that Kindle has Cooking Adept and gets +2 to steps \#2, \#3, and \#4, if you choose to have her roll.
+
+When you run out of ingredients, Thatch collects the reward based on how many salves were created. Thatch may split the reward with Kindle, but otherwise Kindle receives nothing.
+
+# Sunday, January 14
+
+Now that you made the salves, it is time to administer them to the tree.
+
+1.  Identify the fungus spots. [roll d20 + Intellect] Reminder: Investigator
+    1.  Treat the fungus spots. [roll d20 + Constitution]
+
+=======
+
+## 1. Identify the fungus spots. [roll d20 + Intellect] Reminder: Investigator
+
+Roll separately for Thatch and Kindle, and then take the higher roll, ignoring the lower roll. If you have “Detailed Notes” written down from earlier, Thatch gains a +2 bonus to this roll.
+
+**If the result is 12 or less:** You find hardly any of the fungus spots, but decide to treat what you can. Take a -2 penalty to \#2 below.
+
+**If the result is between 13 and 15:** You find some of the fungus spots, enough to start treating them. Take a -1 penalty to \#2 below.
+
+**If the result is between 16 and 18:** You find most of the fungus spots, and go ahead with the treatment. Gain a +1 bonus to \#2 below.
+
+**If the result is 19 or more:** You find almost all of the fungus spots and start treatment immediately. Gain a +2 bonus to \#2 below.
+
+## 2. Treat the fungus spots. [roll d20 + Constitution]
+
+The fungus spots release a stench when you pour the salves on them. Roll separately for Thatch and Kindle.
+
+**If the result is 8 or below:** The stench almost makes you pass out. Reduce your health by 3.
+
+**If the result is between 9 and 11:** The stench is really powerful. Reduce your health by 2.
+
+**If the result is between 12 and 14:** The stench is strong, but you push through. Reduce your health by 1.
+
+**If the result is 15 or more:** You treat all the fungal spots without getting sick.
+
+If either Thatch or Kindle is still standing, they work until all the fungal spots have been treated. Now all that’s left to do is wait for the salves to do their job.
