@@ -3494,7 +3494,7 @@ Reesu tiptoed gleefully to the tent. She opened a flap and was greeted by the mo
 
 She used her acid-proof tentacles to scrape as much fluid into the potion bottles as she could. She shook them up a bit to hopefully dissolve the bigger chunks, but she could only do so much.
 
-Eventually, she puked as well, which just provided more ammo to her potion bottles. Still, the potions looked a bit too much like puke and not enough like acid. “Nothing a minor illusion can’t fix.” She smiled as stuck a strand of fleece on each of the bottles. “What you see is not what you get!” The potions turned from dark brown with bits of orange into a smooth, solid green. “Perfect…” She brought the three potion bottles to Sui.
+Eventually, she puked as well, which just provided more ammo to her potion bottles. Still, the potions looked a bit too much like puke and not enough like acid. “Nothing a minor illusion can’t fix.” She smiled as she stuck a strand of fleece on each of the bottles. “What you see is not what you get!” The potions turned from dark brown with bits of orange into a smooth, solid green. “Perfect…” She brought the three potion bottles to Sui.
 
 “What is that?” He plugged his nose.
 
@@ -7586,6 +7586,8 @@ There was a drop of saliva at the door threshold, a pair of underwear under the 
 
 Astalir put it all together, sending a flicker of light up his antler that became an illusion of Gra and Reesu.
 
+=======
+
 Reesu opened the door, holding Gra by the hand. She ran a finger down his chest, drooling. “I can’t wait to show you a ‘secret’ I’ve been hiding.” A drop of drool hit the floor.
 
 “Reesu, what is this about?” Gra shut the door and sat on the bed.
@@ -7658,13 +7660,13 @@ Gra looked into Reesu’s eyes. “Thank you.” He knelt on the ground in front
 
 “Ok now you’re just stalling.” Reesu plucked out one of her eyelashes and stuck it into something sticky. She chanted some ancient words while holding Gra in the air. They both vanished. Then the claw marks on the door appeared and the door shut, but only enough to be ajar.
 
+=======
+
 Astalir’s heart raced. How fast was Reesu? Could he catch her? It didn’t matter if he couldn’t see them. But Reesu is sloppy and Gra is clever. Surely there’s some way he can catch them.
 
 Astalir ran outside to where he saw Gale. “Gale! Gale!” He shook him awake.
 
-“What is happening? Is earth quake?” The yinglet rubbed his eyes.
-
-“Deer friend, what you do? Why wake up yinglet so early?”
+“What is happening? Is earth quake?” The yinglet rubbed his eyes. “Deer friend, what you do? Why wake up yinglet so early?”
 
 “Gra’s been kidnapped! We have to save him!”
 
@@ -7686,6 +7688,8 @@ Astalir set Gale down. He swished his head around, lighting up the ends of his a
 
 Out there on the fabric of the sea, a small dot appeared. It was boat-shaped, because it was a boat. And on that boat, stood three figures on the deck. Captain Johnny stood at the wheel, a white shirtless wolf howled in the crow’s nest, Reesu splashed in puddles on the deck, and there was Gra, leaning on the railing, staring back at Astalir.
 
+=======
+
 Gra sighed. “Reesu, I have a question.”
 
 “Sure, Gra-poo?” She spat out water like a fountain onto the deck, mopping it around with her foot.
@@ -7703,6 +7707,8 @@ Gra sighed. “Reesu, I have a question.”
 Reesu’s playful water dropped suddenly to the floor as she hung her head. She looked to the side. Then, as suddenly as it had stopped, the waterworks jumped back to life. “Of course not, Gra-poo! You’re the best there is, and I want *you*. You should be honored to be chosen for this!”
 
 “Hmmm…” Gra nodded contemplatively.
+
+=======
 
 Astalir lowered his water telescope.
 
@@ -7830,6 +7836,8 @@ Then, in one swipe, his whole body disappeared.
 
 “We have to be quiet now.” Astalir shushed. Silently, they approached the boat.
 
+=======
+
 Gra stared out at the ocean. “I wonder what Astalir will do when he finds I’m gone?”
 
 “Look at this!” Reesu called out to Gra.
@@ -7844,7 +7852,7 @@ This time Reesu was doing twirls in the middle of a stylized water tornado.
 
 “Look at what?”
 
-“Oh, you’re trick! It’s very lovely.”
+“Oh, your trick! It’s very lovely.”
 
 “No, I wasn’t born yesterday. What are you looking at?”
 
@@ -7882,9 +7890,9 @@ Gra stood back.
 
 “Did you expect him not to find us? You had to know he’d find us eventually, he’s a smart deer.”
 
-Reesu laughed. “Smart, you say? Well it wasn’t very smart of him to try to challenge me on the ocean! Because my patron, you see, is the GOD OF THE OCEAN.”
+Reesu laughed. “Smart, you say? Well it wasn’t very smart of him to try to challenge me, on the ocean no less! Because my patron, you see, is the GOD OF THE OCEAN.”
 
-She raised up her hands and her tentacles became visible. The crackled with energy as storm clouds gathered around her. The waves jumped higher and the water roughened, rocking the boat with nauseating force.
+She raised up her hands and her tentacles became visible. They crackled with energy as storm clouds gathered around her. The waves jumped higher and the water roughened, rocking the boat with nauseating force.
 
 “Reesu! Please! No!”
 
@@ -7898,7 +7906,7 @@ She raised up her hands and her tentacles became visible. The crackled with ener
 
 “Oh you will anyway.” Reesu smiled. “Goodbye, Astalir, it was nice pranking you.”
 
-With a push of her arms and tentacles, she commanded the ocean. It responded by swelling up into a giant wave, taller than any wave Gra had ever seen, taller than any building, even. Higher than the Aarakroca was when Reesu threw a wolf at it. Higher than Sui had ever flown with his new dragon wings. Higher than Gale ever got. Higher than Astalir had ever floated in his bubble coat. It was the tallest wave ever.
+With a push of her arms and tentacles, she commanded the ocean. It responded by swelling up into a giant wave, taller than any wave Gra had ever seen, taller than any building, even. Higher than the Aarakroca was flying when Reesu threw a wolf at it. Higher than Sui had ever flown with his new dragon wings. Higher than Gale ever got. Higher than Astalir had ever floated in his bubble coat. It was the tallest wave ever.
 
 And it came crashing down on top of the ice path. It crushed it to shards, splintering it in all directions. The giant wave turned to massive rapids that spun the ice shards in all directions, violently shaking it to pieces.
 
@@ -7910,7 +7918,7 @@ The remnants of the ice path were no more. There was no evidence they were even 
 
 Reesu pulled him back. “No, Astalir, there will be no saving you this time. Gra is a bit tied up at the moment.” She dropped Gra on the deck.
 
-He slouched forward, drowning his face in his hands. “A… Astalir…”
+He slouched forward, drowning his face in his hands. “As… Astalir…”
 
 “Are you… crying?” Reesu scoffed.
 
