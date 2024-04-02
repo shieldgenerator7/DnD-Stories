@@ -7556,11 +7556,11 @@ Then Astalir woke up. The alleyway was empty, save for a passing cat. Astalir go
 
 It was cold and brisk when Astalir woke up. The sun was threatening to overtake the night, but the bitter chill of the morning wind pushed it back. A shiver crept up Astalir’s neck, piercing his fur. Something was wrong.
 
-That demon mayor who kept harassing him was nowhere to be seen, but neither was anyone else. The streets were entirely empty, in an eerie way, even for this time of day.
+That demon of a mayor who kept harassing him was nowhere to be seen, but neither was anyone else. The streets were entirely empty, in an eerie way, even for this time of day.
 
 Astalir got up from his grass spot and looked around. He found Gale sleeping in a similar grass spot, but no one else. He peeked through windows, but none showed any signs of life.
 
-It’s probably just too early, right?
+It’s probably just a bit too early, right?
 
 Astalir entered the tavern. The fireplace was filled with ash, not even warm to the touch. The tables and chairs lay in haphazard arrangements in the dining hall, but had no occupants. Not even the bar stools boasted business. The concierge desk was likewise vacant.
 
@@ -7590,9 +7590,9 @@ Astalir put it all together, sending a flicker of light up his antler that becam
 
 Reesu opened the door, holding Gra by the hand. She ran a finger down his chest, drooling. “I can’t wait to show you a ‘secret’ I’ve been hiding.” A drop of drool hit the floor.
 
-“Reesu, what is this about?” Gra shut the door and sat on the bed.
+“Reesu, what’s this all about?” Gra shut the door and sat on the bed.
 
-“Well, Gra, it’s that time of century, and I’ve chosen you.” Reesu wiggled her legs provocatively and a piece of cloth shied down her legs from under her dress. The underwear fell to the floor. She sat on his lap. “Now that I’ve shown you *my* secret, it’s time for you to show me *yours*.”
+“Well, Gra, it’s that time of century, and I’ve chosen you.” Reesu wiggled her legs provocatively and a piece of cloth shimmied down her legs from under her dress. The underwear fell to the floor. She sat on his lap. “Now that I’ve shown you *my* secret, it’s time for you to show me *yours*.”
 
 “Reesu, I don’t think this is a good idea.” Gra pushed her away, but she stayed firm on his lap.
 
@@ -7608,9 +7608,9 @@ Reesu gave him an angry glare.
 
 “Well, you know, the party is probably in the other rooms, and they can probably hear everything we’re saying. I don’t want them to know… what we’re up to, you know?”
 
-Reesu nodded. “I see.”
+Reesu nodded. “Hmmm, hmm. I see.”
 
-“So how about we wait until after this mission is over, then we again talk about it then.” Gra set Reesu on the ground.
+“So how about we wait until after this mission is over, then we can talk about it then.” Gra set Reesu on the ground.
 
 “Or!” Reesu lit up. “We can run away, to someplace where the party can’t find us, and then do it!”
 
@@ -7620,7 +7620,7 @@ Reesu nodded. “I see.”
 
 “Because… in my culture, you can’t fornicate… until your parents approve your mate.”
 
-“Your parents ABANDONED you!”
+“Well, your parents ABANDONED you!”
 
 “Well… them’s the rules. And you know me, I always follow the rules.”
 
@@ -7636,11 +7636,11 @@ Gra gave her an uneasy smile.
 
 “Wait wait wait!” Gra flung his arms around.
 
-“What?”
+“What now?”
 
 “What about Astalir?”
 
-“What about Astalir?” Reesu returned.
+“What *about* Astalir?” Reesu returned.
 
 “We can’t leave without telling him where we’re going!”
 
@@ -7658,7 +7658,7 @@ Astalir jolted back.
 
 Gra looked into Reesu’s eyes. “Thank you.” He knelt on the ground in front of the end table and wrote out the note, then packed the quill back in his bag. “Oh wait! Shouldn’t we also write a note to Silber, to discharge him from his duties?”
 
-“Ok now you’re just stalling.” Reesu plucked out one of her eyelashes and stuck it into something sticky. She chanted some ancient words while holding Gra in the air. They both vanished. Then the claw marks on the door appeared and the door shut, but only enough to be ajar.
+“Ok now you’re just stalling.” Reesu plucked out one of her eyelashes and stuck it into something sticky. She chanted some ancient words while holding Gra in the air. They both vanished. The eyelash in the gum arabic fell to the floor. Then the claw marks on the door appeared and the door shut, but only enough to be ajar.
 
 =======
 
@@ -7672,7 +7672,7 @@ Astalir ran outside to where he saw Gale. “Gale! Gale!” He shook him awake.
 
 “Oh no! Who kidnap Gra?!”
 
-Astalir looked away. “I don’t know yet. You in?.”
+Astalir looked away. “I don’t know yet. You in?”
 
 “Gale help deer. Let us go!”
 
@@ -7682,9 +7682,9 @@ The trail was easy to follow. Reesu left footprints in the mud, and where there 
 
 Gale rode Astalir all the way down the trail, granting him Shield of Faith to help him escape any random encounters along the way.
 
-Finally they got to the trail’s end: the beach that Captain Johnny used to park his ship. Unfortunately, it was nowhere on the beach.
+Finally they got to the end of the trail: the beach that Captain Johnny used to park his ship. Unfortunately, it was nowhere to be seen.
 
-Astalir set Gale down. He swished his head around, lighting up the ends of his antler tines. The beach water responded by floating up as a bubble, then elongating and stretching into a cylinder. It floated up to Astalir’s eye, and he looked through it. Changing the shape of the front and back slightly, he adjusted it to see far away.
+Astalir set down Gale. He swished his head around, lighting up the ends of his antler tines. The beach water responded by floating up as a bubble, then elongating as it stretched into a cylinder. It floated up to Astalir’s eye, and he looked through it. Changing the shape of the front and back slightly, he adjusted it to see far away.
 
 Out there on the fabric of the sea, a small dot appeared. It was boat-shaped, because it was a boat. And on that boat, stood three figures on the deck. Captain Johnny stood at the wheel, a white shirtless wolf howled in the crow’s nest, Reesu splashed in puddles on the deck, and there was Gra, leaning on the railing, staring back at Astalir.
 
@@ -7692,7 +7692,11 @@ Out there on the fabric of the sea, a small dot appeared. It was boat-shaped, be
 
 Gra sighed. “Reesu, I have a question.”
 
-“Sure, Gra-poo?” She spat out water like a fountain onto the deck, mopping it around with her foot.
+“Yes, my hunk?”
+
+Gra sighed.
+
+She spat out water like a fountain onto the deck, mopping it around with her foot.
 
 “Why me?”
 
@@ -7704,7 +7708,7 @@ Gra sighed. “Reesu, I have a question.”
 
 “So why me? Why did you feel like I was the perfect one? Surely you’ve met better candidates in that 15 years?”
 
-Reesu’s playful water dropped suddenly to the floor as she hung her head. She looked to the side. Then, as suddenly as it had stopped, the waterworks jumped back to life. “Of course not, Gra-poo! You’re the best there is, and I want *you*. You should be honored to be chosen for this!”
+Reesu’s playful water dropped suddenly to the floor as she hung her head. She looked to the side. Then, as suddenly as it had stopped, the waterworks jumped back to life. “Of course not, my hunk! You’re the best there is, and I want *you*. You should be honored to be chosen for this!”
 
 “Hmmm…” Gra nodded contemplatively.
 
@@ -7716,7 +7720,7 @@ Astalir lowered his water telescope.
 
 Astalir turned the water telescope to ice, and dropped it in Gale’s hand.
 
-“Oh! I sees them! They are on boat!”
+“Oh! I sees them! They are on boat! They is has Reesu too!”
 
 “We have to get to them.” Astalir said.
 
@@ -7724,11 +7728,11 @@ Astalir turned the water telescope to ice, and dropped it in Gale’s hand.
 
 “We’ll walk.”
 
-“How is possible, there too many water…”
+“How is possible, there is too many water…”
 
 Astalir hoisted Gale up onto his antlers and charged forward, jumping off the beach into the water below. But his antlers lit up, and the water beneath his hooves turned to ice. He slipped a little bit. “Gale!”
 
-“I has got you.” Gale touched a hand down onto the top of Astalir’s head. “My yinglet god guide you!”
+“I has got you.” Gale touched a hand down onto the top of Astalir’s head. “This yinglet has guided you! What is doing? Don’t waste time! Go!”
 
 “Thanks, buddy.” Astalir ran forward, turning the water to ice as he went.
 
@@ -7736,7 +7740,7 @@ Gale held the ice telescope. “We get closer! Keep up the running!”
 
 Astalir’s heart surged with hope. He was going to rescue his friend.
 
-“When we get to boat, what we do? How we stop wolf who kidnap Gra?”
+“When we get to boat, what we do? How to stop wolf who kidnap Gra and Reesu?”
 
 Astalir was silent.
 
@@ -7764,11 +7768,11 @@ Gale was silent.
 
 “Gale! I need you!”
 
-“Gale no fight Reesu. Reesu too strong! Drown yinglet!”
+“Gale no fight Reesu. Reesu too strong! Drown Gale!”
 
 “Gale, please. I can’t do this without you.”
 
-“Drown Gra, drown deer, drown yinglet!” Gale desperately tried in vain to escape his perch in Astalir’s antlers, but Astalir moved them around and held him in place with his telekinesis.
+“Drown Gra, drown deer, drown Gale!” Gale desperately tried in vain to escape his perch in Astalir’s antlers, but Astalir moved them around and held him in place with his telekinesis.
 
 “Gale please!” Astalir’s legs spread apart as he slowly slipped.
 
@@ -7780,7 +7784,7 @@ Astalir took a deep breath. “I’m sorry, Gale. I shouldn’t have deceived yo
 
 Gale stopped squirming. “What deer friend saying?”
 
-Astalir lowered his antlers, setting Gale on the patch of ice. He slipped all the way onto his belly as he did so. Struggling to get back up, he continued. “I can take you back to the shore. I don’t want to force you to do something you don’t want to do. Reesu is a great and terrible force. And if I have to face her alone, so be it. I won’t hold any ill will against you. But this is something I have to do, for Gra.”
+Astalir lowered his antlers, setting Gale on the patch of ice. He slipped all the way onto his belly as he did so. Struggling to get back up, he continued. “I can take you back to the shore. I don’t want to force you to do something you don’t want to do. Reesu… she’s a great and terrible force. And if I have to face her alone, so be it. I won’t hold any ill will against you. But this is something I have to do, for Gra.”
 
 Gale looked down for a moment. “Gale want go back…” He fidgeted with his fingers. “But Gale no want deer friend be sad. No want Gra in danger.”
 
@@ -7792,7 +7796,7 @@ Gale looked down for a moment. “Gale want go back…” He fidgeted with his f
 
 “Gale is brave yinglet!” He jumped up and climbed up Astalir to his antlers. “Eat the bread! Gale is in!”
 
-Astalir jumped for joy. “Let’s go!” He charged back towards the bread—I mean boat.
+Astalir jumped for joy. “Let’s go!” He charged back towards the bread—I mean the boat.
 
 As Astalir ran forward, constructing an ice bridge as he went, Gale navigated with the ice telescope, pointing Astalir in the direction of the boat.
 
@@ -7824,15 +7828,15 @@ Gale grabbed onto the floating disembodied antlers while he could. “Deer frien
 
 The antlers disappeared too, but Gale didn’t lose his grip.
 
-“What Gale floating on?” Gale looked down at his hand. It gripped something, but he couldn’t see it. Then his hand disappeared. “*Gale* disappear too!” He screamed.
+“What Gale floating on?” Gale looked down at his hand. It gripped something, but he couldn’t see it. Then his hand disappeared. “*Gale* disappear *too*!” He screamed.
 
 Then, in one swipe, his whole body disappeared.
 
-“Yinglet, invisible?”
+“Gale, invisible?”
 
 “Yep, a little trick I learned from Reesu.”
 
-“We have fighting chance now!” Gale exclaimed.
+“We have the fighting chance now!” Gale exclaimed.
 
 “We have to be quiet now.” Astalir shushed. Silently, they approached the boat.
 
@@ -7848,13 +7852,13 @@ Gra turned around to glance at Reesu. She was doing a trick with water where it 
 
 This time Reesu was doing twirls in the middle of a stylized water tornado.
 
-“Well, would you look at that.” Gra said. Then he turned back to the water. Something flashed in the distance. Then it got closer, and he could tell that it was ice! Ice forming its way to the boat! “Would you at that!” He called out excitedly.
+“Well, would you look at that.” Gra said as he turned back to the water. Something flashed in the distance. Then it got closer, and he could tell that it was ice! Ice forming its way to the boat! “Would you look at that!” He called out excitedly.
 
 “Look at what?”
 
 “Oh, your trick! It’s very lovely.”
 
-“No, I wasn’t born yesterday. What are you looking at?”
+“No, no, no… I wasn’t born yesterday. What are you looking at?”
 
 “Nothing.” Gra shrugged.
 
@@ -7868,7 +7872,7 @@ She pushed him away so she could see, but concentrating on him kept her from bei
 
 “Land ahoy?” Captain Johnny asked. “We’re not supposed to reach Canadia for another day or two!”
 
-“Well whatever it is, it’s reaching us!”
+“Well whatever it is, it’s reaching us! And fast!”
 
 “What!” Reesu threw Gra overboard and focused on the horizon. She spotted a trail of ice rapidly freezing its way to the boat. She squinted her eyes at it. “Astalir!”
 
@@ -7876,11 +7880,11 @@ Gra floated up and out of the water, getting deposited on the deck by a watery t
 
 “Gra! You dimwit! You led Astalir right to us!”
 
-“Reesu, I didn’t want to tell you this, but I don’t want to go with you.”
+“Reesu, I don’t know how to tell you this, but I don’t want to go with you.”
 
 Reesu slapped him. “I already knew that!” She crossed her arms and pouted. “But you didn’t have to say it out loud…”
 
-“It’s ok, Reesu. I’ll just forget this ever happened and we can go back to being friends again. Astalir and I will continue the mission, and—”
+“It’s ok, Reesu. I’ll just forget that this ever happened and we can go back to being friends again. Astalir and I will continue the mission, and—”
 
 “No!” Reesu yelled. “You and Astalir aren’t doing anything together! You and *I* are going to do stuff together!”
 
@@ -7888,15 +7892,15 @@ Gra stood back.
 
 “I can’t believe you led Astalir right to us.”
 
-“Did you expect him not to find us? You had to know he’d find us eventually, he’s a smart deer.”
+“Did you expect him to not find us? You had to have known he’d find us eventually, he’s a smart deer.”
 
-Reesu laughed. “Smart, you say? Well it wasn’t very smart of him to try to challenge me, on the ocean no less! Because my patron, you see, is the GOD OF THE OCEAN.”
+Reesu laughed. “Smart, you say? Well it wasn’t very smart of him to try and challenge me, on the ocean no less! Because, you see, I *control* the ocean.”
 
 She raised up her hands and her tentacles became visible. They crackled with energy as storm clouds gathered around her. The waves jumped higher and the water roughened, rocking the boat with nauseating force.
 
 “Reesu! Please! No!”
 
-“You leave me no choice, Gra. You should’ve told Astalir to fuck off and leave you alone.”
+“You leave me no choice, Gra. You should’ve told Astalir to fuck off! And leave you alone.”
 
 “No! He doesn’t deserve it!”
 
@@ -7904,9 +7908,9 @@ She raised up her hands and her tentacles became visible. They crackled with ene
 
 “Reesu, please!” Gra got down on his hands and knees. “I’ll do anything you ask, just spare his life!”
 
-“Oh you will anyway.” Reesu smiled. “Goodbye, Astalir, it was nice pranking you.”
+“Don’t worry, you will anyways.” Reesu smiled. “Goodbye, Astalir, it was nice playing with you.”
 
-With a push of her arms and tentacles, she commanded the ocean. It responded by swelling up into a giant wave, taller than any wave Gra had ever seen, taller than any building, even. Higher than the Aarakroca was flying when Reesu threw a wolf at it. Higher than Sui had ever flown with his new dragon wings. Higher than Gale ever got. Higher than Astalir had ever floated in his bubble coat. It was the tallest wave ever.
+With a push of her arms and tentacles, she commanded the ocean. It responded by swelling up into a giant wave, taller than any wave Gra had ever seen, taller than any building, even. Higher than the Aarakroca was flying when Reesu threw a wolf at it. Higher than Sui had ever flown with his new dragon wings. Higher than Gale had ever gotten. Higher than Astalir had ever floated in his bubble coat. It was the tallest wave ever.
 
 And it came crashing down on top of the ice path. It crushed it to shards, splintering it in all directions. The giant wave turned to massive rapids that spun the ice shards in all directions, violently shaking it to pieces.
 
@@ -7916,15 +7920,15 @@ The remnants of the ice path were no more. There was no evidence they were even 
 
 “Astalir! Astaliiiir!” Gra yelled, grabbing onto the railing and vaulting over it. “I’ll save you buddy!”
 
-Reesu pulled him back. “No, Astalir, there will be no saving you this time. Gra is a bit tied up at the moment.” She dropped Gra on the deck.
+Reesu pulled him back. “No, Astalir, there will be no saving you this time. Gra is a little… bit tied up at the moment.” She dropped Gra on the deck.
 
 He slouched forward, drowning his face in his hands. “As… Astalir…”
 
 “Are you… crying?” Reesu scoffed.
 
-“He was my friend. I swore I’d protect him. I swore to him that nothing bad would happen to him. I failed him.” He pounded the floor. “This shouldn’t have happened.”
+“He was my friend. I swore to protect him. I swore to him that nothing bad would happen to him. I failed him.” He pounded the floor. “This shouldn’t have happened.”
 
-“No, it shouldn’t have.” Reesu stood over Gra. “But you had to tell him where we were going, didn’t you? You’re such a fool, Gra.”
+“You’re right, it shouldn’t have.” Reesu stood over Gra. “But you had to tell him where we were going, didn’t you? You’re such a fool, Gra.”
 
 Gra looked up at Reesu, an angry tear in his eye.
 
