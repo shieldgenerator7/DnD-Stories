@@ -192,17 +192,9 @@ At level 7, you can more easily absorb information about spells. As an action, y
 
 As an action, you can study an ongoing spell effect. While looking at a spell effect that you used Reality Observer on within the past minute, you can use your action to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level. On a success, you figure out how to cast the spell and can cast the new spell without having to complete a long rest. On a failure, you don’t figure out the spell. Either way, you regain 1 spell point.
 
-# Rejuvenation
-
-At level 9, when you cast a spell from your bonded schools, you heal for the number of spell points spent to cast it.
-
 # Arcane Survival
 
 At level 9, you can channel your magic into keeping yourself safe. Whenever you must make a saving throw, you can spend spell points to decrease the DC by 1 per spell point spent.
-
-# Refill
-
-At level 10, you can replenish your spell points. As a bonus action, regain spell points equal to your current health. Once you use this feature, you can’t do so again until you finish a short or long rest.
 
 # Energy Store
 
@@ -212,15 +204,9 @@ At level 11, when you use an action to dispel a spell you cast, you gain back sp
 
 At level 13, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option.
 
-# Free Modding
-
-At level 15, you figure out how to freely modify your spells. Whenever you add a Bond Affinity option to a spell, you may apply any number of additional Bond Affinity options to it, as long as you can pay the extra spell point cost.
-
 # Reality Command
 
-At level 20, you can rally your energy into one big spell. When you add two or more Bond Affinity options to a spell, you may choose to ignore the spell point cost of the Bond Affinity options, and pay only the spell’s spell point cost.
-
-Once you use this feature, you must finish a long rest before you can use it again.
+At level 20, you can freely modify your spells. When you cast a spell in your bounded schools, you may apply one or more Bond Affinity options to it for free.
 
 # Bending Styles
 
