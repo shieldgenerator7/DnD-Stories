@@ -200,9 +200,9 @@ At level 9, when you cast a spell from your bonded schools, you heal for the num
 
 At level 9, you can channel your magic into keeping yourself safe. Whenever you must make a saving throw, you can spend spell points to decrease the DC by 1 per spell point spent.
 
-# Free Modding
+# Refill
 
-At level 10, you figure out how to freely modify your spells. Whenever you add a Bond Affinity option to a spell, you may apply any number of additional Bond Affinity options to it, as long as you can pay the extra spell point cost.
+At level 10, you can replenish your spell points. As a bonus action, regain spell points equal to your current health. Once you use this feature, you can’t do so again until you finish a short or long rest.
 
 # Energy Store
 
@@ -212,9 +212,9 @@ At level 11, when you use an action to dispel a spell you cast, you gain back sp
 
 At level 13, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option.
 
-# Refill
+# Free Modding
 
-At level 15, you can replenish your spell points. As a bonus action, regain spell points equal to your current health. Once you use this feature, you can’t do so again until you finish a short or long rest.
+At level 15, you figure out how to freely modify your spells. Whenever you add a Bond Affinity option to a spell, you may apply any number of additional Bond Affinity options to it, as long as you can pay the extra spell point cost.
 
 # Reality Command
 
