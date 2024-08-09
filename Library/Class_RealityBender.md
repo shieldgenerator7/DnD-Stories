@@ -451,21 +451,21 @@ At level 3, you can always include yourself. You gain the following Bond Affinit
 
 -   Self-Inclusive: Also target yourself with this spell cast if it targets one or more other creatures.
 
-### Unfaltering
+### Center of Attention
 
-At level 5, whenever you roll for an ability check or saving throw, you may add your spellcasting ability modifier to it.
+At level 5, you learn to harness attention. Whenever a spell targets you, you regain 1 spell point.
 
-### Quick
+### Quick Self Cast
 
 At level 7, you can quickly protect yourself from any threat. As a reaction, you can cast a spell that targets you, if that spell normally has a cast time of 1 action or 1 bonus action.
 
 ### Selfish
 
-At level 11, you can redirect magic into you. As a reaction, change a spell’s target to yourself, if it is targeting another creature. Regain spell points equal to the spell’s casted level.
+At level 11, you can redirect magic into you. As a reaction, you may change a spell’s target to yourself, if it is targeting one or more other creatures. If you do, you may spend 2 spell points to use your Quick Self Cast feature as part of the same reaction.
 
 ### Identity
 
-At level 15, you can modify yourself even more easily. Whenever you cast a spell that targets yourself, you can double the result of any and all rolls for that spell.
+At level 15, you can modify yourself even more easily. Whenever you cast a spell that targets yourself, it costs half as many spell points, rounded down. Additionally, you can set any and all die rolls of the spell to any value possible for that die.
 
 ## Luck Bender
 
