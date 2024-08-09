@@ -76,7 +76,9 @@ The class table shows how many spell points you have to cast your spells of 1st 
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the tether range, then the spell ends automatically.
 
-As an action, you may dispel any spell that you had casted from your bonded schools.
+## Dispelling Spells
+
+As an action, you may dispel any ongoing spell that you have cast.
 
 ## Spellcasting Ability
 
@@ -168,14 +170,14 @@ At level 5, you learn a little trick you can use on a daily basis. Choose one of
 -   Block (Abjuration): As a reaction, block all damage that would be dealt to you until the end of the turn. Not bound to Spell Duration.
 -   Tether (Abjuration): As a bonus action, choose a creature within Cast Range, and a point or object within Cast Range. That creature can’t move more than 30ft from the point or object by nonmagical means. If the creature manages to get 35ft or more from the point or object, this effect ends early.
 -   Opine (Enchantment): State your opinion, and all creatures within Cast Range that can receive your communication and know the language must make a Charisma saving throw. On a failure, they agree with your opinion unquestionably.
--   Sway (Enchantment): Choose a creature within Cast Range
+-   Sway (Enchantment): Choose a creature within Cast Range. They must make a Charisma saving throw, and on a failure, you get to decide what bonus action they take on their next turn.
 -   Materialmorph (Transmutation): Choose an object within Cast Range and that can fit into a 1ft cube. It becomes a material of your choosing, gaining the stats and effects of that new material.
 -   Petmorph (Transmutation): Choose a creature within Cast Range and that can fit into a 1ft cube. It becomes another creature of your choice that can also fit into a 1ft cube.
 -   Disguise (Illusion): Change your appearance, your voice, and your smell.
 -   Hallucination (Illusion): A target creature sees what you want them to see. You can also make them not see something that is there. The creature can make an Intelligence check, and on a success, discern that the hallucinations aren’t real.
 -   Stasis (Evocation): Choose a creature. That creature can’t move or take actions, bonus actions, or reactions. They are immune to all damage and can’t be targeted or effected by any spell. If they are unconscious, they don’t make death saves but also can’t be stabilized.
 -   Energy Blast (Evocation): Make a ranged spell attack against a creature you can see within Cast Range. On a hit, the creature takes 1d12 damage with a damage type of your choice: cold, fire, acid, lightning, thunder.
--   Wake (Necromancy): Choose a creature that died within the last 10 seconds. They get up with 10 temporary hit points. They can move and attack like normal but can’t cast spells. If they make death saving throws, they do so at advantage. If they die for good or stabilize, this effect ends early.
+-   Wake (Necromancy): Choose a creature within your Cast Range that died within your Spell Duration. They get up with 10 temporary hit points. They can move and attack like normal but can’t cast spells. If they make death saving throws, they do so at advantage. If they die for good or stabilize, this effect ends early.
 -   Necrofy (Necromancy): Choose a creature within Cast Range. It must succeed on a Constitution saving throw, or it becomes weak to necrotic damage, and takes an extra 1d4 necrotic damage whenever it takes other types of damage.
 
 You can learn an additional bending trick at levels 6, 10, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
@@ -326,7 +328,7 @@ At level 5, you can begin to call your area your home. Each of your Permanent sp
 
 ### Area Fixation
 
-At level 7, other spells have no effect in your Permanent Area, unless that other spell is also Permanent.
+At level 7, other area of effect spells have no effect in your Permanent Area, unless that other spell is also Permanent.
 
 ### Area Manipulation
 
@@ -336,9 +338,9 @@ At level 11, you become adept at manipulating areas. When you cast a spell with 
 
 At level 15, you gain advanced control over who can access your areas.
 
-As an action, you may choose a creature outside your Permanent Area to mark as Banned. At the start of a Banned creature’s turn, if it’s inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square not in your Permanent Area. This effect also happens the first time the creature enters your Permanent Area on its turn.
+As an action, you may choose a creature that is within your Cast Range and outside your Permanent Area to mark as Banned. At the start of a Banned creature’s turn, if it’s inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square not in your Permanent Area. This effect also happens the first time the creature enters your Permanent Area on its turn.
 
-As an action, you may choose a creature inside your Permanent Area to mark as Penned. At the start of a Penned creature’s turn, if it’s not inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square in your Permanent Area. This effect also happens the first time the creature exits your Permanent Area on its turn.
+As an action, you may choose a creature that is within your Cast Range and inside your Permanent Area to mark as Penned. At the start of a Penned creature’s turn, if it’s not inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square in your Permanent Area. This effect also happens the first time the creature exits your Permanent Area on its turn. If a Penned creature finds itself outside your Permanent Area due to one of your spells being dispelled, its Penned mark is removed.
 
 As an action, you may remove a Banned or Penned mark from a creature.
 
@@ -356,7 +358,7 @@ At level 3, you can disrupt others who are casting spells in your bonded schools
 
 -   Costly: Double the amount of spell slots and/or spell points spent to cast this spell.
 -   Close: Half this spell’s cast range.
--   Tethered: Add a tether range to this spell cast equal to its caster’s walk speed.
+-   Tethered: Add a Tether Range to this spell cast equal to its caster’s walk speed, or if it already has a Tether Range, half it.
 -   Short: Half this spell’s duration, if its duration is longer than 1 round. If the duration is 1 round, the spell ends at the end of the turn instead.
 -   Unfocused: Half the spellcaster’s spellcasting ability modifier for this spell cast, rounded up.
 -   Weak: Half any and all die rolls the spell caster rolls for this spell cast, rounded up.
@@ -499,7 +501,7 @@ At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
 ### Lucky
 
-At level 5, luck is on your side. Once per turn, whenever a d20 is rolled within your cast range, you may have that d20 be rerolled, and then you choose which roll to use.
+At level 5, luck is on your side. Once per turn, whenever a d20 is rolled within your Cast Range, you may have that d20 be rerolled, and then you choose which roll to use.
 
 ### Willful
 
@@ -515,7 +517,7 @@ At level 15, no can hurt you. Whenever you have to make a saving throw, the DC i
 
 ### Dictation
 
-At level 20, you have mastered fortune. As a reaction, you can set any number of rolled dice to any value possible for that die. This effect then lasts until the end of the turn.
+At level 20, you have mastered fortune. As a reaction, you can set any number of rolled dice to any value possible for that die.
 
 ## Item Infuser
 
@@ -527,7 +529,7 @@ At level 3, you gain the ability to infuse an item with a spell.
 
 You may spend 1 hour or more infusing an item you’re holding with a spell from your bonded schools. The spell costs double the amount of spell points it normally would. Make an ability check in your spellcasting ability. The DC equals the spell’s casted level times 2, plus 10, minus the number of hours you spend infusing it. On a success, the item is infused with the spell. On a failure, the spell points are still spent, but the item is not infused with the spell.
 
-Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. The infused spell always uses the Bond Affinity option applied to it when it was infused.
+Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. The infused spell always uses the Bond Affinity option applied to it when it was infused. You may instead choose to use a lower value for the Cast Range, Tether Range, and/or Spell Duration.
 
 An infused item has a limited number of charges of a spell. It regains all charges at dawn each day. As you level up, the amount of charges you can infuse into an item also increases, as shown in the following table:
 
@@ -539,6 +541,8 @@ An infused item has a limited number of charges of a spell. It regains all charg
 | 11    | 4       |
 | 15    | 5       |
 
+When you an infuse an item, you may instead choose to infuse a lower number of charges than your level allows.
+
 An item can only be infused with one spell at a time. If you infuse an infused item with another spell, the new spell overwrites the old spell.
 
 Infused items are infused permanently. They don’t lose their infusion when they leave your Tether Range, and they don’t expire after your Spell Duration.
@@ -549,7 +553,7 @@ If the infused spell requires concentration, activating it a second time ends th
 
 ### Item Upgrading
 
-At level 5, you can upgrade infused items you’re previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to yours. When you do this, you may choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
+At level 5, you can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. When you do this, you may choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
 
 ### Item Location
 
@@ -643,7 +647,7 @@ You can only wear one Armor-Formed spell at a time. If you don an Armor-Formed s
 
 ### Shield Conjuration
 
-At level 7, you learn how conjure shields. You gain the following Bond Affinity option:
+At level 7, you learn how to conjure shields. You gain the following Bond Affinity option:
 
 -   Shield-Formed: Conjure this spell cast into a shield you remember and equip it, if the spell can target one or more creatures.
 
@@ -689,7 +693,7 @@ This effect ends automatically if you attack or cast a spell.
 
 ### Unseen Casting
 
-At level 3, you how to keep your spells from giving you away. You gain the following Bond Affinity option:
+At level 3, you learn how to keep your spells from giving you away. You gain the following Bond Affinity option:
 
 -   Invisible: Make this spell cast and its effects invisible. Casting this spell doesn’t end invisibility effects.
 
@@ -753,15 +757,15 @@ At level 3, your dreams can take on a mind of their own. You get a d20, which is
 -   12-15: Pleasant Jaunt. Add your proficiency bonus to the result of saving throws and ability checks your dream self makes.
 -   16-20: Dream Dream. Subtract your proficiency bonus from the damage your dream self takes, and the spell point cost of spells your dream self casts. Add your proficiency bonus to the damage your dream self deals, and the result of saving throws and ability checks your dream self makes.
 
-You Dream Die value can range from 1 to 20.
+Your Dream Die value can range from 1 to 20.
 
-After your dream self takes damage, make a saving throw in your spellcasting ability. On a failure, reduce your Dream Die’s value by 1.
+After your dream self takes damage, make a DC 15 saving throw in your spellcasting ability. On a failure, reduce your Dream Die’s value by 1.
 
-After your dream self casts a spell, you may make an ability check in your spellcasting ability. On a success, increase your Dream Die’s value by 1.
+After your dream self casts a spell, you may make a DC 10 ability check in your spellcasting ability. On a success, increase your Dream Die’s value by 1.
 
 ### Stasis
 
-At level 5, your dreams protect you. Whenever you go to sleep, and at the start of each of your turns while sleeping, you gain temporary hp equal to the value of your Dream Die. When you wake up, you lose these temporary hit points.
+At level 5, your dreams protect you. Whenever you go to sleep, and at the start of each of your turns while sleeping, you gain temporary hit points equal to the value of your Dream Die. When you wake up, you lose these temporary hit points.
 
 ### Dream Logic
 
@@ -797,11 +801,11 @@ You can use this feature once per long rest.
 
 At level 15, you can fight nightmares. You can end a dream as a reaction. When you end a dream, you can undo one negative event that happened in that dream:
 
--   The death of a player, NPC, or pet. They come to life with an amount of hit points equal to the value of your Dream Die.
+-   The death of a player, NPC, or pet. They come back to life with an amount of hit points equal to the value of your Dream Die.
 -   The destruction of an item.
 -   The casting of a specific spell that was cast within the last round.
--   An action or bonus action that another creature took.
+-   An action or bonus action that another creature took within the last round.
 
 ### Not a Dream!
 
-At level 15, you can wake up in your dream. When a dream ends, you can choose to wake up. When you wake up from a dream, you can choose to teleport to your dream self’s former location.
+At level 15, you can wake up in your dream. When a dream ends, you can choose to wake up. When you wake up from a dream, you can choose to teleport to your dream self’s last location.
