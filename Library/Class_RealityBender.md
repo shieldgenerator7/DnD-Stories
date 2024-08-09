@@ -479,7 +479,11 @@ At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
 ### Lucky
 
-At level 5, luck is on your side. Once per turn, whenever a d20 is rolled within your Cast Range, you may spend any number of spell points to increase or decrease the value by the number of spell points spent.
+At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend a spell point to reroll it, and then the most recent value must be used.
+
+### Happy Go Lucky
+
+At level 7, natural luck comes to your aid. Whenever you or an ally rolls a 20 on a d20, you regain 1 spell point. Whenever an enemy creature rolls a 1 on a d20, you regain 1 spell point.
 
 ### Plot Armor
 
@@ -517,11 +521,17 @@ When you an infuse an item, you may instead choose to infuse a lower number of c
 
 An item can only be infused with one spell at a time. If you infuse an infused item with another spell, the new spell overwrites the old spell.
 
-Infused items are infused permanently. They don’t lose their infusion when they leave your Tether Range, and they don’t expire after your Spell Duration.
+Infused items are infused permanently. They don’t lose their infusion when they leave your Tether Range, and they don’t expire after your Spell Duration. You may spend 1 hour to un-infuse a spell from an item.
 
 If the infused spell has range of Self, it targets the active user of the item. If the active user changes to another creature during the spell, the target switches to the new active user. If there is no active user, it targets no one, but does not end the spell early.
 
 If the infused spell requires concentration, activating it a second time ends the spell effect of its previous activations. It uses the “concentration” of the item, and not the concentration of the user.
+
+You may dispel a spell cast from one of your infused items as if you had cast the spell.
+
+### Instant Refill
+
+At level 3, you can quickly recharge an infused item. Once during your turn, you may choose an infused item within your Cast Range and spend spell points equal to the infused spell’s level to refill 1 charge.
 
 ### Item Upgrading
 
@@ -645,6 +655,8 @@ At level 11, you work around some limitations of your conjured spells. Formed sp
 
 At level 11, you can get one last use out of your Formed spells. Whenever one or more of your Formed spells would simply dissipate at the end of your turn, you may instead use your reaction to activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
 
+You may also activate Violent Dismissal when you dispel a Formed spell.
+
 ### Last Word
 
 At level 15, you can react to the death around you.
@@ -718,6 +730,8 @@ When a dream ends, you must make a DC15 ability check in your spellcasting abili
 When you’re not dreaming, you see only blackness and you don’t perceive time.
 
 While you’re not dreaming, you may begin a new dream at any time. You can have a number of dreams per long rest equal to your level in this class divided by 2, minimum of 2. When you begin a new dream, you may choose a new dream target. You must choose a different dream target for each dream in a long rest.
+
+When a dream begins, you regain all spell points. When a dream ends, you lose all spell points.
 
 ### Dream Variance
 
