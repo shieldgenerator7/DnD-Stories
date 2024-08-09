@@ -132,10 +132,6 @@ You learn one Bond Affinity option at level 1. You gain Bond Affinity options as
 
 Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
 
-# Arcane Skill
-
-At level 3, you can channel your magic into all your endeavors. Whenever you make an ability check, you may spend spell points to decrease the DC by 1 per spell point spent.
-
 # Bending Style
 
 At level 3, you choose a Bending Style, as listed below. The Bending Style you choose will give you features at levels 3, 5, 7, 11, and 15. They will also grant you bonus Bond Affinity options.
@@ -192,17 +188,13 @@ At level 7, you can more easily absorb information about spells. As an action, y
 
 As an action, you can study an ongoing spell effect. While looking at a spell effect that you used Reality Observer on within the past minute, you can use your action to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level. On a success, you figure out how to cast the spell and can cast the new spell without having to complete a long rest. On a failure, you don’t figure out the spell. Either way, you regain 1 spell point.
 
-# Arcane Survival
-
-At level 9, you can channel your magic into keeping yourself safe. Whenever you must make a saving throw, you can spend spell points to decrease the DC by 1 per spell point spent.
-
 # Energy Store
 
 At level 11, when you use an action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
 
 # Recasting
 
-At level 13, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option.
+At level 15, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option.
 
 # Reality Command
 
@@ -483,27 +475,21 @@ Fortune favors you and bends to your will.
 
 At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
--   Lucky: Reroll all dice rolls for this spell cast, and then choose which roll to use.
+-   Lucky: Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
 
 ### Lucky
 
-At level 5, luck is on your side. Once per turn, whenever a d20 is rolled within your Cast Range, you may have that d20 be rerolled, and then you choose which roll to use.
-
-### Willful
-
-At level 7, reality bends to your will. The spell save DC and spell attack modifier of spells you cast are increased by your spellcasting ability modifier an additional time.
-
-### Fortunate
-
-At level 11, you can hardly fail. You get advantage on all ability checks and saving throws.
+At level 5, luck is on your side. Once per turn, whenever a d20 is rolled within your Cast Range, you may spend any number of spell points to increase or decrease the value by the number of spell points spent.
 
 ### Plot Armor
 
-At level 15, no can hurt you. Whenever you have to make a saving throw, the DC is automatically lowered by your spellcasting ability modifier. Additionally, any attack roll against you has disadvantage.
+At level 15, no one can hurt you. Whenever you or another creature must make a saving throw, you may spend any number of spell points to decrease the DC by 2 per spell point spent.
+
+Additionally, whenever you are attacked, you may spend any number of spell points to increase your AC by the number of spell points spent until the start of your next turn.
 
 ### Dictation
 
-At level 20, you have mastered fortune. As a reaction, you can set any number of rolled dice to any value possible for that die.
+At level 20, you have mastered fortune. Once per round, you can set any number of rolled dice to any value possible for that die.
 
 ## Item Infuser
 
