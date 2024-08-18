@@ -241,8 +241,9 @@ When a creature touched by your chaos casts a spell or makes an attack, that spe
 A creature and/or object remains touched by your chaos until:
 
 -   Its chaos duration expires. The chaos duration is equal to your Spell Duration.
--   It leaves your Tether Range or shifts to another plane.
+-   It leaves your Tether Range or is no longer on the same plane as you.
 -   It uses its action to make a Wisdom ability check against your spell save DC. On a success, it is no longer touched by your chaos.
+-   Your chaos points are reduced to 0 or below.
 
 ### Chaos Burn
 
@@ -254,7 +255,7 @@ At level 3, your chaos effects your ability to cast effective spells. While you 
 
 ### Luck Warping
 
-At level 5, outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, if it is rolled by you or an effect or creature that is touched by your chaos, its value is warped. If the result is odd, you add your chaos points to it. If the result is even, you subtract your chaos points from it. The result may go above 20 or below 0.
+At level 5, outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, and you have chaos points, if it is rolled by you or an effect or creature that is touched by your chaos, its value is warped. If the result is odd, you add your chaos points to it. If the result is even, you subtract your chaos points from it. The result may go above 20 or below 0.
 
 ### Origin Shifting
 
@@ -441,7 +442,7 @@ At level 3, you can modify yourself daily. Whenever you finish a long rest, you 
 -   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
 -   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
 -   Race (Level 11). Change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
--   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally until you spend a future use of this feature to undo this effect.
+-   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
 What changes are available to you depends on your level.
 
