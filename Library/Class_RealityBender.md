@@ -228,7 +228,7 @@ At level 3, you can let out your chaotic urges. Whenever you gain chaos points, 
 
 You gain the following Bond Affinity option:
 
--   Chaotic: Spend chaos points for this spell cast instead of spell points. Touch this spell cast with your chaos, also touching creatures effected by this spell cast with your chaos.
+-   Chaotic: 0 Spell Points. Spend chaos points for this spell cast instead of spell points. Touch this spell cast with your chaos, also touching creatures effected by this spell cast with your chaos.
 
 You don’t gain chaos points from casting a Chaotic spell.
 
@@ -297,7 +297,7 @@ At level 5, you learn how to make your spells stable long-term.
 
 You gain the following Bond Affinity option:
 
--   Permanent: Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect.
+-   Permanent: 3 Spell Points. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect.
 
 Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself or another creature, it is instead centered on a point in space.
 
@@ -380,7 +380,7 @@ At level 3, you gain the ability to help others bend reality. When another creat
 
 You gain the following Bond Affinity option:
 
--   Bent: Modify this spell cast’s attributes to your Cast Range, Tether Range, and Spell Duration.
+-   Bent: 1 Spell Point. Modify this spell cast’s attributes to your Cast Range, Tether Range, and Spell Duration.
 
 ### Spell Sharing
 
@@ -408,7 +408,7 @@ When a vessel no longer has any of your shared spells, they are no longer consid
 
 At level 7, you can cast spells from your vessels. You gain the following Bond Affinity option:
 
--   Proxied: Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
+-   Proxied: 1 Spell Point. Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
 
 ### Vessel Network
 
@@ -452,7 +452,7 @@ You may spend a use of this feature to undo the effects of a previous use of thi
 
 At level 3, you can always include yourself. You gain the following Bond Affinity option:
 
--   Self-Inclusive: Also target yourself with this spell cast if it targets one or more other creatures.
+-   Self-Inclusive: 1 Spell Point. Also target yourself with this spell cast if it targets one or more other creatures.
 
 ### Center of Attention
 
@@ -478,7 +478,7 @@ Fortune favors you and bends to your will.
 
 At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
--   Lucky: Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
+-   Lucky: 2 Spell Points. Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
 
 ### Lucky
 
@@ -560,13 +560,13 @@ At level 7, you can remotely activate items you infuse. As a bonus action, you m
 
 At level 11, you learn how to cause an item to react to a situation. You learn the following Bond Affinity option:
 
--   Reactive: Set a reactive condition for this spell cast, which automatically activates this spell cast’s infused item when met.
+-   Reactive: 2 Spell Points. Set a reactive condition for this spell cast, which automatically activates this spell cast’s infused item when met.
 
 ### Multi-Infusing
 
 At level 15, you learn how to cram more spells into a single item. You gain the following Bond Affinity option:
 
--   Appended: Infuse this spell cast into an infused item without overwriting spells already infused into it.
+-   Appended: 3 Spell Points. Infuse this spell cast into an infused item without overwriting spells already infused into it.
 
 When an item with multiple infused spells is activated, each spell is activated all in the same turn, in order of infusion, using the same targets, if applicable.
 
@@ -582,7 +582,7 @@ At level 3, you remember every weapon, piece of armor, shield, and piece of equi
 
 At level 3, you can conjure any spell into a piece of equipment. You gain the following Bond Affinity option:
 
--   Formed: Conjure this spell cast into a piece of equipment you remember and equip it, if the spell can target one or more creatures.
+-   Formed: 1 Spell Point. Conjure this spell cast into a piece of equipment you remember and equip it, if the spell can target one or more creatures.
 
 The Formed spell appears as a spectral shape modeled after the piece of equipment you remembered, but has no special effects, and does not cast the spell’s effects when conjured.
 
@@ -602,7 +602,7 @@ A Formed spell is very volatile, and dissipates at the end of your turn if:
 
 At level 3, you can conjure any spell into a weapon. You gain the following Bond Affinity option:
 
--   Weapon-Formed: Conjure this spell cast into a weapon you remember and equip it, if the spell can target one or more creatures.
+-   Weapon-Formed: 1 Spell Point. Conjure this spell cast into a weapon you remember and equip it, if the spell can target one or more creatures.
 
 A Weapon-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
@@ -620,7 +620,7 @@ At level 3, you can protect yourself with your magic reserves. Your AC is increa
 
 At level 5, you learn to protect yourself with your spells. You learn the following Bond Affinity option:
 
--   Armor-Formed: Conjure this spell cast into a piece of armor you remember and don it, if the spell can target one or more creatures.
+-   Armor-Formed: 1 Spell Point. Conjure this spell cast into a piece of armor you remember and don it, if the spell can target one or more creatures.
 
 An Armor -Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
@@ -634,7 +634,7 @@ You can only wear one Armor-Formed spell at a time. If you don an Armor-Formed s
 
 At level 7, you learn how to conjure shields. You gain the following Bond Affinity option:
 
--   Shield-Formed: Conjure this spell cast into a shield you remember and equip it, if the spell can target one or more creatures.
+-   Shield-Formed: 1 Spell Point. Conjure this spell cast into a shield you remember and equip it, if the spell can target one or more creatures.
 
 A Shield-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
@@ -682,7 +682,7 @@ This effect ends automatically if you attack or cast a spell.
 
 At level 3, you learn how to keep your spells from giving you away. You gain the following Bond Affinity option:
 
--   Invisible: Make this spell cast and its effects invisible. Casting this spell doesn’t end invisibility effects.
+-   Invisible: 2 Spell Points. Make this spell cast and its effects invisible. Casting this spell doesn’t end invisibility effects.
 
 An Invisible spell can’t be seen by anyone but you. An Invisible spell will not give away your location or inform other creatures that it was you who cast it, nor will it end the Bystander effect. An Invisible spell that mentions you in the description instead mentions nobody.
 
@@ -760,7 +760,7 @@ At level 5, your dreams protect you. Whenever you go to sleep, and at the start 
 
 At level 5, your dream self can teleport. You gain the following Bond Affinity option:
 
--   Dream Logic: Teleport your dream self to a space in range and then cast this spell from that new location. The range is equal to 5 times the sum of the spell points spent to cast this spell and the value of your Dream Die.
+-   Dream Logic: 0 Spell Points. Teleport your dream self to a space in range and then cast this spell from that new location. The range is equal to 5 times the sum of the spell points spent to cast this spell and the value of your Dream Die.
 
 Whenever your dream self would fall or otherwise be forced to move, you may make an ability check in your spellcasting ability instead. On a success, your dream self doesn’t fall or get moved forcefully, becoming ethereal if necessary to avoid sharing a space with another creature or object. It becomes solid again when it is no longer sharing a space with that creature or object. On a failure, your dream self falls or gets moved forcefully like normal.
 
@@ -768,7 +768,7 @@ Whenever your dream self would fall or otherwise be forced to move, you may make
 
 At level 7, you gain better control over your dreams. You gain the following Bond Affinity option:
 
--   Lucid Dreaming: This spell cast refreshes the duration of your current dream and increases the value of your Dream Die by 1.
+-   Lucid Dreaming: 1 Spell Point. This spell cast refreshes the duration of your current dream and increases the value of your Dream Die by 1.
 
 As an action, you may end the current dream.
 
