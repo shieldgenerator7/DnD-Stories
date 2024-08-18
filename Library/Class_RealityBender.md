@@ -78,7 +78,7 @@ Spells that you cast from your bonded schools have their attributes changed. If 
 
 ## Dispelling Spells
 
-As an action, you may dispel any ongoing spell that you have cast.
+As a free action, you may dispel any ongoing spell that you have cast.
 
 ## Spellcasting Ability
 
@@ -178,7 +178,7 @@ At level 5, you learn a little trick you can use on a daily basis. Choose one of
 
 You can learn an additional bending trick at levels 6, 10, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
 
-Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as an action.
+Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as a free action.
 
 Once you use a bending trick, you can’t use that bending trick again until you finish a short rest.
 
@@ -190,7 +190,7 @@ As an action, you can study an ongoing spell effect. While looking at a spell ef
 
 # Energy Store
 
-At level 11, when you use an action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
+At level 11, when you use a free action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
 
 # Recasting
 
@@ -298,7 +298,9 @@ You gain the following Bond Affinity option:
 
 -   Permanent: Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect.
 
-Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself or another creature, it is instead centered on a point in space. When you use your action to dismiss one of your Permanent spells, you must spend spell points equal to the spell’s casted level to do so.
+Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself or another creature, it is instead centered on a point in space.
+
+You cannot use your free action to dispel one of your Permanent spells. Instead, as an action, you may spend spell points equal to the spell’s casted level to dismiss it. You cannot use this feature to dispel Permanent spells you did not cast.
 
 ### Home Advantage
 
@@ -365,7 +367,7 @@ At level 11, you learn how to undo spells. As an action, you may undo the effect
 
 At level 15, you can stop imperfections from forming. As an action, you can create an anti-spell field at any point within your Cast Range. The anti-spell field has a radius up to your Cast Range and a duration equal to your Spell Duration. The anti-spell field causes any spell from your bonded schools that is cast in it or that overlaps with it to fail.
 
-As an action, you may dismiss an anti-spell field that is within your Cast Range.
+As a free action, you may dismiss an anti-spell field that is within your Cast Range.
 
 ## Reality Sharer
 
@@ -593,7 +595,7 @@ A Formed spell is very volatile, and dissipates at the end of your turn if:
 -   It hit the ground or another creature and you are not holding it.
 -   It got hit by another creature and you are not holding it.
 -   You are asleep, unconscious, or dead.
--   You used your action to dismiss it.
+-   You used your free action to dismiss it.
 
 ### Weapon Conjuration
 
@@ -671,7 +673,7 @@ You don’t really want to participate in reality, and prefer to watch it unfold
 
 At level 3, you learn how to keep other people from interacting with you. As an action, you can make yourself invisible. The duration of this effect is equal to your Spell Duration. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses after a long rest.
 
-As an action, you can dismiss this effect.
+As a free action, you can dismiss this effect.
 
 This effect ends automatically if you attack or cast a spell.
 
