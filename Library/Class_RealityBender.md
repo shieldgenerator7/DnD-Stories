@@ -190,11 +190,11 @@ As an action, you can study an ongoing spell effect. While looking at a spell ef
 
 # Energy Store
 
-At level 11, when you use a free action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
+At level 9, when you use a free action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
 
 # Recasting
 
-At level 15, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option.
+At level 13, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option.
 
 # Reality Command
 
