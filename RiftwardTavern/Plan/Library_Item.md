@@ -281,6 +281,10 @@ A magic rod about 5ft long.
 
 It has magic words written on its handle. As a reaction, you may activate it. It deals 1d10 Lightning damage to you and all creatures touching it. If this damage kills a creature, you gain an electrocution point. The damage of this rod increases by 1d10 for each electrocution point you have.
 
+You take 5 reduced damage from lighting damage for each electrocution point you have.
+
+After not holding the rod for 1 continuous hour, you lose all electrocution points.
+
 # Marbles of Illusion
 
 Uncommon
@@ -342,7 +346,7 @@ Rare, Attunement
 While holding and attuned to this feather, you gain the following benefits:
 
 -   Keen Sight
--   You know the spell Feather Fall
+-   You know the spell Feather Fall, and can freely cast it once per long rest.
 -   You have a flying speed equal to half your walking speed
 
 # Wand of Desaturation
@@ -351,7 +355,7 @@ Common
 
 A grey wand with black and white magic words.
 
-As an action, bonus action, and reaction, you may say the magic words to remove all color from a target and their possessions. They turn greyscale. This effect lasts until sunlight touches them.
+As an action, bonus action, and/or reaction, you may say the magic words to remove all color from a target and their possessions. They turn greyscale. This effect lasts until sunlight touches them.
 
 # Flappy Word
 
@@ -362,7 +366,7 @@ A tablet with magic words written on it.
 As a bonus action, you may say the magic words. All creatures within 90ft of the tablet and in line of sight of the tablet get t-posed.  
 **Saving throw**: Wisdom DC15
 
-While t-posed, your arms involuntarily outstretch to your side. You unable to move your hands or arms. If a quadruped creature gets t-posed, this effects only their front most legs. You don’t suffer any penalties to your movement, but when you move, your legs don’t seem to animate.
+While t-posed, your arms involuntarily outstretch to your side. You’re unable to move your hands or arms. If a quadruped creature gets t-posed, this effects only their front most legs. You don’t suffer any penalties to your movement, but when you move, your legs don’t seem to animate.
 
 This effect lasts until the tablet breaks or until the magic words are spoken again.
 
@@ -374,7 +378,7 @@ A bandana with an evil smile scribbled on it. When you put it on, you hear a sni
 
 While wearing this bandana, you have +1 to Stealth checks.
 
-Whenever you snicker, you gain +1 AC until the next time you are attacked, and +1 atk until your next attack. Snickering multiple times doesn’t cause the bonuses to stack.
+Whenever you snicker, you gain +1 AC until the next time you are attacked, and +1 atk until your next attack. Only the first time you snicker each turn counts.
 
 # Animal Collar
 
@@ -485,9 +489,9 @@ Legendary, Attunement
 
 \+1 AC, +1 CHA
 
-If you would take damage, the amulet Petrifies you until the end of your next turn.
+If you would take damage, the amulet automatically Petrifies you until the start of your next turn.
 
-Whenever you get Petrified, the amulet grants you temporary hit points equal to your current hit points.
+Whenever you get Petrified, the amulet grants you temporary hit points equal to your current hit points. These temporary hit points last until you become unpetrified.
 
 If the amulet is removed from you, you lose all temporary hit points.
 
