@@ -299,7 +299,7 @@ You gain the following Bond Affinity option:
 
 -   Permanent: 3 Spell Points. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect.
 
-Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself or another creature, it is instead centered on a point in space.
+Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself, another creature, or an object, it is instead centered on a point in space.
 
 You cannot use your free action to dispel one of your Permanent spells. Instead, as an action, you may spend spell points equal to the spell’s casted level to dismiss it. You cannot use this feature to dispel Permanent spells you did not cast.
 
@@ -422,6 +422,8 @@ At level 11, your power grows the more your name is said.
 
 At the start of a vessel’s turn, they may say your name, granting you 1 spell point.
 
+Additionally, shared spells are no longer restricted from you when you share them. You can now share a single spell with multiple vessels, including be able to cast it yourself while it is shared.
+
 ### Unity
 
 At level 15, you can unify your vessels in casting a spell. Whenever you cast a spell from your bonded schools, each of your vessels may use their reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
@@ -530,7 +532,7 @@ If the infused spell has range of Self, it targets the active user of the item. 
 
 If the infused spell requires concentration, activating it a second time ends the spell effect of its previous activations. It uses the “concentration” of the item, and not the concentration of the user.
 
-You may dispel a spell cast from one of your infused items as if you had cast the spell.
+The holder of the infused item may use a free action to dispel any spells cast by the infused item. You may dispel a spell cast from one of your infused items as if you had cast the spell.
 
 ### Instant Refill
 
@@ -538,7 +540,7 @@ At level 3, you can quickly recharge an infused item. Once during your turn, you
 
 ### Item Upgrading
 
-At level 5, you can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. When you do this, you may choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
+At level 5, you can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade or downgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. When you do this, you may choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
 
 ### Item Location
 
