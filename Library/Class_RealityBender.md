@@ -74,7 +74,15 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
 
-Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the tether range, then the spell ends automatically.
+Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically.
+
+## Casting Higher Level Spells
+
+As long as you have the spell points to cast a leveled spell, you can cast it, no matter what level it is, or what level you are. However, if you are not high enough level, the spell may fail.
+
+You can safely cast any spell that is half your Reality Bender level (rounded down) + 1. For example, at level 1, you can safely cast level 1 spells; at level 3, you can safely cast level 2 spells; and at level 4, you can safely cast level 3 spells; etc.
+
+If you can’t safely cast a spell because it’s too high level, you can cautiously cast it. To do so, you must make an ability check in your spell casting ability. The DC is equal to the difference between the spell’s casted level and your max safe casting level, times 2, and plus 10. On a success, you cast the spell. On a failure, you don’t cast the spell, but the spell points are still spent, and you cannot attempt to cast that spell again until you finish a long rest. You may spend any number of spell points to reduce the DC by 1 for every 2 spell points spent this way.
 
 ## Dispelling Spells
 
@@ -88,25 +96,21 @@ Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom,
 
 **Spell attack modifier** = your proficiency bonus + your chosen spellcasting ability modifier
 
-## Learning Spells of 1st Level and Higher
+## Learning New Spells
 
-At level 1, you know 1 cantrip and 1 1st-level spell, both from your bonded school. As you level up, the minimum amount of spells you know of 1st level is equal to your level. When you level up, you may learn one 1st-level spell from your bonded schools.
+When you level up, roll 1d10. The result is the total levels of the new spells you can learn.
+
+You can choose to learn any combination of new spells from your bonded schools as long as their combined level is less than or equal to this result. For the purposes of this total, cantrips count as being of 0.5 level. You can choose a spell even if you don’t have the spell points at your current level to cast it.
+
+You can’t unlearn a spell that you previously learned by using this feature, nor can you use this feature to replace a spell you learned with a new one.
+
+*Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the level total, or put a limit on how many spells you can learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.*
 
 You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
 
-## Starting with Spells
+## Starting Spells
 
-When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. For each spell you think you might know, you may roll an ability check in your spellcasting ability to see if you’ve seen the spell be cast before, or have imagined it before. The DC is equal to the spell’s level times 2, plus 10, plus the spell’s level times the number of spells you already know of the same level, minus your level in this class. For cantrips, the DC is equal to 10 plus the number of cantrips you know, minus your level in this class. Your DM may modify this DC at their discretion. On a success, you know the spell. On a failure, you don’t know the spell before starting the campaign, but you can still learn it during the campaign.
-
-Here is another way of writing the same DCs:
-
-Cantrip Seen DC = 10 + number of cantrips you know – your level  
-`10 + cantripCount - classLevel`
-
-Spell Seen DC = 10 + (spell’s level \* 2) + (spell’s level \* number of spells you know at that level) – your level  
-`10 + (spellLevel * 2) + (spellLevel * spellCount[spellLevel]) + classLevel`
-
-Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the DC, or put a limit on how many total spells you can attempt to gain with this check or how many you can actually learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.
+When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. Roll Xd10, where X is your Reality Bender level. The result is the total level of the spells you can start the game with. Refer to the “Learning New Spells” section for more information.
 
 # Reality Observer
 
