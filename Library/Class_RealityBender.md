@@ -150,6 +150,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Battle Bender
 -   Far Watcher
 -   Dreamer
+-   Elemental Master
 
 # Ability Score Improvement
 
@@ -821,3 +822,66 @@ At level 15, you can fight nightmares. You can end a dream as a reaction. When y
 ### Not a Dream!
 
 At level 15, you can wake up in your dream. When a dream ends, you can choose to wake up. When you wake up from a dream, you can choose to teleport to your dream self’s last location.
+
+## Elemental Master
+
+You have an affinity for one element in particular, and you can weave it into your spells and your spellcasting style.
+
+### Elemental Attunement
+
+At level 3, you attune to a particular element. Choose a damage type: fire, cold, lightning, thunder, poison, acid, radiant, force, necrotic, or psychic. This becomes your attuned element.
+
+Whenever a spell you cast would deal bludgeoning, slashing, or piercing damage, you may have that damage be of your attuned element instead.
+
+When you deal damage of your attuned element to a creature, you regain 1 spell point.
+
+Your melee weapon attacks deal an additional 1d6 damage of the type of your attuned element.
+
+You gain the following bond affinity option:
+
+-   Elemental: 1 Spell Point. This spell deals damage of the type of your attuned element instead of its original type, if it deals damage.
+
+### Element Style
+
+At level 3, you gain various bonuses, depending on your attuned element:
+
+-   Cold: As a free action, you can move one of your ongoing area of effect spells within Cast Range up to your movement speed on your turn.
+-   Fire: When you deal damage, double the number of dice you roll for damage.
+-   Lightning: Single target spells can be cast as an action, bonus action, or reaction.
+-   Thunder: Every action you take is incredibly loud. Creatures within your Cast Range gain advantage on Stealth rolls, and you gain advantage on Perception checks.
+-   Poison: Damaging a creature imposes disadvantage to their next ability check, saving throw, or attack roll.
+-   Acid: Damaging a creature lowers their AC by 1.
+-   Radiant: Spells you cast and targets you effect shed light in a 5ft radius.
+-   Force: When you deal damage, creatures you damage must make a Strength saving throw or get knocked 10ft away from you.
+-   Necrotic: When you deal 5 or more Necrotic damage to a creature, it becomes marked. A marked creature takes an extra 1d4 necrotic damage whenever they take damage of another type. This effect can stack.
+-   Psychic: When you damage a creature, it must make a Wisdom saving throw. On a failed save, randomly choose one feature or spell that is has. It can’t use that chosen feature or spell.
+
+These effects are bound by your Spell Duration and Tether Range.
+
+### Elemental Armor
+
+At level 5, you learn to protect yourself from your own element. You gain resistance to damage of your attuned element.
+
+At level 7, you gain immunity to damage of your attuned element.
+
+At level 11, you gain absorption to damage of your attuned element.
+
+### Elemental Trick
+
+At level 7, you become familiar with certain spells.
+
+Spells that deal damage of your attuned element cost 1 less spell point to cast. Bending Tricks that deal damage of your attuned element are considered an Elemental Bending Trick. Elemental Bending Tricks cost an additional 1 less spell point to cast.
+
+### Combo Moves
+
+At level 11, you become experienced in how to combine your spells. When one of your Elemental Bending Tricks ends, you may use your reaction to cast another Elemental Bending Trick, using the position of the last one as the point of reference for the Cast Range of the new one. Both may use the same base spell. The second Elemental Bending Trick’s spell point cost is reduced by the first Elemental Bending Trick’s printed level, minimum 0.
+
+### Elemental Mastery
+
+At level 15, you master your element.
+
+When dealing damage to creature with immunity to your element, you can instead damage them as if they only had resistance. Likewise, you can reduce resistance to normal, and normal to vulnerability.
+
+You can add any number of bond affinity options to a spell that deals damage of your attuned element.
+
+You can add any number of additional bond affinity options to a spell that you applied the Elemental bond affinity option to.
