@@ -96,7 +96,7 @@ You learn additional cantrips and spells as you adventure in the world, using yo
 
 ## Starting with Spells
 
-When you’re starting a new campaign at 1st level or higher, you may have already seen a few spells in your bonded schools. For each spell you think you might know, you may roll an ability check in your spellcasting ability to see if you’ve seen the spell be cast before, or have imagined it before. The DC is equal to the spell’s level times 2, plus 10, plus the spell’s level times the number of spells you already know of the same level, minus your level in this class. For cantrips, the DC is equal to 10 plus the number of cantrips you know, minus your level in this class. Your DM may modify this DC at their discretion. On a success, you know the spell. On a failure, you don’t know the spell before starting the campaign, but you can still learn it during the campaign.
+When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. For each spell you think you might know, you may roll an ability check in your spellcasting ability to see if you’ve seen the spell be cast before, or have imagined it before. The DC is equal to the spell’s level times 2, plus 10, plus the spell’s level times the number of spells you already know of the same level, minus your level in this class. For cantrips, the DC is equal to 10 plus the number of cantrips you know, minus your level in this class. Your DM may modify this DC at their discretion. On a success, you know the spell. On a failure, you don’t know the spell before starting the campaign, but you can still learn it during the campaign.
 
 Here is another way of writing the same DCs:
 
@@ -159,7 +159,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 At level 5, you learn a little trick you can use on a daily basis. Choose one of your bonded schools, and then choose to learn a bending trick appropriate for that school:
 
--   Trinket (Conjuration): Create an object that fits inside a 1ft cube.
+-   Trinket (Conjuration): Create an object that fits inside a 1ft cube. The object must be something that you have seen within your Spell Duration. If the original object is magical, the copy is nonmagical.
 -   Summon (Conjuration): Choose a creature or object within your Tether Range or that you have seen within your Spell Duration, and teleport them to any open space within 30ft of you.
 -   Intuition (Divination): Ask the DM a question about something within your Cast Range or happened within your Spell Duration, and they will answer “yes” or “no”, or if the answer isn’t clear-cut, “maybe”.
 -   Step in Shoes (Divination): Choose a creature you can see within range. You become blind to your own senses and instead sense everything from that creature’s senses, including senses you yourself don’t have.
@@ -171,7 +171,7 @@ At level 5, you learn a little trick you can use on a daily basis. Choose one of
 -   Petmorph (Transmutation): Choose a creature within Cast Range and that can fit into a 1ft cube. It becomes another creature of your choice that can also fit into a 1ft cube.
 -   Disguise (Illusion): Change your appearance, your voice, and your smell.
 -   Hallucination (Illusion): A target creature sees what you want them to see. You can also make them not see something that is there. The creature can make an Intelligence check, and on a success, discern that the hallucinations aren’t real.
--   Stasis (Evocation): Choose a creature. That creature can’t move or take actions, bonus actions, or reactions. They are immune to all damage and can’t be targeted or effected by any spell. If they are unconscious, they don’t make death saves but also can’t be stabilized.
+-   Stasis (Evocation): Choose a creature. That creature can’t move or take actions, bonus actions, or reactions. They are immune to all damage and can’t be targeted or effected by any spell. If they are unconscious, they don’t make death saves but also can’t be stabilized. While in stasis, the creature doesn’t age and doesn’t require food, water, air, or any other thing it would otherwise require.
 -   Energy Blast (Evocation): Make a ranged spell attack against a creature you can see within Cast Range. On a hit, the creature takes 1d12 damage with a damage type of your choice: cold, fire, acid, lightning, thunder.
 -   Wake (Necromancy): Choose a creature within your Cast Range that died within your Spell Duration. They get up with 10 temporary hit points. They can move and attack like normal but can’t cast spells. If they make death saving throws, they do so at advantage. If they die for good or stabilize, this effect ends early.
 -   Necrofy (Necromancy): Choose a creature within Cast Range. It must succeed on a Constitution saving throw, or it becomes weak to necrotic damage, and takes an extra 1d4 necrotic damage whenever it takes other types of damage.
@@ -180,7 +180,7 @@ You can learn an additional bending trick at levels 6, 10, 14, 17, 18, and 20. Y
 
 Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as a free action.
 
-Once you use a bending trick, you can’t use that bending trick again until you finish a short rest.
+Once you use a bending trick, you can’t use that bending trick again until you finish a long rest.
 
 # Reality Studier
 
@@ -222,6 +222,8 @@ At level 3, you start losing control of your abilities. You gain chaos points at
 
 Additionally, whenever you or a creature touched by your chaos casts a spell from your bonded schools, you gain chaos points equal to that spell’s base level.
 
+You don’t gain chaos points from this feature while unconscious.
+
 ### Chaos Release
 
 At level 3, you can let out your chaotic urges. Whenever you gain chaos points, you may use your reaction to cast a spell you know from your bonded schools.
@@ -229,6 +231,8 @@ At level 3, you can let out your chaotic urges. Whenever you gain chaos points, 
 You gain the following Bond Affinity option:
 
 -   Chaotic: 0 Spell Points. Spend chaos points for this spell cast instead of spell points. Touch this spell cast with your chaos, also touching creatures effected by this spell cast with your chaos.
+
+It costs 3 chaos points to pay for 1 spell point in the Chaotic spell’s cost.
 
 You don’t gain chaos points from casting a Chaotic spell.
 
@@ -302,6 +306,8 @@ You gain the following Bond Affinity option:
 Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself, another creature, or an object, it is instead centered on a point in space.
 
 You cannot use your free action to dispel one of your Permanent spells. Instead, as an action, you may spend spell points equal to the spell’s casted level to dismiss it. You cannot use this feature to dispel Permanent spells you did not cast.
+
+If a Permanent spell allows you to move it after casting it, you must also spend spell points equal to its casted level to move it.
 
 ### Home Advantage
 
@@ -444,11 +450,11 @@ At level 3, you can modify yourself daily. Whenever you finish a long rest, you 
 -   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
 -   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
 -   Race (Level 11). Change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
--   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
+-   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
 What changes are available to you depends on your level.
 
-You may spend a use of this feature to undo the effects of a previous use of this feature.
+Using this feature again doesn’t automatically undo previous uses of this feature. You may spend a use of this feature to undo the effects of a previous use of this feature.
 
 ### Self-Centered
 
@@ -484,11 +490,11 @@ At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
 ### Lucky
 
-At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend a spell point to reroll it, and then the most recent value must be used.
+At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 2 spell points to reroll it, and then the most recent value must be used.
 
 ### Happy Go Lucky
 
-At level 7, natural luck comes to your aid. Whenever you or an ally rolls a 20 on a d20, you regain 1 spell point. Whenever an enemy creature rolls a 1 on a d20, you regain 1 spell point.
+At level 7, natural luck comes to your aid. Whenever you or an ally rolls a 20 on a d20 or crits on an attack roll, you regain 1 spell point. Whenever an enemy creature rolls a 1 on a d20, you regain 1 spell point.
 
 ### Plot Armor
 
