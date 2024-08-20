@@ -15,7 +15,6 @@ version 0.0.3
 | 4th       | +2              | Ability Score Improvement (ASI)                 | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
 | 5th       | +3              | Bending Style Feature (BSF), Bending Trick (BT) | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
 | 6th       | +3              | BT                                              | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
-| 7th       | +3              | Improved Bending Trick, BSF                     | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
 | 8th       | +3              | Reality Studier, ASI                            | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
 | 9th       | +4              | BT                                              | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
 | 10th      | +4              | Energy Store                                    | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
@@ -29,6 +28,7 @@ version 0.0.3
 | 18th      | +6              | BT                                              | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
 | 19th      | +6              | ASI                                             | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
 | 20th      | +6              | Reality Command, BT                             | 4                  | 5                         | 100              | 1mi               | 1000000mi        | 1000 yr            |
+| 7th       | +3              | BSF                             | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
 
 # Class Features
 
@@ -161,50 +161,6 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 # Bending Trick
 
-At level 5, you learn a little trick you can use on a daily basis. Choose one of your bonded schools, and then choose to learn a bending trick appropriate for that school:
-
--   Trinket (Conjuration): Create an object that fits inside a 1ft cube. The object must be something that you have seen within your Spell Duration. If the original object is magical, the copy is nonmagical.
--   Summon (Conjuration): Choose a creature or object within your Tether Range or that you have seen within your Spell Duration, and teleport them to any open space within your Cast Range.
--   Tiny Version (Conjuration): Choose a creature within your Tether Range or that you have seen within your Spell Duration, and create a tiny version of them that fits in a 1ft cube. The tiny version has a quarter of the stats of the original. It has the same personality and memories as the original.
--   Intuition (Divination): Ask the DM a question about something within your Cast Range or that happened within your Spell Duration, and they will answer “yes” or “no”, or if the answer isn’t clear-cut, “maybe”. If the answer changes, the DM will update you with the new answer.
--   Step in Shoes (Divination): Choose a creature you can see within your Cast Range. You become blind to your own senses and instead sense everything from that creature’s senses, including senses you yourself don’t have.
--   Clairvoyance (Divination): Choose a creature or object you have seen within your Spell Duration. You can sense in which direction it is relative to you, and you can sense approximately how far it is from you.
--   Block (Abjuration): As a reaction, grant a creature within your Cast Range immunity to a damage type of your choice.
--   Tether (Abjuration): As a bonus action, choose a creature within Cast Range, and a point or object within Cast Range. That creature can’t move more than 30ft from the point or object by nonmagical means. If the creature manages to get 35ft or more from the point or object, this effect ends early.
--   Force Wall (Abjuration): As a bonus action, choose a number of squares within Cast Range equal to your Reality Bender level to be force wall squares. When a creatures attempts to move through a force wall square or starts its turn on one, they must make a Strength saving throw. On a failed save, they take 2d10 force damage and are moved 5ft in a direction of your choosing. You must choose a non-force wall square if one is available as an option.
--   Bending Shield (Abjuration): As a reaction, grant a creature within Cast Range a +2 bonus to its AC.
--   Opine (Enchantment): State your opinion, and all creatures within Cast Range that can receive your communication and know the language must make a Charisma saving throw. On a failure, they agree with your opinion unquestionably.
--   Sway (Enchantment): Choose a creature within Cast Range. They must make a Charisma saving throw. On a failed save, you get to decide what action, bonus action, or reaction they aren’t allowed to take on their turn.
--   Materialmorph (Transmutation): Choose an object within Cast Range and that can fit into a 1ft cube. It becomes a material of your choosing, gaining the stats and effects of that new material.
--   Petmorph (Transmutation): Choose a creature within Cast Range and that can fit into a 1ft cube. It becomes another creature of your choice that can also fit into a 1ft cube.
--   Disguise (Illusion): Choose a willing creature within your Cast Range. Change their appearance, voice, and smell. A creature can use its action to make an Intelligence check, and on a success, they can see through the disguise.
--   Hallucination (Illusion): Choose a creature within your Cast Range. That creature hallucinates something of your choosing that is not there, sensing it with all their available senses. They can use their action to make an Intelligence check, and on a success, discern that the hallucinations aren’t real.
--   Stasis (Evocation): Choose a creature within your Cast Range. That creature must make a Wisdom saving throw, and on a failure, they enter stasis. While in stasis:
-    -   They can’t move or take actions, bonus actions, or reactions.
-    -   They are immune to all damage and can’t be targeted or effected by any spell.
-    -   If they are unconscious, they don’t make death saves but also can’t be stabilized.
-    -   They don’t age and don’t require food, water, air, or any other thing it would otherwise require to live.
--   Energy Blast (Evocation): Make a ranged spell attack against a creature you can see within your Cast Range. On a hit, the creature takes 1d12 damage with a damage type of your choice: cold, fire, acid, lightning, or thunder. They then become vulnerable to this type of damage.
--   Wake (Necromancy): Choose a creature within your Cast Range that died within your Spell Duration. They get up with 2d10 temporary hit points. They can move and attack like normal but can’t speak or cast spells. If they make death saving throws, they do so at advantage. If they stabilize or lose all temporary hit points, this effect ends early.
--   Necrofy (Necromancy): Choose a creature within Cast Range. It must succeed on a Constitution saving throw, or it becomes vulnerable to necrotic damage, and takes an extra 1d4 necrotic damage whenever it takes other types of damage.
-
-You can learn an additional bending trick at levels 6, 9, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
-
-Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as a free action. If you fall unconscious, all your active bending tricks automatically end.
-
-Once you use a bending trick, you can’t use that bending trick again until you finish a short rest.
-
-# Improved Bending Trick
-
-At level 7, you find ways to improve on your Bending Trick feature. Choose a bending trick and choose an upgrade for it:
-
--   Frequent: You can use this bending trick an additional time per short rest.
--   Quick: You can use this bending trick as a bonus action.
--   Lasting: Going unconscious doesn’t automatically end this bending trick.
--   Untethered: Leaving your Tether Range doesn’t automatically end this bending trick.
--   Unexpiring: Lasting longer than your Spell Duration doesn’t automatically end this bending trick.
-
-Whenever you level up, you may choose to upgrade a bending trick you know. You may upgrade a bending trick multiple times, and you may choose an upgrade for a bending trick that you have previously chosen for this bending trick or another bending trick.
 
 # Reality Studier
 
