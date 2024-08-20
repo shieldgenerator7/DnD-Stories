@@ -623,9 +623,9 @@ You have proficiency with your Weapon-Formed spells. Other creatures may also ha
 
 At level 3, your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, they must make a Constitution saving throw. On a failure, the Formed spell is cast on the target. Any to-hit rolls in the spell’s description automatically succeed, and the creature automatically fails any Dexterity saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise.
 
-### Arcane Armor
+### Extra Attack
 
-At level 3, you can protect yourself with your magic reserves. Your AC is increased by the number of spell points you have divided by 5, rounded up.
+At level 5, your combat prowess grows. When you take the Attack action, you may make an additional attack.
 
 ### Armor Conjuration
 
@@ -642,10 +642,6 @@ Whenever you don an Armor-Formed spell, it procs your Formed Spell Proc feature 
 You can only wear one Armor-Formed spell at a time. If you don an Armor-Formed spell while wearing one, the new one replaces the old one, and the old one dissipates. You may wear an Armor-Formed spell over physical armor.
 
 You have proficiency with your Armor-Formed spells. Other creatures may also have proficiency with them, if it is in the form of a piece of armor that they have proficiency with.
-
-### Extra Attack
-
-At level 5, your combat prowess grows. When you take the Attack action, you may make an additional attack.
 
 ### Shield Conjuration
 
@@ -665,21 +661,25 @@ You have proficiency with your Shield-Formed spells. Other creatures may also ha
 
 At level 7, you learn how to keep your equipment intact. As an action, you may choose any number of your Formed spells within your Cast Range and spend spell points equal to that number times 2 to instantly restore their hit points to maximum and refresh their durations.
 
+### Arcane Armor
+
+At level 11, you can protect yourself with your magic reserves. Your AC is increased by the number of spell points you have divided by 5, rounded up.
+
+### Temporary Permanence
+
+At level 11, you work around some limitations of your conjured spells. Formed spells no longer dissipate at the end of your turn due to you not holding them.
+
 ### Violent Dismissal
 
-At level 7, you figure out how to exploit the volatile nature of your Formed spells. As an action, you can choose one of your Formed spells and make it explode. All creatures in a radius equal to your Casting Range and with line of sight of the Formed spell must make a Dexterity saving throw. On a failed save, they take damage equal to the Formed spell’s casted level and the Formed spell procs your Formed Spell Proc feature on them. On a success, they take half as much damage and suffer no ill effects.
+At level 15, you figure out how to exploit the volatile nature of your Formed spells. As an action, you can choose one of your Formed spells and make it explode. All creatures in a radius equal to your Casting Range and with line of sight of the Formed spell must make a Dexterity saving throw. On a failed save, they take damage equal to the Formed spell’s casted level and the Formed spell procs your Formed Spell Proc feature on them. On a success, they take half as much damage and suffer no ill effects.
 
 The Formed spell is destroyed immediately when it explodes.
 
 You may target a Formed spell with this feature even if it is outside your Cast Range or Tether Range.
 
-### Temporary Permanence
-
-At level 7, you work around some limitations of your conjured spells. Formed spells no longer dissipate at the end of your turn due to you not holding them.
-
 ### Rigged Conjuration
 
-At level 11, you can get one last use out of your Formed spells. Whenever one or more of your Formed spells would simply dissipate at the end of your turn, you may instead use your reaction to activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
+At level 15, you can get one last use out of your Formed spells. Whenever one or more of your Formed spells would simply dissipate at the end of your turn, you may instead use your reaction to activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
 
 You may also activate Violent Dismissal when you dispel one of your Formed spells as a free action.
 
