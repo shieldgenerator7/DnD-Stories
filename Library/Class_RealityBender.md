@@ -439,6 +439,7 @@ At level 3, you can modify yourself daily. Whenever you finish a long rest, you 
 -   Affinity. Switch out a Bond Affinity option you know with another one.
 -   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
 -   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
+-   Bending Trick (Level 9). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
 -   Race (Level 11). Change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
 -   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
@@ -456,17 +457,23 @@ At level 3, you can always include yourself. You gain the following Bond Affinit
 
 At level 5, you learn to harness attention. Whenever a spell targets you, you regain 1 spell point.
 
+### Improved Ability Score
+
+At level 7, you find ways to rapidly improve yourself. Increase your spellcasting ability score by 1, maximum 30.
+
+Whenever you level up, you may increase an ability score by 1, maximum 30.
+
 ### Quick Self Cast
 
-At level 7, you can quickly protect yourself from any threat. As a reaction, you can cast a spell that targets you, if that spell normally has a cast time of 1 action or 1 bonus action.
+At level 7, you can quickly protect yourself from any threat. As a reaction, you can cast a spell that targets only you, if that spell normally has a cast time of 1 action or 1 bonus action.
 
 ### Selfish
 
-At level 11, you can redirect magic into you. As a reaction, you may change a spell’s target to yourself, if it is targeting one or more other creatures. If you do, you may spend 2 spell points to use your Quick Self Cast feature as part of the same reaction.
+At level 11, you can redirect magic into you. As a reaction, you may change one or more of a spell’s targets to yourself, if it is targeting one or more other creatures. If you do, you may spend 2 spell points to use your Quick Self Cast feature as part of the same reaction.
 
 ### Identity
 
-At level 15, you can modify yourself even more easily. Whenever you cast a spell that targets yourself, it costs half as many spell points, rounded down. Additionally, you can set any and all die rolls of the spell to any value possible for that die.
+At level 15, you can modify yourself even more easily. Whenever you cast a spell that targets only yourself, it costs half as many spell points, rounded down. Additionally, you can set any and all die rolls of the spell to any value possible for that die.
 
 ## Luck Bender
 
