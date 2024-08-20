@@ -72,7 +72,7 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 ## Casting Spells
 
-The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
+The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. Cantrips cost 1 spell point to cast. You regain all expended spell points when you finish a long rest.
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically.
 
@@ -104,7 +104,7 @@ When you’re starting a new campaign, you may have already seen a few spells in
 
 When you level up, roll 1d10. The result is the total levels of the new spells you can learn.
 
-You can choose to learn any combination of new spells from your bonded schools as long as their combined level is less than or equal to this result. For the purposes of this total, cantrips count as being of 0.5 level. You can choose a spell even if you don’t have the spell points at your current level to cast it.
+You can choose to learn any combination of new spells from your bonded schools as long as their combined level is less than or equal to this result. For the purposes of this total, cantrips count as being of 1st level. You can choose a spell even if you don’t have the spell points at your current level to cast it.
 
 You can’t unlearn a spell that you previously learned by using this feature, nor can you use this feature to replace a spell you learned with a new one.
 
