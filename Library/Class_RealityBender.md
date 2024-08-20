@@ -96,6 +96,10 @@ Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom,
 
 **Spell attack modifier** = your proficiency bonus + your chosen spellcasting ability modifier
 
+## Starting Spells
+
+When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. Roll Xd10, where X is your Reality Bender level. The result is the total level of the spells you can start the game with. Refer to the “Learning New Spells” section for more information.
+
 ## Learning New Spells
 
 When you level up, roll 1d10. The result is the total levels of the new spells you can learn.
@@ -107,10 +111,6 @@ You can’t unlearn a spell that you previously learned by using this feature, n
 *Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the level total, or put a limit on how many spells you can learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.*
 
 You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
-
-## Starting Spells
-
-When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. Roll Xd10, where X is your Reality Bender level. The result is the total level of the spells you can start the game with. Refer to the “Learning New Spells” section for more information.
 
 # Reality Observer
 
