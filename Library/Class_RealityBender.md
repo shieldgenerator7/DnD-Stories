@@ -15,10 +15,10 @@ version 0.0.3
 | 4th       | +2              | Ability Score Improvement (ASI)                 | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
 | 5th       | +3              | Bending Style Feature (BSF), Bending Trick (BT) | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
 | 6th       | +3              | BT                                              | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
-| 7th       | +3              | Reality Studier, BSF                            | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
-| 8th       | +3              | ASI                                             | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
-| 9th       | +4              | Energy Store                                    | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | BT                                              | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
+| 7th       | +3              | Improved Bending Trick, BSF                     | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
+| 8th       | +3              | Reality Studier, ASI                            | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
+| 9th       | +4              | BT                                              | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
+| 10th      | +4              | Energy Store                                    | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
 | 11th      | +4              | BSF                                             | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
 | 12th      | +4              | ASI                                             | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
 | 13th      | +5              | Recasting                                       | 3                  | 4                         | 57               | 250ft             | 2500ft           | 30 d               |
@@ -165,10 +165,14 @@ At level 5, you learn a little trick you can use on a daily basis. Choose one of
 
 -   Trinket (Conjuration): Create an object that fits inside a 1ft cube. The object must be something that you have seen within your Spell Duration. If the original object is magical, the copy is nonmagical.
 -   Summon (Conjuration): Choose a creature or object within your Tether Range or that you have seen within your Spell Duration, and teleport them to any open space within your Cast Range.
--   Intuition (Divination): Ask the DM a question about something within your Cast Range or that happened within your Spell Duration, and they will answer “yes” or “no”, or if the answer isn’t clear-cut, “maybe”.
+-   Tiny Version (Conjuration): Choose a creature within your Tether Range or that you have seen within your Spell Duration, and create a tiny version of them that fits in a 1ft cube. The tiny version has a quarter of the stats of the original. It has the same personality and memories as the original.
+-   Intuition (Divination): Ask the DM a question about something within your Cast Range or that happened within your Spell Duration, and they will answer “yes” or “no”, or if the answer isn’t clear-cut, “maybe”. If the answer changes, the DM will update you with the new answer.
 -   Step in Shoes (Divination): Choose a creature you can see within your Cast Range. You become blind to your own senses and instead sense everything from that creature’s senses, including senses you yourself don’t have.
+-   Clairvoyance (Divination): Choose a creature or object you have seen within your Spell Duration. You can sense in which direction it is relative to you, and you can sense approximately how far it is from you.
 -   Block (Abjuration): As a reaction, grant a creature within your Cast Range immunity to a damage type of your choice.
 -   Tether (Abjuration): As a bonus action, choose a creature within Cast Range, and a point or object within Cast Range. That creature can’t move more than 30ft from the point or object by nonmagical means. If the creature manages to get 35ft or more from the point or object, this effect ends early.
+-   Force Wall (Abjuration): As a bonus action, choose a number of squares within Cast Range equal to your Reality Bender level to be force wall squares. When a creatures attempts to move through a force wall square or starts its turn on one, they must make a Strength saving throw. On a failed save, they take 2d10 force damage and are moved 5ft in a direction of your choosing. You must choose a non-force wall square if one is available as an option.
+-   Bending Shield (Abjuration): As a reaction, grant a creature within Cast Range a +2 bonus to its AC.
 -   Opine (Enchantment): State your opinion, and all creatures within Cast Range that can receive your communication and know the language must make a Charisma saving throw. On a failure, they agree with your opinion unquestionably.
 -   Sway (Enchantment): Choose a creature within Cast Range. They must make a Charisma saving throw. On a failed save, you get to decide what action, bonus action, or reaction they aren’t allowed to take on their turn.
 -   Materialmorph (Transmutation): Choose an object within Cast Range and that can fit into a 1ft cube. It becomes a material of your choosing, gaining the stats and effects of that new material.
@@ -184,21 +188,33 @@ At level 5, you learn a little trick you can use on a daily basis. Choose one of
 -   Wake (Necromancy): Choose a creature within your Cast Range that died within your Spell Duration. They get up with 2d10 temporary hit points. They can move and attack like normal but can’t speak or cast spells. If they make death saving throws, they do so at advantage. If they stabilize or lose all temporary hit points, this effect ends early.
 -   Necrofy (Necromancy): Choose a creature within Cast Range. It must succeed on a Constitution saving throw, or it becomes vulnerable to necrotic damage, and takes an extra 1d4 necrotic damage whenever it takes other types of damage.
 
-You can learn an additional bending trick at levels 6, 10, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
+You can learn an additional bending trick at levels 6, 9, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
 
 Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as a free action. If you fall unconscious, all your active bending tricks automatically end.
 
 Once you use a bending trick, you can’t use that bending trick again until you finish a short rest.
 
+# Improved Bending Trick
+
+At level 7, you find ways to improve on your Bending Trick feature. Choose a bending trick and choose an upgrade for it:
+
+-   Frequent: You can use this bending trick an additional time per short rest.
+-   Quick: You can use this bending trick as a bonus action.
+-   Lasting: Going unconscious doesn’t automatically end this bending trick.
+-   Untethered: Leaving your Tether Range doesn’t automatically end this bending trick.
+-   Unexpiring: Lasting longer than your Spell Duration doesn’t automatically end this bending trick.
+
+Whenever you level up, you may choose to upgrade a bending trick you know. You may upgrade a bending trick multiple times, and you may choose an upgrade for a bending trick that you have previously chosen for this bending trick or another bending trick.
+
 # Reality Studier
 
-At level 7, you can more easily absorb information about spells. As an action, you may use your Reality Observer feature on an ongoing spell effect.
+At level 8, you can more easily absorb information about spells. As an action, you may use your Reality Observer feature on an ongoing spell effect.
 
 As an action, you can study an ongoing spell effect. While looking at a spell effect that you used Reality Observer on within the past minute, you can use your action to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level. On a success, you figure out how to cast the spell and can cast the new spell without having to complete a long rest. On a failure, you don’t figure out the spell. Either way, you regain 1 spell point.
 
 # Energy Store
 
-At level 9, when you use a free action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
+At level 10, when you use a free action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
 
 # Recasting
 
@@ -206,7 +222,7 @@ At level 13, when one of your spells ends, you sense it, and may use your reacti
 
 # Reality Command
 
-At level 20, you can freely modify your spells. When you cast a spell in your bounded schools, you may apply one or more Bond Affinity options to it for free.
+At level 20, you can freely modify your spells. When you cast a spell in your bonded schools, you may apply one or more Bond Affinity options to it for free.
 
 # Bending Styles
 
