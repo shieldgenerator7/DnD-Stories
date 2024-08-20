@@ -160,27 +160,31 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 At level 5, you learn a little trick you can use on a daily basis. Choose one of your bonded schools, and then choose to learn a bending trick appropriate for that school:
 
 -   Trinket (Conjuration): Create an object that fits inside a 1ft cube. The object must be something that you have seen within your Spell Duration. If the original object is magical, the copy is nonmagical.
--   Summon (Conjuration): Choose a creature or object within your Tether Range or that you have seen within your Spell Duration, and teleport them to any open space within 30ft of you.
--   Intuition (Divination): Ask the DM a question about something within your Cast Range or happened within your Spell Duration, and they will answer “yes” or “no”, or if the answer isn’t clear-cut, “maybe”.
--   Step in Shoes (Divination): Choose a creature you can see within range. You become blind to your own senses and instead sense everything from that creature’s senses, including senses you yourself don’t have.
--   Block (Abjuration): As a reaction, block all damage that would be dealt to you until the end of the turn. Not bound to Spell Duration.
+-   Summon (Conjuration): Choose a creature or object within your Tether Range or that you have seen within your Spell Duration, and teleport them to any open space within your Cast Range.
+-   Intuition (Divination): Ask the DM a question about something within your Cast Range or that happened within your Spell Duration, and they will answer “yes” or “no”, or if the answer isn’t clear-cut, “maybe”.
+-   Step in Shoes (Divination): Choose a creature you can see within your Cast Range. You become blind to your own senses and instead sense everything from that creature’s senses, including senses you yourself don’t have.
+-   Block (Abjuration): As a reaction, grant a creature within your Cast Range immunity to a damage type of your choice.
 -   Tether (Abjuration): As a bonus action, choose a creature within Cast Range, and a point or object within Cast Range. That creature can’t move more than 30ft from the point or object by nonmagical means. If the creature manages to get 35ft or more from the point or object, this effect ends early.
 -   Opine (Enchantment): State your opinion, and all creatures within Cast Range that can receive your communication and know the language must make a Charisma saving throw. On a failure, they agree with your opinion unquestionably.
--   Sway (Enchantment): Choose a creature within Cast Range. They must make a Charisma saving throw, and on a failure, you get to decide what bonus action they take on their next turn.
+-   Sway (Enchantment): Choose a creature within Cast Range. They must make a Charisma saving throw. On a failed save, you get to decide what action, bonus action, or reaction they aren’t allowed to take on their turn.
 -   Materialmorph (Transmutation): Choose an object within Cast Range and that can fit into a 1ft cube. It becomes a material of your choosing, gaining the stats and effects of that new material.
 -   Petmorph (Transmutation): Choose a creature within Cast Range and that can fit into a 1ft cube. It becomes another creature of your choice that can also fit into a 1ft cube.
--   Disguise (Illusion): Change your appearance, your voice, and your smell.
--   Hallucination (Illusion): A target creature sees what you want them to see. You can also make them not see something that is there. The creature can make an Intelligence check, and on a success, discern that the hallucinations aren’t real.
--   Stasis (Evocation): Choose a creature. That creature can’t move or take actions, bonus actions, or reactions. They are immune to all damage and can’t be targeted or effected by any spell. If they are unconscious, they don’t make death saves but also can’t be stabilized. While in stasis, the creature doesn’t age and doesn’t require food, water, air, or any other thing it would otherwise require.
--   Energy Blast (Evocation): Make a ranged spell attack against a creature you can see within Cast Range. On a hit, the creature takes 1d12 damage with a damage type of your choice: cold, fire, acid, lightning, thunder.
--   Wake (Necromancy): Choose a creature within your Cast Range that died within your Spell Duration. They get up with 10 temporary hit points. They can move and attack like normal but can’t cast spells. If they make death saving throws, they do so at advantage. If they die for good or stabilize, this effect ends early.
--   Necrofy (Necromancy): Choose a creature within Cast Range. It must succeed on a Constitution saving throw, or it becomes weak to necrotic damage, and takes an extra 1d4 necrotic damage whenever it takes other types of damage.
+-   Disguise (Illusion): Choose a willing creature within your Cast Range. Change their appearance, voice, and smell. A creature can use its action to make an Intelligence check, and on a success, they can see through the disguise.
+-   Hallucination (Illusion): Choose a creature within your Cast Range. That creature hallucinates something of your choosing that is not there, sensing it with all their available senses. They can use their action to make an Intelligence check, and on a success, discern that the hallucinations aren’t real.
+-   Stasis (Evocation): Choose a creature within your Cast Range. That creature must make a Wisdom saving throw, and on a failure, they enter stasis. While in stasis:
+    -   They can’t move or take actions, bonus actions, or reactions.
+    -   They are immune to all damage and can’t be targeted or effected by any spell.
+    -   If they are unconscious, they don’t make death saves but also can’t be stabilized.
+    -   They don’t age and don’t require food, water, air, or any other thing it would otherwise require to live.
+-   Energy Blast (Evocation): Make a ranged spell attack against a creature you can see within your Cast Range. On a hit, the creature takes 1d12 damage with a damage type of your choice: cold, fire, acid, lightning, or thunder. They then become vulnerable to this type of damage.
+-   Wake (Necromancy): Choose a creature within your Cast Range that died within your Spell Duration. They get up with 2d10 temporary hit points. They can move and attack like normal but can’t speak or cast spells. If they make death saving throws, they do so at advantage. If they stabilize or lose all temporary hit points, this effect ends early.
+-   Necrofy (Necromancy): Choose a creature within Cast Range. It must succeed on a Constitution saving throw, or it becomes vulnerable to necrotic damage, and takes an extra 1d4 necrotic damage whenever it takes other types of damage.
 
 You can learn an additional bending trick at levels 6, 10, 14, 17, 18, and 20. You may not learn a bending trick more than once, and you may not replace a bending trick you know with a new bending trick.
 
-Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as a free action.
+Bending tricks, unless stated otherwise, are bound by both your Tether Range and Spell Duration. Unless stated otherwise, they require an action to activate. You may manually end any bending trick as a free action. If you fall unconscious, all your active bending tricks automatically end.
 
-Once you use a bending trick, you can’t use that bending trick again until you finish a long rest.
+Once you use a bending trick, you can’t use that bending trick again until you finish a short rest.
 
 # Reality Studier
 
