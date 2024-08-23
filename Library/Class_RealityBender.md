@@ -2,16 +2,16 @@
 
 D&D Class
 
-version 0.0.4
+version 0.0.5
 
 # Class Table
 
 |           |                 |                                 |                    |                           |                  | **Spell Casting** |                  |                    |
 |-----------|-----------------|---------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
 | **Level** | **Prof. Bonus** | **Features**                    | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | +2              | Spellcasting, Reality Observer  | 1                  | 0                         | 2                | 5ft               | 10ft             | 3 rounds           |
-| 2nd       | +2              | Bond Affinity                   | 1                  | 1                         | 3                | 10ft              | 20ft             | 1 min              |
-| 3rd       | +2              | Bending Style                   | 1                  | 1                         | 8                | 15ft              | 30ft             | 10 min             |
+| 1st       | +2              | Spellcasting, Reality Observer  | 1                  | 0                         | 2                | 10ft              | 20ft             | 1 min              |
+| 2nd       | +2              | Bond Affinity                   | 1                  | 1                         | 3                | 15ft              | 30ft             | 5 min              |
+| 3rd       | +2              | Bending Style                   | 1                  | 1                         | 8                | 20ft              | 40ft             | 10 min             |
 | 4th       | +2              | Ability Score Improvement (ASI) | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
 | 5th       | +3              | Bending Style Feature (BSF)     | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
 | 6th       | +3              | Bending Trick (BT)              | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
@@ -50,7 +50,7 @@ Weapons: None
 
 Tools: None
 
-Saving Throws: Choose two from Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
+Saving Throws: Your chosen spellcasting ability, and one other ability of your choice: Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma
 
 Skills: Arcana and one other skill that uses your chosen spellcasting ability
 
