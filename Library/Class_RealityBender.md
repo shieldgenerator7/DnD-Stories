@@ -907,3 +907,62 @@ When dealing damage to creature with immunity to your element, you can instead d
 You can add any number of bond affinity options to a spell that deals damage of your attuned element.
 
 You can add any number of additional bond affinity options to a spell that you applied the Elemental bond affinity option to.
+
+## Card Bender
+
+Your magic spells manifest as a deck of cards.
+
+### The Deck
+
+At level 3, your magic manifests itself as a deck of cards.
+
+As a free action, you may spend 5 spell points to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
+
+When you manifest a new deck, any decks you previously manifested disappear.
+
+The deck is volatile. If you let go of it, it disappears.
+
+The deck has only one copy of each card, and they do not get replenished when drawn. When the last card is drawn, the deck disappears, and you must manifest a new deck to use spell cards again.
+
+### The Draw
+
+At level 3, you and others may draw from your spell deck.
+
+As an action, you may draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you with the following bond affinity option:
+
+-   Drawn: This spell is cast instantly on the card holder, regardless of its casting time or material component requirements.
+
+If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an area of effect spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder.
+
+You are the caster of these spells, and the card holder is the target.
+
+If you’re willing, other creatures can also use this feature to draw a card. Otherwise, they must try to steal a card to draw one.
+
+### The Hit
+
+At level 3, you may draw for another creature. Draw the top card of the deck without looking at it, and make a melee weapon attack against a creature in melee range. On a hit, the card targets the creature as if they had drawn the card themselves.
+
+### The Fling
+
+At level 5, you can draw cards for creatures at range. Draw the top card of the deck without looking at it, and make a ranged weapon attack against a creature in range. On a hit, the card targets the creature as if they had drawn the card themselves.
+
+Your card fling’s normal range is equal to your Cast Range, and its long range is equal to your Tether Range.
+
+### The Heart
+
+At level 7, you become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, it is upcast by 1 level. If you guess the name and get it exactly right, it is instantly upcast to 9th level.
+
+For example, if you guess that the first letter of the spell is “T”, that its cast time is 1 action, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be upcast from 3rd level to 5th level.
+
+### The Trap
+
+At level 11, you can set cards as traps. Draw the top card of the deck without looking at it, and place it facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
+
+This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate when you manifest a new deck.
+
+### The Filter
+
+At level 15, you learn how to control the randomness of the deck. Whenever you manifest the deck, you may choose to filter the deck to only specific cards. You may filter the deck to only cards that are:
+
+-   Of a certain level or range of levels
+-   Of a certain school or schools
