@@ -74,9 +74,23 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
 
-Cantrips cost 1 spell point to cast. Bond affinity options applied to cantrips don’t cost any extra, so you can apply bond affinity options to cantrips for free. You also may upcast a cantrip as if it were a spell.
-
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically.
+
+## Casting Cantrips
+
+Cantrips cost 0 spell points to cast. You can apply a bond affinity option to a cantrip for free.
+
+In addition to having greater effects when you’re higher level, cantrips can also be upcast to have those greater effects at lower levels. Cantrips can’t be upcast past their max level.
+
+For example, if you’re 5th level, you can cast Ray of Frost to deal 2d8 damage. But if you upcast by spending 1 additional spell point, you get the 11 level version, which deals 3d8. And if you spend 2 spell points, you get the 17th level version, which does 4d8. Because 17th level is the last listed level, you can’t upcast any further than that.
+
+Cantrips are also bound to your Cast Range, Tether Range, and Spell Duration, as outlined in the Casting Spells section.
+
+## Upcasting Spells
+
+You can upcast a spell by spending an additional spell point per level. There is no limit to how many times you may upcast a spell. However, upcasting a spell past your safe casting level may fail, as outlined in the Casting Higher Level Spells section below.
+
+Cantrips cannot be upcast past their max listed level.
 
 ## Casting Higher Level Spells
 
@@ -102,11 +116,15 @@ Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom,
 
 When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. Roll Xd10, where X is your Reality Bender level. The result is the total level of the spells you can start the game with. Refer to the “Learning New Spells” section for more information.
 
+You also start with some cantrips. To find out how many cantrips you start with, roll Xd4, where X is your Reality Bender level. For each 3 you roll this way, you gain 1 cantrip. For each 4 you roll this way, you gain 2 cantrips. You start with a minimum of 2 cantrips.
+
 ## Learning New Spells
 
 When you level up, roll 1d10. The result is the total levels of the new spells you can learn.
 
-You can choose to learn any combination of new spells from your bonded schools as long as their combined level is less than or equal to this result. For the purposes of this total, cantrips count as being of 1st level. You can choose a spell even if you don’t have the spell points at your current level to cast it.
+You can choose to learn any combination of new spells from your bonded schools as long as their combined level is less than or equal to this result. You can choose a spell even if you don’t have the spell points at your current level to cast it.
+
+Additionally, you might learn some cantrips. Roll 1d4 -2. If the result is greater than 0, you learn that many cantrips.
 
 You can’t unlearn a spell that you previously learned by using this feature, nor can you use this feature to replace a spell you learned with a new one.
 
