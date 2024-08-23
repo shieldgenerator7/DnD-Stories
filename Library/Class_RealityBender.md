@@ -72,7 +72,9 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 ## Casting Spells
 
-The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. Cantrips cost 1 spell point to cast. You regain all expended spell points when you finish a long rest.
+The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
+
+Cantrips cost 1 spell point to cast. Bond affinity options applied to cantrips don’t cost any extra, so you can apply bond affinity options to cantrips for free. You also may upcast a cantrip as if it were a spell.
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically.
 
@@ -488,7 +490,7 @@ At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
 ### Lucky
 
-At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 2 spell points to reroll it, and then the most recent value must be used.
+At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 1 spell point to reroll it, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 1 spell point, cumulative.
 
 ### Happy Go Lucky
 
@@ -714,7 +716,7 @@ An Invisible spell can’t be seen by anyone but you. An Invisible spell will no
 
 At level 5, you learn how to make yourself less vulnerable. Whenever you use your Bystander feature, you can make yourself ethereal in addition to or instead of invisible. While you’re ethereal:
 
--   You can pass through walls.
+-   You can pass through walls, creatures, objects, and other tangible materials.
 -   You are untargetable and immune to all damage types.
 -   Your spells and attacks deal 0 damage.
 
@@ -727,6 +729,8 @@ This feature includes your Far Watcher Bending Style features:
 -   Bystander (& Safe)
 -   Predictive
 -   Removed from Reality
+
+The creature must be willing. If they are not, you can attempt to bring them in anyway. If you do, they must make a Wisdom saving throw, and on a failed save, be forced in.
 
 ### Predictive
 
