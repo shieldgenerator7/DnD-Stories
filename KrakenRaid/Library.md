@@ -129,16 +129,16 @@ As a reaction when you or another creature within range must make a saving throw
 
 ## Soul Boost
 
-3rd Level Transmutation  
+3rd Level Necromancy  
 1 Action  
 60ft range  
 1 hour, Concentration
 
-You shout the name of a willing creature within range. For the duration, that creature gains +X to all their ability scores, Xd10 temporary hit points, a +X bonus to all ability checks and saving throws, +X AC, and a +X bonus to hit, where X is your spellcasting ability modifier.
+You shout the name of a willing creature within range. For the duration, that creature gains +X to all their ability scores, Xd10 temporary hit points, a +X bonus to all ability checks and saving throws, +X AC, and a +X bonus to hit, and +X charges of a resource they use (eg Monk Ki points), where X is your spellcasting ability modifier.
 
 Additionally, they don’t fall unconscious when they drop to 0 hit points or less.
 
-When the spell ends, a wave of lethargy sweeps over them. They must make a Constitution saving throw, with a DC equal to your spell save DC plus your spellcasting ability modifier, minus their current hit points (even if they have negative hit points). On a failure, they fall unconscious.
+When the spell ends, a wave of lethargy sweeps over them, and they lose all charges of the resource gained by this spell. They must make a Constitution saving throw, with a DC equal to your spell save DC plus your spellcasting ability modifier, minus their current hit points (even if they have negative hit points). On a failure, they fall unconscious.
 
 # Items (Enemy)
 
