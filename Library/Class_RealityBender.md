@@ -680,7 +680,7 @@ A Shield-Formed spell counts as a Formed spell and follows the same rules as out
 
 When you conjure a Shield-Formed spell, it comes formed as the chosen shield that you remembered, with the same AC bonus.
 
-Whenever you or an ally within melee range of you is targeted by an attack, you may use your reaction to intercept. You impose disadvantage to the attack roll. If the attack misses, your Shield-Formed spell procs your Formed Spell Proc feature on the attacking creature, if that creature is within your Casting Range.
+Whenever you or an ally within melee range of you is targeted by an attack, you may use your reaction to intercept. You impose disadvantage to the attack roll. If the attack misses, your Shield-Formed spell procs your Formed Spell Proc feature on the attacking creature, if that creature is within your Cast Range.
 
 You have proficiency with your Shield-Formed spells. Other creatures may also have proficiency with them, if it is in the form of a shield that they have proficiency with.
 
@@ -698,7 +698,7 @@ At level 11, you work around some limitations of your conjured spells. Formed sp
 
 ### Violent Dismissal
 
-At level 15, you figure out how to exploit the volatile nature of your Formed spells. As an action, you can choose one of your Formed spells and make it explode. All creatures in a radius equal to your Casting Range and with line of sight of the Formed spell must make a Dexterity saving throw. On a failed save, they take damage equal to the Formed spell’s casted level and the Formed spell procs your Formed Spell Proc feature on them. On a success, they take half as much damage and suffer no ill effects.
+At level 15, you figure out how to exploit the volatile nature of your Formed spells. As an action, you can choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make a Dexterity saving throw. On a failed save, they take damage equal to the Formed spell’s casted level and the Formed spell procs your Formed Spell Proc feature on them. On a success, they take half as much damage and suffer no ill effects.
 
 The Formed spell is destroyed immediately when it explodes.
 
@@ -998,7 +998,7 @@ You use the dead to bend reality to your will.
 
 ### Raise the Dead
 
-At level 3, you can exhume dead bodies from their resting place. As an action, spend 2 spell points or more to bring a dead body within your Casting Range to life. If it is able, it will spend all its actions and movement to get to your location, digging through as much dirt and opening as many doors as it needs to (only if it is physically capable of doing so) to do so. It then serves you as an undead minion until it collapses.
+At level 3, you can exhume dead bodies from their resting place. As an action, spend 2 spell points or more to bring a dead body within your Cast Range to life. If it is able, it will spend all its actions and movement to get to your location, digging through as much dirt and opening as many doors as it needs to (only if it is physically capable of doing so) to do so. It then serves you as an undead minion until it collapses.
 
 ### Undead Minions
 
@@ -1022,7 +1022,7 @@ Undead minions are immune to psychic damage. However, any psychic damage they wo
 
 At level 3, you can cast spells on all your undead minions at once. You gain the following bond affinity option:
 
--   Undead: 2 Spell Points. If this spell targets one or more of your undead minions, it also targets all your undead minions within your Casting Range.
+-   Undead: 2 Spell Points. If this spell targets one or more of your undead minions, it also targets all your undead minions within your Cast Range.
 
 ### Undead Immunity
 
@@ -1032,7 +1032,7 @@ At level 5, you learn how to cast spells without harming your undead minions. Yo
 
 ### Undead Fortitude
 
-At level 7, you can syphon the energy of your undead minions. As an action, you may spend 2 spell points to consume the energy of one of your undead minions within your Casting Range. You gain hit points equal to that undead minion’s remaining hit points, and the undead minion collapses and shrivels into dust.
+At level 7, you can syphon the energy of your undead minions. As an action, you may spend 2 spell points to consume the energy of one of your undead minions within your Cast Range. You gain hit points equal to that undead minion’s remaining hit points, and the undead minion collapses and shrivels into dust.
 
 ### Mass Exhume
 
@@ -1042,4 +1042,4 @@ As an action, you may target any amount of creatures that you can see within you
 
 ### Undead Replacement
 
-At level 15, you use your undead minions as a last resort. When you get hit or take damage, you may use your reaction to teleport any square within Casting Range of one of your undead minions and use your Undead Fortitude feature on it.
+At level 15, you use your undead minions as a last resort. When you get hit or take damage, you may use your reaction to teleport any square within Cast Range of one of your undead minions and use your Undead Fortitude feature on it.
