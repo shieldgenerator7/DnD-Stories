@@ -513,7 +513,11 @@ At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Rang
 
 ### Happy Go Lucky
 
-At level 7, natural luck comes to your aid. Whenever you or an ally rolls a 20 on a d20 or crits on an attack roll, you regain 1 spell point. Whenever an enemy creature rolls a 1 on a d20, you regain 1 spell point.
+At level 7, natural luck comes to your aid. Whenever you or an ally rolls a 20 on a d20 or crits on an attack roll, you regain 1 spell point. Whenever an enemy creature rolls a 1 on a d20 or fumbles on an attack roll, you regain 1 spell point.
+
+### Good Fortune
+
+At level 11, your spells seem to be more effective. Whenever one of your Lucky Bending Tricks would have you roll dice, you may roll an additional die of that type.
 
 ### Plot Armor
 
@@ -523,7 +527,7 @@ Additionally, whenever you are attacked, you may spend any number of spell point
 
 ### Dictation
 
-At level 20, you have mastered fortune. Once per round, you can set any number of rolled dice to any value possible for that die.
+At level 20, you have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 5 spell points to set any number of the rolled dice to any value possible for that die.
 
 ## Item Infuser
 
