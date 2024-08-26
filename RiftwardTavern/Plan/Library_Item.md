@@ -493,7 +493,7 @@ If you would take damage, the amulet automatically Petrifies you until the start
 
 Whenever you get Petrified, the amulet grants you temporary hit points equal to your current hit points. These temporary hit points last until you become unpetrified.
 
-If the amulet is removed from you, you lose all temporary hit points.
+If the amulet is removed from you, you lose all temporary hit points. This does not automatically unpetrify you.
 
 # Drathalion’s Longbow
 
@@ -564,7 +564,7 @@ Increase the teleport range by 30ft, and the healing by 2d6
 
 # Cloverbraid’s Harness
 
-Artifact, Attunement (remove resitence to psychic)
+Artifact, Attunement (remove resistance to psychic)
 
 Reward for defeating Cloverbraid
 
