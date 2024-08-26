@@ -171,6 +171,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Far Watcher
 -   Dreamer
 -   Elemental Master
+-   Card Bender
 
 # Ability Score Improvement
 
@@ -916,13 +917,15 @@ Your magic spells manifest as a deck of cards.
 
 At level 3, your magic manifests itself as a deck of cards.
 
-As a free action, you may spend 5 spell points to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
+As an action, you may spend 5 spell points to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
 
 When you manifest a new deck, any decks you previously manifested disappear.
 
-The deck is volatile. If you let go of it, it disappears.
+The deck is volatile. If you let go of it, it disappears. It is also bound to your Tether Range and Spell Duration.
 
 The deck has only one copy of each card, and they do not get replenished when drawn. When the last card is drawn, the deck disappears, and you must manifest a new deck to use spell cards again.
+
+The deck requires your concentration to exist. All concentration spell rules apply to this deck as well.
 
 ### The Draw
 
@@ -936,17 +939,33 @@ If the Drawn spell can target one or more creatures, it only targets the card ho
 
 You are the caster of these spells, and the card holder is the target.
 
+However, Drawn spells do not require your concentration. They require the concentration of the deck, and the deck can concentrate on 1 spell per target, and does not need to make a Constitution saving throw if it gets damaged. A Drawn spell does not automatically end when its deck is destroyed. If a creature draws a concentration spell, any previous Drawn concentration spells on them end, if both Drawn spells were drawn from the same deck.
+
 If you’re willing, other creatures can also use this feature to draw a card. Otherwise, they must try to steal a card to draw one.
+
+The Drawn bond affinity option is indeed a bond affinity option, but you do not gain it, per se. You can’t use it when you cast spells. It is only used automatically when a card is drawn.
+
+When a card is drawn, and after it is revealed what spell it is; if you are able to apply two or more bond affinity options to it; you may use your reaction to apply one or more additional bond affinity options to it.
 
 ### The Hit
 
-At level 3, you may draw for another creature. Draw the top card of the deck without looking at it, and make a melee weapon attack against a creature in melee range. On a hit, the card targets the creature as if they had drawn the card themselves.
+At level 3, you may draw for another creature.
+
+You may use your Attack action to draw the top card of the deck without looking at it and use it as a melee weapon. You are proficient with this card weapon and your to-hit bonus is your spellcasting ability modifier.
+
+On a hit, the card targets the creature as if they had drawn the card themselves. On a miss, the card dissipates without casting the spell, and you find out what spell it was.
 
 ### The Fling
 
-At level 5, you can draw cards for creatures at range. Draw the top card of the deck without looking at it, and make a ranged weapon attack against a creature in range. On a hit, the card targets the creature as if they had drawn the card themselves.
+At level 5, you can draw cards for creatures at range.
 
-Your card fling’s normal range is equal to your Cast Range, and its long range is equal to your Tether Range.
+You may use your Attack action to draw the top card of the deck without looking at it and use it as a ranged weapon. Its normal range is equal to your Cast Range, and its long range is equal to your Tether Range. You are proficient with this card weapon and your to-hit bonus is your spellcasting ability modifier.
+
+On a hit, the card targets the creature as if they had drawn the card themselves. On a miss, the card dissipates without casting the spell, and you find out what spell it was.
+
+### The Extra Attack
+
+At level 7, you can attack an additional time when you take the Attack action on your turn.
 
 ### The Heart
 
