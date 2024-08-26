@@ -989,3 +989,4 @@ At level 15, you learn how to control the randomness of the deck. Whenever you m
 
 -   Of a certain level or range of levels
 -   Of a certain school or schools
+-   Targeted spells or area of effect spells
