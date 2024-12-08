@@ -1,0 +1,386 @@
+=== Hoard of the Dragon Queen ===
+
+--------------------
+
+centaurus - clike, arakroca rogue
+scream - caelum corvus wildthorn, centaur fighter
+shield - sonata dormitido, cervitaur twilight cleric
+Jason - markus ether, human ranger
+
+--------------------
+
+
+
+last session: party was in a tunnel
+
+ranger got a pet rat, other rats attacked them
+
+party fought the rat
+
+they need to get out, but the grate in the floor is locked, and the key is rusted
+markus went off to chase a rat
+
+
+=========
+
+
+
+party falls asleep (clike, caelum, markus)
+
+they wake up in a shared dream, feels real
+
+its in a space asteroid biome like in Dr Strange MOM opening
+
+
+caelum "are you seeing the same thing im seeing, is this real?"
+clike "im stumped as you are, wtf we doing in space"
+caelum "this messes up with my buearcratic mind"
+
+they notice tower, creatue at top
+
+thye rescue the deer centaur from the force field in the top of the tower
+the one they rescied is sonata
+
+it was a gemstone that they put in a slot (clike put it in the slot)
+
+sonata knows the ones who captured her aren't dumb, they have contingencies if she gets out
+"theyre coming..." sonata hides away
+
+
+two nightmares (fire horse things) appear down below, summoned by freeing sonata
+
+sonata uses vigilant blessing on clike, giving him advanatage on initiative
+
+
+=== combat begins ===
+
+
+clike flies 30ft in the air
+clike arrows nightmare1: 8 piercing
+
+
+nightmare0 flies up next to clike: hoof attack: 19dmg, knocks clike unconcsious
+
+nightmare1 flies up to caelum: hoof attack: 14dmg, knocks clike unconscious
+
+sonata heling word clike: +5hp
+sonata faerie fire nightmares: 1 save, 1 fail
+
+caelum death save?
+
+>>> ROUND 2 >>>
+
+
+clike arrow nightmare1: miss
+
+nightmare0 waits at staircase down from tower, cant get into tower area
+
+sonata healing caelum: 5hp
+sonata sanctuary caelum
+
+caelum gets off the ground, runs from nightmares
+caelum runs away
+nightmare1 OoA caleum: sanctuary WIS save: fail
+nightmare1 attack nightmare0: miss
+
+caelum switches to crossbow
+caelum crossbows nightmare1: 5dmg
+
+>>> ROUND 3 >>>
+
+clike arrows nightmare1: 11dmg
+clike flies away from tower
+
+nightmare0 dashes up next to clike (can fly too)
+nightmare1 stands at top of stairs
+
+sonata runs to edge of cliff to get closer to clike
+sonata casts bless on clike caelum
+sonata casts sanctuary on clike
+
+caelum crossbows nightmare1: 10dmg
+
+
+
+>>> ROUND 4 >>>
+
+clike moves away from nightmare0
+nightmare0 AoO: sanctuary WIS save: fail
+clike longbows nightmare1: FUM, FUM (even with advantage)
+clike longbow strings get tangled
+clike bonus action untangle bowstring
+
+nightmare0 gallops toward clike:
+sanctuary WIS save: success
+nightmare0 attacks clike: 9dmg, clike unconscious
+
+sonata healing word clike x2: 5hp, 6hp
+
+caelum crossbows nightmare0: 5dmg
+
+
+
+>>> ROUND 5 >>>
+
+clike rapier nightmare0: miss: bless d4: 10dmg
+clike move into center
+
+sonata tells him to leave the circle, clike leaves circle
+
+nightmare0 attack clike: WIS save: success: 12dmg, clike down
+
+sonata  healing word clike, he comes up
+
+caelum crossbow nightmare1: 10dmg
+
+
+
+>>> ROUND 6 >>>
+
+clike longbows nightmare1: 10dmg
+
+nightmare0 attacks clike: WIS save: pass: 15dmg
+nightmare1 does nothing
+
+sonata healing word clike: +5hp
+
+caelum crossbows nightmare1: 7dmg
+
+
+
+>>> ROUND 7 >>>
+
+clike longbows nightmare1: 6dmg
+clike moves away from nightmare0
+nightmare0 AoO: WIS save: fail
+
+nightmare0 attacks clike: WIS save: fail, neighs in agitation
+nightmare1
+
+sonata cowers
+
+caelum crossbows nightmare1: 6dmg
+
+
+
+
+>>> ROUND 8 >>>
+
+clike moves away from nightmare0
+nightmare0 AoO: WIS save: success: miss
+clike longbows nightmare1: 9dmg, kills
+clike shoots it right in the eye socket
+
+nightmare1 falls to ground and dissipates into pile of ashes
+the blue sigils on the ground on the tower dim a little
+
+nightmare0 gets closer to clike
+
+sonata faerie fire nightmare0
+nightmare0 DEX save: fail
+
+caelum crossbows: 8dmg
+
+
+
+
+>>> ROUND 9 >>>
+
+clike longbows nightmare0: 10dmg
+
+nightmare0 steps into the ground, vanishes
+
+sonata cowers at the top of the tower
+caelum says nightmare is still after her
+sonata convinces caelum to investigate stairs
+"horsie, can you please check the bottom of the stairs? im scared"
+
+caelum shoots at bottom of stairs: rolled 21 at disadvantage (bc Bless)
+the nightmare was indeed at bottom of stairs, got hit by crossbow bolt
+caelum crossbow nightmare0: 11dmg
+
+
+
+
+>>> ROUND 10 >>>
+
+clike longbows nightmare0: 10dmg
+
+nightmare0 moves up to clike: WIS save: pass, 13dmg, clike goes down
+
+sonata healing clike: 5hp
+
+caelum crossbows nightmare0: 8dmg
+caelum switches to sword and shield
+
+
+
+>>> ROUND 11 >>>
+
+clike rapiers nightmare0: 12dmg, kills it
+clike pets it, puts sword through neck
+nightmare0 to clike (telepathy): "you will never leave this place"
+
+
+=== COMBAT ENDS ===
+
+
+
+
+
+
+
+sonata looks around, doesn't know if theres any monsters out there
+
+
+caelum asks her why she was trapped here
+sonata gives him a non answer
+
+clike asks how to get out
+sonata tries to end the dream, but fails
+she notices the other towers, and suggests maybe they have to put arcane stones in slots
+
+they adventure to first tower, they come across a chain "bridge" along the way
+clike flies over, caelum hesitates
+sonata casts bless on caelum, he makes it across ok, walking on the chain
+
+clike caelum go up to tower, put stone into slot there
+
+angler fish serpent (dire anglerfish? (DAF)) appears, along with 4 lost souls. 3 surround sonata, 1 is on a floating island by himself
+
+sonata uses vigilant blessing on herself
+
+
+
+
+
+=== combat begins ===
+
+caelum attack serpent: hit, dmg
+
+clike attack lost soul 1: hit, dmg
+
+sonata faefires the 3 lost souls, they all fail their dex save
+sonata sanctuary clike
+sonata is cornered by lost souls, tries to run by jumping gap to tower where clike and caelum are
+she fails and falls into void, but grabs chain at last second
+
+DAF attacks caelum: 8dmg
+
+lost souls attack sonata: miss, 3dmg
+lost souls attack clike: miss
+
+
+
+>>> ROUND 2 >>>
+
+caelum attacks DAF: 7dmg
+caelum second winds: +4hp
+
+clike attacks lost soul 1: 10dmg
+
+sonata grips chain, dangling, and swings her back side up onto the island
+sonata runs away
+
+2 lost souls chase sonata
+2 lost souls hit clike: miss, miss
+
+DAF attacks caelum: miss
+
+
+
+>>> ROUND 3 >>>
+
+caleum attacks DAF: 7dmg
+
+clike shoots DAF: miss
+
+sonata runs away up stairs
+
+
+
+>>> ROUND 4 >>>
+
+caelum attacks DAF: hit, dmg
+
+clike shoots DAF: hit, dmg
+
+(15 dmg combined on DAF this turn)
+
+sonata runs up stairs to tower, stands in blue circle
+
+lost souls run towards clike caleum
+lost soul attack clike: 6dmg
+
+DAF attacks caleum: miss
+
+
+
+>>> ROUND 5 >>>
+
+caelum attack DAF: hit, dmg
+
+clike shoot DAF: hit, dmg
+
+(11 dmg combined)
+
+DAF vanishes into puff of ashes, lost souls also vanish 
+
+
+=== COMBAT ENDS ===
+
+
+
+the hold ends, sonata kicks a rock from tower into the void
+sonata ends the dream
+
+the party wakes up in the pit where sonata was trapped, with the grate closed
+
+caelum kicks the grate open, but fails
+
+clike lockpicks the lock, unlocks
+
+the party gets out of the pit
+
+LEVEL UP to LVL 2
+
+
+
+Next Time:
+party hears a river somewhere with kobolds and cultists. itll be a big battle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
