@@ -1,0 +1,362 @@
+=== Dragons Hoard S1E2 ===
+
+markus rejoins the party, with a rat friend on his head
+
+wildthorn explains to sonata whats going on, condolences for her situation, asks for help capturing a cultist
+
+sonata accepts, asks for hhelp finding her villagers (from her backstory)
+
+
+
+they hear noise outside, its cultists
+sonata dreamers eye outside, detects 1 cultist:
+"Masked Cultist: 100hp, 21ft away outside window"
+
+clike shoots an arrow at masked cultist 1 (MC1): miss
+
+sonata intiative: CRIT
+wildthorn intiative: CRIT
+
+
+=== combat begins ===
+
+>>> ROUND 0 >>>
+
+wildthorn dashes, moves
+
+sonata castsa faerire fire on 2 cultists, 2 kobolds
+kobold1 fails the save
+(sonata still inside, casting through window)
+
+markus leans out the window
+markus longbows kobold1: 10dmg, knocks him out (doesn't kill)
+
+clike longbows MC1: miss
+
+>>> ROUND 1 >>>
+
+wildthorn leans over from behind a wall
+wildthorn longbows kobold3: 11dmg, kills
+wildthorn ACTION SURGE
+wildthorn longbows kobold2: miss
+
+sonata dreamers eye MC1, kobold2:
+kobold2: "6hp, 30ft away""
+sonata faerie MC1, MC2, kobold2: all highlighted
+
+markus attack MC1: 4dmg
+
+kobolds advance closer to wildthorn
+kobold2 shoot wildthorn: miss
+
+MC1, MC2: move toward wildthorn
+
+clike flies out window
+clike shoots MC1: 12dmg, goes unconscious
+
+
+
+>>> ROUND 2 >>>
+
+wildthorn jumps off deck, charges kobold2
+wildthorn attack kobold2: miss, but faery fire: hit!, 5dmg
+wildthorn attack kobold2: miss, but faery fire: hit!, 7dmg, kill
+wildthorn remembers playing around the lil creek i his home where he was born, heartwarming moment, he laughs a little bit
+
+sonata dreamers eye MC1, MC2:
+"MC1: 1hp, 60ft away"
+"MC2: 6hp, 60ft away"
+
+clike coaxes markus to jump out the window
+markus jumps out window (less than 10ft so no dmg)
+markus shoots MC2: 11dmg, unconscious
+
+kobolds advance on wildthorn
+kobold4 slings wildthorn: 4dmg
+kobold5 slings wildthorn: miss
+kobold6 slings wildthorn: miss
+
+clike tollsthedead kobold4: save: pass, 0dmg
+
+
+>>> ROUND 3 >>>
+
+wildthorn charges kobold5: 5dmg
+wildthorn shortsword kobold5: CRIT! 4dmg
+wildthorn remembers his mother singing him a lullaby, as he jams his sword into the head of the kobold
+
+sonata dreamer's eye wildthorn, kobold4:
+nothing
+
+markus shoots kobold4: 7dmg, unconscious
+
+kobold6 attaks wildthorn: miss
+
+clike flies in
+clike toll the dead kobold6: 4dmg necrotic
+
+
+>>> ROUND 4 >>>
+
+wildthorn shortswords kobold6: miss
+
+sonata jumps out window, peeks around corner
+sonata dreamers eye wildthorn, kobold6:
+"wildthorn: 24hp, 35ft away"
+
+markus shoots kobold6: miss
+markus cheers on wildthorn
+
+kobold6 atk wildthorn: 5dmg
+
+clike moves in, rapiers kobold6: kill
+clike rapiers through kobold's neck
+
+=== combat ends ===
+
+
+
+clike murders the unconscious kobolds
+markus notices, tries to stop him, but is too lates
+
+
+
+wildthorn tells sonata that theyre taking the cultists to the keep
+wildthorn picks up MC2
+sonata tries to pick up the other unconscious cultist MC1, but its hard
+clike tries to help sonata
+
+sonata heals wildthorn to full
+
+
+party goes back through tunnel and back to the keep
+
+
+governor meets them, glad to see they brought prisoners, putting them in dungeon
+the keep is surrounded, the party used a secret passage to get past enemies
+
+kenku survivor approaches party
+
+wildthorn searches cultists for money: 180 gold
+wildthorn evenly splits the gold: 45 gold each
+
+wildthorn goes to shop and buys crossbow bolts
+markus buys arrows
+clike buys crossbolts for wildthorn: 20
+wildthorn now has 70 bolts
+
+governor says they dont have food, and only limited lodging
+
+
+sonata dreamers eye outside, senses some with 6hp, 12hp, and even one with 20hp
+
+
+party eats a meal ration, takes a short rest
+
+
+clike spies over wall to see how many kobolds there are lots of them
+
+
+party goes to dungeon to lock up cultists
+the cultists wake up 
+
+sonata stays out of sight, dreamers eye from a distance, each cultist has 10hp
+
+
+=== interrogation ===
+
+markus tries to intimidate MC2
+sonata, clike use guidance
+markus threatens them "who are you working for?"
+
+MC2 fumbles anti-intimidation "dont hurt me"
+MC2 will cooperate
+
+marcus charisma check
+clke use guidance
+marcus "i swear im going to beat you"
+
+MC2 "ok ok relax. what do you want to know. you want to know why were here. ill tell you"
+"cult of the dragon"
+
+clike "whats the dragons name"
+
+MC2 "we work for the queen"
+
+clike history check: fail
+
+markus casts speak with animals to ask his rat if he knows
+
+clike tries to stab the cultists "who is the queen, whats her name?"
+
+MC2 "my name is jerry. the queen is the queen"
+
+clike longbows MC2: 17dmg, kills
+
+=== interrogation ends ===
+
+governor prevents clike from killing MC1
+
+markus: whatsthe point of killing him?"
+clike: "we got all the info we wanted. only good cultist is a dead one"
+
+
+markus and clike rejoin wildthorn and sonata
+
+
+wildthorn interrogates MC1
+
+MC1: "Tom"
+
+wildthron uses courtier background to interrogate MC1
+wildthorn persuades MC1 to tell him their plans and weaknesses, the easiest way to put an end to the current problem, with the most plentiful bounty for me and my party
+
+MC1: "you want this to end, you have to kill that dragon"
+
+wildthorn: "whats its weakness?"
+
+MC1: well its a dragon, i assume its weak to a normal attacks. he laughs. wait you serious? you think you can fight it?
+
+wildthorn: i want to make it go away
+
+MC1: surrender your loot, die peacefully
+
+wildthorn rolls persuasion: 17
+MC1: work for group of cult of the dragon queen. they harvest gold to give to dragon queen. they have dragon eggs near bandit camp
+wildthorn slightly kicks MC1
+wildthorn to party: we cant fight the dragon, but if we get to bandit camp, maybe we can force their retreat
+clike: now what we do with cultist?
+wildthorn: he should face court, face the law for his deeds
+clike: so he should just rot in the cell? what if someone comes to free him 
+voice echoes: "horsie is right!"
+party decides to leave cultist be
+
+
+
+party hears rumor that the army outside the keep will stop at around midnight.
+party decides to save ppl from the town in the meantime
+party goes thru tunnel, out into town
+
+town is mostly on fire
+
+party comes up on masked cultist fighting 3 guards
+wildthorn charges MC3: 5dmg
+wildthorn shortsword MC3: miss
+
+clike shoots MC3: 14dmg, kills
+
+
+the 3 guards say they haven't found any survivors
+
+clike loots MC3: gives to guards, says to give back to people 
+WT searches houses, doesn't find anyone
+
+clike finds famnmily hiding under a table
+sonata healed them, but they weren't someone she recognized
+
+party searches houses:
+-clike finds 2 ppl
+-markus' rat finds 2 ppl
+-sonata finds 5 ppl
+-WT finds 2 ppl
+
+party escorts them into keep
+
+dragon breathes fire onto the keep
+2 guards get burned, sonata heals them
+
+guards shoot dragon, barely doing any damage
+
+
+dragon lands outside castle, about to break into the keep
+
+sonata vigilant blessing wildthorn
+sonata dreamers eye the dragon: nothing
+
+
+clike tries to ask dragon why its doing this "you have enough gold"
+dragon replies "all i see is the possibility of having MORE"
+clike "back off we killed a lot of your cultists already"
+dragon doesn't care
+WT tells clike to tell dragon "hey theres guards killing your eggs right now"
+clike tells the dragon
+dragon frightful presence clike: "why would i care about someone elses eggs?"
+dragon fears clike
+
+
+=== combat begins ===
+
+clikeruns away in fear
+clike longbows dragon: 5dmg
+
+WT shoots dragon: 7dmg
+WT ACTION SURGE
+WT shoots dragon: 6dmg
+
+sonata dreamers eye dragon:
+"dragon: 207hp, 160ft away"
+sonata helps WT
+
+markus dances at the dragon
+markus longbows dragon: 7dmg
+
+dragon flies up into the keep, stands at base of stairs
+dragon stares at markus, dragon lightning blast markus:
+markus DEX save: fail: 73dmg, unconscious
+
+
+>>> ROUND 2 >>>
+
+clike tries to persuade the dragon to let them go: CRIT
+dragon: "you i like. 
+
+WT health potions markus: +5 hp, stabilizes him
+
+=== combat ends ===
+
+
+
+sonata heals markus to full
+
+
+sonata talks to clike about speaking draconic
+clike: F
+WT: M
+markus: M
+sonata: F
+
+
+LEVEL UP
+to level 3
+
+
+
+sonata goes with WT to search the town for survivors
+sonata finds survivors, most of them now homeless. she puts them to sleep and puts them in a shared dream
+WT remembers his strange drinks as he watches sonata put people to sleep
+
+
+kenku (NPC) gives book to markus: Magic Missile Lvl 1
+markus asks sonata to read it
+sonata arcana check: pass
+sonata tells markus how to read the book
+kenku asks for 50 gold for the book
+
+party itches in, but is 5 gold short. WT asks sonata for 5 gold
+sonata asks what gold is, talks about shiny rocks
+WT "gold is how you get stuff you want, and get people to do stuff for you"
+sonata "but i already can get people to do stuff for me, without shiny rocks"
+WT "well move stuff"
+sonata gives him 5 gold
+
+markus buys the book, that teaches 1 person how to do magic missile
+
+
+
+party takes long rest
+
+
+
+
+																				
+
