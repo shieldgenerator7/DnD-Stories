@@ -1,0 +1,294 @@
+=== Hoard of the Dragon Queen S1E3 ===
+
+markus: DEAD, killed by lightning dragon
+clike
+sonata
+wildthorn
+
+
+=============
+
+
+after the dragon attack, sonata puts the party to sleep
+
+in the dream, sonata is tiny, wildthorn is huge, clike has huge wings
+
+some centaur skeletons try to capture sonata, but wildhtorn stands in their way
+
+
+=== combat begins ===
+
+
+sonata cast faerie fire on SC1, SC2:
+SC2 save fail
+sonata sanctuary wildthorn
+
+SC1 attack WT: WIS save: fail
+SC1 attack sonata: miss
+
+SC2 attack WT: WIS save: fail
+SC2 attack sonata: miss
+
+SC3 attack Clike: miss
+
+SC4 attack Clike: 10dmg
+
+Clike attack SC2: CRIT! max dmg, kill
+
+WT attack hoof: miss
+WT attack SC3: CRIT: dmg, kill
+
+>>> ROUND 2 >>>
+
+sonata moves against her will towards centaurs
+
+SC1 attack sonata: 7dmg
+SC2 attack sonata: miss
+
+clike attack SC4: 11dmg
+clike hides
+
+WT hoof SC4: 9dmg, kill
+WT rips the bottom part of the skeleton body
+
+>>> ROUND 3 >>>
+
+sonata dashes, but world pulls her closer to SC1
+
+SC1 attack sonata: 8dmg
+
+clike attack SC1: 11dmg
+clike hides: fail
+
+WT hoof SC1: 12dmg, kill
+
+
+=== combat ends ===
+
+
+
+clike and sonata talk
+sonata makes clike giant wings "lighter" (light spell)
+clike discusses alignment, tells sonata hed kill her if she did anything bad, like murdering children
+
+
+sonata says her alignment is "sweet and delightful" according to other townspeople
+clike asks if shes follows rules
+sonata lets out that she does follow rules, if she knows them
+some rules:
+-dont pee in the certain place (implied to be public drinking water source)
+-dont stand in doorways
+-picking your nose is bad
+
+
+
+the dreamscape changes
+its darker now
+the light on clike's wings turn red
+
+
+
+the party expolores the cold dark lonely citadel in the middle of a space, very dream scapy, but nightmare
+
+they find a cultist, its the one in the jail
+
+party talks to cultist, asks if they know anything about this place and how to leave
+
+sonata casts zone of truth, but cultist passes
+
+cultist: "even if i knew, i would not tell you"
+
+WT and clike try to intimidate the cultist, but it fails
+
+sonata asks why they work for the dragon, its bc "shes a god"
+
+WT tries to bargain with the cultist, to lessen his punishment, cultist refuses
+
+WT says "were going to find out what happens when someone dies in here"
+
+
+
+=== combat begins ===
+
+sonata walks away, faerie fires the other three
+they all failed
+sonata dreamers eye:
+"cultist: 9hp, 35ft away"
+"WT: 36hp, 20ft away"
+
+WT shortswords the cultist, knocks him out
+
+
+=== combat ends ===
+
+
+sonata wants to heal him, but she doesn't know his name
+
+WT searches his body, finds 24 gold
+
+sonata throws a coin with her censer, for fun
+
+sonata lore: she wasn't allowed in the "big house" in her town, which was a mansion
+
+
+
+party gets to mansion, sonata surprised about going into mansion, says its the "big house", party surprised she doesn't know, she describes mansion, but they tell her thats a shack
+
+they explore, but its dark, so sonata uses Eye of Night to share darkvision with WT and clike
+
+they encounter 4 skeleton ghosts in a giant room
+
+
+=== combat begins ===
+
+
+sonata faerie fires ghost2, ghost3: they both pass
+sonata sanctuary WT
+
+WT runs in
+WT hoof g3: miss
+WT sword g3: 6dmg
+
+clike shoots g3: 8dmg
+
+g1 atk clike: miss
+ghosts surround WT
+
+>>> ROUND 2 >>>
+
+
+sonata moves in closer to battle
+sonata sanctuary clike
+sonata turn undead: g2 fail, g4 fail
+
+WT attack: miss
+
+clike disengage
+clike shoot g3: 4dmg
+
+g2 run away
+WT OoA: 13dmg
+g2 no longer turned
+
+g4 runs away
+
+g3 attack WT: WIS save: fail
+
+g1 attack sonata: 13dmg necrotic
+clike rebuke g1: g1 save: pass: 7dmg to g1
+
+
+>>> ROUND 3 >>>
+
+sonata moonbeams g1
+sonata dreamers eye g2, g3:
+"ghost3: 30hp, 25ft away"
+
+WT attack g3: CRIT! 17dmg
+WT ACTION SURGES
+WT attack g3: miss
+
+clike attack g3: 10dmg
+
+g1 con save: fail: 11dmg radiant
+g2 attack WT: WIS save: pass: 14dmg necrotic
+g3 attack WT: WIS save: pass: miss
+g4 runs away
+g1 attack sonata: 11dmg necrotic
+
+
+
+>>> ROUND 4 >>>
+
+sonata dreamers eye g1: 23hp
+sonata twilight sanctuary: gains 4hp
+
+WT attack g2/g3: miss
+sonata TS: +6 temp hp
+
+clike attack g3: 11dmg
+sonata TS: +9 temp hp
+
+g1 con save: pass: 8dmg from moon beam
+
+g1 attack sonata: CRIT!: 13dmg
+sonata goes down
+g2 attack WT: miss
+g3 attack WT: miss
+g4 runs
+
+
+>>> ROUND 5 >>>
+
+sonata death save
+
+WT attack: miss
+
+clike spare the dying sonata
+clike picks up sonata, flies away
+clike yells to WT to get out
+
+g1 follows clike, finds unconscious cultist
+g1 attacks cultist, knocks him out
+g2 attack WT: fail WIS save
+g3 attack WT: miss
+
+
+>>> ROUND 6 >>>
+
+
+sonata wakes up, does nothing
+
+WT dashes out
+g2 OoA: fail WIS save
+g3 OoA: fail WIS save
+g1 OoA: miss
+WT picks up cultist
+
+party leaves
+
+=== combat ends ===
+
+
+
+clike spares the dying the cultist
+
+
+
+WT says he doesn't believe sonata about not controlling the dream, hes upset bc hes trying ot rest, "more stressful than managing an orc wedding"
+
+with cultist unconscious, sonata can end the dream
+
+party wakes up with benefits of long rest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
