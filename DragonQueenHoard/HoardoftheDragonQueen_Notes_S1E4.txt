@@ -1,0 +1,301 @@
+=== Hoard of the Dragon Queen S1E4 ===
+
+
+sonata
+clike
+wildthorn
+wayne leffen (twilight) - human ranger
+sparkle - dragon
+tintoretto - tortle
+
+
+
+=====================================
+
+party wakes up from dream
+
+clike gives everyone 2 temp hp
+
+governor wakes everyone up
+theyre sleeping on nice beds (they were moved there after falling asleep)
+
+governor tells about bandits, they took gold and kidnapped ppl
+governor tells party to go after them
+its been sevral hours since then
+
+sonata: "dont worry, we'll get your people back"
+
+
+twilight and sparkle show up, governor introduces them as captain of the guard
+
+sonata hides from the drake (sparkle)
+twilight says theyre a drake, not a dragon
+
+
+twilight says he doesn't want to babysit the party
+
+
+
+
+party leaves to go after bandits
+
+
+
+on the way, party conversates
+
+sonata: "is it safe to have a dragon as a pet?"
+wayne: "yes"
+
+
+
+
+party comes across Clink the merchant, and a tortoise (Tintoretto)
+
+tint wants to sell his painting , no one wants to buy
+
+sonata asks him to join him on the quest to the bandits
+he agrees
+
+clink tries to send party on quest to other town, but party refuses for now bc bandits
+
+but then some ppl flip their vote, so party  goes to do clink's quest
+
+
+
+wildthorn finds herbs along the way, brews health potion
+
+
+party goes to the town of Candle Keep, where wildthorn is from
+
+guard says they have a boat ready for you
+wayne checks to see if theyre telling the truth, and finds hes telling the truth
+
+
+wildthorn knows this guard is a tour guide for the town.
+
+
+WT: "dont you know i work here at the court?"
+clike: "my intelligence is not very high"
+
+
+the party goes to the boat thats already ready for them
+
+
+
+sonata is having trouble standing, so wildthorn tells her to stand in the back (stern)
+wildthron talks about how his life has made him a lawyer with a sword
+
+clike goes up to crows nest
+
+sonata sits in stern with tint, tint paints a picture of her
+
+party operates the ship
+clike keeps a look out
+tint pulls up the anchor
+sonata guidances WT, WT hoists sails, but the sail gets slightly torn
+
+
+captain asks sonata to clean up mess, but sonata can barely stand.
+
+
+party sails along
+after a while, clike spies three big sharks in the water
+
+sonata gives clike init advantage
+
+
+
+
+=== COMBAT BEGINS ===
+
+clike move ins
+clike faerie fires shark1: shark1 save: fail
+clike attack shark1: CRIT!: 22dmg, kills
+arrow goes right through the eye
+
+wayne casts speak with animals
+tries to convince shark2 to go away
+shark2: "mmmeat"
+sparkle fetches rope for wayne, hangs it off edge of boat
+sparkle falls asleep
+
+tint dashes off stern
+
+shark2 swims fast to ship, reaches ship
+shark3 swims to boat
+shark4 swims to boat
+
+sonata dashes to clike, falling once
+sonata sanctuary clike
+
+WT shoots shark2, misses
+
+
+
+>>> ROUND 2 >>>
+
+clike faerie fire shark2: shark2 save
+clike flies next to WT
+clike attacks shark3: 10dmg
+
+wayne dashes across boat towards shark3
+wayne praises his drake for sleeping so good
+"good sparkle good"
+sparkle continues sleeping
+
+tint dashes down stairs past sonata
+tint says "tie me up!"
+
+shark2, shark3, shark4 bite ships
+
+sonata sees crack in ship and repairs it, then moves back towards shark
+
+WT attacks shark2: 7dmg
+
+
+
+>>> ROUND 3 >>>
+
+clike tolls the dead shark3: shark3 save: fail: 10dmg necrotic
+clike faerie fires shark2: shark2 fail
+
+sparkle goes to edge of boat
+sparkle attacks shark2: 4dmg
+
+wayne does nothing?
+
+tint pulls out a sword from his cane.
+tint graps rope with teeth, jumps down onto shark
+tint RAGES
+tint attacks shark2: 16dmg, kills
+tint cuts the shark in half
+tint swims towards shark3
+
+shark3 perception: sees tint
+shark3 swims to tint
+shark3 attacks tint: miss (bites shell)
+
+shark4 bites ship
+
+sonata dashes to broken spot, fixes it
+sonata dex check: save
+
+WT dashes to broken spot, fixed broken spot
+
+
+
+>>> ROUND 4 >>>
+
+clike dashes to shark4
+clike attacks shark4: miss
+
+sparkle walks over rope that tint is biting on
+sparkle rolls around
+
+wayne has sea sickness, has disadvantage
+wayne goes to shark4
+wayne holds meat out above shark4's head, throws rations out into the sea
+shark4: "nah too small, you can come down here tho"
+wayne shoots shark4: miss
+
+tint lets go of rope, kicks off boat, swims around the shark, to get flanking (bc sparkle)
+tint attacks shark at advantage: 12dmg, kills
+tint swims upwards and pierces through its sides, killing it
+the ship starts moving past tint
+
+shark4 perception: sees tint
+shark4 swims towards tint
+
+sonata dashes to next break point, fails to close it up
+the break spreads
+
+WT moves to shark4
+WT attacks shark4: 7dmg
+
+
+
+>>> ROUND 5 >>>
+
+clike faerie fire shark4: attack: 10dmg
+
+wayne & sparkle attacks shark4: 21dmg
+
+tint "wait you guys still havnet killed that shark yet?"
+tint grabs rope, climbs up, runs towards shark4
+
+shark4 attack boat, causes new break
+
+sonata repairs two break points, moves towards last breakpoint
+
+WT attacks shark4: 8dmg, kills
+WT thinks about sonata having a hard time on the boat
+WT moves towards last break point
+
+
+
+>>> ROUND 6 >>>
+
+clike dashes to last breakpoint, CRIT!: fixes it
+
+
+=== COMBAT END ===
+
+
+
+clike picks up arrows from sharks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
