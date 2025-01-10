@@ -1,0 +1,353 @@
+=== Hoard of the Dragon Queen S1E5 ===
+
+
+sonata
+clike
+wildthorn
+wayne leffen (twilight) - human ranger
+sparkle - dragon
+tintoretto - tortle
+trent - kobold, pirate captain Aurix
+
+
+======
+
+
+sonata runs around the ship, happy she can walk without falling down
+
+
+the party travels on ship for a few days
+
+every night they have a shared dream in the dreamscape
+
+
+one day, sonata asks tint about painting
+tint doesn't have enough supplies
+sonata pulls him to dream scape
+they appear in a maze full of art supplies
+with things in a crazy version
+a three-headed brush
+a waterfall ful of multiple colors of paints
+an entire blank wall as a canvas
+
+
+then one day they come across another ship
+they get closer
+
+
+clike yells to the other ship
+trent: "you all seem new here and youve entered my territory. what are you doing here?"
+clike "were on a mission to dilver some goods to a city"'
+trent "who sent you that mission"
+clike "some kenku"
+trent "ofc its that kenku, hes been sending ppl to deliver stuff to my territory for some time. so annoying. and youre just his latest pawn in his scheme correct?"
+clike "weve been paid quite handsomely"
+trent "your loot is quite pretty.i would like to take it off your hands"
+clike tells wayne to go talk to trent
+trent "so bc this will be our last meeting, and i will be taking your loot, my name is pirate captain aurix"
+
+clike talks to sonata
+sonata decides to cast sleep on aurix "mr kobold", starting pvp
+
+sonata vigilant blessing herself
+
+
+
+
+=== combat begins ===
+
+clike faefire kobold4: lit up
+clike attack kobold4: CRIT!: 19dmg
+
+sonata dreamers eye aurix: ---
+sonata sleep aurix (2nd level): 23hp, no one went to sleep
+
+kobolds fire crossbows to connect to ship, making 3 rope bridges
+kobolds crawl across rope to the party's ship
+
+aurix balances on the rope, holding his scimitar in the mouth
+aurix casts catapult on a fish, launching it at clike
+clike dodges
+
+tint dashes in
+
+wayne wants to join aurix crew
+wayne attack clike: miss
+sparkle grapples sonata with his teeth: grappled
+wayne moves closer to sonata
+
+
+
+>>> ROUND 2 >>>
+
+clike: "the human betrayed us"
+clike flies 30ft into air
+clike faefire kobold4: ---
+clike attack kobold4: CRIT!: 8dmg
+
+sonata lilting lullaby:
+kobold3, sparkle, sonata sleeping
+(in dreamscape)
+sonata sanctuary herself
+
+kobold4 retreats
+kobold2 kobold5 runs onto ship
+kobold6 kobold7 run across rope
+
+aurix gets onto ship
+aurix attacks sonata: 8dmg
+sonata wakes up
+
+tint rages
+tint attacks kobold2: 15dmg
+
+[irl: the player left]
+wayne takes the dodge action
+(iDS) sparkle takes the dodge action
+or maybe they are both asleep
+
+
+
+
+>>> ROUND 3 >>>
+
+clike attacks aurix: 9dmg
+clike faerie fire kobold2: ---
+
+sonata twilight sanctuary
+TS: +7 temp hp
+sonata sanctuary herself
+
+aurix catapult fish at clike: 14dmg
+aurix wis save: fail
+clike rebuke the dfiler aurix: 14dmg
+aurix moves away, around sparkle
+
+kobold1 attacks tint: miss
+kobold2 attacks tint: miss
+
+tint attack kobold2: CRIT!: 13dmg
+sonata TS: +9hp temp
+
+
+
+>>> ROUND 4 >>>
+
+clike attack aurix: miss
+clike faefire kobold2: ---
+sonata TS: +4hp temp
+
+sonata bless clike, tint, herself
+sonata run away
+
+kobold5 kobold6 kobold7 surround sonata
+
+aurix surrounds tint
+kobold1 attacks tint: CRIT!:
+kobold2 attack tint:
+aurix attacks tint: CRIT!: 12dmg -> 6dmg
+total: 15dmg -> 8dmg, still has 1hp temp left
+
+tint: "this is a lot of bloodshed for some art supplies"
+tint attack kobold2: kills
+
+aurix: "i want the loot either way. i do not like that kenku"
+
+
+>>> ROUND 5 >>>
+
+clike attack aurix: 13dmg
+clike faefire kobold6: ---
+
+sonata runs away behind mast
+sonata TS: +6hp temp
+
+kobold5 kobold6 kobold7 get underneath clike
+kobold5 sling clike: 3dmg
+kobold6 sling clike: miss
+kobold7 sling clike: miss
+
+kobold1 attack tint: 4dmg
+aurix attack tint: 3dmg
+tint takes 3dmg
+
+tint recklesses
+tint attack kobold1: 15dmg
+
+[retroactively]
+wayne wakes up sparkle
+
+
+>>> ROUND 6 >>>
+
+clike attacks aurix: 8dmg
+clike flies out of aurix's range
+clike faefire kobold1: ---
+
+clike: "you surrender, youre not looking too good"
+aurix: "not with that damn kenku on the loose"
+
+aurix remembers talk of a kenku
+
+sonata commands aurix: "Stop!": ---
+sonata moves in closer to tint
+
+kobold5 kobold6 kobold7 move in on tint
+kobold1 attack tint: miss
+kobold5 attack tint: 5dmg
+aurix attack tint: 
+tint takes 3dmg total
+aurix: "keep going!"
+
+tint attacks kobold1: 7dmg
+sonata TS: +9hp temp
+
+wayne cure wounds aurix: +6hp
+sparkle runs after sonata
+
+
+>>> ROUND 7 >>>
+
+clike attack wayne: 8dmg
+clike faefire wayne: ---
+clike: "i knew i shouldn't have trusted you"
+wayne: "im your friend"
+
+sonata dreamers eye:
+"kobold5 30hp 35ft away"
+sonata sleep (2nd) level: 26hp: kobold1 sleeps
+sonata TS: +5hp temp
+
+kobold6 slaps kobold1 awake
+kobold1 kobold5 kodobl6 kobold7 attack tint
+aurix attacks tint
+tint takes 5dmg total, 4hp temp
+aurix "keep going!"
+
+tint moves to wayne
+kobold1 kobold6 kobold7 OoA: miss, miss, miss
+tint reckless
+tint attack wayne: 11dmg
+
+wayne cure wounds aurix: +6hp
+wayne runs away
+tint OoA wayne: FUMB
+sparkle runs after sonata, dashes, gets right up to her
+
+
+
+>>> ROUND 8 >>>
+
+clike attacks wayne: 9dmg
+clike faefire kobold5: lit up!
+
+sonata sleep wayne
+sonata run away
+sparkle OoA: miss
+
+aurix, kobold1 kobold5 kobold6 attack tint
+tint takes 1dmg
+
+kobold7 wakes up wayne
+
+tint shoves kobolds aside, runs to tint
+aurix, kobold1 kobold5 kobold6 OoA tint: 5dmg
+tint attacks wayne: kills
+
+wayne dies
+sparkle goes to wayne and cries
+
+
+
+>>> ROUND 9 >>>
+
+clike attacks aurix: 17dmg
+clike sanctuary tint
+
+sonata run a little bit in,
+sonata hopes & dreams tint: +2hp
+sonata TS: 5hp temp
+
+aurix summons cannon
+kobold1 kobold5 kobold6 sling clike:
+clike takes 7dmg, gets pushed back 5ft
+
+kobold7 disengages towards ship
+
+tint runs to aurix
+tint reckless
+"again, art supplies. not worth it!"
+tint attacks aurix: knocks him out
+
+=== combat ends ===
+
+
+
+clike stabs wayne
+
+kobolds ralkly around tint, say hes the new captain
+sonata heals aurix
+
+aurix wakes up and hops off
+
+clike tint sonata discuss, decide to recruit aurix and his kobolds
+
+aurix asks his kobolds if they want to join crew, they all say yes
+in draconic, clike and tint can speak it too
+
+kobolds join crew
+
+sonata adopts the dragon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
