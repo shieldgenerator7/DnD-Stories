@@ -102,3 +102,11 @@ These modifiers are processed in this order:
 2.  Immunity
 3.  Vulnerability
 4.  Resistance
+
+# Player Pets
+
+Player pets, including summons, mounts, familiars, pets, and hirelings, go at the same time as their player does in the turn order. The player may decide in which order their pets go in on their turn.
+
+This overrides text of specific spells, rules regarding mounts, and other specific text and game rules.
+
+Player pets that are grouped roll attack and damage together for the sake of time.
