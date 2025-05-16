@@ -18,7 +18,7 @@ version 0.0.5
 | 7th       | +3              | BSF, BT                         | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
 | 8th       | +3              | Reality Studier, ASI, BT        | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
 | 9th       | +4              | BT                              | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | Energy Store, BT                | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
+| 10th      | +4              | Spell Warp, BT                  | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
 | 11th      | +4              | BSF, BT                         | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
 | 12th      | +4              | ASI, BT                         | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
 | 13th      | +5              | Recasting, BT                   | 3                  | 4                         | 57               | 250ft             | 2500ft           | 30 d               |
@@ -202,9 +202,9 @@ At level 8, you can more easily absorb information about spells. As an action, y
 
 While looking at or thinking about a spell effect that you used Reality Observer on within the past minute, you can use your action to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level minus your max safe casting level. On a success, you figure out how to cast the spell and can cast the new spell without having to complete a long rest. On a failure, you don’t figure out the spell, but may try again immediately. Either way, you regain 1 spell point.
 
-# Energy Store
+# Spell Warp
 
-At level 10, when you use a free action to dispel a spell you cast, you gain back spell points equal to the spell’s printed level.
+At level 10, you can change ongoing spells. As an action, you can dismiss a spell you cast to cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the spell point cost of the new spell must be equal to or less than the spell point cost of the old spell.
 
 # Recasting
 
