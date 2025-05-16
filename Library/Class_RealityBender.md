@@ -134,7 +134,7 @@ You learn additional cantrips and spells as you adventure in the world, using yo
 
 # Reality Observer
 
-Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
+Your spells are only limited by your imagination. At level 1, whenever you see a creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
 
 # Bond Affinity
 
