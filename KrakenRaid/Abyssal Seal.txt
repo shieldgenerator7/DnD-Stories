@@ -1,0 +1,5 @@
+Abyssal Seal
+Uncommon Item
+
+As an action, touch the seal to a creature within 5ft of you. They must succeed on a DC 5 Constitution saving throw or be banished to the abyssal plane. Unconscious creatures automatically fail this saving throw. Creatures banished with this seal cannot re-enter the plane they were banished from unless the seal is broken.
+
