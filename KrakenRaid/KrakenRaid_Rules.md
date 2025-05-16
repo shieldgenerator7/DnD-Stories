@@ -56,6 +56,8 @@ When you succeed on a Dexterity saving throw, you may move up to 5ft.
 
 Making an Acrobatics check to avoid being grappled or shoved counts as a Dexterity saving throw for the purposes of this rule.
 
+This movement does not provoke opportunity attacks.
+
 # Crit Range
 
 By default, every creature has a crit range of 1. This means that they crit an attack roll on a 20 when rolling a d20.
