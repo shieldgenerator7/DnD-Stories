@@ -48,6 +48,8 @@ To grapple a creature, make an Athletics check. The creature may make a conteste
 
 To shove a creature, make an Athletics check. The creature may make a contested Athletics check or Acrobatics check. If you roll higher, you may shove the creature a number of feet away equal to or less than your Strength modifier times 5. If the target rolls higher, you do not shove the creature. If it is a tie, you shove the creature, but they only get shoved up to half the distance, rounded up.
 
+You may only shove a creature the same size as you or smaller.
+
 # Dexterity Saves
 
 When you succeed on a Dexterity saving throw, you may move up to 5ft.
