@@ -74,7 +74,7 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
 
-Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically.
+Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
 
 ## Casting Cantrips
 
@@ -322,6 +322,8 @@ Permanent spells cost double the spell points to cast, and take twice as long to
 You cannot use your free action to dispel one of your Permanent spells. Instead, as an action, you may spend spell points equal to the spell’s casted level to dismiss it. You cannot use this feature to dispel Permanent spells you did not cast.
 
 If a Permanent spell allows you to move it after casting it, you must also spend spell points equal to its casted level to move it.
+
+Permanent spells do not dissipate automatically when you leave the plane, fall unconscious, or die.
 
 ### Home Advantage
 
