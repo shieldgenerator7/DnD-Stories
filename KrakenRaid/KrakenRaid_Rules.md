@@ -40,8 +40,6 @@ If a creature is focused on a particular enemy, it cannot opportunity attack an 
 
 Additionally, attacks of opportunity are made at disadvantage.
 
-Tripping: When someone leaves your reach, you can use your reaction to trip them. Make a weapon attack, that becomes the DC. They must succeed on a Dexterity saving throw against that DC, or fall prone.
-
 # Grapple Checks
 
 To grapple a creature, make an Athletics check. The creature may make a contested Athletics check or Acrobatics check. If you roll higher, you grapple the creature. If the target rolls higher, you do not grapple the creature. If it is a tie, you grapple the creature, but they get advantage on the next check they make to break free of the grapple.
