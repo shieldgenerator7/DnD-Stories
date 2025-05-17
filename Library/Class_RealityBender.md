@@ -9,26 +9,26 @@ version 0.0.5
 |           |                 |                                 |                    |                           |                  | **Spell Casting** |                  |                    |
 |-----------|-----------------|---------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
 | **Level** | **Prof. Bonus** | **Features**                    | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | +2              | Spellcasting, Reality Observer  | 1                  | 0                         | 2                | 10ft              | 20ft             | 1 min              |
-| 2nd       | +2              | Bond Affinity                   | 1                  | 1                         | 3                | 15ft              | 30ft             | 5 min              |
-| 3rd       | +2              | Bending Style                   | 1                  | 1                         | 8                | 20ft              | 40ft             | 10 min             |
-| 4th       | +2              | Ability Score Improvement (ASI) | 2                  | 1                         | 10               | 30ft              | 90ft             | 1 hr               |
-| 5th       | +3              | Bending Style Feature (BSF)     | 2                  | 2                         | 16               | 45ft              | 135ft            | 2 hr               |
-| 6th       | +3              | Bending Trick (BT)              | 2                  | 2                         | 19               | 60ft              | 180ft            | 4 hr               |
-| 7th       | +3              | BSF, BT                         | 2                  | 2                         | 26               | 75ft              | 225ft            | 7 hr               |
-| 8th       | +3              | Reality Studier, ASI, BT        | 2                  | 3                         | 30               | 100ft             | 400ft            | 12 hr              |
-| 9th       | +4              | BT                              | 2                  | 3                         | 39               | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | Spell Warp, BT                  | 3                  | 3                         | 44               | 150ft             | 600ft            | 3 d                |
-| 11th      | +4              | BSF, BT                         | 3                  | 3                         | 50               | 175ft             | 700ft            | 7 d                |
-| 12th      | +4              | ASI, BT                         | 3                  | 4                         | 57               | 200ft             | 1000ft           | 14 d               |
-| 13th      | +5              | Recasting, BT                   | 3                  | 4                         | 57               | 250ft             | 2500ft           | 30 d               |
-| 14th      | +5              | BT                              | 3                  | 4                         | 65               | 300ft             | 1mi              | 180 d              |
-| 15th      | +5              | BSF, BT                         | 3                  | 4                         | 65               | 400ft             | 5mi              | 1 yr               |
-| 16th      | +5              | ASI, BT                         | 3                  | 5                         | 74               | 500ft             | 15mi             | 5 yr               |
-| 17th      | +6              | BT                              | 4                  | 5                         | 79               | 750ft             | 100mi            | 10 yr              |
-| 18th      | +6              | BT                              | 4                  | 5                         | 85               | 1000ft            | 1000mi           | 50 yr              |
-| 19th      | +6              | ASI, BT                         | 4                  | 5                         | 92               | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | +6              | Reality Command, BT             | 4                  | 5                         | 100              | 1mi               | 1000000mi        | 1000 yr            |
+| 1st       | +2              | Spellcasting, Reality Observer  | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
+| 2nd       | +2              | Bond Affinity                   | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
+| 3rd       | +2              | Bending Style                   | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
+| 4th       | +2              | Ability Score Improvement (ASI) | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
+| 5th       | +3              | Bending Style Feature (BSF)     | 2                  | 2                         | 84               | 45ft              | 135ft            | 2 hr               |
+| 6th       | +3              | Bending Trick (BT)              | 2                  | 2                         | 101              | 60ft              | 180ft            | 4 hr               |
+| 7th       | +3              | BSF, BT                         | 2                  | 2                         | 128              | 75ft              | 225ft            | 7 hr               |
+| 8th       | +3              | Reality Studier, ASI, BT        | 2                  | 3                         | 155              | 100ft             | 400ft            | 12 hr              |
+| 9th       | +4              | BT                              | 2                  | 3                         | 224              | 125ft             | 500ft            | 1 d                |
+| 10th      | +4              | Spell Warp, BT                  | 3                  | 3                         | 266              | 150ft             | 600ft            | 3 d                |
+| 11th      | +4              | BSF, BT                         | 3                  | 3                         | 330              | 175ft             | 700ft            | 7 d                |
+| 12th      | +4              | ASI, BT                         | 3                  | 4                         | 330              | 200ft             | 1000ft           | 14 d               |
+| 13th      | +5              | Recasting, BT                   | 3                  | 4                         | 425              | 250ft             | 2500ft           | 30 d               |
+| 14th      | +5              | BT                              | 3                  | 4                         | 425              | 300ft             | 1mi              | 180 d              |
+| 15th      | +5              | BSF, BT                         | 3                  | 4                         | 562              | 400ft             | 5mi              | 1 yr               |
+| 16th      | +5              | ASI, BT                         | 3                  | 5                         | 562              | 500ft             | 15mi             | 5 yr               |
+| 17th      | +6              | BT                              | 4                  | 5                         | 754              | 750ft             | 100mi            | 10 yr              |
+| 18th      | +6              | BT                              | 4                  | 5                         | 796              | 1000ft            | 1000mi           | 50 yr              |
+| 19th      | +6              | ASI, BT                         | 4                  | 5                         | 860              | 2000ft            | 10000mi          | 100 yr             |
+| 20th      | +6              | Reality Command, BT             | 4                  | 5                         | 955              | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
