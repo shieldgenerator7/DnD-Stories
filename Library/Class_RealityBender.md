@@ -383,18 +383,37 @@ You fix reality to the way you believe it is originally meant to be. You believe
 
 ### Bond Disdain
 
-At level 3, you can disrupt others who are casting spells in your bonded schools. Whenever you or another creature casts a spell, you may spend 1 spell point to apply a Bond Disdain option that you learned to it:
+At level 3, you can disrupt others who are casting spells in your bonded schools. Whenever you or another creature casts a spell, you may apply one Bond Disdain option that you learned to it:
 
--   Costly: Double the amount of spell slots and/or spell points spent to cast this spell.
+-   Costly: Double the amount of spell slots and/or spell points spent to cast this spell. If the caster can’t pay the cost, the spell fails, still spending any slots and/or points they already spent.
 -   Close: Half this spell’s cast range.
 -   Tethered: Add a Tether Range to this spell cast equal to its caster’s walk speed, or if it already has a Tether Range, half it.
 -   Short: Half this spell’s duration, if its duration is longer than 1 round. If the duration is 1 round, the spell ends at the end of the turn instead.
 -   Unfocused: Half the spellcaster’s spellcasting ability modifier for this spell cast, rounded up.
 -   Weak: Half any and all die rolls the spell caster rolls for this spell cast, rounded up.
+-   Thought Consuming: This spell cast requires concentration, if it doesn’t already.
+-   Ephemeral: This spell cast’s effects are temporary, even if explicitly stated to be permanent. This spell cast automatically dissipates when the caster falls asleep, goes unconscious, or dies.
+-   Bumped: This spell cast costs an action, if it usually costs a bonus action. If the caster has no actions left, the spell fails, still spending any slots and/or points already spent.
+-   Slow: This spell cast takes twice as long to cast, if the cast time is 1 minute or more.
+-   Small: Half this spell cast’s radius and/or diameter, if it has an area of effect.
+-   Exclusive: Reduce the number of targets this spell cast can target by 1, minimum 0, if this spell can target creatures and/or objects.
+-   Downcast: Reduce this spell cast’s casted level by 1, still spending the same amount of slots and/or points, if it was upcast.
 
 You learn a Bond Disdain option at level 3, and may learn a new one at levels 5, 7, 11, and 15. You may not unlearn Bond Disdain options, and you may not replace a Bond Disdain option when you learn a new one.
 
 Either the caster or the spell must be within your Cast Range for you to use this feature. You may apply a Bond Disdain option to a spell even if it already has a Bond Affinity and/or Bond Disdain option applied to it.
+
+If a casted spell is a Bending Trick for you, you may apply an additional Bond Disdain option to it for each time that you chose it as a Bending Trick.
+
+When you apply a Bond Disdain option to a spell that you cast, you may reduce the Spell Point cost of that spell by 5 Spell Points for each Bond Disdain option that you applied to it.
+
+### Easy Dismissal
+
+At level 3, you have disdain for even your own spells. You may dismiss a spell that you cast as a free action instead of an action.
+
+### Peace of Mind
+
+At level 3, you enjoy the feeling of not being around magic. While there is no magical effect of any spell from your Bonded Schools within your Tether Range, you regain 1 Spell Point per minute, increased to 1 Spell Point per round at level 11.
 
 ### Halt
 
@@ -406,17 +425,23 @@ At level 7, you learn how to prevent reality from being broken. As a reaction, y
 
 ### Vindication
 
-At level 11, you learn how to absorb spells. When you use Halt or Prevention on a spell, you gain spell points equal to the effected spell’s level.
+At level 11, you learn how to absorb spells. When you use Halt or Prevention on a spell, you gain spell points equal to 5 times the effected spell’s level. You may only use this feature on spells you did not cast.
 
 ### Restoration
 
-At level 11, you learn how to undo spells. As an action, you may undo the effects of any spell from your bonded schools. The spell must be within Cast Range and must have been cast no longer ago than your Spell Duration.
+At level 11, you learn how to undo spells. You may spend 1 minute and 20 Spell Points to undo the effects of any spell from your bonded schools, even if the effect is explicitly stated to be permanent. The effects of the spell must be within your Cast Range and must have been cast no longer ago than your Spell Duration.
 
 ### Perfection
 
-At level 15, you can stop imperfections from forming. As an action, you can create an anti-spell field at any point within your Cast Range. The anti-spell field has a radius up to your Cast Range and a duration equal to your Spell Duration. The anti-spell field causes any spell from your bonded schools that is cast in it or that overlaps with it to fail.
+At level 15, you can stop imperfections from forming. You may spend 1 minute and 10 Spell Points to create an anti-spell field at any point within your Cast Range. The anti-spell field has a radius up to your Cast Range and a duration equal to your Spell Duration, and is bound by your Tether Range.
 
-As a free action, you may dismiss an anti-spell field that is within your Cast Range.
+The anti-spell field causes any spell from your bonded schools that is cast in it or that overlaps with it to fail. Existing spells from your bonded schools that overlap with it are dismissed.
+
+You may use your Vindication feature on spells dismissed and/or prevented by your anti-spell fields.
+
+You may have any number of anti-spell fields active at a time. Your anti-spell fields don’t automatically dissipate when you fall asleep, go unconscious, or die.
+
+As an action, you may dismiss an anti-spell field that is within your Cast Range.
 
 ## Reality Sharer
 
