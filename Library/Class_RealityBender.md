@@ -214,14 +214,11 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 At level 6, you know a spell so well you can cast it with ease. Choose a spell you know and can safely cast. It becomes a Bending Trick for you.
 
-When you cast a Bending Trick, you can apply an additional bond affinity option to it. Additionally, the Bending Trick costs 1 less spell point to cast, minimum 0.
+When you cast a Bending Trick, you can apply an additional Bond Affinity option to it. Additionally, the Bending Trick costs 5 Spell Points less to cast, minimum 0.
 
-Whenever you level up, you can upgrade an additional spell into a Bending Trick. You may not downgrade a Bending Trick, and you may not replace a Bending Trick you know with a new Bending Trick.
+Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may not downgrade a Bending Trick, and you may not replace a Bending Trick you know with a new Bending Trick.
 
-You may upgrade an existing Bending Trick again instead of upgrading a new spell into a Bending Trick. When you do this, choose one:
-
--   Increase the amount of bond affinity options you can apply to the Bending Trick by an additional 1.
--   Decrease the spell point cost of the Bending Trick by an additional 1, minimum 0.
+You may upgrade an existing Bending Trick again instead. When you do this, increase the amount of Bond Affinity options you can apply to the Bending Trick by an additional 1, and decrease the Spell Point cost of the Bending Trick by an additional 5 Spell Points, minimum 0.
 
 # Reality Studier
 
