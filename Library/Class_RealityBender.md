@@ -128,7 +128,7 @@ If you can’t safely cast a spell because it’s too high level, you can cautio
 
 ## Dispelling Spells
 
-As a free action, you may dispel any ongoing spell that you have cast.
+As an action, you may dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent.
 
 ## Spellcasting Ability
 
@@ -230,7 +230,7 @@ While looking at or thinking about a spell effect that you used Reality Observer
 
 # Spell Warp
 
-At level 10, you can change ongoing spells. As an action, you can dismiss a spell you cast to cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the spell point cost of the new spell must be equal to or less than the spell point cost of the old spell.
+At level 10, you can change ongoing spells. When you use your action to dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the spell point cost of the new spell must be equal to or less than the spell point cost of the old spell.
 
 # Recasting
 
