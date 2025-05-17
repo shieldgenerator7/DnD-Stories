@@ -160,7 +160,7 @@ You learn additional cantrips and spells as you adventure in the world, using yo
 
 # Reality Observer
 
-Your spells are only limited by your imagination. At level 1, whenever you see a creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
+Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
 
 # Bond Affinity
 
@@ -225,9 +225,9 @@ You may upgrade an existing Bending Trick again instead of upgrading a new spell
 
 # Reality Studier
 
-At level 8, you can more easily absorb information about spells. As an action, you may use your Reality Observer feature on an ongoing spell effect.
+At level 8, you can more easily absorb information about spells that you see.
 
-While looking at or thinking about a spell effect that you used Reality Observer on within the past minute, you can use your action to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level minus your max safe casting level. On a success, you figure out how to cast the spell and can cast the new spell without having to complete a long rest. On a failure, you don’t figure out the spell, but may try again immediately. Either way, you regain 1 spell point.
+You may spend 1 minute studying an ongoing spell effect to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level minus your max safe casting level. On a success, you figure out how to cast the spell and can cast the new spell after a long rest. On a failure, you don’t figure out the spell, but may try to study it again immediately.
 
 # Spell Warp
 
