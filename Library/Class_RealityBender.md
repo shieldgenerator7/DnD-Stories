@@ -72,7 +72,20 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 ## Casting Spells
 
-The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell's level or higher. You regain all expended spell points when you finish a long rest.
+The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points based on the level you wish to cast the spell at, according to the table below. You regain all expended spell points when you finish a long rest.
+
+| Spell Level | Spell Point Cost |
+|-------------|------------------|
+| 0 (Cantrip) | 1                |
+| 1           | 5                |
+| 2           | 10               |
+| 3           | 17               |
+| 4           | 27               |
+| 5           | 42               |
+| 6           | 64               |
+| 7           | 95               |
+| 8           | 137              |
+| 9           | 192              |
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
 
