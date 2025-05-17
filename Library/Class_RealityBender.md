@@ -95,6 +95,13 @@ Spells that you cast from your bonded schools have their attributes changed. If 
 
 Additionally, whenever you sleep, fall unconscious, or die, your spell effects fade rapidly. After 1 minute of you being asleep, unconscious, or dead, your spell effects disappear automatically.
 
+Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when any of the following happens:
+
+-   You are asleep, unconscious, or dead for 1 minute or longer
+-   The center of the spell effect leaves your tether range
+-   The spell’s duration expires
+-   You leave the plane
+
 ## Casting Cantrips
 
 Cantrips cost 1 spell point to cast. You can apply Bond Affinity options to cantrips just like leveled spells.
