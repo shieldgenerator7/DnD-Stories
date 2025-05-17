@@ -218,7 +218,7 @@ When you cast a Bending Trick, you can apply an additional Bond Affinity option 
 
 Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may not downgrade a Bending Trick, and you may not replace a Bending Trick you know with a new Bending Trick.
 
-You may upgrade an existing Bending Trick again instead. When you do this, increase the amount of Bond Affinity options you can apply to the Bending Trick by an additional 1, and decrease the Spell Point cost of the Bending Trick by an additional 5 Spell Points, minimum 0.
+You may upgrade an existing Bending Trick again instead of choosing a new one, using the same rules.
 
 # Reality Studier
 
