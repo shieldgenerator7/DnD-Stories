@@ -89,6 +89,8 @@ The class table shows how many spell points you have to cast your cantrips and s
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
 
+Additionally, whenever you sleep, fall unconscious, or die, your spell effects fade rapidly. After 1 minute of you being asleep, unconscious, or dead, your spell effects disappear automatically.
+
 ## Casting Cantrips
 
 Cantrips cost 1 spell point to cast. You can apply Bond Affinity options to cantrips just like leveled spells.
