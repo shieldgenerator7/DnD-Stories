@@ -72,7 +72,7 @@ Choose a body part as your spell casting focus. This body part can be used as yo
 
 ## Casting Spells
 
-The class table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points based on the level you wish to cast the spell at, according to the table below. You regain all expended spell points when you finish a long rest.
+The class table shows how many spell points you have to cast your cantrips and spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points based on the level you wish to cast the spell at, according to the table below. You regain all expended spell points when you finish a long rest.
 
 | Spell Level | Spell Point Cost |
 |-------------|------------------|
@@ -91,11 +91,11 @@ Spells that you cast from your bonded schools have their attributes changed. If 
 
 ## Casting Cantrips
 
-Cantrips cost 0 spell points to cast. You can apply a bond affinity option to a cantrip for free.
+Cantrips cost 1 spell point to cast. You can apply Bond Affinity options to cantrips just like leveled spells.
 
-In addition to having greater effects when you’re higher level, cantrips can also be upcast to have those greater effects at lower levels. Cantrips can’t be upcast past their max level.
+Instead of having greater effects when you’re a higher level, cantrips can be upcast by spending more spell points. Cantrips can be upcast past their max listed level.
 
-For example, if you’re 5th level, you can cast Ray of Frost to deal 2d8 damage. But if you upcast by spending 1 additional spell point, you get the 11 level version, which deals 3d8. And if you spend 2 spell points, you get the 17th level version, which does 4d8. Because 17th level is the last listed level, you can’t upcast any further than that.
+For example, you can cast Ray of Frost to deal 1d8 damage for 1 spell point. But if you upcast by spending 5 spell points instead, you get the 5th level version, which deals 2d8. And if you spend 10 spell points, you get the 11th level version, which does 3d8. And 17 spells points for the 17th level version, 4d8. Even though 17th level is the last listed level, you can upcast further than that, increasing the damage by 1d8 for each upcasted level.
 
 Cantrips are also bound to your Cast Range, Tether Range, and Spell Duration, as outlined in the Casting Spells section.
 
