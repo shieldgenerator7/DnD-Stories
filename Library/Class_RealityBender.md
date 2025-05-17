@@ -166,18 +166,18 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 At level 2, you gain affinity for spells in your bonded schools, getting bonuses when casting these spells. When you cast a spell in your bonded schools, you may spend extra spell points to choose a Bond Affinity option that you learned to apply to it:
 
--   Powerful: 2 Spell Points. Roll 2 extra dice whenever you would roll dice for this spell cast.
--   Reuse: 2 Spell Points. The next time you cast this spell, you may half the total number of spell points it costs, rounded down.
--   Quick: 1 Spell Point. Cast this spell as a bonus action, if the spell’s cast time is 1 action.
--   Reactive: 2 Spell Points. Cast this spell as a reaction, if the spell’s cast time is 1 action or 1 bonus action.
--   Hasty: 1 Spell Point. Cast this spell as an action, if the spell’s cast time is 1 minute.
--   Capital: 2 Spell Points. Upcast this spell by 1 level. This doesn’t cause the spell to be unsafe to cast.
--   Animating: 1 Spell Point. Cast this spell without requiring concentration.
--   Focused: 2 Spell Points. Add your spellcasting ability modifier to the spellcasting ability modifier used by this spell cast.
--   Reaching: 2 Spell Points. Increase this spell’s cast range by your Cast Range.
--   Remote: 2 Spell Points. Increase this spell’s tether range by your Tether Range.
--   Lasting: 2 Spell Points. Increase this spell’s spell duration by your Spell Duration.
--   Enduring: 3 Spell Points. This spell doesn’t automatically disappear due to you becoming asleep, unconscious, or dead.
+-   Powerful: 10 Spell Points. Roll 2 extra dice whenever you would roll dice for the effects of this spell cast.
+-   Reuse: 5 Spell Points. The next time you cast this spell, it costs 15 Spell Points less to cast, minimum 0.
+-   Quick: 10 Spell Points. Cast this spell as a bonus action, if the spell’s cast time is 1 action.
+-   Reactive: 20 Spell Points. Cast this spell as a reaction, if the spell’s cast time is 1 action or 1 bonus action.
+-   Hasty: 10 Spell Points. Cast this spell as an action, if the spell’s cast time is 1 minute.
+-   Capital: 20 Spell Points. Upcast this spell by 1 level. This doesn’t cause the spell to be unsafe to cast.
+-   Animating: 50 Spell Points. Cast this spell without requiring concentration.
+-   Focused: 10 Spell Points. Add your spellcasting ability modifier to the spellcasting ability modifier used by this spell cast.
+-   Reaching: 15 Spell Points. Increase this spell’s cast range by your Cast Range.
+-   Remote: 5 Spell Points. Increase this spell’s tether range by your Tether Range.
+-   Lasting: 10 Spell Points. Increase this spell’s spell duration by your Spell Duration.
+-   Enduring: 50 Spell Points. This spell doesn’t automatically disappear due to you becoming asleep, unconscious, or dead.
 
 You learn one Bond Affinity option at level 1. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
