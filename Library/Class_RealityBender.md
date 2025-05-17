@@ -453,7 +453,9 @@ At level 3, you gain the ability to help others bend reality. When another creat
 
 You gain the following Bond Affinity option:
 
--   Bent: 1 Spell Point. Modify this spell cast’s attributes to your Cast Range, Tether Range, and Spell Duration.
+-   Bent: 0 Spell Points. Modify this spell cast’s attributes to your Cast Range, Tether Range, and Spell Duration.
+
+If a Bent spell is a Bending Trick for you, you may apply an additional Bond Affinity option to it for each time you chose it as a Bending Trick.
 
 ### Spell Sharing
 
@@ -471,7 +473,7 @@ Spells shared with vessels don’t stay shared forever. A shared spell automatic
 -   The vessel becomes outside your Tether Range or shifts to another plane.
 -   The vessel dies or ceases to exist.
 
-As an action, you may refresh a vessel’s spells, refreshing the share duration of all spells shared with them, if the vessel is within your Cast Range.
+As an action, you may refresh a vessel’s spells, refreshing the share duration of all spells shared with them, if the vessel is within your Cast Range. Additionally, whenever you share a spell with a vessel, all spells already shared with that vessel are automatically refreshed.
 
 As an action, you may take back any number of spells from a vessel, if the vessel is within your Cast Range.
 
@@ -479,15 +481,19 @@ When a vessel no longer has any of your shared spells, they are no longer consid
 
 ### Vessel Casting
 
-At level 7, you can cast spells from your vessels. You gain the following Bond Affinity option:
+At level 7, your vessels become conduits for your power. You gain the following Bond Affinity option:
 
--   Proxied: 1 Spell Point. Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
+-   Proxied: 10 Spell Points. Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
+
+You may choose a vessel that is outside your Cast Range as the cast target for a Proxied spell.
 
 ### Vessel Network
 
-At level 7, you can see from your vessels’ points of view. Any position that is within Tether Range of a vessel is considered to be within Tether Range of you.
+At level 7, you can see from your vessels’ points of view. As a bonus action, you may sense the world through one of your vessel’s point of view. This lasts until you end it as a free action.
 
-You may use your Reality Observer and Affinity Assist features on spells that a vessel sees.
+Any position that is within Tether Range of a vessel is considered to be within Tether Range of you.
+
+You may use your Reality Observer and Affinity Assist features on spells that a vessel sees. Additionally, you may use your Reality Studier feature on an ongoing spell that a vessel sees if you and that vessel both study it for 1 minute.
 
 ### Worship
 
@@ -495,11 +501,25 @@ At level 11, your power grows the more your name is said.
 
 At the start of a vessel’s turn, they may say your name, granting you 1 spell point.
 
-Additionally, shared spells are no longer restricted from you when you share them. You can now share a single spell with multiple vessels, including be able to cast it yourself while it is shared.
+Additionally, your maximum Spell Points is increased by the number of vessels you have.
+
+### Enhanced Spell Sharing
+
+At level 11, your Spell Sharing feature is enhanced.
+
+-   Shared spells are no longer restricted from you when you share them. You can now share a single spell with multiple vessels, and you can now cast it yourself while it is shared.
+-   You may use your Spell Sharing feature on a creature that a vessel sees that is within your Cast Range of that vessel.
+-   You may refresh the share duration of any vessel that is within your Tether Range.
+-   Vessels within your Cast Range continuously have their share duration refreshed automatically.
+-   Each time a vessel casts a spell that you shared with them, their share duration is refreshed.
 
 ### Unity
 
-At level 15, you can unify your vessels in casting a spell. Whenever you cast a spell from your bonded schools, each of your vessels may use their reaction to cast the same spell you cast at the same level, with the same Bond Affinity option.
+At level 15, you can unify your vessels in casting a spell. Whenever you cast a spell from your bonded schools, each of your vessels that you choose may use their reaction to cast the same spell you cast at the same level, with the same Bond Affinity option(s). You and your vessels may choose different targets for the spells.
+
+The spell costs the normal amount of Spell Points for you, but it only costs that amount divided by 10, rounded up, for each vessel that casts it.
+
+A vessel can join in the casting of the spell even if they don’t know the spell and that spell has not been shared with them.
 
 ## Self-Shaper
 
