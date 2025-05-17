@@ -68,7 +68,11 @@ Choose a school of magic as your bonded school. You bond to more schools as you 
 
 ## Spellcasting Focus
 
-Choose a body part as your spell casting focus. This body part can be used as your spell casting focus for spells in your bonded schools, allowing you to cast those spells without the verbal, somatic, or material components they would normally require, even if the spell normally consumes the material components.
+Choose a body part as your spell casting focus.
+
+This body part can be used as your spell casting focus for spells in your bonded schools, allowing you to cast those spells without the verbal, somatic, or material components they would normally require, even if the spell normally consumes the material components.
+
+When you cast spells, this body part glows, shedding dim light in a 5ft radius. You may choose the color of the glow when you choose the body part.
 
 ## Casting Spells
 
