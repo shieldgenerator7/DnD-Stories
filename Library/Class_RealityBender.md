@@ -315,7 +315,7 @@ At level 15, spells become unpredictable. When a spell is cast, if it is touched
 
 You seek to build a new environment that is to your liking.
 
-### Area Creation
+### Area Modulation
 
 At level 3, you gain affinity for area of effect spells. As a bonus action, you may target an existing area of effect spell in your bonded schools, and increase its radius (or diameter) up to an amount depending on your level, as shown in the following chart. Alternatively, you can decrease its radius (or diameter).
 
@@ -337,33 +337,37 @@ At level 5, you learn how to make your spells stable long-term.
 
 You gain the following Bond Affinity option:
 
--   Permanent: 3 Spell Points. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect.
+-   Permanent: 0 Spell Points. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect. Double the Spell Point cost and casting time for this spell cast.
 
-Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. Permanent spells don’t require concentration. If a Permanent spell is centered on yourself, another creature, or an object, it is instead centered on a point in space.
+Permanent spells cost double the spell points to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. If a Permanent spell is centered on yourself, another creature, or an object, it is instead centered on a point in space.
 
-You cannot use your free action to dispel one of your Permanent spells. Instead, as an action, you may spend spell points equal to the spell’s casted level to dismiss it. You cannot use this feature to dispel Permanent spells you did not cast.
+You cannot use your action to dismiss one of your Permanent spells. Instead, you may spend 1 minute and a number of spell points equal to 5 times the spell’s casted level to dismiss it. You cannot use this feature to dismiss Permanent spells you did not cast.
 
-If a Permanent spell allows you to move it after casting it, you must also spend spell points equal to its casted level to move it.
+You may not move a Permanent spell after casting it, even if the spell specifically states that you can.
 
-Permanent spells do not dissipate automatically when you leave the plane, fall unconscious, or die.
+Permanent spells don’t require concentration. Permanent spells do not dissipate automatically when you leave the plane, fall asleep, go unconscious, or die.
 
-### Home Advantage
+Permanent spells are resistant to being countered and dispelled. If a creature attempts to counter it or dispel it, they must make a spellcasting ability check with a DC equal to your spellcasting ability modifier. On a success, they counter or dispel the spell, provided the other conditions are met. On a failure, the Permanent spell still stands.
 
-At level 5, you can begin to call your area your home. Each of your Permanent spells contributes to the combined area called your Permanent Area. While standing within your Permanent Area, you gain 1 spell point at the start of each of your turns.
+You may use your Area Modulation feature on a Permanent spell that you cast, but you must spend 5 Spell Points to do so.
+
+### Home Sweet Home
+
+At level 5, you can begin to call your area your home. Each of your Permanent spells contributes to the combined area called your Permanent Area. Whenever you finish a short rest in your Permanent Area, you regain all expended Spell Points.
 
 ### Area Fixation
 
-At level 7, other area of effect spells have no effect in your Permanent Area, unless that other spell is also Permanent.
+At level 7, other area of effect spells have no effect in your Permanent Area, unless that other spell is also Permanent, or you allow that other spell to effect your Permanent Area.
 
 ### Area Manipulation
 
-At level 11, you become adept at manipulating areas. When you cast a spell with the Permanent Bond Affinity option, you may choose a 2nd Bond Affinity option to apply to it.
+At level 11, you become adept at manipulating areas. When you cast a spell with the Permanent Bond Affinity option, you may choose an additional Bond Affinity option to apply to it. If you are standing in your Permanent Area, you may choose an additional Bond Affinity to apply to it again.
 
 ### Area Admin
 
 At level 15, you gain advanced control over who can access your areas.
 
-As an action, you may choose a creature that is within your Cast Range and outside your Permanent Area to mark as Banned. At the start of a Banned creature’s turn, if it’s inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square not in your Permanent Area. This effect also happens the first time the creature enters your Permanent Area on its turn.
+As an action, you may choose a creature that is within your Cast Range and outside your Permanent Area to mark as Banned. At the start of a Banned creature’s turn, if it’s inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square not in your Permanent Area. This effect also happens the first time the creature enters your Permanent Area on its turn. If a Banned creature finds itself inside your Permanent Area due to you casting a spell on its location, its Banned mark is removed.
 
 As an action, you may choose a creature that is within your Cast Range and inside your Permanent Area to mark as Penned. At the start of a Penned creature’s turn, if it’s not inside your Permanent Area, that creature takes up to 10d10 force damage and must succeed on a Strength saving throw or be forced 5ft toward the closest square in your Permanent Area. This effect also happens the first time the creature exits your Permanent Area on its turn. If a Penned creature finds itself outside your Permanent Area due to one of your spells being dispelled, its Penned mark is removed.
 
@@ -371,7 +375,7 @@ As an action, you may remove a Banned or Penned mark from a creature.
 
 Each mark is permanent, and you may mark an infinite number of creatures. If you attempt to mark an already-marked creature, the new mark replaces the old mark.
 
-If a creature would take damage from this feature, you may instead reduce that damage to any amount, minimum 0.
+If a creature would take damage from this feature, you may instead reduce that damage to any amount, minimum 0. You may choose the maximum damage a creature can take when you mark them, up to 10d10.
 
 ## Reality Fixer
 
