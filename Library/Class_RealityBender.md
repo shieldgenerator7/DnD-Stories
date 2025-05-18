@@ -586,29 +586,32 @@ Fortune favors you and bends to your will.
 
 At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
--   Lucky: 2 Spell Points. Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
+-   Lucky: 10 Spell Points. Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
 
 ### Lucky
 
-At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 1 spell point to reroll it, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 1 spell point, cumulative.
+At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 5 Spell Points to reroll it, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 2 Spell Points, cumulative.
 
 ### Happy Go Lucky
 
-At level 7, natural luck comes to your aid. Whenever you or an ally rolls a 20 on a d20 or crits on an attack roll, you regain 1 spell point. Whenever an enemy creature rolls a 1 on a d20 or fumbles on an attack roll, you regain 1 spell point.
+At level 7, natural luck comes to your aid. You regain 5 spell points whenever:
+
+-   You or an ally rolls a 20 on a d20 or crits on an attack roll
+-   An enemy creature rolls a 1 on a d20 or fumbles on an attack roll
 
 ### Good Fortune
 
-At level 11, your spells seem to be more effective. Whenever one of your Lucky Bending Tricks would have you roll dice, you may roll an additional die of that type.
+At level 11, your spells seem to be more effective. Whenever one of your Bending Tricks would have you roll dice, you may roll an additional die of that type for each time you chose that spell as a Bending Trick.
 
 ### Plot Armor
 
-At level 15, no one can hurt you. Whenever you or another creature must make a saving throw, you may spend any number of spell points to decrease the DC by 2 per spell point spent.
+At level 15, no one can hurt you. Whenever you or another creature must make a saving throw, you may spend any number of Spell Points to decrease the DC by 2 per 5 Spell Points spent.
 
-Additionally, whenever you are attacked, you may spend any number of spell points to increase your AC by the number of spell points spent until the start of your next turn.
+Additionally, whenever you are attacked, you may spend any number of Spell Points to increase your AC by the number of Spell Points spent divided by 5, rounded up, until the start of your next turn.
 
 ### Dictation
 
-At level 20, you have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 5 spell points to set any number of the rolled dice to any value possible for that die.
+At level 20, you have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 25 spell points to set any number of the rolled dice to any value possible for that die.
 
 ## Item Infuser
 
