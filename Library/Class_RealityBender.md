@@ -1131,7 +1131,7 @@ You use the dead to bend reality to your will.
 
 ### Raise the Dead
 
-At level 3, you can exhume dead bodies from their resting place. As an action, spend 2 spell points or more to bring a dead body within your Cast Range to life. If it is able, it will spend all its actions and movement to get to your location, digging through as much dirt and opening as many doors as it needs to (only if it is physically capable of doing so) to do so. It then serves you as an undead minion until it collapses.
+At level 3, you can exhume dead bodies from their resting place. As an action, spend 2 Spell Points or more to bring a dead body within your Cast Range to life. If it is able, it will spend all its actions and movement to get to your location, digging through as much dirt and opening as many doors as it needs to (only if it is physically capable of doing so) to do so. It then serves you as an undead minion until it collapses.
 
 ### Undead Minions
 
@@ -1141,13 +1141,13 @@ A minion also collapses when:
 
 -   You become unconscious.
 -   You are no longer on the same plane as the undead minion.
--   You dismiss it as a free action.
+-   You dismiss it as an action.
 
 Minions start with hit points equal to Xd4 \* the spell points spent to animate it / 2, rounded up, where X is your Reality Bender level. Undead minions can’t be healed by magical or mundane means.
 
 Your minions attack and move on your turn. You can command your undead minions telepathically.
 
-As a free action, you may dismiss a particular undead minion, and it collapses.
+As an action, you may dismiss a particular undead minion, and it collapses.
 
 Undead minions are immune to psychic damage. However, any psychic damage they would take instead gets transferred to you.
 
@@ -1155,17 +1155,19 @@ Undead minions are immune to psychic damage. However, any psychic damage they wo
 
 At level 3, you can cast spells on all your undead minions at once. You gain the following bond affinity option:
 
--   Undead: 2 Spell Points. If this spell targets one or more of your undead minions, it also targets all your undead minions within your Cast Range.
+-   Undead: 10 Spell Points. If this spell targets one or more of your undead minions, it also targets all your undead minions within your Cast Range.
 
 ### Undead Immunity
 
 At level 5, you learn how to cast spells without harming your undead minions. You gain the following bond affinity option:
 
--   Undead Safety: 1 Spell Point. This spell has no effect on your undead minions.
+-   Undead Safety: 5 Spell Points. This spell has no effect on your undead minions.
 
 ### Undead Fortitude
 
-At level 7, you can syphon the energy of your undead minions. As an action, you may spend 2 spell points to consume the energy of one of your undead minions within your Cast Range. You gain hit points equal to that undead minion’s remaining hit points, and the undead minion collapses and shrivels into dust.
+At level 7, you can syphon the energy of your undead minions. As an action, you may spend 5 Spell Points to consume the energy of one of your undead minions within your Cast Range. You gain hit points equal to that undead minion’s remaining hit points, and the undead minion collapses and shrivels into dust.
+
+Additionally, whenever you drop to 0hp or less, you may use your reaction to dismiss an undead minion. If you do, you come back with 1hp.
 
 ### Mass Exhume
 
