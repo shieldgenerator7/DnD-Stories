@@ -1051,25 +1051,23 @@ Your magic spells manifest as a deck of cards.
 
 At level 3, your magic manifests itself as a deck of cards.
 
-As an action, you may spend 5 spell points to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
+As an action, you may spend 40 spell points to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
 
 When you manifest a new deck, any decks you previously manifested disappear.
 
-The deck is volatile. If you let go of it, it disappears. It is also bound to your Tether Range and Spell Duration.
+The deck is volatile. If it leaves your line of sight, it disappears. It is also bound to your Tether Range and Spell Duration.
 
 The deck has only one copy of each card, and they do not get replenished when drawn. When the last card is drawn, the deck disappears, and you must manifest a new deck to use spell cards again.
 
-The deck requires your concentration to exist. All concentration spell rules apply to this deck as well.
+If you cast a spell normally, if that spell’s card is still in the deck, that card disappears from the deck.
 
 ### The Draw
 
 At level 3, you and others may draw from your spell deck.
 
-As an action, you may draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you with the following bond affinity option:
+As an action, you may draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you, regardless of its casting time or material component requirements. This is called a Drawn spell.
 
--   Drawn: This spell is cast instantly on the card holder, regardless of its casting time or material component requirements.
-
-If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an area of effect spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder.
+If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an area of effect spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any to-hit values, and the target automatically fails any Dexterity saving throws for the Drawn spell.
 
 You are the caster of these spells, and the card holder is the target.
 
@@ -1077,9 +1075,7 @@ However, Drawn spells do not require your concentration. They require the concen
 
 If you’re willing, other creatures can also use this feature to draw a card. Otherwise, they must try to steal a card to draw one.
 
-The Drawn bond affinity option is indeed a bond affinity option, but you do not gain it, per se. You can’t use it when you cast spells. It is only used automatically when a card is drawn.
-
-When a card is drawn, and after it is revealed what spell it is; if you are able to apply two or more bond affinity options to it; you may use your reaction to apply one or more additional bond affinity options to it.
+When a card is drawn and after it is revealed what spell it is, may use your reaction to apply a bond affinity option to it.
 
 ### The Hit
 
@@ -1088,6 +1084,14 @@ At level 3, you may draw for another creature.
 You may use your Attack action to draw the top card of the deck without looking at it and use it as a melee weapon. You are proficient with this card weapon and your to-hit bonus is your spellcasting ability modifier.
 
 On a hit, the card targets the creature as if they had drawn the card themselves. On a miss, the card dissipates without casting the spell, and you find out what spell it was.
+
+### The Surprise
+
+At level 3, you can react to luck not going your way. You gain the following Bond Affinity options:
+
+-   Blue Card: 1 Spell Point. This spell deals 2d10 damage instead of its usual effect.
+-   Red Card: 1 Spell Point. This spell deals 2d6 damage to the target and all creatures within 5ft of it instead of the spell’s usual effect.
+-   Gold Card: 1 Spell Point. This spell stuns the target for 1 round, if the target fails any saving throws for this spell.
 
 ### The Fling
 
@@ -1111,7 +1115,7 @@ For example, if you guess that the first letter of the spell is “T”, that it
 
 At level 11, you can set cards as traps. Draw the top card of the deck without looking at it, and place it facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
 
-This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate when you manifest a new deck.
+This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate due to you manifesting a new deck, nor from leaving your line of sight.
 
 ### The Filter
 
