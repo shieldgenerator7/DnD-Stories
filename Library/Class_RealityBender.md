@@ -529,30 +529,34 @@ You are a self-made person, literally. You modified your being and can modify it
 
 At level 3, you can modify yourself daily. Whenever you finish a long rest, you may make a permanent change to yourself:
 
--   Immunity. Gain immunity to a damage type. This lasts until you use this option again.
+-   Appearance. You may change part of your appearance. Ex: the colors of your eyes, skin, hair/fur, racial markers, etc; your height, weight; facial hair, hair coverage, hairiness, facial shape; etc. This appearance change does not have any mechanical effect.
+-   Vulnerability. Gain vulnerability to a damage type by losing vulnerability to a damage type your already have.
+-   Resistance. Gain resistance to a damage type by losing resistance to a damage type you already have.
+-   Immunity. Gain immunity to a damage type by losing immunity to a damage type you already have.
+-   Absorption. Gain absorption to a damage type by losing absorption to a damage type you already have.
 -   Skill. Gain proficiency in a skill by losing proficiency in a skill you’re proficient in.
--   Expertise. Gain expertise in a skill you’re proficient in by losing expertise in another skill you’re proficient in.
+-   Expertise. Gain expertise in a skill you’re proficient in by losing expertise in another skill.
 -   Alignment. Change your alignment.
--   Affinity. Switch out a Bond Affinity option you know with another one.
+-   Affinity. Switch out a Bond Affinity option you know with another one you don’t know.
 -   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
--   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast any spells you know from that school or use your Reality Observer feature to learn new spells in that school.
+-   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast them.
 -   Bending Trick (Level 9). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
--   Race (Level 11). Change your race. You lose the bonuses from your old race and gain the benefits of your new race. You must have seen the race you switch to at least once.
--   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must have a duration longer than Instantaneous or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
+-   Race (Level 11). Change part of your race. Gain a feature from a race by losing an existing feature not from that race, if you have one. You may also choose which part of your appearance changes. You must have seen the new race at least once. If you use this option multiple times, you become the new race completely when all the features of your old race are gone.
+-   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must either have a duration longer than Instantaneous and 1 round, or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
 What changes are available to you depends on your level.
 
-Using this feature again doesn’t automatically undo previous uses of this feature. You may spend a use of this feature to undo the effects of a previous use of this feature.
+Using this feature again doesn’t automatically undo previous uses of this feature. However, you may spend a use of this feature to undo the effects of a previous use of this feature.
 
 ### Self-Centered
 
 At level 3, you can always include yourself. You gain the following Bond Affinity option:
 
--   Self-Inclusive: 1 Spell Point. Also target yourself with this spell cast if it targets one or more other creatures.
+-   Self-Inclusive: 5 Spell Points. Also target yourself with this spell cast if it targets one or more other creatures.
 
 ### Center of Attention
 
-At level 5, you learn to harness attention. Whenever a spell targets you, you regain 1 spell point.
+At level 5, you learn to harness attention. Whenever a spell that you didn’t cast targets you, you regain 10 Spell Points. Spells that you cast that target you cost 10 Spell Points less to cast.
 
 ### Improved Ability Score
 
@@ -566,11 +570,13 @@ At level 7, you can quickly protect yourself from any threat. As a reaction, you
 
 ### Selfish
 
-At level 11, you can redirect magic into you. As a reaction, you may change one or more of a spell’s targets to yourself, if it is targeting one or more other creatures. If you do, you may spend 2 spell points to use your Quick Self Cast feature as part of the same reaction.
+At level 11, you can redirect magic into you. As a reaction, you may change one or more of a spell’s targets to yourself, if it is targeting one or more other creatures. If you do, you may spend 5 spell points to use your Quick Self Cast feature as part of the same reaction.
 
 ### Identity
 
-At level 15, you can modify yourself even more easily. Whenever you cast a spell that targets only yourself, it costs half as many spell points, rounded down. Additionally, you can set any and all die rolls of the spell to any value possible for that die.
+At level 15, you can modify yourself even more easily. Whenever you cast a spell that targets only yourself, it costs half as many spell points, rounded down. You can set any and all die rolls of the spell to any value possible for that die.
+
+Additionally, when you cast a spell as part of your Shape Self feature, that spell costs 50 Spell Points less to cast, minimum 0.
 
 ## Luck Bender
 
