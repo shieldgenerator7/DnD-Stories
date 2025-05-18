@@ -621,9 +621,9 @@ You don’t like casting spells directly, and instead prefer to infuse items wit
 
 At level 3, you gain the ability to infuse an item with a spell.
 
-You may spend 1 hour or more infusing an item you’re holding with a spell from your bonded schools. The spell costs double the amount of spell points it normally would. Make an ability check in your spellcasting ability. The DC equals the spell’s casted level times 2, plus 10, minus the number of hours you spend infusing it. On a success, the item is infused with the spell. On a failure, the spell points are still spent, but the item is not infused with the spell.
+You may spend 1 hour or more infusing an item you’re holding with a spell from your bonded schools. The spell costs double the amount of spell points it normally would. Make an ability check in your spellcasting ability. The DC equals the spell’s casted level times 2, plus 10, minus the number of hours you spend infusing it. On a success, the Spell Points are spent, and the item is infused with the spell. On a failure, the Spell Points are still spent, but the item is not infused with the spell.
 
-Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. The infused spell always uses the Bond Affinity option applied to it when it was infused. You may instead choose to use a lower value for the Cast Range, Tether Range, and/or Spell Duration.
+Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. You may instead choose to use a lower value for the Cast Range, Tether Range, and/or Spell Duration. The infused spell always uses the Bond Affinity option applied to it when it was infused.
 
 An infused item has a limited number of charges of a spell. It regains all charges at dawn each day. As you level up, the amount of charges you can infuse into an item also increases, as shown in the following table:
 
@@ -645,15 +645,21 @@ If the infused spell has range of Self, it targets the active user of the item. 
 
 If the infused spell requires concentration, activating it a second time ends the spell effect of its previous activations. It uses the “concentration” of the item, and not the concentration of the user.
 
-The holder of the infused item may use a free action to dispel any spells cast by the infused item. You may dispel a spell cast from one of your infused items as if you had cast the spell.
+The holder of the infused item may use an action to dispel any spells cast by the infused item. You may also dispel a spell cast from one of your infused items as if you had cast the spell.
+
+You learn the following Bond Affinity option:
+
+-   Infusable: 10 Spell Points. Lower the DC to infuse this spell by 2 times your max safe casting level.
+
+If an Infusable spell is not infused into an item, the spell fails.
 
 ### Instant Refill
 
-At level 3, you can quickly recharge an infused item. Once during your turn, you may choose an infused item within your Cast Range and spend spell points equal to the infused spell’s level to refill 1 charge.
+At level 3, you can quickly recharge an infused item. Once during your turn, you may choose an infused item within your Cast Range and spend spell points equal to 5 times the infused spell’s level to refill 1 charge.
 
 ### Item Upgrading
 
-At level 5, you can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade or downgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. When you do this, you may choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
+At level 5, you can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade or downgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. You may also choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
 
 ### Item Location
 
@@ -665,25 +671,29 @@ If you cannot sense its exact location, you can try to sense its direction. As a
 
 At level 7, you gain senses from your infused items.
 
-You can sense the surroundings of an infused item. As an action, you may choose an item you infused that you know the exact location of. You can then sense how many items, walls, creatures, etc. are in its vicinity, and their exact locations, but you can’t sense what kind of thing they are. This sense lasts until the beginning of your next turn. If the infused item is not in that exact location, this action fails.
+You can sense the surroundings of an infused item. As a bonus action, you may choose an item you infused that you know the exact location of. You can then sense how many items, walls, creatures, etc. are in its vicinity, and their exact locations, but you can’t sense what kind of thing they are. This sense lasts until the beginning of your next turn. If the infused item is not in that exact location, you don’t sense anything.
 
 ### Remote Activation
 
-At level 7, you can remotely activate items you infuse. As a bonus action, you may choose an item you infused that you know the exact location of. You then activate that item. If you can see or have senses of the infused item’s surroundings, you can choose the targets. Otherwise, the infused item automatically targets the closest valid target or area. If the infused item is not in that exact location, this bonus action fails.
+At level 7, you can remotely activate items you infuse. As an action, you may choose an item you infused that you know the exact location of. You then activate that item. If you can see or have senses of the infused item’s surroundings, you can choose the targets. Otherwise, the infused item automatically targets the closest valid target or area. If the infused item is not in that exact location, this bonus action fails.
 
 ### Auto-Activation
 
 At level 11, you learn how to cause an item to react to a situation. You learn the following Bond Affinity option:
 
--   Reactive: 2 Spell Points. Set a reactive condition for this spell cast, which automatically activates this spell cast’s infused item when met.
+-   Reactive: 20 Spell Points. Set a reactive condition for this spell cast, which automatically activates this spell cast’s infused item when met.
+
+If a Reactive spell is not infused into an item, the spell fails.
 
 ### Multi-Infusing
 
 At level 15, you learn how to cram more spells into a single item. You gain the following Bond Affinity option:
 
--   Appended: 3 Spell Points. Infuse this spell cast into an infused item without overwriting spells already infused into it.
+-   Appended: 30 Spell Points. Infuse this spell cast into an infused item without overwriting spells already infused into it.
 
 When an item with multiple infused spells is activated, each spell is activated all in the same turn, in order of infusion, using the same targets, if applicable.
+
+If an Appended spell is not infused into an item, the spell fails.
 
 ## Battle Bender
 
