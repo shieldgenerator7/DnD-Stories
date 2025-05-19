@@ -93,11 +93,9 @@ The class table shows how many spell points you have to cast your cantrips and s
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
 
-Additionally, whenever you sleep, fall unconscious, or die, your spell effects fade rapidly. After 1 minute of you being asleep, unconscious, or dead, your spell effects disappear automatically.
-
 Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when any of the following happens:
 
--   You are asleep, unconscious, or dead for 1 minute or longer
+-   You fall asleep, go unconscious, or die
 -   The center of the spell effect leaves your tether range
 -   The spell’s duration expires
 -   You leave the plane
@@ -106,17 +104,17 @@ Your spell effects are temporary, even if the spell explicitly states that it is
 
 Cantrips cost 1 spell point to cast. You can apply Bond Affinity options to cantrips just like leveled spells.
 
-Instead of having greater effects when you’re a higher level, cantrips can be upcast by spending more spell points. Cantrips can be upcast past their max listed level.
+Instead of having greater effects when you reach a higher level in this class, cantrips can be upcast by spending more spell points. Cantrips can be upcast past their max listed level.
 
 For example, you can cast Ray of Frost to deal 1d8 damage for 1 spell point. But if you upcast by spending 5 spell points instead, you get the 5th level version, which deals 2d8. And if you spend 10 spell points, you get the 11th level version, which does 3d8. And 17 spells points for the 17th level version, 4d8. Even though 17th level is the last listed level, you can upcast further than that, increasing the damage by 1d8 for each upcasted level.
 
-Cantrips are also bound to your Cast Range, Tether Range, and Spell Duration, as outlined in the Casting Spells section.
+Cantrips are also bound by your Cast Range, Tether Range, and Spell Duration, as outlined in the Casting Spells section.
 
 ## Upcasting Spells
 
 You can upcast a spell by spending an additional spell point per level. There is no limit to how many times you may upcast a spell. However, upcasting a spell past your safe casting level may fail, as outlined in the Casting Higher Level Spells section below.
 
-Cantrips cannot be upcast past their max listed level.
+Cantrips can be upcast past their max listed level.
 
 ## Casting Higher Level Spells
 
@@ -124,7 +122,9 @@ As long as you have the spell points to cast a leveled spell, you can cast it, n
 
 You can safely cast any spell that is half your Reality Bender level (rounded down) + 1. For example, at level 1, you can safely cast level 1 spells; at level 3, you can safely cast level 2 spells; and at level 4, you can safely cast level 3 spells; etc.
 
-If you can’t safely cast a spell because it’s too high level, you can cautiously cast it. To do so, you must make an ability check in your spell casting ability. The DC is equal to the difference between the spell’s casted level and your max safe casting level, times 2, and plus 10. On a success, you cast the spell. On a failure, you don’t cast the spell, but the spell points are still spent, and you cannot attempt to cast that spell again until you finish a long rest. You may spend any number of spell points to reduce the DC by 1 for every 2 spell points spent this way.
+If you can’t safely cast a spell because it’s too high level, you can cautiously cast it. To do so, you must make an ability check in your spell casting ability. The DC is equal to 10, plus the difference between the spell’s casted level and your max safe casting level times 2. On a success, you cast the spell. On a failure, you don’t cast the spell, but the spell points are still spent, and you cannot attempt to cast that spell again until you finish a long rest. You may spend any number of spell points to reduce the DC by 1 for every 2 spell points spent this way.
+
+Cautiously Cast DC = 10 + ((spell’s casted level – your max safe casting level) \* 2)
 
 ## Dispelling Spells
 
