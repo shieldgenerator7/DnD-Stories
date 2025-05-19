@@ -452,13 +452,15 @@ You want to help other people create their own realities.
 
 ### Affinity Assist
 
-At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it. Either the casting creature or the spell must be within your Cast Range.
+At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it by someone else.
+
+Either the casting creature or the spell must be within your Cast Range.
+
+If the casted spell is a Bending Trick for you, you may apply an additional Bond Affinity option to it for each time you chose it as a Bending Trick.
 
 You gain the following Bond Affinity option:
 
 -   Bent: 0 Spell Points. Modify this spell cast’s attributes to your Cast Range, Tether Range, and Spell Duration.
-
-If a Bent spell is a Bending Trick for you, you may apply an additional Bond Affinity option to it for each time you chose it as a Bending Trick.
 
 ### Spell Sharing
 
@@ -545,7 +547,7 @@ At level 3, you can modify yourself daily. Whenever you finish a long rest, you 
 -   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast them.
 -   Bending Trick (Level 9). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
 -   Race (Level 11). Change part of your race. Gain a feature from a race by losing an existing feature not from that race, if you have one. You may also choose which part of your appearance changes. You must have seen the new race at least once. If you use this option multiple times, you become the new race completely when all the features of your old race are gone.
--   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must either have a duration longer than Instantaneous and 1 round, or have a range of Self or Touch. The spell costs double the spell points it normally would. Afterwards, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
+-   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must either have a duration longer than Instantaneous and 1 round, or have a range of Self or Touch. The spell costs double the spell points it normally would. If the spell fails, the spell points are still spent, and so is the use of this feature. If the spell succeeds, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
 What changes are available to you depends on your level.
 
