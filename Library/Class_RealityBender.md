@@ -122,9 +122,11 @@ As long as you have the spell points to cast a leveled spell, you can cast it, n
 
 You can safely cast any spell that is half your Reality Bender level (rounded down) + 1. For example, at level 1, you can safely cast level 1 spells; at level 3, you can safely cast level 2 spells; and at level 4, you can safely cast level 3 spells; etc.
 
-If you can’t safely cast a spell because it’s too high level, you can cautiously cast it. To do so, you must make an ability check in your spell casting ability. The DC is equal to 10, plus the difference between the spell’s casted level and your max safe casting level times 2. On a success, you cast the spell. On a failure, you don’t cast the spell, but the spell points are still spent, and you cannot attempt to cast that spell again until you finish a long rest. You may spend any number of spell points to reduce the DC by 1 for every 2 spell points spent this way.
+If you can’t safely cast a spell because it’s too high level, you can cautiously cast it. To do so, you must make an ability check in your spell casting ability. The DC is equal to 10, plus the difference between double the spell’s casted level and your max safe casting level. On a success, you cast the spell. On a failure, you don’t cast the spell, but the spell points are still spent, and you cannot attempt to cast that spell again until you finish a long rest.
 
-Cautiously Cast DC = 10 + ((spell’s casted level – your max safe casting level) \* 2)
+Cautiously Cast DC = 10 + (spell’s casted level \* 2) – your max safe casting level
+
+You may spend any number of spell points to reduce the DC by 1 for every 20 spell points spent this way. You must spend these spell points before you make the roll.
 
 ## Dispelling Spells
 
