@@ -204,6 +204,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Card Bender
 -   Death Bender
 -   Creature Wrangler
+-   Reality Scholar
 
 # Ability Score Improvement
 
@@ -1251,3 +1252,43 @@ While on your mount, your mount moves on your turn, and may take its turn during
 ### Use Ability!
 
 At level 15, your Conjured Creatures can use the spells they were made with. On its turn, a Conjured Creature can spend 1 hit point to cast its spell, using its position for the spell’s Cast Range and Tether Range. It casts with all the bond affinity options applied to it when it was conjured.
+
+## Reality Scholar
+
+You study reality and hone your skills in manipulating magic.
+
+### Mana Wellspring
+
+At level 3, you have more raw power than other Reality Benders. You gain more Spell Points per level. You gain the Spell Points of 1 level higher than your current level. Ex: At level 3, you gain the Spell Points of a level 4 Reality Bender.
+
+At level 20, you gain 770 Spell Points.
+
+### Spell Warp Study
+
+At level 5, you learn more ways to manipulate your spells. You learn two additional Bond Affinity options when you reach this level. When the class table shows you can learn a Bond Affinity option, you learn 1 additional Bond Affinity option.
+
+You learn the following Bond Affinity option:
+
+-   Errata’d: 10 Spell Points. You spend any amount of additional Spell Points to cross out 1 word in the spell’s description per 1 additional Spell Point spent this way.
+
+This is subject to DM’s approval, of course.
+
+### Mana Overflow
+
+At level 7, you can hold more Spell Points than your maximum.
+
+### Mind Palace
+
+At level 11, you can will your power back to you. As an action, you can focus to regain 1 Spell Point.
+
+You can focus as long as you want. Focusing for longer regains you additional Spell Points. Focusing for 1 minute without interruption restores 11 Spell Points. Focusing for 1 hour without interruption restores 70 Spell Points, up to your maximum.
+
+### Spell Write
+
+At level 15, you can make your own spells.
+
+You can spend 8 hours of continuous tinkering and study to modify an existing spell’s text for yourself or create an entirely new spell of any level you can safely cast.
+
+Discuss with your DM how the spell should work, how it should be worded, and what level it is. Make sure your DM approves of it before using it.
+
+The new spell and/or modified spell must be from one of your bonded schools.
