@@ -205,6 +205,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Death Bender
 -   Creature Wrangler
 -   Reality Scholar
+-   Reality Performer
 
 # Ability Score Improvement
 
@@ -1292,3 +1293,48 @@ You can spend 8 hours of continuous tinkering and study to modify an existing sp
 Discuss with your DM how the spell should work, how it should be worded, and what level it is. Make sure your DM approves of it before using it.
 
 The new spell and/or modified spell must be from one of your bonded schools.
+
+## Reality Performer
+
+You sing and dance to cast your spells. Basically, a bard-like subclass.
+
+### Performance
+
+At level 3, you can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You learn the following Bond Affinity option:
+
+-   Performance: 5 Spell Points. Cast this spell centered on yourself, and target all creatures you can see within range.
+
+The range of a Performance spell is any range you choose up to your Cast Range. A Performance spell always ends automatically when the performance does. You can end the performance whenever you like as a free action, and it ends automatically when you become unable to perform.
+
+The creatures must also be able to see/hear you, depending on which performance style you chose. Creatures that cannot be charmed cannot be targeted by a performance spell.
+
+Your Performance spell requires concentration, even if the spell doesn’t specifically state it.
+
+### Big Show
+
+At level 5, you can weave your performance into another one. Whenever you end your Performance spell as a free action, you can cast a new Performance spell with the same Spell Point cost or lower as the old spell, without paying the Spell Point cost of the new spell.
+
+The new spell is allowed to be the same spell as the old spell.
+
+### Shout Out
+
+At level 7, you can point out a creature in particular. Whenever you use your Big Show feature, you may point out a particular creature you can see within range to make your new Performance spell target only that creature. If you do, you may choose any combination of the following:
+
+-   You have that creature get double the effects of the spell
+-   You double your spellcasting ability modifier for the spell
+
+### Applause
+
+At level 7, you learn how to feed off of applause. Whenever a creature uses their action to cheer you on, you gain 1 Spell Point. The creature must be within range and you must be able to see/hear them.
+
+### The Show Must Go On
+
+At level 11, you can endure through encounters despite hecklers. You gain advantage on Constitution checks made to keep concentration on a spell. Additionally, you may use your reaction to use your Big Show feature.
+
+### Double Feature
+
+At level 15, you become multitalented. You can now:
+
+-   Concentrate on 2 Performance spells at a time
+-   Cast a Performance spell as a bonus action
+-   Cast 2 leveled spells in the same turn
