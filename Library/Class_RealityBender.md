@@ -243,7 +243,7 @@ At level 13, when one of your spells ends, you sense it, and may use your reacti
 
 # Reality Command
 
-At level 20, you can freely modify your spells. Bond Affinity options no longer cost spell points. Additionally, you may use your Bending Trick feature at the start of every month, not just when you level up.
+At level 20, you gain command of your spells more easily. You may choose a new Bending Trick feature at the start of every month, not just when you level up.
 
 # Bending Styles
 
