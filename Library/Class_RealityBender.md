@@ -207,6 +207,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Reality Scholar
 -   Reality Performer
 -   Safe Guarder
+-   Hunter
 
 # Ability Score Improvement
 
@@ -1373,3 +1374,46 @@ At level 11, you can swiftly respond to threats. Your Block Singer feature now h
 ### Spell Snare
 
 At level 15, you can take away toys from those who don’t play nicely with them. Whenever you use your Damage Mitigation feature on a spell, and that spell deals no damage, that spell’s caster cannot cast that spell again until they finish a long rest.
+
+## Hunter
+
+You hunt your targets by bending reality around them, leaving them no choice but to walk into your grasp.
+
+### Mark
+
+At level 3, you can mark a creature as your quarry. Take a hair, piece of clothing, or other possession that belongs to your quarry. After 1 minute of focus, you mark that creature as your quarry. You may cast spells on your quarry, or centered on your quarry, if they are within your Tether Range, and you do not need to see them to cast spells on them. You have advantage on initiative checks in combats with your quarry.
+
+You learn the following Bond Affinity option:
+
+-   Seeking: 10 Spell Points. This spell only targets your quarry, and if it has an area of effect, it only effects your quarry.
+
+Seeking spells don’t give away your position, break invisibility, or give any indication that you are the one casting the spell.
+
+### Hunt
+
+At level 5, you can easily kill your quarry. Whenever you deal damage to your quarry, it drops to 0 hp instantly if it has remaining health equal to or less than your execute threshold. Your execute threshold increases as you level up, as shown in the table below:
+
+| Level | Execute Threshold |
+|-------|-------------------|
+| 3     | 5                 |
+| 5     | 10                |
+| 7     | 20                |
+| 11    | 50                |
+| 15    | 100               |
+
+### Sense
+
+At level 7, you can sense your quarry. Make a spellcasting ability check, and your quarry makes the same check. If your value is higher, you know your quarry’s exact location. If their value is higher, you only sense in which direction they are.
+
+### Dead or Alive
+
+At level 11, you can control the lethality of your spells. You learn the following Bond Affinity options:
+
+-   Dead: 10 Spell Points. Creatures effected by this spell are also effected by your execute threshold.
+-   Alive: 10 Spell Points. Creatures dropped to 0 hp or less by this spell are instantly stabilized but not woken up.
+
+### Hunting Party
+
+At level 15, you can get help catching your quarry. When you use your Mark feature, you may include other creatures in the 1 minute of focus. When you do, they gain the benefits of that feature on your quarry.
+
+Creatures must be within 10ft of the focus to benefit from it. Creatures you used this feature on are bound by your Spell Duration and Tether Range, and lose the benefits of this feature if those requirements aren’t met.
