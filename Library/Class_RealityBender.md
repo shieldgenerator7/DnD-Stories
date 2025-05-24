@@ -182,7 +182,7 @@ At level 2, you gain affinity for spells in your bonded schools, manipulating th
 -   Enduring: 50 Spell Points. This spell doesn’t automatically disappear due to you becoming asleep, unconscious, or dead.
 -   Ashes: 1 Spell Point. When this spell would automatically disappear, it instead lingers for 1 minute, then disappears.
 
-You learn one Bond Affinity option at level 1. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
+You learn one Bond Affinity option at level 2. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
 
 Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
 
