@@ -517,10 +517,12 @@ Additionally, your maximum Spell Points is increased by the number of vessels yo
 At level 11, your Spell Sharing feature is enhanced.
 
 -   Shared spells are no longer restricted from you when you share them. You can now share a single spell with multiple vessels, and you can now cast it yourself while it is shared.
+-   You can have an unlimited amount of vessels.
 -   You may use your Spell Sharing feature on a creature that a vessel sees that is within your Cast Range of that vessel.
 -   You may refresh the share duration of any vessel that is within your Tether Range.
 -   Vessels within your Cast Range continuously have their share duration refreshed automatically.
 -   Each time a vessel casts a spell that you shared with them, their share duration is refreshed.
+-   You can use your action to dismiss any shared spell that one of your vessels had casted.
 
 ### Unity
 
