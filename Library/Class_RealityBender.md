@@ -1338,3 +1338,25 @@ At level 15, you become multitalented. You can now:
 -   Concentrate on 2 Performance spells at a time
 -   Cast a Performance spell as a bonus action
 -   Cast 2 leveled spells in the same turn
+
+## Safe Guarder
+
+You care about those in your reality and do what you can to keep them from harm.
+
+### Gloves On
+
+At level 3, you can keep yourself from harming others. You learn the following Bond Affinity option:
+
+-   Safe: 0 Spell Points. This spell deals 0 damage, if it would deal damage.
+
+### Nerf
+
+At level 5, you can keep others from doing harm. Whenever a creature casts a spell, you may use your reaction to reduce that spell’s damage to 0. Either the creature or the spell must be in your Cast Range.
+
+### Block
+
+At level 7, you can prevent harmful effects. Whenever a creature casts a spell, you may use your reaction to change all damage in the spell to giving temporary hp instead. Either the creature or the spell must be in your Cast Range.
+
+### Heal
+
+At level 11, you can undo harm. Whenever a creature casts a spell, you may use your reaction to change all damage in the spell to healing instead. Either the creature or the spell must be in your Cast Range.
