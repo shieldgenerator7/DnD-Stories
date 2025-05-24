@@ -206,6 +206,7 @@ At level 3, you choose a Bending Style, as listed below. The Bending Style you c
 -   Creature Wrangler
 -   Reality Scholar
 -   Reality Performer
+-   Safe Guarder
 
 # Ability Score Improvement
 
@@ -1347,16 +1348,28 @@ You care about those in your reality and do what you can to keep them from harm.
 
 At level 3, you can keep yourself from harming others. You learn the following Bond Affinity option:
 
--   Safe: 0 Spell Points. This spell deals 0 damage, if it would deal damage.
+-   Safe: 0 Spell Points. This spell deals 0 damage, if it would deal damage. It also costs 5 Spell Points less. You may double your spellcasting ability modifier for this spell cast.
 
-### Nerf
+### Damage Mitigation
 
-At level 5, you can keep others from doing harm. Whenever a creature casts a spell, you may use your reaction to reduce that spell’s damage to 0. Either the creature or the spell must be in your Cast Range.
+At level 5, you can keep others from doing harm. Whenever a creature casts a spell, you may use your reaction to do one of the following:
 
-### Block
+-   Reduce that spell’s damage to 0
+-   Change all damage in that spell to giving temporary hp instead
+-   Change all damage in that spell to healing instead
 
-At level 7, you can prevent harmful effects. Whenever a creature casts a spell, you may use your reaction to change all damage in the spell to giving temporary hp instead. Either the creature or the spell must be in your Cast Range.
+Either the creature or the spell must be in your Cast Range.
 
-### Heal
+### Block Slinger
 
-At level 11, you can undo harm. Whenever a creature casts a spell, you may use your reaction to change all damage in the spell to healing instead. Either the creature or the spell must be in your Cast Range.
+At level 7, you can prevent more harm per turn. If you use your reaction on your Damage Mitigation feature, you have 3 reactions, each of which must be spent on a different option of your Damage Mitigation feature.
+
+### Fast Reaction Speed
+
+At level 11, you can swiftly respond to threats. Your Block Singer feature now has 4 reactions and your Damage Mitigation feature gains the following option:
+
+-   Cast a Safe spell
+
+### Spell Snare
+
+At level 15, you can take away toys from those who don’t play nicely with them. Whenever you use your Damage Mitigation feature on a spell, and that spell deals no damage, that spell’s caster cannot cast that spell again until they finish a long rest.
