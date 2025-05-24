@@ -605,8 +605,8 @@ At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Rang
 
 At level 7, natural luck comes to your aid. You regain 5 spell points whenever:
 
--   You or an ally rolls a 20 on a d20 or crits on an attack roll
--   An enemy creature rolls a 1 on a d20 or fumbles on an attack roll
+-   You or an ally rolls a 20 on a d20 or crits on an attack roll that hits
+-   An enemy creature rolls a 1 on a d20 or fumbles on an attack roll that misses
 
 ### Good Fortune
 
