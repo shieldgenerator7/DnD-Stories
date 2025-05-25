@@ -480,15 +480,14 @@ A shared spell is still bound by your Cast Range, Tether Range, and Spell Durati
 
 Spells shared with vessels don’t stay shared forever. A shared spell automatically returns to you if any of the following happens:
 
--   The share duration for the spell expires. A shared spell’s share duration is equal to your Spell Duration.
+-   The share duration for the vessel expires. A vessel’s share duration is equal to your Spell Duration.
 -   The vessel becomes outside your Tether Range or shifts to another plane.
 -   The vessel dies or ceases to exist.
+-   The vessel willingly decides to stop being a vessel.
 
-As an action, you may refresh a vessel’s spells, refreshing the share duration of all spells shared with them, if the vessel is within your Cast Range. Additionally, whenever you share a spell with a vessel, all spells already shared with that vessel are automatically refreshed.
+As an action, you may refresh a vessel’s share duration, if the vessel is within your Cast Range. Additionally, whenever you share a spell with a vessel, that vessel’s share duration is automatically refreshed.
 
-As an action, you may take back any number of spells from a vessel, if the vessel is within your Cast Range.
-
-When a vessel no longer has any of your shared spells, they are no longer considered a vessel.
+As an action, you may take back any number of spells from a vessel, if the vessel is within your Cast Range. When a vessel no longer has any of your shared spells, they are no longer considered a vessel.
 
 ### Vessel Casting
 
@@ -496,7 +495,7 @@ At level 7, your vessels become conduits for your power. You gain the following 
 
 -   Proxied: 10 Spell Points. Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
 
-You may choose a vessel that is outside your Cast Range as the cast target for a Proxied spell.
+You may choose a vessel for a Proxied spell, even if they are outside your Cast Range.
 
 ### Vessel Network
 
