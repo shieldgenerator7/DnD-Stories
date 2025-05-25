@@ -1317,11 +1317,11 @@ At level 3, you can cast your spells with a performance. Choose a performance st
 
 -   Performance: 5 Spell Points. Cast this spell centered on yourself, and target all creatures you can see within range.
 
-The range of a Performance spell is any range you choose up to your Cast Range. A Performance spell always ends automatically when the performance does. You can end the performance whenever you like as a free action, and it ends automatically when you become unable to perform.
+The range of a Performance spell is any range you choose up to your Cast Range. If the Performance spell has an area of effect, the radius is equal to the range you chose for it. A Performance spell is bound by your performance. It is not bound by your Spell Duration; it lasts as long as your performance does, and always ends automatically when your performance ends. You can end the performance whenever you like as a free action, and it ends automatically when you become unable to perform.
 
-The creatures must also be able to see/hear you, depending on which performance style you chose. Creatures that cannot be charmed cannot be targeted by a performance spell.
+The creatures must also be able to see/hear you, depending on which performance style you chose. Creatures that cannot be charmed cannot be targeted or effected by a performance spell.
 
-Your Performance spell requires concentration, even if the spell doesn’t specifically state it.
+Your Performance spell requires concentration, even if the spell doesn’t specifically state it. A Performance spell is not effected by the following Bond Affinity options: Animated, Enduring, Reaching, Remote, Lasting, Ashes.
 
 ### Big Show
 
