@@ -93,6 +93,8 @@ The class table shows how many spell points you have to cast your cantrips and s
 
 Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
 
+When you cast the spell, you can decide to lower the Cast Range, Spell Duration, and/or Tether Range of the spell.
+
 Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when any of the following happens:
 
 -   You fall asleep, go unconscious, or die
