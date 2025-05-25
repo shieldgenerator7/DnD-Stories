@@ -525,6 +525,10 @@ At level 11, your Spell Sharing feature is enhanced.
 -   Each time a vessel casts a spell that you shared with them, their share duration is refreshed.
 -   You can use your action to dismiss any shared spell that one of your vessels had casted.
 
+### Evangelization
+
+At level 11, your vessels can evangelize. As an action, you may designate a vessel within your Cast Range as a prime vessel. A prime vessel has the ability to use your Spell Sharing feature to share spells with other creatures, whether they are already vessels or not. The spells they share must have already been shared with them.
+
 ### Unity
 
 At level 15, you can unify your vessels in casting a spell. Whenever you cast a spell from your bonded schools, each of your vessels that you choose may use their reaction to cast the same spell you cast at the same level, with the same Bond Affinity option(s). You and your vessels may choose different targets for the spells.
