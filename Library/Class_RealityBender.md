@@ -458,7 +458,7 @@ You want to help other people create their own realities.
 
 ### Affinity Assist
 
-At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it by someone else.
+At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it by someone else. You may not apply a Bond Affinity option that has already been applied with your Spell Sharing feature.
 
 Either the casting creature or the spell must be within your Cast Range.
 
