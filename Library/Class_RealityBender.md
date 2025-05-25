@@ -603,11 +603,11 @@ Fortune favors you and bends to your will.
 
 At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
--   Lucky: 10 Spell Points. Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
+-   Lucky: 5 Spell Points. Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
 
 ### Lucky
 
-At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 5 Spell Points to reroll it, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 2 Spell Points, cumulative.
+At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 20 Spell Points to force it to be rerolled, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 20 Spell Points, cumulative. You may use this feature on the same roll a number of times up to your level in this class.
 
 ### Happy Go Lucky
 
@@ -622,13 +622,13 @@ At level 11, your spells seem to be more effective. Whenever one of your Bending
 
 ### Plot Armor
 
-At level 15, no one can hurt you. Whenever you or another creature must make a saving throw, you may spend any number of Spell Points to decrease the DC by 2 per 5 Spell Points spent.
+At level 15, no one can hurt you. Whenever you or another creature must make a saving throw, you may spend any number of Spell Points to decrease the DC by 1 per 10 Spell Points spent.
 
 Additionally, whenever you are attacked, you may spend any number of Spell Points to increase your AC by the number of Spell Points spent divided by 5, rounded up, until the start of your next turn.
 
 ### Dictation
 
-At level 20, you have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 25 spell points to set any number of the rolled dice to any value possible for that die.
+At level 20, you have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 100 spell points to set any number of the rolled dice to any value possible for that die.
 
 ## Item Infuser
 
