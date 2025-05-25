@@ -534,6 +534,10 @@ The spell costs the normal amount of Spell Points for you, but it only costs tha
 
 A vessel can join in the casting of the spell even if they don’t know the spell and that spell has not been shared with them.
 
+### Ascension
+
+At level 20, your vessels are permanent. Vessels outside your Tether Range or in a different plane do not automatically stop being vessels. Vessels no longer have a share duration, and remain vessels until they willingly stop being a vessel or until you use your action to unshare all spells with them.
+
 ## Self-Shaper
 
 You are a self-made person, literally. You modified your being and can modify it to your liking.
