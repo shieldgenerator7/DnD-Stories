@@ -470,24 +470,33 @@ You gain the following Bond Affinity option:
 
 ### Spell Sharing
 
-At level 5, you can give someone else a piece of your power. As an action, you can share a spell you know from your bonded schools with another willing creature within your Cast Range. That creature becomes a vessel of your power, and gains the ability to cast the shared spell, expending your spell points when they do.
+At level 5, you can give someone else a piece of your power.
+
+You can spend 1 minute to designate another willing creature as a vessel of your power. You must be able to see the creature and they must be within your Cast Range for the whole duration. The creature is now one of your vessels. You can have any number of vessels active at the same time.
+
+As an action, you can share a spell you know from your bonded schools with a vessel in your Cast Range. The vessel gains the ability to cast the shared spell, expending your spell points when they do.
 
 When you share a spell, you may choose a Bond Affinity option to apply to the spell whenever the vessel casts it. You can choose the same Bond Affinity option for multiple shared spells.
 
-While a vessel has a spell, you cannot cast that spell or share it. You can have any number of vessels active at the same time, up to the number of spells you know. You can share multiple spells with the same vessel.
+While a vessel has a spell, you cannot cast that spell or share it. You can share multiple spells with the same vessel.
 
-A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your spell save DC and spell attack modifiers, if applicable. If a shared spell requires concentration, it uses the concentration of the vessel. Every other reference to “you” or “self” in the shared spell refers to the vessel. A vessel gains the benefits of your spellcasting focus when casting a shared spell.
+A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your spell save DC and spell attack modifiers, if applicable. If a shared spell requires concentration, it uses the concentration of the vessel. Every other reference to “you” or “self” in the shared spell refers to the vessel. A vessel gains the benefits of your spellcasting focus when casting a shared spell. If the vessel has a body part similar to your spellcasting focus body part, it glows your spell casting glow color when they cast a spell.
 
-Spells shared with vessels don’t stay shared forever. A shared spell automatically returns to you if any of the following happens:
+Being a vessel isn’t forever. A creature automatically stops being a vessel if any of the following happens:
 
--   The share duration for the vessel expires. A vessel’s share duration is equal to your Spell Duration.
+-   The vessel duration for the vessel expires. A vessel’s vessel duration is equal to your Spell Duration.
 -   The vessel becomes outside your Tether Range or shifts to another plane.
 -   The vessel dies or ceases to exist.
 -   The vessel willingly decides to stop being a vessel.
+-   You use an action to make them no longer a vessel.
 
-As an action, you may refresh a vessel’s share duration, if the vessel is within your Cast Range. Additionally, whenever you share a spell with a vessel, that vessel’s share duration is automatically refreshed.
+When a vessel stops being a vessel, all spells you shared with them automatically return to you.
 
-As an action, you may take back any number of spells from a vessel, if the vessel is within your Cast Range. When a vessel no longer has any of your shared spells, they are no longer considered a vessel.
+As an action, you may refresh a vessel’s vessel duration, if the vessel is within your Cast Range. Additionally, whenever you share a spell with a vessel, that vessel’s vessel duration is automatically refreshed.
+
+As an action, you may take back any number of spells from a vessel, if the vessel is within your Cast Range.
+
+As an action, you may revoke a vessel’s vessel status.
 
 ### Vessel Casting
 
@@ -518,16 +527,33 @@ Additionally, your maximum Spell Points is increased by the number of vessels yo
 At level 11, your Spell Sharing feature is enhanced.
 
 -   Shared spells are no longer restricted from you when you share them. You can now share a single spell with multiple vessels, and you can now cast it yourself while it is shared.
--   You can have an unlimited amount of vessels.
--   You may use your Spell Sharing feature on a creature that a vessel sees that is within your Cast Range of that vessel.
--   You may refresh the share duration of any vessel that is within your Tether Range.
--   Vessels within your Cast Range continuously have their share duration refreshed automatically.
--   Each time a vessel casts a spell that you shared with them, their share duration is refreshed.
+-   You may refresh the vessel duration of any vessel that is within your Tether Range.
+-   Vessels within your Cast Range continuously have their vessel duration refreshed automatically.
+-   Each time a vessel casts a spell that you shared with them, their vessel duration is refreshed.
 -   You can use your action to dismiss any shared spell that one of your vessels had casted.
 
 ### Evangelization
 
-At level 11, your vessels can evangelize. As an action, you may designate a vessel within your Cast Range as a prime vessel. A prime vessel has the ability to use your Spell Sharing feature to share spells with other creatures, whether they are already vessels or not. The spells they share must have already been shared with them.
+At level 11, your vessels can evangelize.
+
+You may spend 1 hour to designate a willing vessel as a prime vessel. You must be able to see the vessel and they must be within your Cast Range for the whole duration. That vessel then becomes a prime vessel.
+
+A prime vessel has the ability to use your Spell Sharing feature to
+
+-   Designate other creatures as vessels of yours
+-   Share spells with other vessels. The spells they share must have already been shared with them.
+-   Revoke shared spells from other vessels
+-   Revoke vessel status from other vessels
+
+As an action, you may telepathically communicate a message to a prime vessel. This doesn’t enable the prime vessel to communicate back to you.
+
+Being a prime vessel is forever, with a few exceptions. A prime vessel automatically stops being a vessel if any of the following happens:
+
+-   The prime vessel dies or ceases to exist.
+-   The prime vessel willingly decides to stop being a prime vessel.
+-   You use an action to make them no longer a prime vessel.
+
+As an action, you may revoke a prime vessel’s vessel state, making them either a regular vessel or just another creature.
 
 ### Unity
 
@@ -539,7 +565,7 @@ A vessel can join in the casting of the spell even if they don’t know the spel
 
 ### Ascension
 
-At level 20, your vessels are permanent. Vessels outside your Tether Range or in a different plane do not automatically stop being vessels. Vessels no longer have a share duration, and remain vessels until they willingly stop being a vessel or until you use your action to unshare all spells with them.
+At level 20, your vessels are permanent. Vessels outside your Tether Range or in a different plane do not automatically stop being vessels. Vessels no longer have a vessel duration, and remain vessels indefinitely until they willingly stop being a vessel or until you use your action to revoke their vessel status.
 
 ## Self-Shaper
 
