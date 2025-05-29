@@ -1027,6 +1027,8 @@ You can add any number of additional bond affinity options to a spell that you a
 
 Your magic spells manifest as a deck of cards.
 
+### Level 3 Subclass Features
+
 ### The Deck
 
 Your magic manifests itself as a deck of cards.
@@ -1067,6 +1069,10 @@ You may draw for another creature.
 
 You may spend 1 AP and make an Attack check to draw the top card of the deck without looking at it and use it as a melee weapon with a reach of 1 Space. You are trained with this card weapon. Hit: the card targets the creature as if they had drawn the card themselves. Miss: the card dissipates without casting the spell, and you find out what spell it was.
 
+You can draw cards for creatures at range.
+
+You may spend 1 AP to make an Attack check, draw the top card of the deck without looking at it, and use it as a ranged weapon. Its close range is equal to your Cast Range, and its max range is equal to your Tether Range. You are trained with this card weapon. Hit: the card targets the creature as if they had drawn the card themselves. Miss: the card dissipates without casting the spell, and you find out what spell it was.
+
 ### The Surprise
 
 You can react to luck not going your way. You gain the following Bond Affinity options:
@@ -1075,15 +1081,7 @@ You can react to luck not going your way. You gain the following Bond Affinity o
 -   Red Card: 1 MP. This spell deals 2 damage to the target and all creatures within 1 Space of it instead of the spell’s usual effect.
 -   Gold Card: 1 MP. This spell stuns the target for 1 round, if the target fails any saving for this spell.
 
-### The Fling
-
-You can draw cards for creatures at range.
-
-You may spend 1 AP to make an Attack check, draw the top card of the deck without looking at it, and use it as a ranged weapon. Its close range is equal to your Cast Range, and its max range is equal to your Tether Range. You are trained with this card weapon. Hit: the card targets the creature as if they had drawn the card themselves. Miss: the card dissipates without casting the spell, and you find out what spell it was.
-
-### The Extra Attack
-
-Your second Attack each turn ignores the Multiple Check Penalty.
+### Level 6 Subclass Features
 
 ### The Heart
 
@@ -1096,6 +1094,8 @@ For example, if you guess that the first letter of the spell is “T”, that it
 You can set cards as traps. Draw the top card of the deck without looking at it, and place it facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
 
 This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate due to you manifesting a new deck, nor from leaving your line of sight.
+
+### Subclass Capstone Feature
 
 ### The Filter
 
