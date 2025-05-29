@@ -566,6 +566,8 @@ Additionally, when you cast a spell as part of your Shape Self feature, that spe
 
 Fortune favors you and bends to your will.
 
+### Level 3 Subclass Features
+
 ### Luck Bend
 
 Your spells are lucky. You gain the following Bond Affinity option:
@@ -576,16 +578,14 @@ Your spells are lucky. You gain the following Bond Affinity option:
 
 Luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 1 MP to force it to be rerolled, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 1 MP, cumulative. You may use this feature on the same roll a number of times up to your CM.
 
-### Happy Go Lucky
+### Level 6 Subclass Features
+
+### Good Fortune
 
 Natural luck comes to your aid. You regain 1 MP whenever:
 
 -   You or an ally rolls a 20 on a d20 or crits on an attack roll that hits
 -   An enemy creature rolls a 1 on a d20 or fumbles on an attack roll that misses
-
-### Good Fortune
-
-Your spells seem to be more effective. Whenever one of your Bending Tricks would have you roll dice, you may roll an additional die of that type for each time you chose that spell as a Bending Trick.
 
 ### Plot Armor
 
@@ -593,7 +593,9 @@ No one can hurt you. Whenever you or another creature must make a saving throw, 
 
 Additionally, whenever you are attacked, you may spend any number of MP to increase your PD or AD by the number of MP spent, until the start of your next turn.
 
-### Dictation
+### Subclass Capstone Feature
+
+### Luck Dictation
 
 You have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 5 MP to set any number of the rolled dice to any value possible for that die.
 
