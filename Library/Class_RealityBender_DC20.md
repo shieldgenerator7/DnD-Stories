@@ -993,72 +993,75 @@ You have an affinity for one element in particular, and you can weave it into yo
 
 ### Elemental Attunement
 
-At level 3, you attune to a particular element. Choose a damage type: fire, cold, lightning, thunder, poison, acid, radiant, force, necrotic, or psychic. This becomes your attuned element. You may attune to an additional element at level 15.
+You attune to a particular element. Choose a damage type: fire, cold, lightning, sonic, poison, corrosion, psychic, radiant, or umbral. This becomes your attuned element. You may attune to an additional element at level 9.
 
-Your weapon attacks within your Cast Range deal an additional 1d6 damage of the type of your attuned element.
+Your weapon attacks within your Cast Range deal an additional 1 damage of the type of your attuned element.
 
 You gain the following bond affinity option:
 
--   Elemental: 3 Spell Points. This spell deals damage of the type of your attuned element instead of its original type, if it deals damage.
+-   Elemental: 0 MP. This spell deals damage of the type of your attuned element instead of its original type, if it deals damage.
 
 ### Elemental Recharge
 
-At level 3, you can thrive off your element.
+You can thrive off your element.
 
-When you deal damage of your attuned element to a creature, you regain Spell Points equal to your Proficiency Bonus.
+When you deal damage of your attuned element to another creature, you regain 1 MP.
 
 ### Element Style
 
-At level 3, you gain various bonuses, depending on your attuned element:
+You gain various bonuses, depending on your attuned element:
 
 -   Cold: As a free action, you can move one of your ongoing area of effect spells within Cast Range up to your movement speed on your turn.
--   Fire: When you deal damage, double the number of dice you roll for damage.
--   Lightning: Single target spells can be cast as an action, bonus action, or reaction.
--   Thunder: Every action you take is incredibly loud. Creatures within your Cast Range gain advantage on Stealth rolls, and you gain advantage on Perception checks.
--   Poison: Damaging a creature imposes disadvantage to their next ability check, saving throw, or attack roll.
--   Acid: Damaging a creature lowers their AC by 1. This effect can stack.
--   Radiant: Spells you cast and targets you effect shed light in a 5ft radius. Creatures have advantage when attacking a target you’re lighting up.
--   Force: When you deal damage, creatures you damage must make a Strength saving throw or get knocked 10ft away from you.
--   Necrotic: When you deal 5 or more Necrotic damage to a creature, it becomes marked. A marked creature takes an extra 1d4 necrotic damage whenever they take damage of another type. This effect can stack.
+-   Fire: When you deal damage, double the damage.
+-   Lightning: Single target spells can be cast without the Multiple Check Penalty.
+-   Sonic: Every action you take is incredibly loud. Creatures within your Cast Range gain ADV on Stealth rolls, and you gain ADV on Perception checks.
+-   Poison: Damaging a creature imposes DisADV to their next check or save.
+-   Corrosion: Damaging a creature lowers their PD and AD by 1. This effect can stack.
+-   Radiant: Spells you cast and targets you effect shed light in a 1 Space radius. Creatures have ADV when attacking a target you’re lighting up.
+-   Umbral: When you Umbral damage to a creature, it becomes marked. A marked creature takes an extra 1 Umbral damage whenever they take damage of another type. This effect can stack.
 -   Psychic: When you damage a creature, it must choose one feature or spell that it has. It can’t use that chosen feature or spell.
 
 These effects are bound by your Spell Duration and Tether Range.
 
 ### Elemental Armor
 
-At level 5, you learn to protect yourself from your own element. You gain resistance to damage of your attuned element.
+You learn to protect yourself from your own element. You gain the following defenses from your own element, based on your level, as shown in the table below:
 
-At level 7, you gain immunity to damage of your attuned element.
-
-At level 11, you gain absorption to damage of your attuned element.
+| Char Level | Defenses          |
+|------------|-------------------|
+| 3          | Resistance (Half) |
+| 6          | Immunity          |
+| 9          | Absorption        |
 
 ### Elemental Piercing
 
-At level 5, you learn to overcome defenses to your element. If a creature takes normal damage from your elemental damage type, you can instead deal damage to it as if it is vulnerable to your elemental damage type.
+At level 3, you learn to overcome defenses to your element. If a creature takes normal damage from your elemental damage type, you can instead deal damage to it as if it is vulnerable to your elemental damage type.
 
-At level 7, you can damage a creature with resistance to your elemental damage type as if it didn’t have resistance.
+At level 6, you can damage a creature with resistance to your elemental damage type as if it didn’t have resistance.
 
-At level 11, you can damage a creature with immunity to your elemental damage type as if it had resistance.
-
-At level 15, you can reduce immunity to normal, resistance to vulnerability, and normal to vulnerability, when dealing damage of your elemental damage type.
+At level 9, you can damage a creature with immunity to your elemental damage type as if it had resistance.
 
 ### Elemental Trick
 
-At level 7, you become familiar with certain spells.
+You become familiar with certain spells.
 
-Spells that deal damage of your attuned element cost 5 Spell Points less to cast. Bending Tricks that deal damage of your attuned element are considered an Elemental Bending Trick. Elemental Bending Tricks cost an additional 5 Spell Points less to cast.
+Spells that deal damage of your attuned element cost 1 MP less to cast. Bending Tricks that deal damage of your attuned element are considered an Elemental Bending Trick. Elemental Bending Tricks cost an additional 1 MP less to cast.
 
 Additionally, you may end one of your active Elemental Bending Tricks as a free action.
 
 ### Combo Moves
 
-At level 11, you become experienced in how to combine your spells. When one of your Elemental Bending Tricks ends, you may use your reaction to cast another Elemental Bending Trick, using the position of the last one as the point of reference for the Cast Range of the new one. Both may use the same base spell. The second Elemental Bending Trick’s Spell Point cost is reduced by the first Elemental Bending Trick’s Spell Point cost, minimum 0.
+You become experienced in how to combine your spells. You gain the following reaction:
+
+**Elemental Flow**  
+Trigger: One of your Elemental Bending Tricks ends  
+Reaction: You cast another Elemental Bending Trick, using the position of the last one as the point of reference for the Cast Range of the new one.
+
+Both may use the same base spell. The second Elemental Bending Trick’s MP cost is reduced by the first Elemental Bending Trick’s MP cost, minimum 0.
 
 ### Elemental Mastery
 
-At level 15, you master your element.
-
-When dealing damage to a creature with immunity to your element, you can instead damage them as if they only had resistance. Likewise, you can reduce resistance to normal, and normal to vulnerability.
+You master your element.
 
 You can add any number of bond affinity options to a spell that deals damage of your attuned element.
 
