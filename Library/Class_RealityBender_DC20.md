@@ -1109,6 +1109,8 @@ You learn how to control the randomness of the deck. Whenever you manifest the d
 
 You use the dead to bend reality to your will.
 
+### Level 3 Subclass Features
+
 ### Raise the Dead
 
 You can exhume dead bodies from their resting place. You may spend 1 AP and 1 MP or more to bring a dead body within your Cast Range to life. If it is able, it will spend all its actions on movement to get to your location, digging through as much dirt and opening as many doors as it needs to (only if it is physically capable of doing so) to do so. It then serves you as an undead minion until it collapses.
@@ -1131,17 +1133,19 @@ You may spend 1 AP to dismiss a particular undead minion, and it collapses.
 
 Undead minions are immune to psychic damage. However, any psychic damage they would take instead gets transferred to you.
 
+### Undead Immunity
+
+You learn how to cast spells without harming your undead minions. You gain the following bond affinity option:
+
+• Undead Safety: 1 MP. This spell has no effect on your undead minions.
+
+### Level 6 Subclass Features
+
 ### Undead Enchanting
 
 You can cast spells on all your undead minions at once. You gain the following bond affinity option:
 
 -   Undead: 1 MP. If this spell targets one or more of your undead minions, it also targets all your undead minions within your Cast Range.
-
-### Undead Immunity
-
-You learn how to cast spells without harming your undead minions. You gain the following bond affinity option:
-
--   Undead Safety: 1 MP. This spell has no effect on your undead minions.
 
 ### Undead Fortitude
 
@@ -1153,19 +1157,13 @@ Additionally, you gain the following reaction:
 Trigger: You drop to 0hp or less  
 Reaction: You dismiss an undead minion and heal to 1hp.
 
+### Subclass Capstone Feature
+
 ### Mass Exhume
 
 You can turn the tide of battles with a sudden rise of undead.
 
 You may spend 4 AP and 5 MP to target any amount of creatures that you can see within your Cast Range and that have died within your Spell Duration. You may then use your Raise the Dead feature on all of them at once. They have hp equal to your CM times 5.
-
-### Undead Replacement
-
-You use your undead minions as a last resort. You gain the following reaction:
-
-**Undead Replacement**  
-Trigger: You get hit or take damage  
-Reaction: You teleport to any square within Cast Range of one of your undead minions and use your Undead Fortitude feature on it.
 
 ## Creature Wrangler
 
