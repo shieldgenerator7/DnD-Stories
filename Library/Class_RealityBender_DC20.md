@@ -1334,6 +1334,8 @@ You become multitalented. You can now:
 
 You care about those in your reality and do what you can to keep them from harm.
 
+### Level 3 Subclass Features
+
 ### Gloves On
 
 You can keep yourself from harming others. You learn the following Bond Affinity option:
@@ -1356,13 +1358,17 @@ Either the creature or the spell must be in your Cast Range.
 
 You can only choose each option once per round.
 
-Additionally, you gain 1 AP extra at the end of your turn. You may only spend this AP on reactions.
+### Level 6 Subclass Features
 
 ### Fast Reaction Speed
 
-You can swiftly respond to threats. Your Damage Mitigation feature now grants an additional reaction +1 AP and gains the following option:
+You can swiftly respond to threats. Your Damage Mitigation feature now has the following additional option:
 
 -   Cast a Safe spell
+
+Additionally, you gain +2 AP extra at the end of your turn. You may only spend this AP on reactions.
+
+### Subclass Capstone Feature
 
 ### Spell Snare
 
