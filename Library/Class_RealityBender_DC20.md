@@ -511,6 +511,8 @@ You may spend 1 AP to revoke a prime vessel’s vessel state, making them either
 
 You are a self-made person, literally. You modified your being and can modify it to your liking.
 
+### Level 3 Subclass Features
+
 ### Shape Self
 
 You can modify yourself daily. Whenever you finish a long rest, you may make a permanent change to yourself:
@@ -522,7 +524,7 @@ You can modify yourself daily. Whenever you finish a long rest, you may make a p
 -   Absorption. Gain absorption to a damage type by losing absorption to a damage type you already have.
 -   Skill. Gain a skill point in a skill by losing a skill point in another skill.
 -   Affinity. Switch out a Bond Affinity option you know with another one you don’t know.
--   Attribute (Level 2). Increase an attribute by 1, by decreasing another attribute by 1. This feature allows an attribute to go up to 2 times your Attribute Limit.
+-   Attribute (Level 2). Increase an attribute by 1, by decreasing another attribute by 1.
 -   Bonded Schools (Level 3). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast them.
 -   Bending Trick (Level 5). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
 -   Ancestry (Level 6). Change part of your ancestry. Gain an Ancestry Trait from any ancestry by losing an Ancestry Trait you already have. The new Ancestry Trait must be of equal or lesser value than the old Ancestry Trait. Optionally, you may choose 2 new Ancestry Traits, as long as their combined total is less than or equal to the old Ancestry Trait’s cost. You may also choose which part of your appearance changes. If you use this option multiple times, your appearance and ancestry can change completely.
@@ -534,17 +536,15 @@ Using this feature again doesn’t automatically undo previous uses of this feat
 
 ### Self-Centered
 
-You can always include yourself. You gain the following Bond Affinity option:
+You can always include yourself. Spells that you cast that target you cost 1 MP less to cast. Additionally, you gain the following Bond Affinity option:
 
 -   Self-Inclusive: 1 AP. Also target yourself with this spell cast if it targets one or more other creatures.
 
-### Center of Attention
-
-You learn to harness attention. Whenever a spell that you didn’t cast targets you, you regain 1 MP. Spells that you cast that target you cost 1 MP less to cast.
+### Level 6 Subclass Features
 
 ### Improved Ability Score
 
-Whenever you level up, you may increase an Attribute up to your Attribute Limit.
+Your Attribute limit increases by your CM. Whenever you level up, you may increase an additional Attribute by 1.
 
 ### Quick Self Cast
 
@@ -554,17 +554,11 @@ You can quickly protect yourself from any threat. You gain the following reactio
 Trigger: Anything  
 Reaction: You cast a spell that targets only you.
 
-### Selfish
-
-You can redirect magic into you. You gain the following reaction:
-
-**Retarget to Self**  
-Trigger: Another creature within your Cast Range casts a spell  
-Reaction: You change one or more of the spell’s targets to yourself, if it is targeting one or more other creatures. You may spend 1 MP to use your Quick Self Cast feature as part of the same reaction.
+### Subclass Capstone Feature
 
 ### Identity
 
-You can modify yourself even more easily. Whenever you cast a spell that targets only yourself, it costs 2 MP less to cast.
+You can modify yourself even more easily. Whenever you cast a spell that targets only yourself, it costs 2 MP less to cast and your Mana Spend Limit is increased by your CM for this spell cast.
 
 Additionally, when you cast a spell as part of your Shape Self feature, that spell costs 5 MP less to cast, minimum 0.
 
