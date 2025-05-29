@@ -129,7 +129,7 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 -   Hasty: 2 MP. Cast this spell as an action, if the spell’s cast time is 1 minute.
 -   Capital: 1 MP. Increase your Mana Spend Limit by 3 for this spell cast.
 -   Animating: 1 MP. Cast this spell without requiring it to be sustained.
--   Focused: 1 MP. Add your spellcasting ability modifier to the spellcasting ability modifier used by this spell cast.
+-   Focused: 1 MP. Add your prime modifier to the prime modifier used by this spell cast.
 -   Reaching: 1 MP. Increase this spell’s cast range by your Cast Range.
 -   Remote: 1 MP. Increase this spell’s tether range by your Tether Range.
 -   Lasting: 1 MP. Increase this spell’s spell duration by your Spell Duration.
@@ -256,7 +256,7 @@ At level 11, time starts moving at random speeds. At the start of its turn, a cr
 
 ### Unstable
 
-At level 15, spells become unpredictable. When a spell is cast, if it is touched by your chaos, it has all numbers in its stats and description increased by your spellcasting ability modifier.
+At level 15, spells become unpredictable. When a spell is cast, if it is touched by your chaos, it has all numbers in its stats and description increased by your prime modifier.
 
 ## Reality Forger
 
@@ -294,7 +294,7 @@ You may not move a Permanent spell after casting it, even if the spell specifica
 
 Permanent spells don’t require concentration. Permanent spells do not dissipate automatically when you leave the plane, fall asleep, go unconscious, or die.
 
-Permanent spells are resistant to being countered and dispelled. If a creature attempts to counter it or dispel it, they must make a spellcasting ability check with a DC equal to your spellcasting ability modifier. On a success, they counter or dispel the spell, provided the other conditions are met. On a failure, the Permanent spell still stands.
+Permanent spells are resistant to being countered and dispelled. If a creature attempts to counter it or dispel it, they must make a spellcasting ability check with a DC equal to your prime modifier. On a success, they counter or dispel the spell, provided the other conditions are met. On a failure, the Permanent spell still stands.
 
 You may use your Area Modulation feature on a Permanent spell that you cast, but you must spend 5 Spell Points to do so.
 
@@ -336,7 +336,7 @@ At level 3, you can disrupt others who are casting spells in your bonded schools
 -   Close: Half this spell’s cast range.
 -   Tethered: Add a Tether Range to this spell cast equal to its caster’s walk speed, or if it already has a Tether Range, half it.
 -   Short: Half this spell’s duration, if its duration is longer than 1 round. If the duration is 1 round, the spell ends at the end of the turn instead.
--   Unfocused: Half the spellcaster’s spellcasting ability modifier for this spell cast, rounded up.
+-   Unfocused: Half the spellcaster’s prime modifier for this spell cast, rounded up.
 -   Weak: Half any and all die rolls the spell caster rolls for this spell cast, rounded up.
 -   Thought Consuming: This spell cast requires concentration, if it doesn’t already.
 -   Ephemeral: This spell cast’s effects are temporary, even if explicitly stated to be permanent. This spell cast automatically dissipates when the caster falls asleep, goes unconscious, or dies.
@@ -522,7 +522,7 @@ At level 3, you can modify yourself daily. Whenever you finish a long rest, you 
 -   Expertise. Gain expertise in a skill you’re proficient in by losing expertise in another skill.
 -   Alignment. Change your alignment.
 -   Affinity. Switch out a Bond Affinity option you know with another one you don’t know.
--   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
+-   Ability (Level 5). Increase an ability score by up to your prime modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
 -   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast them.
 -   Bending Trick (Level 9). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
 -   Race (Level 11). Change part of your race. Gain a feature from a race by losing an existing feature not from that race, if you have one. You may also choose which part of your appearance changes. You must have seen the new race at least once. If you use this option multiple times, you become the new race completely when all the features of your old race are gone.
@@ -897,7 +897,7 @@ Spells that would normally automatically disappear when you fall asleep instead 
 
 ### Dream Variance
 
-At level 3, your dreams can take on a mind of their own. You have a new stat called Dream Value, which starts at 0 at the start of a dream. Your Dream Value is added to your spellcasting ability modifier, your to-hit bonus for weapons and spells, and saving throws and ability checks that your dream self makes. Your Dream Value is subtracted from your spells’ Spell Point costs, minimum 0.
+At level 3, your dreams can take on a mind of their own. You have a new stat called Dream Value, which starts at 0 at the start of a dream. Your Dream Value is added to your prime modifier, your to-hit bonus for weapons and spells, and saving throws and ability checks that your dream self makes. Your Dream Value is subtracted from your spells’ Spell Point costs, minimum 0.
 
 When your dream self takes damage, reduce your Dream Value by the damage amount divided by 5, rounded up.
 
@@ -1065,7 +1065,7 @@ When a card is drawn and after it is revealed what spell it is, may use your rea
 
 At level 3, you may draw for another creature.
 
-You may use your Attack action to draw the top card of the deck without looking at it and use it as a melee weapon. You are proficient with this card weapon and your to-hit bonus is your spellcasting ability modifier.
+You may use your Attack action to draw the top card of the deck without looking at it and use it as a melee weapon. You are proficient with this card weapon and your to-hit bonus is your prime modifier.
 
 On a hit, the card targets the creature as if they had drawn the card themselves. On a miss, the card dissipates without casting the spell, and you find out what spell it was.
 
@@ -1081,7 +1081,7 @@ At level 3, you can react to luck not going your way. You gain the following Bon
 
 At level 5, you can draw cards for creatures at range.
 
-You may use your Attack action to draw the top card of the deck without looking at it and use it as a ranged weapon. Its normal range is equal to your Cast Range, and its long range is equal to your Tether Range. You are proficient with this card weapon and your to-hit bonus is your spellcasting ability modifier.
+You may use your Attack action to draw the top card of the deck without looking at it and use it as a ranged weapon. Its normal range is equal to your Cast Range, and its long range is equal to your Tether Range. You are proficient with this card weapon and your to-hit bonus is your prime modifier.
 
 On a hit, the card targets the creature as if they had drawn the card themselves. On a miss, the card dissipates without casting the spell, and you find out what spell it was.
 
@@ -1298,7 +1298,7 @@ The new spell is allowed to be the same spell as the old spell.
 At level 7, you can point out a creature in particular. Whenever you use your Big Show feature, you may point out a particular creature you can see within range to make your new Performance spell target only that creature. If you do, you may choose any combination of the following:
 
 -   You have that creature get double the effects of the spell
--   You double your spellcasting ability modifier for the spell
+-   You double your prime modifier for the spell
 
 ### Applause
 
@@ -1324,7 +1324,7 @@ You care about those in your reality and do what you can to keep them from harm.
 
 At level 3, you can keep yourself from harming others. You learn the following Bond Affinity option:
 
--   Safe: 0 Spell Points. This spell deals 0 damage, if it would deal damage. It also costs 5 Spell Points less. You may double your spellcasting ability modifier for this spell cast.
+-   Safe: 0 Spell Points. This spell deals 0 damage, if it would deal damage. It also costs 5 Spell Points less. You may double your prime modifier for this spell cast.
 
 ### Damage Mitigation
 
