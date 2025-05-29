@@ -1409,39 +1409,31 @@ You hunt your targets by bending reality around them, leaving them no choice but
 
 ### Mark
 
-At level 3, you can mark a creature as your quarry. Take a hair, piece of clothing, or other possession that belongs to your quarry. After 1 minute of focus, you mark that creature as your quarry. You may cast spells on your quarry, or centered on your quarry, if they are within your Tether Range, and you do not need to see them to cast spells on them. You have advantage on initiative checks in combats with your quarry.
+You can mark a creature as your quarry. Take a hair, piece of clothing, or other possession that belongs to your quarry. After 1 minute of focus, you mark that creature as your quarry. You may cast spells on your quarry, or centered on your quarry, if they are within your Tether Range, and you do not need to see them to cast spells on them. You have ADV on initiative checks in combats with your quarry.
 
 You learn the following Bond Affinity option:
 
--   Seeking: 10 Spell Points. This spell only targets your quarry, and if it has an area of effect, it only effects your quarry.
+-   Seeking: 1 MP. This spell only targets your quarry, and if it has an area of effect, it only effects your quarry. Additionally, its cast range is increased by your Cast Range.
 
 Seeking spells don’t give away your position, break invisibility, or give any indication that you are the one casting the spell.
 
 ### Hunt
 
-At level 5, you can easily kill your quarry. Whenever you deal damage to your quarry, it drops to 0 hp instantly if it has remaining health equal to or less than your execute threshold. Your execute threshold increases as you level up, as shown in the table below:
-
-| Level | Execute Threshold |
-|-------|-------------------|
-| 3     | 5                 |
-| 5     | 10                |
-| 7     | 20                |
-| 11    | 50                |
-| 15    | 100               |
+You can easily kill your quarry. Whenever you deal damage to your quarry, it drops to 0 hp instantly if it has remaining health equal to or less than your execute threshold. Your execute threshold is equal to your CM.
 
 ### Sense
 
-At level 7, you can sense your quarry. Make a spellcasting ability check, and your quarry makes the same check. If your value is higher, you know your quarry’s exact location. If their value is higher, you only sense in which direction they are.
+You can sense your quarry. You may spend 1 AP to make a Spell check against your quarry’s Agility save. Success: you know your quarry’s exact location. Failure: you only sense in which direction they are.
 
 ### Dead or Alive
 
-At level 11, you can control the lethality of your spells. You learn the following Bond Affinity options:
+You can control the lethality of your spells. You learn the following Bond Affinity options:
 
--   Dead: 10 Spell Points. Creatures effected by this spell are also effected by your execute threshold.
--   Alive: 10 Spell Points. Creatures dropped to 0 hp or less by this spell are instantly stabilized but not woken up.
+-   Dead: 2 MP. Creatures effected by this spell are also effected by your execute threshold.
+-   Alive: 2 MP. Creatures dropped to 0 hp or less by this spell are instantly stabilized but not woken up.
 
 ### Hunting Party
 
-At level 15, you can get help catching your quarry. When you use your Mark feature, you may include other creatures in the 1 minute of focus. When you do, they gain the benefits of that feature on your quarry.
+You can get help catching your quarry. When you use your Mark feature, you may include other creatures in the 1 minute of focus. When you do, they gain the benefits of that feature on your quarry.
 
-Creatures must be within 10ft of the focus to benefit from it. Creatures you used this feature on are bound by your Spell Duration and Tether Range, and lose the benefits of this feature if those requirements aren’t met.
+Creatures must be within 2 Spaces of the focus to benefit from it. Creatures you used this feature on are bound by your Spell Duration and Tether Range, and lose the benefits of this feature if those requirements aren’t met.
