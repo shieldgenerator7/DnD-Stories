@@ -21,29 +21,29 @@ version 0.1.1
 
 # Reality Bender Table
 
-|           |                                 |                    |                           |                    | **Spell Casting** |                  |                    |
-|-----------|---------------------------------|--------------------|---------------------------|--------------------|-------------------|------------------|--------------------|
-| **Level** | **Features**                    | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | Spellcasting, Reality Observer  | 1                  | 0                         | 1                  | 10ft              | 20ft             | 1 min              |
-| 2nd       | Bond Affinity                   | 1                  | 1                         | 2                  | 15ft              | 30ft             | 5 min              |
-| 3rd       | Bending Style                   | 1                  | 1                         | 3                  | 20ft              | 40ft             | 10 min             |
-| 4th       | Ability Score Improvement (ASI) | 2                  | 1                         | 4                  | 30ft              | 90ft             | 1 hr               |
-| 5th       | Bending Style Feature (BSF)     | 2                  | 2                         | 5                  | 45ft              | 135ft            | 2 hr               |
-| 6th       |                                 | 2                  | 2                         | 6                  | 60ft              | 180ft            | 4 hr               |
-| 7th       | BSF                             | 2                  | 2                         | 7                  | 75ft              | 225ft            | 7 hr               |
-| 8th       | Reality Studier, ASI            | 2                  | 3                         | 8                  | 100ft             | 400ft            | 12 hr              |
-| 9th       |                                 | 2                  | 3                         | 9                  | 125ft             | 500ft            | 1 d                |
-| 10th      | Spell Warp                      | 3                  | 3                         | 10                 | 150ft             | 600ft            | 3 d                |
-| 11th      | BSF                             | 3                  | 3                         | 11                 | 175ft             | 700ft            | 7 d                |
-| 12th      | ASI                             | 3                  | 4                         | 12                 | 200ft             | 1000ft           | 14 d               |
-| 13th      | Recasting                       | 3                  | 4                         | 13                 | 250ft             | 2500ft           | 30 d               |
-| 14th      |                                 | 3                  | 4                         | 14                 | 300ft             | 1mi              | 180 d              |
-| 15th      | BSF                             | 3                  | 4                         | 15                 | 400ft             | 5mi              | 1 yr               |
-| 16th      | ASI                             | 3                  | 5                         | 16                 | 500ft             | 15mi             | 5 yr               |
-| 17th      |                                 | 4                  | 5                         | 17                 | 750ft             | 100mi            | 10 yr              |
-| 18th      |                                 | 4                  | 5                         | 18                 | 1000ft            | 1000mi           | 50 yr              |
-| 19th      | ASI                             | 4                  | 5                         | 19                 | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | Reality Command                 | 4                  | 5                         | 20                 | 1mi               | 1000000mi        | 1000 yr            |
+|                |                                          |                    |                           |                    | **Spell Casting** |                  |                    |
+|----------------|------------------------------------------|--------------------|---------------------------|--------------------|-------------------|------------------|--------------------|
+| **Char Level** | **Features**                             | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** | **Cast Range**    | **Tether Range** | **Spell Duration** |
+| 1              | Class Features                           | +1                 |                           | +1                 | 10ft              | 20ft             | 1 min              |
+| 2              | Class Feature, Talent + 1 Path Point     |                    | +1                        | +1                 | 15ft              | 30ft             | 5 min              |
+| 3              | Subclass Feature                         |                    |                           | +1                 | 20ft              | 40ft             | 10 min             |
+| 4              | Talent + 1 Path Point, 2 Ancestry Points | +1                 |                           | +1                 | 30ft              | 90ft             | 1 hr               |
+| 5              | Class Feature                            |                    | +1                        | +1                 | 45ft              | 135ft            | 2 hr               |
+| 6              | Subclass Feature                         |                    |                           | +1                 | 60ft              | 180ft            | 4 hr               |
+| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 | 75ft              | 225ft            | 7 hr               |
+| 8              | Class Capstone Feature                   |                    | +1                        | +1                 | 100ft             | 400ft            | 12 hr              |
+| 9              | Subclass Capstone Feature                |                    |                           | +1                 | 125ft             | 500ft            | 1 d                |
+| 10             | Epic Boon, Talent + 1 Path Point         | +1                 |                           | +1                 | 150ft             | 600ft            | 3 d                |
+| 11             |                                          |                    |                           | +1                 | 175ft             | 700ft            | 7 d                |
+| 12             |                                          |                    | +1                        | +1                 | 200ft             | 1000ft           | 14 d               |
+| 13             |                                          |                    |                           | +1                 | 250ft             | 2500ft           | 30 d               |
+| 14             |                                          |                    |                           | +1                 | 300ft             | 1mi              | 180 d              |
+| 15             |                                          |                    |                           | +1                 | 400ft             | 5mi              | 1 yr               |
+| 16             |                                          |                    | +1                        | +1                 | 500ft             | 15mi             | 5 yr               |
+| 17             |                                          | +1                 |                           | +1                 | 750ft             | 100mi            | 10 yr              |
+| 18             |                                          |                    |                           | +1                 | 1000ft            | 1000mi           | 50 yr              |
+| 19             |                                          |                    |                           | +1                 | 2000ft            | 10000mi          | 100 yr             |
+| 20             |                                          |                    |                           | +1                 | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
