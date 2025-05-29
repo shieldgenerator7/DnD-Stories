@@ -842,57 +842,57 @@ You don’t really want to participate in reality, and prefer to watch it unfold
 
 ### Bystander
 
-At level 3, you learn how to keep other people from interacting with you. As an action, you can spend 10 Spell Points to make yourself invisible. The duration of this effect is equal to your Spell Duration.
+You learn how to keep other people from interacting with you. You may spend 1 AP and 1 MP to make yourself invisible. The duration of this effect is equal to your Spell Duration.
 
-As an action, you can dismiss this effect.
+You may spend 1 AP to dismiss this effect.
 
 This effect ends automatically if you attack or cast a spell.
 
 ### Unseen Casting
 
-At level 3, you learn how to keep your spells from giving you away. You gain the following Bond Affinity option:
+You learn how to keep your spells from giving you away. You gain the following Bond Affinity option:
 
--   Invisible: 10 Spell Points. Make this spell cast and its effects invisible. Casting this spell doesn’t end invisibility effects.
+-   Invisible: 1 MP. Make this spell cast and its effects invisible. Casting this spell doesn’t end invisibility effects.
 
 An Invisible spell can’t be seen by anyone but you. An Invisible spell will not give away your location or inform other creatures that it was you who cast it, nor will it end the Bystander effect. An Invisible spell that mentions you in the description instead mentions nobody.
 
 ### Safe
 
-At level 5, you learn how to make yourself less vulnerable. As an action, you can spend 10 Spell Points to make yourself ethereal. While you are ethereal:
+You learn how to make yourself less vulnerable. You may spend 1 AP and 1 MP to make yourself ethereal. While you are ethereal:
 
 -   You can pass through walls, creatures, objects, and other tangible materials.
 -   You are untargetable and immune to all damage types.
 -   Your attacks don’t deal damage.
--   Your spells don’t deal damage, don’t heal, don’t grant 0 temporary hp, can’t kill a creature, and can’t revive a creature.
+-   Your spells don’t deal damage, don’t heal, don’t grant temporary hp, can’t kill a creature, and can’t revive a creature.
 
 The duration of this effect is equal to your Spell Duration.
 
-As an action, you can dismiss this effect.
+You may spend 1 AP to dismiss this effect.
 
 ### Watch Together
 
-At level 7, you can bring guests into your world. You can use your Far Watcher Bending Style features on a creature within your Cast Range instead of yourself, including:
+You can bring guests into your world. You can use your Far Watcher Bending Style features on a creature within your Cast Range instead of yourself, including:
 
 -   Bystander
 -   Safe
 -   Predictive
 -   Removed from Reality
 
-The creature must be willing. If they are not, you can attempt to bring them in anyway. If you do, they must make a Wisdom saving throw, and on a failed save, be forced in.
+The creature must be willing. If they are not, you can attempt to force the effect on them. If you do, make a Spell check against their Charisma save. Success: the creature is effected.
 
 These effects are also bound by your Tether Range. If a creature under one of these effects leaves your Tether Range, these effects end for that creature.
 
-You may use your action to target multiple creatures with multiple effects, as long as all are willing and you have the Spell Points for it.
+You may spend 1 AP to target multiple creatures with multiple effects, as long as all are willing and you have the MP for it.
 
-Creatures that you used your Bystander effect on can see each other, and creatures you used your Safe effect on can interact with each other as normal.
+Creatures that you used your Bystander effect on can see each other, and creatures that you used your Safe effect on can interact with each other as normal.
 
 ### Predictive
 
-At level 11, you get good at predicting outcomes. Whenever you cast a spell, you can spend 50 Spell Points to simulate it instead. Process the spell like normal. If you like the outcome of the spell, you can commit it to reality and the game continues as normal. If you don’t like the outcome of the spell, you can revert all changes the spell made, and the game continues as if you had not cast that spell.
+You get good at predicting outcomes. Whenever you cast a spell, you can spend 2 MP to simulate it instead. This extra MP cost doesn’t count against your Mana Spell Limit. Process the spell like normal. If you like the outcome of the spell, you can commit it to reality and the game continues as normal. If you don’t like the outcome of the spell, you can revert all changes the spell made, and the game continues as if you had not cast that spell.
 
 ### Removed from Reality
 
-At level 15, you learn how to change the channel. As an action, you can spend 100 Spell Points to shift to another plane of existence.
+You learn how to change the channel. You may spend 1 AP and 5 MP to shift to another plane of existence.
 
 ## Dreamer
 
