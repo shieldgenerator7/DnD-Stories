@@ -1217,67 +1217,63 @@ You channel your magic into creatures you can train.
 
 ### Magidex
 
-At level 3, you have an encyclopedic knowledge of creatures you see, and recall them and their stats.
+You have an encyclopedic knowledge of creatures you see, and recall them and their stats.
 
 ### Conjure Them All
 
-At level 3, you can conjure a creature in the shape of a creature you remember with your Magidex feature. You gain the following bond affinity option:
+You can conjure a creature in the shape of a creature you remember with your Magidex feature. You gain the following bond affinity option:
 
--   Conjured Creature: 20 Spell Points. Conjure this spell as a creature instead of casting it.
+-   Conjured Creature: 1 MP. Conjure this spell as a creature instead of casting it.
 
 A Conjured Creature spell will appear in an open space you designate within your Cast Range. Conjured Creatures are bound by your Tether Range and Spell Duration.
 
-Conjured Creatures spawn with hit points equal to the total amount of Spell Points spent to cast it.
+Conjured Creatures spawn with HP equal to the total amount of AP and MP spent to cast it.
 
 While a Conjured Creature spell is alive, you cannot cast that spell.
 
-When a Conjured Creature spell dies from having its hit points reduced to 0, it disappears, and you cannot cast that spell again until you finish a long rest.
+When a Conjured Creature spell dies from having its HP reduced to 0, it disappears, and you cannot cast that spell again until you finish a long rest.
 
 ### Creature Party
 
-At level 3, you can have a maximum of 1 Conjured Creature at a time. When you cast another Conjured Creature spell while you already have the maximum allowed out, one Conjured Creature of your choice automatically dissipates. This limit increases as you level up, as shown in the table below:
-
-| Level | Conjured Creature Limit |
-|-------|-------------------------|
-| 3     | 1                       |
-| 5     | 2                       |
-| 7     | 3                       |
-| 11    | 5                       |
-| 15    | 6                       |
+You can have a maximum of amount of Conjured Creatures at a time equal to your CM + 1. When you cast another Conjured Creature spell while you already have the maximum allowed out, one Conjured Creature of your choice automatically dissipates.
 
 Each Conjured Creature has its own turn in the turn order.
 
 ### Aggro Threat
 
-At level 3, you get your Conjured Creatures to fight for you.
+You get your Conjured Creatures to fight for you.
 
-Whenever a Conjured Creature makes an attack on a creature, that creature has disadvantage on any attack roll not made against a Conjured Creature that attacked it, and the Conjured Creature has advantage on any attack of opportunity attacks it makes on the target creature until its next turn.
+Whenever a Conjured Creature makes an attack on a creature, that creature has DisADV on any attack roll not made against a Conjured Creature that attacked it, and the Conjured Creature has ADV on any attack of opportunity attacks it makes on the target creature until its next turn.
 
 ### Creature Cast
 
-At level 3, you can cast spells through your Conjured Creatures. You gain the following Bond Affinity option:
+You can cast spells through your Conjured Creatures. You gain the following Bond Affinity option:
 
--   Creature Cast: 5 Spell Points. Cast this spell from one of your Conjured Creatures. If this spell is the same spell as the Conjured Creature’s spell, reduce its Spell Point cost by 20.
+-   Creature Cast: 1 MP. Cast this spell from one of your Conjured Creatures. If this spell is the same spell as the Conjured Creature’s spell, reduce its MP cost by 2.
 
 ### Medical Assistance
 
-At level 5, you can intervene in the fight. As a reaction, you may spend any amount of Spell Points, to heal a Conjured Creature for Xd4, where X is the number of Spell Points spent.
+You can intervene in the fight. You gain the following reaction:
+
+**Emergency Assistance**  
+Trigger: Anything  
+Reaction: You spend any amount of MP to heal a Conjured Creature for an amount of HP equal to your CM times the MP spent.
 
 ### Leveling Up
 
-At level 7, your Conjured Creatures can level up. After killing an enemy or after a battle, at your DM’s discretion, one or more of your Conjured Creatures can level up. When they do, give it a Bending Trick upgrade.
+Your Conjured Creatures can level up. After killing an enemy or after a battle, at your DM’s discretion, one or more of your Conjured Creatures can level up. When they do, give it a Bending Trick upgrade.
 
 ### Mount
 
-At level 11, some of your Conjured Creatures may be big enough to ride. To be ridable, a Conjured Creature must also be a Bending Trick. It must also resemble a species that is big enough to ride, such as a horse or whale. If it is not, you may spend 10 additional Spell Points to increase its size. It then counts as a mount for you.
+Some of your Conjured Creatures may be big enough to ride. To be ridable, a Conjured Creature must also be a Bending Trick. It must also resemble a species that is big enough to ride, such as a horse or whale. If it is not, you may spend 1 AP and 2 MP to increase its size by 1. It then counts as a mount for you.
 
-You can mount and/or dismount your mount as an action.
+You may spend 1 AP to mount and/or dismount your mount.
 
 While on your mount, your mount moves on your turn, and may take its turn during yours.
 
 ### Use Ability!
 
-At level 15, your Conjured Creatures can use the spells they were made with. On its turn, a Conjured Creature can spend 1 hit point to cast its spell, using its position for the spell’s Cast Range and Tether Range. It casts with all the bond affinity options applied to it when it was conjured.
+Your Conjured Creatures can use the spells they were made with. On its turn, a Conjured Creature can spend 1 HP to cast its spell, using its position for the spell’s Cast Range and Tether Range. It casts with all the bond affinity options applied to it when it was conjured.
 
 ## Reality Scholar
 
