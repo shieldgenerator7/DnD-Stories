@@ -26,15 +26,15 @@ version 0.1.1 – 0.0.0
 |                |                                          |                    |                           |                    | **Spell Casting** |                  |                    |
 |----------------|------------------------------------------|--------------------|---------------------------|--------------------|-------------------|------------------|--------------------|
 | **Char Level** | **Features**                             | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1              | Class Features                           | +1                 | +1                        | +1                 | 15ft              | 30ft             | 5 min              |
-| 2              | Class Feature, Talent + 1 Path Point     | +1                 | +1                        | +1                 | 30ft              | 90ft             | 1 hr               |
-| 3              | Subclass Feature                         |                    |                           | +1                 | 60ft              | 180ft            | 4 hr               |
-| 4              | Talent + 1 Path Point, 2 Ancestry Points |                    | +1                        | +1                 | 100ft             | 400ft            | 12 hr              |
-| 5              | Class Feature                            | +1                 |                           | +1                 | 150ft             | 600ft            | 3 d                |
-| 6              | Subclass Feature                         |                    | +1                        | +1                 | 200ft             | 1000ft           | 14 d               |
-| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 | 300ft             | 1mi              | 180 d              |
-| 8              | Class Capstone Feature                   |                    | +1                        | +1                 | 500ft             | 15mi             | 5 yr               |
-| 9              | Subclass Capstone Feature                | +1                 |                           | +1                 | 1000ft            | 1000mi           | 50 yr              |
+| 1              | Class Features                           | +1                 | +1                        | +1                 | 3 Spaces          | 6 Spaces         | 5 min              |
+| 2              | Class Feature, Talent + 1 Path Point     | +1                 | +1                        | +1                 | 6 Spaces          | 15 Spaces        | 1 hr               |
+| 3              | Subclass Feature                         |                    |                           | +1                 | 12 Spaces         | 36 Spaces        | 4 hr               |
+| 4              | Talent + 1 Path Point, 2 Ancestry Points |                    | +1                        | +1                 | 20 Spaces         | 80 Spaces        | 12 hr              |
+| 5              | Class Feature                            | +1                 |                           | +1                 | 30 Spaces         | 120 Spaces       | 3 d                |
+| 6              | Subclass Feature                         |                    | +1                        | +1                 | 40 Spaces         | 200 Spaces       | 14 d               |
+| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 | 60 Spaces         | 1mi              | 180 d              |
+| 8              | Class Capstone Feature                   |                    | +1                        | +1                 | 100 Spaces        | 15mi             | 5 yr               |
+| 9              | Subclass Capstone Feature                | +1                 |                           | +1                 | 200 Spaces        | 1000mi           | 50 yr              |
 | 10             | Epic Boon, Talent + 1 Path Point         |                    |                           | +1                 | 1mi               | 1000000mi        | 1000 yr            |
 
 # Reality Bender
@@ -65,7 +65,7 @@ Choose a body part as your spell casting focus.
 
 This body part can be used as your spell casting focus for spells in your bonded schools, allowing you to cast those spells without the verbal, somatic, or material components they would normally require, even if the spell normally consumes the material components.
 
-When you cast spells, this body part glows, shedding dim light in a 5ft radius. You may choose the color of the glow when you choose the body part.
+When you cast spells, this body part glows, shedding dim light in a 1 space radius. You may choose the color of the glow when you choose the body part.
 
 ## Casting Spells
 
@@ -272,9 +272,9 @@ You gain affinity for area of effect spells. You may spend 1 AP to target an exi
 
 |   | Effect Radius Increase | Effect Diameter Increase |
 |---|------------------------|--------------------------|
-| 3 | 5ft                    | 10ft                     |
-| 6 | 20ft                   | 40ft                     |
-| 9 | 100ft                  | 200ft                    |
+| 3 | 1 Space                | 2 Spaces                 |
+| 6 | 4 Spaces               | 8 Spaces                 |
+| 9 | 20 Spaces              | 40 Spaces                |
 
 The target spell must be within your Cast Range. The radius can’t exceed the Tether Range of the spell, or go below 0. If the radius gets reduced to 0, the spell ends.
 
