@@ -1281,37 +1281,35 @@ You study reality and hone your skills in manipulating magic.
 
 ### Mana Wellspring
 
-At level 3, you have more raw power than other Reality Benders. You gain more Spell Points per level. You gain the Spell Points of 1 level higher than your current level. Ex: At level 3, you gain the Spell Points of a level 4 Reality Bender.
-
-At level 20, you gain 770 Spell Points.
+You have more raw power than other Reality Benders. You gain an additional +2 MP per level.
 
 ### Spell Warp Study
 
-At level 5, you learn more ways to manipulate your spells. You learn two additional Bond Affinity options when you reach this level. When the class table shows you can learn a Bond Affinity option, you learn 1 additional Bond Affinity option.
+You learn more ways to manipulate your spells. You learn 2 additional Bond Affinity options when you get this feature. Whenever a level up lets you learn a Bond Affinity option, you learn 1 additional Bond Affinity option.
 
 You learn the following Bond Affinity option:
 
--   Errata’d: 10 Spell Points. You spend any amount of additional Spell Points to cross out 1 word in the spell’s description per 1 additional Spell Point spent this way.
+-   Errata’d: 0 MP. You spend any amount of additional MP to cross out 1 word in the spell’s description per 1 additional MP spent this way.
 
 This is subject to DM’s approval, of course.
 
 ### Mana Overflow
 
-At level 7, you can hold more Spell Points than your maximum.
+Your Mana Spend Limit is increased by your CM. Additionally, whenever you regain MP from a feature, it can go over your MP maximum.
 
 ### Mind Palace
 
-At level 11, you can will your power back to you. As an action, you can focus to regain 1 Spell Point.
+You can will your power back to you. In combat, you can spend 2 AP to focus and regain 1 MP.
 
-You can focus as long as you want. Focusing for longer regains you additional Spell Points. Focusing for 1 minute without interruption restores 11 Spell Points. Focusing for 1 hour without interruption restores 70 Spell Points, up to your maximum.
+Outside of combat, you can focus as long as you want. Focusing for 1 minute without interruption restores 5 MP. You regain MP equal to your MP maximum after a short rest.
 
 ### Spell Write
 
-At level 15, you can make your own spells.
+You can make your own spells.
 
-You can spend 8 hours of continuous tinkering and study to modify an existing spell’s text for yourself or create an entirely new spell of any level you can safely cast.
+You can spend 8 hours of continuous tinkering and study to modify an existing spell’s text for yourself or create an entirely new spell.
 
-Discuss with your DM how the spell should work, how it should be worded, and what level it is. Make sure your DM approves of it before using it.
+Discuss with your DM how the spell should work, how it should be worded, and what its AP and MP costs are. Make sure your DM approves of it before using it.
 
 The new spell and/or modified spell must be from one of your bonded schools.
 
