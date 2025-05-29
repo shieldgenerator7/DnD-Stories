@@ -332,6 +332,8 @@ If a creature would take damage from this feature, you may instead reduce that d
 
 You fix reality to the way you believe it is originally meant to be. You believe reality is broken, and certain schools of magic are to blame.
 
+### Level 3 Subclass Features
+
 ### Bond Disdain
 
 You can disrupt others who are casting spells in your bonded schools. You may choose 2 Bond Disdain options from the list below. You learn a new bond disdain option whenever you learn a bond affinity option.
@@ -365,6 +367,8 @@ When you apply a Bond Disdain option to a spell that you cast, you may reduce th
 
 You have disdain for even your own spells. You may dismiss a spell that you cast as a free action instead of an action.
 
+### Level 6 Subclass Features
+
 ### Peace of Mind
 
 You enjoy the feeling of not being around magic. While there is no magical effect of any spell from your Bonded Schools within your Tether Range, you regain MP as shown in the table below.
@@ -375,21 +379,13 @@ You enjoy the feeling of not being around magic. While there is no magical effec
 | 6          | 1/round  |
 | 9          | 2/round  |
 
-### Halt
+### Advanced Spell Unraveling
 
-You learn how to stop reality from breaking. You may spend 1 AP to dismiss any ongoing spell effect from your bonded schools, if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
-
-### Prevention
+You learn how to stop reality from breaking. You may spend 1 AP to dismiss any ongoing spell effect, if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
 
 You learn how to prevent reality from being broken. You gain ADV when contesting a spell with Spell Duel, and the spell costs 1 AP less and 1 MP less, minimum 0.
 
-### Vindication
-
-You learn how to absorb spells. When you use Halt or Prevention on a spell, you gain MP equal to the spell’s MP cost. You may only use this feature on spells you did not cast.
-
-### Restoration
-
-You learn how to undo spells. You may spend 1 minute and 2 MP to undo the effects of any spell from your bonded schools, even if the effect is explicitly stated to be permanent. The effects of the spell must be within your Cast Range and must have been cast no longer ago than your Spell Duration.
+### Subclass Capstone Feature
 
 ### Perfection
 
