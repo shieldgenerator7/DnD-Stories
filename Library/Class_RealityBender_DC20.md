@@ -1283,6 +1283,8 @@ The new spell and/or modified spell must be from one of your bonded schools.
 
 You sing and dance to cast your spells. Basically, a bard-like subclass.
 
+### Level 3 Subclass Features
+
 ### Performance
 
 You can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You learn the following Bond Affinity option:
@@ -1305,12 +1307,7 @@ You can weave your performance into another one. Whenever you end your Performan
 
 The new spell is allowed to be the same spell as the old spell.
 
-### Shout Out
-
-You can point out a creature in particular. Whenever you use your Big Show feature, you may point out a particular creature you can see within range to make your new Performance spell target only that creature. If you do, you may choose any combination of the following:
-
--   You have that creature get double the effects of the spell
--   You double your prime modifier for the spell
+### Level 6 Subclass Features
 
 ### Applause
 
@@ -1323,6 +1320,8 @@ You can endure through encounters despite hecklers. You have Dazed Resistance wh
 **Show Stopper**  
 Trigger: Anything  
 Reaction: You use your Big Show feature.
+
+### Subclass Capstone Feature
 
 ### Double Feature
 
