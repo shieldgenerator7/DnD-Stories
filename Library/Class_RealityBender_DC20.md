@@ -941,6 +941,8 @@ When you end a dream, you can undo one negative event that happened in that drea
 
 You have an affinity for one element in particular, and you can weave it into your spells and your spellcasting style.
 
+### Level 3 Subclass Features
+
 ### Elemental Attunement
 
 You attune to a particular element. Choose a damage type: fire, cold, lightning, sonic, poison, corrosion, psychic, radiant, or umbral. This becomes your attuned element. You may attune to an additional element at level 9.
@@ -991,6 +993,8 @@ At level 6, you can damage a creature with resistance to your elemental damage t
 
 At level 9, you can damage a creature with immunity to your elemental damage type as if it had resistance.
 
+### Level 6 Subclass Features
+
 ### Elemental Trick
 
 You become familiar with certain spells.
@@ -1008,6 +1012,8 @@ Trigger: One of your Elemental Bending Tricks ends
 Reaction: You cast another Elemental Bending Trick, using the position of the last one as the point of reference for the Cast Range of the new one.
 
 Both may use the same base spell. The second Elemental Bending Trick’s MP cost is reduced by the first Elemental Bending Trick’s MP cost, minimum 0.
+
+### Subclass Capstone Feature
 
 ### Elemental Mastery
 
