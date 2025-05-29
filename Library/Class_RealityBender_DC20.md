@@ -1378,6 +1378,8 @@ You can take away toys from those who don’t play nicely with them. Whenever yo
 
 You hunt your targets by bending reality around them, leaving them no choice but to walk into your grasp.
 
+### Level 3 Subclass Features
+
 ### Mark
 
 You can mark a creature as your quarry. Take a hair, piece of clothing, or other possession that belongs to your quarry. After 1 minute of focus, you mark that creature as your quarry. You may cast spells on your quarry, or centered on your quarry, if they are within your Tether Range, and you do not need to see them to cast spells on them. You have ADV on initiative checks in combats with your quarry.
@@ -1388,13 +1390,15 @@ You learn the following Bond Affinity option:
 
 Seeking spells don’t give away your position, break invisibility, or give any indication that you are the one casting the spell.
 
-### Hunt
-
-You can easily kill your quarry. Whenever you deal damage to your quarry, it drops to 0 hp instantly if it has remaining health equal to or less than your execute threshold. Your execute threshold is equal to your CM.
-
 ### Sense
 
 You can sense your quarry. You may spend 1 AP to make a Spell check against your quarry’s Agility save. Success: you know your quarry’s exact location. Failure: you only sense in which direction they are.
+
+### Level 6 Subclass Features
+
+### Hunt
+
+You can easily kill your quarry. Whenever you deal damage to your quarry, it drops to 0 hp instantly if it has remaining health equal to or less than your execute threshold. Your execute threshold is equal to your CM.
 
 ### Dead or Alive
 
@@ -1402,6 +1406,8 @@ You can control the lethality of your spells. You learn the following Bond Affin
 
 -   Dead: 2 MP. Creatures effected by this spell are also effected by your execute threshold.
 -   Alive: 2 MP. Creatures dropped to 0 hp or less by this spell are instantly stabilized but not woken up.
+
+### Subclass Capstone Feature
 
 ### Hunting Party
 
