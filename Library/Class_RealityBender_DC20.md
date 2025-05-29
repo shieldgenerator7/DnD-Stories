@@ -403,6 +403,8 @@ You may spend 1 AP to dismiss an anti-spell field that is within your Cast Range
 
 You want to help other people create their own realities.
 
+### Level 3 Subclass Features
+
 ### Affinity Assist
 
 You gain the ability to help others bend reality. You gain the following reaction:
@@ -451,13 +453,7 @@ You may spend 1 AP to take back any number of spells from a vessel, if the vesse
 
 You may spend 1 AP to revoke a vessel’s vessel status.
 
-### Vessel Casting
-
-Your vessels become conduits for your power. You gain the following Bond Affinity option:
-
--   Proxied: 1 MP. Cast this spell from a vessel, using their position for this spell cast’s Cast Range and Tether Range.
-
-You may choose a vessel for a Proxied spell, even if they are outside your Cast Range.
+### Level 6 Subclass Features
 
 ### Vessel Network
 
@@ -485,6 +481,8 @@ Your Spell Sharing feature is enhanced.
 -   Each time a vessel casts a spell that you shared with them, their vessel duration is refreshed.
 -   You can spend 1 AP to dismiss any shared spell that one of your vessels had casted.
 
+### Subclass Capstone Feature
+
 ### Evangelization
 
 Your vessels can evangelize.
@@ -495,6 +493,7 @@ A prime vessel has the ability to use your Spell Sharing feature to
 
 -   Designate other creatures as vessels of yours
 -   Share spells with other vessels. The spells they share must have already been shared with them.
+-   Refresh vessel duration of other vessels
 -   Revoke shared spells from other vessels
 -   Revoke vessel status from other vessels
 
@@ -507,18 +506,6 @@ Being a prime vessel is forever, with a few exceptions. A prime vessel automatic
 -   You spend 1 AP to make them no longer a prime vessel.
 
 You may spend 1 AP to revoke a prime vessel’s vessel state, making them either a regular vessel or just another creature.
-
-### Unity
-
-You can unify your vessels in casting a spell. Each of your prime vessels in your Cast Range gains the following reaction:
-
-**Unified Cast**  
-Trigger: Your Reality Sharer casts a spell that has been shared with you.  
-Reaction: You copy the spell they cast, optionally choosing a different target for it.
-
-### Ascension
-
-Your vessels are permanent. Vessels outside your Tether Range or in a different plane do not automatically stop being vessels. Vessels no longer have a vessel duration, and remain vessels indefinitely until they willingly stop being a vessel or until you use spend 1 AP to revoke their vessel status.
 
 ## Self-Shaper
 
