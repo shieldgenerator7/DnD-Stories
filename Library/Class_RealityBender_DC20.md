@@ -797,6 +797,8 @@ Reaction: You may activate your Violent Dismissal feature on any number of your 
 
 You don’t really want to participate in reality, and prefer to watch it unfold instead.
 
+### Level 3 Subclass Features
+
 ### Bystander
 
 You learn how to keep other people from interacting with you. You may spend 1 AP and 1 MP to make yourself invisible. The duration of this effect is equal to your Spell Duration.
@@ -826,6 +828,8 @@ The duration of this effect is equal to your Spell Duration.
 
 You may spend 1 AP to dismiss this effect.
 
+### Level 6 Subclass Features
+
 ### Watch Together
 
 You can bring guests into your world. You can use your Far Watcher Bending Style features on a creature within your Cast Range instead of yourself, including:
@@ -847,9 +851,11 @@ Creatures that you used your Bystander effect on can see each other, and creatur
 
 You get good at predicting outcomes. Whenever you cast a spell, you can spend 2 MP to simulate it instead. This extra MP cost doesn’t count against your Mana Spell Limit. Process the spell like normal. If you like the outcome of the spell, you can commit it to reality and the game continues as normal. If you don’t like the outcome of the spell, you can revert all changes the spell made, and the game continues as if you had not cast that spell.
 
+### Subclass Capstone Feature
+
 ### Removed from Reality
 
-You learn how to change the channel. You may spend 1 AP and 5 MP to shift to another plane of existence.
+You learn how to change the channel. You may spend 1 AP and 5 MP to shift to another plane of existence. You may bring any number of creatures you used your Watch Together feature on with you.
 
 ## Dreamer
 
