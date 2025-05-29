@@ -120,7 +120,7 @@ Reaction: You learn the spell. You must finish a long rest before you are able t
 
 You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can only apply 1 Bond Affinity option to a spell you cast. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options counts against your Mana Spend Limit.
 
--   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell b 1.
+-   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell by 1.
 -   Reuse: 1 MP. The next time you cast this spell, it costs 2 MP less to cast, minimum 0.
 -   Quick: 1 MP. Ignore the Multiple Check Penalty for Spell Checks for this spell cast.
 -   Reactive: 2 MP. Cast this spell as a reaction, even if you didn’t declare a hold action.  
