@@ -1239,6 +1239,8 @@ Your Conjured Creatures can use the spells they were made with. On its turn, a C
 
 You study reality and hone your skills in manipulating magic.
 
+### Level 3 Subclass Features
+
 ### Mana Wellspring
 
 You have more raw power than other Reality Benders. You gain an additional +2 MP per level.
@@ -1253,6 +1255,8 @@ You learn the following Bond Affinity option:
 
 This is subject to DM’s approval, of course.
 
+### Level 6 Subclass Features
+
 ### Mana Overflow
 
 Your Mana Spend Limit is increased by your CM. Additionally, whenever you regain MP from a feature, it can go over your MP maximum.
@@ -1262,6 +1266,8 @@ Your Mana Spend Limit is increased by your CM. Additionally, whenever you regain
 You can will your power back to you. In combat, you can spend 2 AP to focus and regain 1 MP.
 
 Outside of combat, you can focus as long as you want. Focusing for 1 minute without interruption restores 5 MP. You regain MP equal to your MP maximum after a short rest.
+
+### Subclass Capstone Feature
 
 ### Spell Write
 
