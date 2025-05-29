@@ -6,29 +6,29 @@ version 0.1.1
 
 # Class Table
 
-|           |                                 |                    |                           | **Spell Casting** |                  |                    |
-|-----------|---------------------------------|--------------------|---------------------------|-------------------|------------------|--------------------|
-| **Level** | **Features**                    | **Bonded Schools** | **Bond Affinity Options** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | Spellcasting, Reality Observer  | 1                  | 0                         | 10ft              | 20ft             | 1 min              |
-| 2nd       | Bond Affinity                   | 1                  | 1                         | 15ft              | 30ft             | 5 min              |
-| 3rd       | Bending Style                   | 1                  | 1                         | 20ft              | 40ft             | 10 min             |
-| 4th       | Ability Score Improvement (ASI) | 2                  | 1                         | 30ft              | 90ft             | 1 hr               |
-| 5th       | Bending Style Feature (BSF)     | 2                  | 2                         | 45ft              | 135ft            | 2 hr               |
-| 6th       | Bending Trick (BT)              | 2                  | 2                         | 60ft              | 180ft            | 4 hr               |
-| 7th       | BSF, BT                         | 2                  | 2                         | 75ft              | 225ft            | 7 hr               |
-| 8th       | Reality Studier, ASI, BT        | 2                  | 3                         | 100ft             | 400ft            | 12 hr              |
-| 9th       | BT                              | 2                  | 3                         | 125ft             | 500ft            | 1 d                |
-| 10th      | Spell Warp, BT                  | 3                  | 3                         | 150ft             | 600ft            | 3 d                |
-| 11th      | BSF, BT                         | 3                  | 3                         | 175ft             | 700ft            | 7 d                |
-| 12th      | ASI, BT                         | 3                  | 4                         | 200ft             | 1000ft           | 14 d               |
-| 13th      | Recasting, BT                   | 3                  | 4                         | 250ft             | 2500ft           | 30 d               |
-| 14th      | BT                              | 3                  | 4                         | 300ft             | 1mi              | 180 d              |
-| 15th      | BSF, BT                         | 3                  | 4                         | 400ft             | 5mi              | 1 yr               |
-| 16th      | ASI, BT                         | 3                  | 5                         | 500ft             | 15mi             | 5 yr               |
-| 17th      | BT                              | 4                  | 5                         | 750ft             | 100mi            | 10 yr              |
-| 18th      | BT                              | 4                  | 5                         | 1000ft            | 1000mi           | 50 yr              |
-| 19th      | ASI, BT                         | 4                  | 5                         | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | Reality Command, BT             | 4                  | 5                         | 1mi               | 1000000mi        | 1000 yr            |
+|           |                                 |                    |                           |                    | **Spell Casting** |                  |                    |
+|-----------|---------------------------------|--------------------|---------------------------|--------------------|-------------------|------------------|--------------------|
+| **Level** | **Features**                    | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** | **Cast Range**    | **Tether Range** | **Spell Duration** |
+| 1st       | Spellcasting, Reality Observer  | 1                  | 0                         | 1                  | 10ft              | 20ft             | 1 min              |
+| 2nd       | Bond Affinity                   | 1                  | 1                         | 2                  | 15ft              | 30ft             | 5 min              |
+| 3rd       | Bending Style                   | 1                  | 1                         | 3                  | 20ft              | 40ft             | 10 min             |
+| 4th       | Ability Score Improvement (ASI) | 2                  | 1                         | 4                  | 30ft              | 90ft             | 1 hr               |
+| 5th       | Bending Style Feature (BSF)     | 2                  | 2                         | 5                  | 45ft              | 135ft            | 2 hr               |
+| 6th       |                                 | 2                  | 2                         | 6                  | 60ft              | 180ft            | 4 hr               |
+| 7th       | BSF                             | 2                  | 2                         | 7                  | 75ft              | 225ft            | 7 hr               |
+| 8th       | Reality Studier, ASI            | 2                  | 3                         | 8                  | 100ft             | 400ft            | 12 hr              |
+| 9th       |                                 | 2                  | 3                         | 9                  | 125ft             | 500ft            | 1 d                |
+| 10th      | Spell Warp                      | 3                  | 3                         | 10                 | 150ft             | 600ft            | 3 d                |
+| 11th      | BSF                             | 3                  | 3                         | 11                 | 175ft             | 700ft            | 7 d                |
+| 12th      | ASI                             | 3                  | 4                         | 12                 | 200ft             | 1000ft           | 14 d               |
+| 13th      | Recasting                       | 3                  | 4                         | 13                 | 250ft             | 2500ft           | 30 d               |
+| 14th      |                                 | 3                  | 4                         | 14                 | 300ft             | 1mi              | 180 d              |
+| 15th      | BSF                             | 3                  | 4                         | 15                 | 400ft             | 5mi              | 1 yr               |
+| 16th      | ASI                             | 3                  | 5                         | 16                 | 500ft             | 15mi             | 5 yr               |
+| 17th      |                                 | 4                  | 5                         | 17                 | 750ft             | 100mi            | 10 yr              |
+| 18th      |                                 | 4                  | 5                         | 18                 | 1000ft            | 1000mi           | 50 yr              |
+| 19th      | ASI                             | 4                  | 5                         | 19                 | 2000ft            | 10000mi          | 100 yr             |
+| 20th      | Reality Command                 | 4                  | 5                         | 20                 | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
