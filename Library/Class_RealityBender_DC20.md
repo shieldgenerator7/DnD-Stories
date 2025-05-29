@@ -24,26 +24,16 @@ version 0.1.1
 |                |                                          |                    |                           |                    | **Spell Casting** |                  |                    |
 |----------------|------------------------------------------|--------------------|---------------------------|--------------------|-------------------|------------------|--------------------|
 | **Char Level** | **Features**                             | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1              | Class Features                           | +1                 |                           | +1                 | 10ft              | 20ft             | 1 min              |
-| 2              | Class Feature, Talent + 1 Path Point     |                    | +1                        | +1                 | 15ft              | 30ft             | 5 min              |
-| 3              | Subclass Feature                         |                    |                           | +1                 | 20ft              | 40ft             | 10 min             |
-| 4              | Talent + 1 Path Point, 2 Ancestry Points | +1                 |                           | +1                 | 30ft              | 90ft             | 1 hr               |
-| 5              | Class Feature                            |                    | +1                        | +1                 | 45ft              | 135ft            | 2 hr               |
-| 6              | Subclass Feature                         |                    |                           | +1                 | 60ft              | 180ft            | 4 hr               |
-| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 | 75ft              | 225ft            | 7 hr               |
-| 8              | Class Capstone Feature                   |                    | +1                        | +1                 | 100ft             | 400ft            | 12 hr              |
-| 9              | Subclass Capstone Feature                |                    |                           | +1                 | 125ft             | 500ft            | 1 d                |
-| 10             | Epic Boon, Talent + 1 Path Point         | +1                 |                           | +1                 | 150ft             | 600ft            | 3 d                |
-| 11             |                                          |                    |                           | +1                 | 175ft             | 700ft            | 7 d                |
-| 12             |                                          |                    | +1                        | +1                 | 200ft             | 1000ft           | 14 d               |
-| 13             |                                          |                    |                           | +1                 | 250ft             | 2500ft           | 30 d               |
-| 14             |                                          |                    |                           | +1                 | 300ft             | 1mi              | 180 d              |
-| 15             |                                          |                    |                           | +1                 | 400ft             | 5mi              | 1 yr               |
-| 16             |                                          |                    | +1                        | +1                 | 500ft             | 15mi             | 5 yr               |
-| 17             |                                          | +1                 |                           | +1                 | 750ft             | 100mi            | 10 yr              |
-| 18             |                                          |                    |                           | +1                 | 1000ft            | 1000mi           | 50 yr              |
-| 19             |                                          |                    |                           | +1                 | 2000ft            | 10000mi          | 100 yr             |
-| 20             |                                          |                    |                           | +1                 | 1mi               | 1000000mi        | 1000 yr            |
+| 1              | Class Features                           | +1                 | +1                        | +1                 | 15ft              | 30ft             | 5 min              |
+| 2              | Class Feature, Talent + 1 Path Point     | +1                 | +1                        | +1                 | 30ft              | 90ft             | 1 hr               |
+| 3              | Subclass Feature                         |                    |                           | +1                 | 60ft              | 180ft            | 4 hr               |
+| 4              | Talent + 1 Path Point, 2 Ancestry Points |                    | +1                        | +1                 | 100ft             | 400ft            | 12 hr              |
+| 5              | Class Feature                            | +1                 |                           | +1                 | 150ft             | 600ft            | 3 d                |
+| 6              | Subclass Feature                         |                    | +1                        | +1                 | 200ft             | 1000ft           | 14 d               |
+| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 | 300ft             | 1mi              | 180 d              |
+| 8              | Class Capstone Feature                   |                    | +1                        | +1                 | 500ft             | 15mi             | 5 yr               |
+| 9              | Subclass Capstone Feature                | +1                 |                           | +1                 | 1000ft            | 1000mi           | 50 yr              |
+| 10             | Epic Boon, Talent + 1 Path Point         |                    |                           | +1                 | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
