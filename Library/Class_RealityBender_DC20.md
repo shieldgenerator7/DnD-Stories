@@ -1169,6 +1169,8 @@ You may spend 4 AP and 5 MP to target any amount of creatures that you can see w
 
 You channel your magic into creatures you can train.
 
+### Level 3 Subclass Features
+
 ### Magidex
 
 You have an encyclopedic knowledge of creatures you see, and recall them and their stats.
@@ -1199,6 +1201,8 @@ You get your Conjured Creatures to fight for you.
 
 Whenever a Conjured Creature makes an attack on a creature, that creature has DisADV on any attack roll not made against a Conjured Creature that attacked it, and the Conjured Creature has ADV on any attack of opportunity attacks it makes on the target creature until its next turn.
 
+### Level 6 Subclass Features
+
 ### Creature Cast
 
 You can cast spells through your Conjured Creatures. You gain the following Bond Affinity option:
@@ -1224,6 +1228,8 @@ Some of your Conjured Creatures may be big enough to ride. To be ridable, a Conj
 You may spend 1 AP to mount and/or dismount your mount.
 
 While on your mount, your mount moves on your turn, and may take its turn during yours.
+
+### Subclass Capstone Feature
 
 ### Use Ability!
 
