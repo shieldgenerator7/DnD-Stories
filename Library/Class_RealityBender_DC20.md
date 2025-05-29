@@ -195,6 +195,8 @@ You gain command of your spells more easily. You may choose a new Bending Trick 
 
 You bend reality so much that things stop making sense.
 
+### Level 3 Subclass Features
+
 ### Chaos Buildup
 
 You start losing control of your abilities. You gain chaos points (CP) at an alarming rate, that builds up overtime, with no maximum value. As you level up, the rate increases.
@@ -223,6 +225,8 @@ You gain the following Bond Affinity option:
 
 You don’t gain CP from casting a Chaotic spell.
 
+### Level 6 Subclass Features
+
 ### Chaos Spread
 
 You can’t contain your chaos as it spreads.
@@ -240,29 +244,21 @@ A creature touched by your chaos may spend 1 AP to make a Mental Save against yo
 
 ### Chaos Burn
 
-Your chaos starts undoing reality. Whenever you gain CP, you and things touched by your chaos take true damage, spread evenly amongst all targets. The amount of force damage is equal to your CP minus your Mana Spend Limit, minimum of 0.
+Your chaos starts undoing reality. Whenever you gain CP, you and things touched by your chaos take true damage, spread evenly amongst all targets. The amount of true damage is equal to your CP minus your MP maximum, minimum of 0.
 
 ### Chaos Modifier
 
 Your chaos effects your ability to cast effective spells. While you have CP, your prime modifier is equal to your CP.
 
+### Subclass Capstone Feature
+
 ### Chaotic Luck
 
 Outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, and you have CP, if it is rolled by you or an effect or creature that is touched by your chaos, its value is warped. If the result is odd, you add your prime modifier to it. If the result is even, you subtract your spell casting ability modifier from it. The result may go above 20 or below 0.
 
-### Origin Shifting
-
-The points of origin shift around you in unnatural ways. The origin point of spells and attacks touched by your chaos shift in your shifting direction. Your shifting direction gets set to your current facing direction whenever you cast a Chaotic spell. Origin points continually shift in this direction by an amount equal to your CP.
-
-When a creature touched by your chaos moves on their turn, they first teleport in your shifting direction, then move from there.
-
 ### Lag
 
 Time starts moving at random speeds. At the start of its turn, a creature touched by your chaos must make a Physical Save, with a DC equal to 8 plus your prime modifier. Success: nothing happens. Success (each 5): it gets +1 AP this turn. Failure: it gets -1 AP this turn. Failure (each 5): it gets -1 AP this turn.
-
-### Unstable
-
-Spells become unpredictable. When a spell is cast, if it is touched by your chaos, it has all numbers in its stats and description increased by your prime modifier.
 
 ## Reality Forger
 
