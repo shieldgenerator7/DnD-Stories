@@ -603,6 +603,8 @@ You have mastered fortune. Whenever one or more dice are rolled, but before the 
 
 You don’t like casting spells directly, and instead prefer to infuse items with your power, and cast spells through them.
 
+### Level 3 Subclass Features
+
 ### Infusing
 
 You gain the ability to infuse an item with a spell.
@@ -647,17 +649,7 @@ You can quickly recharge an infused item. You may spend 1 AP and 1 MP to refill 
 
 You can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of MP equal to the infused spell’s MP cost to upgrade or downgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. You may also choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
 
-### Item Location
-
-You learn how to locate items you infused. If an item is within your Tether Range, or if it was infused or upgraded recently within your Spell Duration, you can automatically sense its exact location.
-
-If you cannot sense its exact location, you can try to sense its direction. You may spend 1 AP to make a DC10 Spell check at ADV. The DC can vary depending on how far outside your Tether Range it is, and how long ago past your Spell Duration it was infused or upgraded. Success: you know in which direction the item is.
-
-### Remote Sense
-
-You gain senses from your infused items.
-
-You can sense the surroundings of an infused item. You may spend 1 AP to choose an item you infused that you know the exact location of. You can then sense how many items, walls, creatures, etc. are in its vicinity, and their exact locations, but you can’t sense what kind of thing they are. This sense lasts until the beginning of your next turn. If the infused item is not in that exact location, you don’t sense anything.
+### Level 6 Subclass Features
 
 ### Remote Activation
 
@@ -670,6 +662,8 @@ You learn how to cause an item to react to a situation. You learn the following 
 -   Reactive: 2 MP. Set a reactive condition for this spell cast, which automatically activates this spell cast’s infused item when met.
 
 You can’t use the Reactive Bond Affinity option on a spell that you’re not infusing into an item.
+
+### Subclass Capstone Feature
 
 ### Multi-Infusing
 
