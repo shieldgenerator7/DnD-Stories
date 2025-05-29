@@ -1,10 +1,12 @@
 # Reality Bender
 
-D&D Class
+DC20 Class
 
-version 0.1.1
+version 0.1.1 – 0.0.0
 
 # Class Table
+
+2025-05-28: copied from DC20 Core Rules Beta 0.9.5
 
 | Char Level | Health Points | Attribute Points | Skill Points | Trade Points | Mana Points |
 |------------|---------------|------------------|--------------|--------------|-------------|
@@ -35,41 +37,27 @@ version 0.1.1
 | 9              | Subclass Capstone Feature                | +1                 |                           | +1                 | 1000ft            | 1000mi           | 50 yr              |
 | 10             | Epic Boon, Talent + 1 Path Point         |                    |                           | +1                 | 1mi               | 1000000mi        | 1000 yr            |
 
-# Class Features
-
-2023-08-09: copied from http://dnd5e.wikidot.com/wizard
-
-## Hit Points
-
-Hit Dice: 1d6 per level
-
-Hit Points at 1st Level: 6 + your Constitution modifier
-
-Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per level after 1st
-
-## Proficiencies
-
-Armor: None
-
-Weapons: None
-
-Tools: None
-
-Saving Throws: Your chosen spellcasting ability, and one other ability of your choice: Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma
-
-Skills: Arcana and one other skill that uses your chosen spellcasting ability
-
-## Equipment
-
-This class grants you no additional starting equipment.
-
-# Spellcasting
+# Reality Bender
 
 You are a spellcaster whose only limitation is your own imagination.
 
-## Bonded Schools
+## Starting Equipment
 
-Choose a school of magic as your bonded school. You bond to more schools as you level up, as shown in the class table. You get special bonuses when casting spells in your bonded schools. This class only grants you the ability to learn and cast spells from your bonded schools.
+This class grants you no additional starting equipment.
+
+## Reality Bender Spellcasting Path
+
+2025-05-28: copied from DC20 Core Rules Beta 0.9.5
+
+Combat Training: None
+
+Spell List: You choose 1 school of magic. This is your Bonded School. When you learn a new Spell, you can choose any Spell from your Bonded School. You bond to more schools as you level up, as shown in the Reality Bender Class Table.
+
+Cantrips Know: The number of Cantrips you know increases as shown in the Cantrips Known column of the Reality Bender Class Table. Cantrips are Spells with the Cantrip Spell Tag.
+
+Spells Known: The number of Spells you know increases as shown in the Spells Known column of the Reality Bender Class Table. These can be Spells with or without the Cantrip Spell Tag.
+
+Mana Points: Your maximum number of Mana Points increases as shown in the Mana Points column of the Wizard Class Table.
 
 ## Spellcasting Focus
 
@@ -81,22 +69,13 @@ When you cast spells, this body part glows, shedding dim light in a 5ft radius. 
 
 ## Casting Spells
 
-The class table shows how many spell points you have to cast your cantrips and spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points based on the level you wish to cast the spell at, according to the table below. You regain all expended spell points when you finish a long rest.
+Spells that you cast from your bonded schools have their attributes changed:
 
-| Spell Level | Spell Point Cost |
-|-------------|------------------|
-| 0 (Cantrip) | 1                |
-| 1           | 5                |
-| 2           | 10               |
-| 3           | 17               |
-| 4           | 27               |
-| 5           | 42               |
-| 6           | 64               |
-| 7           | 95               |
-| 8           | 137              |
-| 9           | 192              |
+-   If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range
+-   Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration
+-   If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
 
-Spells that you cast from your bonded schools have their attributes changed. If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range based on your level as shown in the class table. Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration based on your level as shown in the class table. These spells also have a new stat called Tether Range. If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
+Your Cast Range, Spell Duration, and Tether Range are determined by your level as shown in the class table.
 
 When you cast the spell, you can decide to lower the Cast Range, Spell Duration, and/or Tether Range of the spell.
 
@@ -107,150 +86,97 @@ Your spell effects are temporary, even if the spell explicitly states that it is
 -   The spell’s duration expires
 -   You leave the plane
 
-## Casting Cantrips
+Cantrips from your bonded schools are also bound by your Cast Range, Tether Range, and Spell Duration.
 
-Cantrips cost 1 spell point to cast. You can apply Bond Affinity options to cantrips just like leveled spells.
+## Casting Past Your Mana Spend Limit
 
-Instead of having greater effects when you reach a higher level in this class, cantrips can be upcast by spending more spell points. Cantrips can be upcast past their max listed level.
+If the MP you want to spend on a spell is within your Mana Spend Limit, you can safely cast it.
 
-For example, you can cast Ray of Frost to deal 1d8 damage for 1 spell point. But if you upcast by spending 5 spell points instead, you get the 5th level version, which deals 2d8. And if you spend 10 spell points, you get the 11th level version, which does 3d8. And 17 spells points for the 17th level version, 4d8. Even though 17th level is the last listed level, you can upcast further than that, increasing the damage by 1d8 for each upcasted level.
+However, as long as you have the MP to cast a spell, you can cast it, regardless of your Mana Spend Limit. To do this, you may dangerously cast a spell.
 
-Cantrips are also bound by your Cast Range, Tether Range, and Spell Duration, as outlined in the Casting Spells section.
+To dangerously cast a spell, make a Spell Check with a DC equal to 10 plus 3 times the difference between your Mana Spend Limit and the MP spent. Success: you cast the spell. Failure: you don’t cast the spell, but the MP are still spent, and you cannot attempt to cast that spell again until you finish a long rest.
 
-## Upcasting Spells
+Dangerously Cast DC = 10 + ((Mana Spend Limit – MP spent) \* 3)
 
-You can upcast a spell by spending an additional spell point per level. There is no limit to how many times you may upcast a spell. However, upcasting a spell past your safe casting level may fail, as outlined in the Casting Higher Level Spells section below.
-
-Cantrips can be upcast past their max listed level.
-
-## Casting Higher Level Spells
-
-As long as you have the spell points to cast a leveled spell, you can cast it, no matter what level it is, or what level you are. However, if you are not high enough level, the spell may fail.
-
-You can safely cast any spell that is half your Reality Bender level (rounded down) + 1. For example, at level 1, you can safely cast level 1 spells; at level 3, you can safely cast level 2 spells; and at level 4, you can safely cast level 3 spells; etc.
-
-If you can’t safely cast a spell because it’s too high level, you can cautiously cast it. To do so, you must make an ability check in your spell casting ability. The DC is equal to 10, plus the difference between double the spell’s casted level and your max safe casting level. On a success, you cast the spell. On a failure, you don’t cast the spell, but the spell points are still spent, and you cannot attempt to cast that spell again until you finish a long rest.
-
-Cautiously Cast DC = 10 + (spell’s casted level \* 2) – your max safe casting level
-
-You may spend any number of spell points to reduce the DC by 1 for every 20 spell points spent this way. You must spend these spell points before you make the roll.
+You may spend AP to gain ADV on this roll like normal.
 
 ## Dispelling Spells
 
 As an action, you may dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent.
 
-## Spellcasting Ability
-
-Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma. This will be your spellcasting ability for your spells. You use this chosen ability whenever a spell refers to your spellcasting ability. In addition, you use your spellcasting ability modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
-
-**Spell save DC** = 8 + your proficiency bonus + your chosen spellcasting ability modifier
-
-**Spell attack modifier** = your proficiency bonus + your chosen spellcasting ability modifier
-
-## Starting Spells
-
-When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. Roll Xd10, where X is your Reality Bender level. The result is the total level of the spells you can start the game with. Refer to the “Learning New Spells” section for more information.
-
-You also start with some cantrips. To find out how many cantrips you start with, roll Xd4, where X is your Reality Bender level. For each 3 you roll this way, you gain 1 cantrip. For each 4 you roll this way, you gain 2 cantrips. You start with a minimum of 2 cantrips.
-
-## Learning New Spells
-
-When you level up, roll 1d10. The result is the total levels of the new spells you can learn.
-
-You can choose to learn any combination of new spells from your bonded schools as long as their combined level is less than or equal to this result. You can choose a spell even if you don’t have the spell points at your current level to cast it.
-
-Additionally, you might learn some cantrips. Roll 1d4 -2. If the result is greater than 0, you learn that many cantrips.
-
-You can’t unlearn a spell that you previously learned by using this feature, nor can you use this feature to replace a spell you learned with a new one.
-
-*Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the level total, or put a limit on how many spells you can learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.*
-
-You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
-
 # Reality Observer
 
-Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
+Your spells are only limited by your imagination. You gain the following reaction:
+
+**Reality Observer**  
+Trigger: You see another creature cast a spell in your bonded schools  
+Reaction: You learn the spell. You must finish a long rest before you are able to first cast the new spell.
 
 # Bond Affinity
 
-At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a spell in your bonded schools, you may spend extra spell points to choose one Bond Affinity option that you learned to apply to it:
+You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can only apply 1 Bond Affinity option to a spell you cast. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options counts against your Mana Spend Limit.
 
--   Powerful: 10 Spell Points. Roll 2 extra dice whenever you would roll dice for the effects of this spell cast.
--   Reuse: 5 Spell Points. The next time you cast this spell, it costs 15 Spell Points less to cast, minimum 0.
--   Quick: 10 Spell Points. Cast this spell as a bonus action, if the spell’s cast time is 1 action.
--   Reactive: 20 Spell Points. Cast this spell as a reaction, if the spell’s cast time is 1 action or 1 bonus action.
--   Hasty: 10 Spell Points. Cast this spell as an action, if the spell’s cast time is 1 minute.
--   Capital: 20 Spell Points. Upcast this spell by 1 level. This doesn’t cause the spell to be unsafe to cast.
--   Animating: 50 Spell Points. Cast this spell without requiring concentration.
--   Focused: 10 Spell Points. Add your spellcasting ability modifier to the spellcasting ability modifier used by this spell cast.
--   Reaching: 15 Spell Points. Increase this spell’s cast range by your Cast Range.
--   Remote: 5 Spell Points. Increase this spell’s tether range by your Tether Range.
--   Lasting: 10 Spell Points. Increase this spell’s spell duration by your Spell Duration.
--   Enduring: 50 Spell Points. This spell doesn’t automatically disappear due to you becoming asleep, unconscious, or dead.
--   Ashes: 1 Spell Point. When this spell would automatically disappear, it instead lingers for 1 minute, then disappears.
+-   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell b 1.
+-   Reuse: 1 MP. The next time you cast this spell, it costs 2 MP less to cast, minimum 0.
+-   Quick: 1 MP. Ignore the Multiple Check Penalty for Spell Checks for this spell cast.
+-   Reactive: 2 MP. Cast this spell as a reaction, even if you didn’t declare a hold action.  
+    Trigger: Anything.  
+    Reaction: Cast this spell.
+-   Hasty: 2 MP. Cast this spell as an action, if the spell’s cast time is 1 minute.
+-   Capital: 1 MP. Increase your Mana Spend Limit by 3 for this spell cast.
+-   Animating: 1 MP. Cast this spell without requiring it to be sustained.
+-   Focused: 1 MP. Add your spellcasting ability modifier to the spellcasting ability modifier used by this spell cast.
+-   Reaching: 1 MP. Increase this spell’s cast range by your Cast Range.
+-   Remote: 1 MP. Increase this spell’s tether range by your Tether Range.
+-   Lasting: 1 MP. Increase this spell’s spell duration by your Spell Duration.
+-   Enduring: 3 MP. This spell doesn’t automatically disappear due to you becoming asleep, unconscious, or dead.
+-   Ashes: 0 MP. When this spell would automatically disappear, it instead lingers for 1 minute, then disappears.
 
-You learn one Bond Affinity option at level 2. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
+# Attribute Limit Change
 
-Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
+Your Attribute Limit is replaced with the following table:
 
-# Bending Style
-
-At level 3, you choose a Bending Style, as listed below. The Bending Style you choose will give you features at levels 3, 5, 7, 11, and 15. They will also grant you bonus Bond Affinity options.
-
--   Reality Breaker
--   Reality Forger
--   Reality Fixer
--   Reality Sharer
--   Self-Shaper
--   Luck Bender
--   Item Infuser
--   Battle Bender
--   Far Watcher
--   Dreamer
--   Elemental Master
--   Card Bender
--   Death Bender
--   Creature Wrangler
--   Reality Scholar
--   Reality Performer
--   Safe Guarder
--   Hunter
-
-# Ability Score Improvement
-
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can do one of three things:
-
--   Increase one ability score of your choice by 2, max 20.
--   Increase two ability scores of your choice by 1, max 20.
--   Increase your spellcasting ability score by 1, max 30.
+| PC Level | Attribute Limit |
+|----------|-----------------|
+| 1        | +2              |
+| 3        | +3              |
+| 5        | +4              |
+| 7        | +5              |
+| 10       | +6              |
+| 15       | +7              |
+| 17       | +8              |
+| 20       | +9              |
 
 # Bending Trick
 
-At level 6, you know a spell so well you can cast it with ease. Choose a spell you know and can safely cast. It becomes a Bending Trick for you.
+You know a spell so well you can cast it with ease. Choose a spell you know. It becomes a Bending Trick for you.
 
-When you cast a Bending Trick, you can apply an additional Bond Affinity option to it. Additionally, the Bending Trick costs 5 Spell Points less to cast, minimum 0.
+When you cast a Bending Trick, you can apply an additional Bond Affinity option to it. Additionally, the Bending Trick costs 1 MP less to cast, minimum 0.
 
-Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may not downgrade a Bending Trick, and you may not replace a Bending Trick you know with a new Bending Trick.
-
-You may upgrade an existing Bending Trick again instead of choosing a new one, using the same rules.
+Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may instead upgrade an existing Bending Trick again instead of choosing a new one, using the same rules.
 
 # Reality Studier
 
-At level 8, you can more easily absorb information about spells that you see.
+You can more easily absorb information about spells that you see.
 
-You may spend 1 minute studying an ongoing spell effect to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level minus your max safe casting level. On a success, you figure out how to cast the spell and can cast the new spell after a long rest. On a failure, you don’t figure out the spell, but may try to study it again immediately.
+You may spend 1 minute studying an ongoing spell effect to make a Spell Check. The DC is equal to 20 plus the spell’s MP cost minus your Mana Spend Limit. Success: you figure out how to cast the spell and can cast the new spell after a long rest. Failure: you don’t figure out the spell, but may try to study it again immediately.
+
+Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
 # Spell Warp
 
-At level 10, you can change ongoing spells. When you use your action to dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the spell point cost of the new spell must be equal to or less than the spell point cost of the old spell.
+You can change ongoing spells. When you spend AP to dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the MP cost of the new spell must be equal to or less than the MP cost of the old spell.
 
 # Recasting
 
-At level 13, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option(s).
+You can keep your spells going longer. You gain the following reaction:
+
+Trigger: One of your spells ends.  
+Reaction: You recast the spell on the same target(s), using the same Bond Affinity option(s), spending any necessary MP.
 
 # Reality Command
 
-At level 20, you gain command of your spells more easily. You may choose a new Bending Trick feature at the start of every month, not just when you level up.
+You gain command of your spells more easily. You may choose a new Bending Trick spell at the start of every month, not just when you level up.
 
 # Bending Styles
 
