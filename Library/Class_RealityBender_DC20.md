@@ -1073,9 +1073,9 @@ Your magic spells manifest as a deck of cards.
 
 ### The Deck
 
-At level 3, your magic manifests itself as a deck of cards.
+Your magic manifests itself as a deck of cards.
 
-As an action, you may spend 40 spell points to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
+You may spend 4 AP and 2 MP to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
 
 When you manifest a new deck, any decks you previously manifested disappear.
 
@@ -1087,66 +1087,66 @@ If you cast a spell normally, if that spell’s card is still in the deck, that 
 
 ### The Draw
 
-At level 3, you and others may draw from your spell deck.
+You and others may draw from your spell deck.
 
-As an action, you may draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you, regardless of its casting time or material component requirements. This is called a Drawn spell.
+You may spend 1 AP to draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you, regardless of its casting time or material component requirements. This is called a Drawn spell.
 
-If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an area of effect spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any to-hit values, and the target automatically fails any Dexterity saving throws for the Drawn spell.
+If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an area of effect spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any Spell checks, and the target automatically fails any Agility saves for the Drawn spell.
 
 You are the caster of these spells, and the card holder is the target.
 
-However, Drawn spells do not require your concentration. They require the concentration of the deck, and the deck can concentrate on 1 spell per target, and does not need to make a Constitution saving throw if it gets damaged. A Drawn spell does not automatically end when its deck is destroyed. If a creature draws a concentration spell, any previous Drawn concentration spells on them end, if both Drawn spells were drawn from the same deck.
+The deck sustains all sustained Drawn spells drawn from it, and can sustain a number of active spells at a time equal to your CM. A Drawn spell does not automatically end when its deck is destroyed.
 
 If you’re willing, other creatures can also use this feature to draw a card. Otherwise, they must try to steal a card to draw one.
 
-When a card is drawn and after it is revealed what spell it is, may use your reaction to apply a bond affinity option to it.
+You gain the following reaction:
+
+Warp Card Effect  
+Trigger: A card is drawn from your deck.  
+Reaction: You apply a bond affinity option to the Drawn spell.
 
 ### The Hit
 
-At level 3, you may draw for another creature.
+You may draw for another creature.
 
-You may use your Attack action to draw the top card of the deck without looking at it and use it as a melee weapon. You are proficient with this card weapon and your to-hit bonus is your prime modifier.
-
-On a hit, the card targets the creature as if they had drawn the card themselves. On a miss, the card dissipates without casting the spell, and you find out what spell it was.
+You may spend 1 AP and make an Attack check to draw the top card of the deck without looking at it and use it as a melee weapon with a reach of 1 Space. You are trained with this card weapon. Hit: the card targets the creature as if they had drawn the card themselves. Miss: the card dissipates without casting the spell, and you find out what spell it was.
 
 ### The Surprise
 
-At level 3, you can react to luck not going your way. You gain the following Bond Affinity options:
+You can react to luck not going your way. You gain the following Bond Affinity options:
 
--   Blue Card: 1 Spell Point. This spell deals 2d10 damage instead of its usual effect.
--   Red Card: 1 Spell Point. This spell deals 2d6 damage to the target and all creatures within 5ft of it instead of the spell’s usual effect.
--   Gold Card: 1 Spell Point. This spell stuns the target for 1 round, if the target fails any saving throws for this spell.
+-   Blue Card: 1 MP. This spell deals 3 damage instead of its usual effect. Regain 2 MP.
+-   Red Card: 1 MP. This spell deals 2 damage to the target and all creatures within 1 Space of it instead of the spell’s usual effect.
+-   Gold Card: 1 MP. This spell stuns the target for 1 round, if the target fails any saving for this spell.
 
 ### The Fling
 
-At level 5, you can draw cards for creatures at range.
+You can draw cards for creatures at range.
 
-You may use your Attack action to draw the top card of the deck without looking at it and use it as a ranged weapon. Its normal range is equal to your Cast Range, and its long range is equal to your Tether Range. You are proficient with this card weapon and your to-hit bonus is your prime modifier.
-
-On a hit, the card targets the creature as if they had drawn the card themselves. On a miss, the card dissipates without casting the spell, and you find out what spell it was.
+You may spend 1 AP to make an Attack check, draw the top card of the deck without looking at it, and use it as a ranged weapon. Its close range is equal to your Cast Range, and its max range is equal to your Tether Range. You are trained with this card weapon. Hit: the card targets the creature as if they had drawn the card themselves. Miss: the card dissipates without casting the spell, and you find out what spell it was.
 
 ### The Extra Attack
 
-At level 7, you can attack an additional time when you take the Attack action on your turn.
+Your second Attack each turn ignores the Multiple Check Penalty.
 
 ### The Heart
 
-At level 7, you become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, it is upcast by 1 level. If you guess the name and get it exactly right, it is instantly upcast to 9th level.
+You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, its MP cost is reduced by 1, minimum 0. If you guess the name and get it exactly right, its MP cost is set to 0.
 
-For example, if you guess that the first letter of the spell is “T”, that its cast time is 1 action, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be upcast from 3rd level to 5th level.
+For example, if you guess that the first letter of the spell is “T”, that its cast time is 1 action, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2.
 
 ### The Trap
 
-At level 11, you can set cards as traps. Draw the top card of the deck without looking at it, and place it facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
+You can set cards as traps. Draw the top card of the deck without looking at it, and place it facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
 
 This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate due to you manifesting a new deck, nor from leaving your line of sight.
 
 ### The Filter
 
-At level 15, you learn how to control the randomness of the deck. Whenever you manifest the deck, you may choose to filter the deck to only specific cards. You may filter the deck to only cards that are:
+You learn how to control the randomness of the deck. Whenever you manifest the deck, you may choose to filter the deck to only specific cards. You may filter the deck to only cards that are:
 
--   Of a certain level or range of levels
--   Of a certain school or schools
+-   From a certain spell list or spell lists
+-   From a certain school or schools
 -   Targeted spells or area of effect spells
 
 ## Death Bender
