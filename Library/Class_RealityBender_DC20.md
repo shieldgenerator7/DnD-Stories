@@ -679,6 +679,8 @@ You can’t use the Appended Bond Affinity option on a spell that you’re not i
 
 You were made for war, and can bend the tides of battle to your will.
 
+### Level 3 Subclass Features
+
 ### Weapon Observer
 
 You remember every weapon, piece of armor, shield, and piece of equipment you see, as well as their stats.
@@ -703,7 +705,7 @@ A Formed spell is very volatile, and dissipates at the end of your turn if:
 -   You are asleep, unconscious, or dead.
 -   You spent 1 AP to dismiss it.
 
-A Formed spell does not require concentration to remain formed. You can have multiple Formed spells in existence at once.
+A Formed spell does not require sustaining to remain formed. You can have multiple Formed spells in existence at once.
 
 ### Born to Forge
 
@@ -729,14 +731,6 @@ You have mastery with your Weapon-Formed spells, and you learn all Attack Maneuv
 
 Your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, it casts the Formed spell on them. Any Spell Checks in the spell’s description automatically succeed, and the creature automatically fails any Agility saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise. If the spell requires sustaining, the spell can’t be sustained.
 
-### Arcane Armor
-
-You can protect yourself with your magic reserves. Your PD and AD are increased by your current MP.
-
-### Extra Attack
-
-Your combat prowess grows. Your second attack each turn ignores the Multiple Check Penalty.
-
 ### Armor Conjuration
 
 You learn to protect yourself with your spells. You learn the following Bond Affinity option:
@@ -752,6 +746,8 @@ Whenever you don an Armor-Formed spell, it procs your Formed Spell Proc feature 
 You can only wear one Armor-Formed spell at a time. If you don an Armor-Formed spell while already wearing one, the new one replaces the old one, and the old one dissipates. You may wear an Armor-Formed spell over physical armor.
 
 You have training with your Armor-Formed spells. Other creatures may also have training with them, if it is in the form of a piece of armor that they have training with.
+
+You can force armor onto unwilling creatures. You may attempt to use your Armor Conjuration feature on an unwilling creature, spending MP as normal. Make a Spell check against the creature’s Charisma save. Success: your conjuration succeeds. Failure: your conjuration fails but you still spend the MP.
 
 ### Shield Conjuration
 
@@ -771,17 +767,17 @@ Reaction: You intercept, imposing DisADV to the attack roll. If the attack misse
 
 You have training with your Shield-Formed spells. Other creatures may also have training with them, if it is in the form of a shield that they have training with.
 
-### Instant Repair
+### Level 6 Subclass Features
 
-You learn how to keep your equipment intact. You may spend 1 AP and 1 MP to choose any number of your Formed spells within your Cast Range and instantly restore their hp to maximum and refresh their durations.
+### Arcane Armor
 
-### Temporary Permanence
+You can protect yourself with your magic reserves. You may spend 2 AP to gain temporary HP equal to your current MP.
 
-You work around some limitations of your conjured spells. Formed spells no longer dissipate at the end of your turn due to you not holding them.
+### Extra Attack
 
-### Forced Armor
+Your combat prowess grows. Your second attack each turn ignores the Multiple Check Penalty.
 
-You can force armor onto unwilling creatures. You may attempt to use your Armor Conjuration feature on an unwilling creature, spending MP as normal. Make a Spell check against the creature’s Charisma save. Success: your conjuration succeeds. Failure: your conjuration fails but you still spend the MP.
+### Subclass Capstone Feature
 
 ### Violent Dismissal
 
@@ -791,23 +787,11 @@ The Formed spell is destroyed immediately when it explodes.
 
 You may target a Formed spell with this feature even if it is outside your Cast Range or Tether Range.
 
-### Rigged Conjuration
-
 You can get one last use out of your Formed spells. You gain the following reaction:
 
-**End Trigger**  
-Trigger: One or more of your Formed spells is about to end  
-Reaction: You may activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
-
-### Last Word
-
-You can react to the death around you.
-
-You gain the following reaction:
-
 **Last Word**  
-Trigger: You or another creature you can see dies  
-Reaction: You activate your Violent Dismissal feature on any number of your Formed spells.
+Trigger: One or more of your Formed spells is about to end, or you or another creature you can see dies  
+Reaction: You may activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
 
 ## Far Watcher
 
