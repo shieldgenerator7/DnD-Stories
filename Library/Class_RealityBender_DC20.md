@@ -861,6 +861,8 @@ You learn how to change the channel. You may spend 1 AP and 5 MP to shift to ano
 
 Your dreams have a strange way of effecting reality. When you go to sleep, you cast spells and do things you’d do in a dream. But the things that happened in your dreams happened for real.
 
+### Level 3 Subclass Features
+
 ### Sleep Walking
 
 Your mind wanders the plane, conjuring a version of you. Whenever you fall asleep, your dream self appears as an illusion of you within Cast Range of the last person, place, or thing you thought of when going to sleep.
@@ -874,6 +876,7 @@ You have multiple different dreams at night, as dreams come and go. Dreams alway
 -   If your dream self becomes further than your Tether Range from your dream target
 -   When your dream self is near your dream target for longer than your Spell Duration
 -   Your dream self falls to 0 hp
+-   You spend 1 AP to end the current dream
 
 When your current dream ends, your dream self disappears and you are no longer dreaming.
 
@@ -901,6 +904,8 @@ You gain the following Bond Affinity option:
 
 -   Dream Bend: 1 MP. This spell cast refreshes the duration of your current dream and increases your Dream Value by 2.
 
+### Level 6 Subclass Features
+
 ### Stasis
 
 Your dreams protect you. Whenever you go to sleep, and at the start of each of your turns while sleeping, you gain temporary hp equal to your Dream Value, minimum 0. When you wake up, you lose these temporary hit points.
@@ -913,23 +918,9 @@ Your dream self can teleport. You may spend 1 AP to teleport your dream self to 
 
 Whenever your dream self would fall or otherwise be forced to move, you may make a DC10 Spell check instead. Success: your dream self doesn’t fall or get moved forcefully, becoming ethereal if necessary to avoid sharing a space with another creature or object. It becomes solid again when it is no longer sharing a space with that creature or object. Failure: your dream self falls or gets moved forcefully like normal.
 
-### Dream Lucidity
+Additionally, you’re unbound from your physical form. When you enter a new dream, your dream self can appear as any creature you’ve seen before. It still has your stats and abilities. It gains 2 Ancestry Points with which to spend on Ancestry Traits and/or Beast Traits. It keeps these new Ancestry Traits until the end of the dream.
 
-You gain better control over your dreams. You gain the following Bond Affinity option:
-
--   Lucid Dreaming: 2 MP. Increase your Dream Value by this spell’s MP cost.
-
-You may spend 1 AP to end the current dream.
-
-### Sleep Form
-
-You’re unbound from your physical form. When you enter a new dream, your dream self can appear as any creature you’ve seen before. It still has your stats and abilities. It gains 2 Ancestry Points with which to spend on Ancestry Traits and/or Beast Traits. It keeps these new Ancestry Traits until the end of the dream.
-
-### Location Shift
-
-You can change locations. When you spend AP to end the current dream, you can spend 5 MP to start a new dream immediately and bring any number of other people, things, and/or creatures within your Cast Range with you to the new dream. If a new dream doesn’t begin immediately, this feature has no effect.
-
-Creatures and objects you bring with you teleport to an unoccupied space within your Cast Range at the new location. If there’s not a valid location for a creature or object to land in, it doesn’t get brought through.
+### Subclass Capstone Feature
 
 ### Just a Dream
 
@@ -945,10 +936,6 @@ When you end a dream, you can undo one negative event that happened in that drea
 -   The destruction of an item.
 -   The casting of a specific spell that was cast within the last round.
 -   An action that another creature took within the last round.
-
-### Not a Dream!
-
-You can wake up in your dream. When a dream ends, you can choose to wake up. When you wake up from a dream, you can choose to teleport to your dream self’s last location.
 
 ## Elemental Master
 
