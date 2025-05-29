@@ -264,6 +264,8 @@ Time starts moving at random speeds. At the start of its turn, a creature touche
 
 You seek to build a new environment that is to your liking.
 
+### Level 3 Subclass Features
+
 ### Area Modulation
 
 You gain affinity for area of effect spells. You may spend 1 AP to target an existing area of effect spell in your bonded schools, and increase its radius (or diameter) up to an amount depending on your level, as shown in the following chart. Alternatively, you can decrease its radius (or diameter).
@@ -298,6 +300,8 @@ Permanent spells are resistant to being countered and dispelled. If a creature a
 
 You may use your Area Modulation feature on a Permanent spell that you cast, but you must spend 1 MP to do so.
 
+### Level 6 Subclass Features
+
 ### Home Sweet Home
 
 You can begin to call your area your home. Each of your Permanent spells contributes to the combined area called your Permanent Area. Whenever you finish a short rest or long rest in your Permanent Area, you regain all expended MP.
@@ -308,9 +312,7 @@ Additionally, while standing in your Permanent Area, your Mana Spend Limit incre
 
 Other area of effect spells have no effect in your Permanent Area, unless that other spell is also Permanent, or you allow that other spell to effect your Permanent Area.
 
-### Area Manipulation
-
-You become adept at manipulating areas. When you cast a spell with the Permanent Bond Affinity option, you may choose an additional Bond Affinity option to apply to it. If you are standing in your Permanent Area, you may choose an additional Bond Affinity to apply to it again.
+### Subclass Capstone Feature
 
 ### Area Admin
 
