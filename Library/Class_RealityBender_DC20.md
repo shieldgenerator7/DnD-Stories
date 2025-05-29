@@ -185,9 +185,7 @@ Reaction: You recast the spell on the same target(s), using the same Bond Affini
 
 You gain command of your spells more easily. You may choose a new Bending Trick spell at the start of every month, not just when you level up.
 
-# Bending Styles
-
-At level 3, you choose a Bending Style.
+# Subclasses
 
 ## Reality Breaker
 
