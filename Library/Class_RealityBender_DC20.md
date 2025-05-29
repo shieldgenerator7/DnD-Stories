@@ -104,7 +104,11 @@ You may spend AP to gain ADV on this roll like normal.
 
 As an action, you may dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent.
 
-# Reality Observer
+# Reality Bender Class Features
+
+## Level 1 Class Features
+
+### Reality Observer
 
 Your spells are only limited by your imagination. You gain the following reaction:
 
@@ -112,7 +116,7 @@ Your spells are only limited by your imagination. You gain the following reactio
 Trigger: You see another creature cast a spell in your bonded schools  
 Reaction: You learn the spell. You must finish a long rest before you are able to first cast the new spell.
 
-# Bond Affinity
+### Bond Affinity
 
 You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can only apply 1 Bond Affinity option to a spell you cast. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options counts against your Mana Spend Limit.
 
@@ -132,7 +136,7 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 -   Enduring: 3 MP. This spell doesn’t automatically disappear due to you becoming asleep, unconscious, or dead.
 -   Ashes: 0 MP. When this spell would automatically disappear, it instead lingers for 1 minute, then disappears.
 
-# Attribute Limit Change
+### Attribute Limit Change
 
 Your Attribute Limit is replaced with the following table:
 
@@ -147,7 +151,7 @@ Your Attribute Limit is replaced with the following table:
 | 17       | +8              |
 | 20       | +9              |
 
-# Bending Trick
+### Bending Trick
 
 You know a spell so well you can cast it with ease. Choose a spell you know. It becomes a Bending Trick for you.
 
@@ -155,7 +159,9 @@ When you cast a Bending Trick, you can apply an additional Bond Affinity option 
 
 Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may instead upgrade an existing Bending Trick again instead of choosing a new one, using the same rules.
 
-# Reality Studier
+## Level 2 Class Features
+
+### Reality Studier
 
 You can more easily absorb information about spells that you see.
 
@@ -163,18 +169,19 @@ You may spend 1 minute studying an ongoing spell effect to make a Spell Check. T
 
 Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
-# Spell Warp
+### Spell Warp
 
 You can change ongoing spells. When you spend AP to dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the MP cost of the new spell must be equal to or less than the MP cost of the old spell.
 
-# Recasting
+### Recasting
 
 You can keep your spells going longer. You gain the following reaction:
 
+**Recast**  
 Trigger: One of your spells ends.  
 Reaction: You recast the spell on the same target(s), using the same Bond Affinity option(s), spending any necessary MP.
 
-# Reality Command
+### Reality Command
 
 You gain command of your spells more easily. You may choose a new Bending Trick spell at the start of every month, not just when you level up.
 
