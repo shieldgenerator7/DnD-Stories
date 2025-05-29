@@ -169,6 +169,8 @@ You may spend 1 minute studying an ongoing spell effect to make a Spell Check. T
 
 Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
+## Level 5 Class Features
+
 ### Spell Warp
 
 You can change ongoing spells. When you spend AP to dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the MP cost of the new spell must be equal to or less than the MP cost of the old spell.
@@ -180,6 +182,8 @@ You can keep your spells going longer. You gain the following reaction:
 **Recast**  
 Trigger: One of your spells ends.  
 Reaction: You recast the spell on the same target(s), using the same Bond Affinity option(s), spending any necessary MP.
+
+## Class Capstone Feature
 
 ### Reality Command
 
