@@ -114,3 +114,39 @@ The creature must be able to hear you and understand you. Creatures that can’t
 *“Go get ‘em!” -Pancake*
 
 At Higher Levels. Casting this spell at 6th level or higher, you may target one additional creature for each slot level above 5th.
+
+# Enduring Thread
+
+5th-level Necromancy
+
+Casting Time: 1 hour
+
+Range: Touch
+
+Components: S, M (an iron thread, which the spell consumes)
+
+Duration: Instantaneous
+
+You touch a creature and safeguard them from the aging process. The creature can’t die due to aging or organ failure.
+
+If the creature would take damage or die from aging or organ failure, they instead don’t. They then become Undead for the purposes of spells like Detect Undead and Turn Undead, but they retain their memories, personalities, and stats.
+
+Additionally, they become immune to poison and disease, and the Poisoned condition.
+
+# Conjure Tea Cup
+
+Conjuration Cantrip
+
+Casting Time: 1 bonus action
+
+Range: Self
+
+Components: V
+
+Duration: 1 minute
+
+You speak the name of a tea, and a tea cup filled with fresh tea of that kind appears in your hand, on a flat surface within 5ft of you, or at your feet.
+
+As an object interaction, you may sip it to restore 1d4 hp.
+
+The tea is bound to you. If anyone touches the cup, the cup disappears. If the tea is spilled, it vanishes before it hits the ground.
