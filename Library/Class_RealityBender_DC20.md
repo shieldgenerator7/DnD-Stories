@@ -708,107 +708,111 @@ You were made for war, and can bend the tides of battle to your will.
 
 ### Weapon Observer
 
-At level 3, you remember every weapon, piece of armor, shield, and piece of equipment you see, as well as their stats.
+You remember every weapon, piece of armor, shield, and piece of equipment you see, as well as their stats.
 
 ### Spell Conjuration
 
-At level 3, you can conjure spells into a piece of equipment. You gain the following Bond Affinity option:
+You can conjure spells into a piece of equipment. You gain the following Bond Affinity option:
 
--   Formed: 15 Spell Points. Conjure this spell cast into a piece of equipment you remember and equip it, if the spell can target one or more creatures.
+-   Formed: 1 MP. Conjure this spell cast into a piece of equipment you remember and equip it, if the spell can target one or more creatures.
 
 The Formed spell appears as a spectral shape modeled after the piece of equipment you remembered, but has no special effects, and does not cast the spell’s effects when conjured.
 
-The Formed spell has max hit points and AC equal to its casted level.
+The Formed spell has max hp, PD, and MD equal to 10 plus its MP cost.
 
 A Formed spell is very volatile, and dissipates at the end of your turn if:
 
--   It has 0 hit points or less.
+-   It has 0 hp or less.
 -   It was conjured longer ago than your Spell Duration.
--   It is outside your Tether Range.
+-   It is outside your Tether Range or on another plane.
 -   It hit the ground or another creature and you are not holding it.
 -   It got hit by another creature and you are not holding it.
 -   You are asleep, unconscious, or dead.
--   You used your action to dismiss it.
+-   You spent 1 AP to dismiss it.
 
 A Formed spell does not require concentration to remain formed. You can have multiple Formed spells in existence at once.
 
 ### Born to Forge
 
-At level 3, conjuring weapons made of magic comes more naturally to you than casting spells.
+Conjuring weapons made of magic comes more naturally to you than casting spells.
 
-Spells you cast without a Formed bond affinity option cost an extra 25 Spell Points to cast.
+Spells you cast without a Formed bond affinity option cost an extra 2 MP to cast.
 
-When you cast a Formed spell, you may choose to spend 1 minute casting it instead, if it normally takes 1 action or 1 bonus action to cast. If you do, the Formed spell’s Spell Point cost is reduced by 5 times your Reality Bender level.
+When you cast a Formed spell, you may choose to spend 1 minute casting it instead, if it normally takes 1 AP to cast. If you do, the Formed spell’s MP cost is reduced by your CM.
 
 ### Weapon Conjuration
 
-At level 3, you can conjure spells into a weapon. You gain the following Bond Affinity option:
+You can conjure spells into a weapon. You gain the following Bond Affinity option:
 
--   Weapon-Formed: 15 Spell Points. Conjure this spell cast into a weapon you remember and equip it, if the spell can target one or more creatures.
+-   Weapon-Formed: 1 MP. Conjure this spell cast into a weapon you remember and equip it, if the spell can target one or more creatures.
 
 A Weapon-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
-When you conjure a Weapon-Formed spell, it comes formed as the chosen weapon that you remembered, with the same damage roll and properties, but with force damage as the damage type. Its attack modifier ability is your spellcasting ability, and when it hits, it does extra damage equal to the spell’s casted level and procs your Formed Spell Proc feature on the target. If it is ranged, it magically conjures its own ammo, and its max range is your Tether Range. If it is thrown, its max range is your Tether Range.
+When you conjure a Weapon-Formed spell, it comes formed as the chosen weapon that you remembered, with the same damage and properties, but with true damage as the damage type. When it hits, it procs your Formed Spell Proc feature on the target. If it is ranged, it magically conjures its own ammo, and its close range and max range is your Cast Range and Tether Range, respectively. If it is thrown, its close range and max range is your Cast Range and Tether Range, respectively.
 
-You have proficiency with your Weapon-Formed spells. Other creatures may also have proficiency with them, if it is in the form of a weapon that they have proficiency with.
+You have mastery with your Weapon-Formed spells, and you learn all Attack Maneuvers. Other creatures may also have mastery with them, if it is in the form of a weapon that they have proficiency with.
 
 ### Formed Spell Proc
 
-At level 3, your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, it casts the Formed spell on them. Any to-hit rolls in the spell’s description automatically succeed, and the creature automatically fails any Dexterity saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise. The spell doesn’t require concentration.
+Your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, it casts the Formed spell on them. Any Spell Checks in the spell’s description automatically succeed, and the creature automatically fails any Agility saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise. If the spell requires sustaining, the spell can’t be sustained.
 
 ### Arcane Armor
 
-At level 3, you can protect yourself with your magic reserves. Your AC is increased by the number of Spell Points you have divided by 20, rounded up.
+You can protect yourself with your magic reserves. Your PD and AD are increased by your current MP.
 
 ### Extra Attack
 
-At level 5, your combat prowess grows. When you take the Attack action, you may make an additional attack.
+Your combat prowess grows. Your second attack each turn ignores the Multiple Check Penalty.
 
 ### Armor Conjuration
 
-At level 5, you learn to protect yourself with your spells. You learn the following Bond Affinity option:
+You learn to protect yourself with your spells. You learn the following Bond Affinity option:
 
--   Armor-Formed: 15 Spell Points. Conjure this spell cast into a piece of armor you remember and don it, if the spell can target one or more creatures, and has a duration longer than Instantaneous and 1 round.
+-   Armor-Formed: 2 MP. Conjure this spell cast into a piece of armor you remember and don it, if the spell can target one or more creatures, and has a duration longer than Instantaneous and 1 round.
 
 An Armor-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
-When you conjure an Armor-Formed spell, it comes formed as the chosen piece of armor that you remembered, with the same AC bonus, but no movement or ability penalty. You can choose to conjure it on a willing creature within your Cast Range instead of yourself.
+When you conjure an Armor-Formed spell, it comes formed as the chosen piece of armor that you remembered, with the same PD and AD bonus, but no movement or ability penalty. You can choose to conjure it on a willing creature within your Cast Range instead of yourself.
 
 Whenever you don an Armor-Formed spell, it procs your Formed Spell Proc feature on you. The spell lasts while the armor is donned, and ends automatically when the armor is doffed or it dissipates.
 
 You can only wear one Armor-Formed spell at a time. If you don an Armor-Formed spell while already wearing one, the new one replaces the old one, and the old one dissipates. You may wear an Armor-Formed spell over physical armor.
 
-You have proficiency with your Armor-Formed spells. Other creatures may also have proficiency with them, if it is in the form of a piece of armor that they have proficiency with.
+You have training with your Armor-Formed spells. Other creatures may also have training with them, if it is in the form of a piece of armor that they have training with.
 
 ### Shield Conjuration
 
-At level 7, you learn how to conjure shields. You gain the following Bond Affinity option:
+You learn how to conjure shields. You gain the following Bond Affinity option:
 
--   Shield-Formed: 15 Spell Points. Conjure this spell cast into a shield you remember and equip it, if the spell can target one or more creatures.
+-   Shield-Formed: 2 MP. Conjure this spell cast into a shield you remember and equip it, if the spell can target one or more creatures.
 
 A Shield-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
-When you conjure a Shield-Formed spell, it comes formed as the chosen shield that you remembered, with the same AC bonus.
+When you conjure a Shield-Formed spell, it comes formed as the chosen shield that you remembered, with the same PD and AD bonus.
 
-Whenever you or an ally within melee range of you is targeted by an attack, you may use your reaction to intercept, imposing disadvantage to the attack roll. If the attack misses, your Shield-Formed spell procs your Formed Spell Proc feature on the attacking creature, if that creature is within your Cast Range.
+A creature holding one of your Shield-Formed spells gains the following reaction:
 
-You have proficiency with your Shield-Formed spells. Other creatures may also have proficiency with them, if it is in the form of a shield that they have proficiency with.
+**Spell Shield Intercept**  
+Trigger: You or an ally within melee range of you is targeted by an attack  
+Reaction: You intercept, imposing DisADV to the attack roll. If the attack misses, your Shield-Formed spell procs your Formed Spell Proc feature on the attacking creature, if that creature is within your Cast Range.
+
+You have training with your Shield-Formed spells. Other creatures may also have training with them, if it is in the form of a shield that they have training with.
 
 ### Instant Repair
 
-At level 7, you learn how to keep your equipment intact. As an action, you may choose any number of your Formed spells within your Cast Range and spend Spell Points equal to 5 times that number to instantly restore their hit points to maximum and refresh their durations.
+You learn how to keep your equipment intact. You may spend 1 AP and 1 MP to choose any number of your Formed spells within your Cast Range and instantly restore their hp to maximum and refresh their durations.
 
 ### Temporary Permanence
 
-At level 11, you work around some limitations of your conjured spells. Formed spells no longer dissipate at the end of your turn due to you not holding them.
+You work around some limitations of your conjured spells. Formed spells no longer dissipate at the end of your turn due to you not holding them.
 
 ### Forced Armor
 
-At level 15, you can force armor onto unwilling creatures. You may attempt to use your Armor Conjuration feature on an unwilling creature, spending Spell Points as normal. That creature makes a Wisdom save against your spell save DC. On a success, your conjuration fails, but you still spend the Spell Points. On a failure, your conjuration succeeds.
+You can force armor onto unwilling creatures. You may attempt to use your Armor Conjuration feature on an unwilling creature, spending MP as normal. Make a Spell check against the creature’s Charisma save. Success: your conjuration succeeds. Failure: your conjuration fails but you still spend the MP.
 
 ### Violent Dismissal
 
-At level 15, you figure out how to exploit the volatile nature of your Formed spells. As an action, you can choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make a Dexterity saving throw. On a failed save, they take damage equal to the Formed spell’s casted level and the Formed spell procs your Formed Spell Proc feature on them. On a success, they take half as much damage and suffer no ill effects.
+You figure out how to exploit the volatile nature of your Formed spells. You may spend 1 AP to choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make a Agility save. Success: they take true damage equal to the Formed spell’s MP cost divided by 2, rounded down. Failure: they take true damage equal to the Formed spell’s MP cost and the Formed spell procs your Formed Spell Proc feature on them.
 
 The Formed spell is destroyed immediately when it explodes.
 
@@ -816,15 +820,21 @@ You may target a Formed spell with this feature even if it is outside your Cast 
 
 ### Rigged Conjuration
 
-At level 15, you can get one last use out of your Formed spells. Whenever one or more of your Formed spells would simply dissipate at the end of your turn, you may instead use your reaction to activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
+You can get one last use out of your Formed spells. You gain the following reaction:
 
-You may also activate Violent Dismissal when you dispel one of your Formed spells as an action.
+**End Trigger**  
+Trigger: One or more of your Formed spells is about to end  
+Reaction: You may activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
 
 ### Last Word
 
-At level 15, you can react to the death around you.
+You can react to the death around you.
 
-Whenever you or another creature you can see dies, you may use your reaction to activate your Violent Dismissal feature on any number of your Formed spells.
+You gain the following reaction:
+
+**Last Word**  
+Trigger: You or another creature you can see dies  
+Reaction: You activate your Violent Dismissal feature on any number of your Formed spells.
 
 ## Far Watcher
 
