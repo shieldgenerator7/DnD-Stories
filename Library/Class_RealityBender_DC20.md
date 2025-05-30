@@ -350,9 +350,11 @@ You fix reality to the way you believe it is originally meant to be. You believe
 
 ### Level 3 Subclass Features
 
-### Bond Disdain
+### Disdain Hinder
 
-You can disrupt others who are casting spells in your bonded schools. You may choose 2 Bond Disdain options from the list below. You learn a new bond disdain option whenever you learn a bond affinity option.
+Choose a school of magic, this becomes your Disdained School. You may choose an additional disdained school whenever you choose an additional bonded school. Your disdained schools may overlap with your bonded schools.
+
+You can disrupt others who are casting spells in your disdained schools. You may choose 2 Disdain Hinder options from the list below. You learn a new Disdain Hinder option whenever you learn a bond affinity option.
 
 -   Costly: Double the amount of MP spent to cast this spell. If the caster can’t pay the cost, the spell fails, still spending any MP they already spent.
 -   Close: Half this spell’s cast range.
@@ -369,20 +371,20 @@ You can disrupt others who are casting spells in your bonded schools. You may ch
 You gain the following reaction:
 
 **Magic Disdain**  
-Trigger: A creature within your Cast Range casts a spell in your bonded schools.  
-Reaction: You apply a bond disdain option to it.
+Trigger: A creature within your Cast Range casts a spell in your disdained schools.  
+Reaction: You apply a Disdain Hinder option to it.
 
-Either the caster or the spell must be within your Cast Range for you to use this feature. You may apply a Bond Disdain option to a spell even if it already has a Bond Affinity and/or Bond Disdain option applied to it.
+Either the caster or the spell must be within your Cast Range for you to use this feature. You may apply a Disdain Hinder option to a spell even if it already has a Bond Affinity and/or Disdain Hinder option applied to it.
 
-If a casted spell is a Bending Trick for you, you may apply an additional Bond Disdain option to it for each time that you chose it as a Bending Trick.
+If a casted spell is a Bending Trick for you, you may apply an additional Disdain Hinder option to it for each time that you chose it as a Bending Trick.
 
-When you apply a Bond Disdain option to a spell that you cast, you may reduce the MP cost of that spell by 1 for each Bond Disdain option that you applied to it.
+When you apply a Disdain Hinder option to a spell that you cast, you may reduce the MP cost of that spell by 1 for each Disdain Hinder option that you applied to it.
 
 ### Level 6 Subclass Features
 
 ### Peace of Mind
 
-You enjoy the feeling of not being around magic. While there is no magical effect of any spell from your Bonded Schools within your Tether Range, you regain MP as shown in the table below.
+You enjoy the feeling of not being around magic. While there is no magical effect of any spell from your Disdained Schools within your Tether Range, you regain MP as shown in the table below.
 
 | Char Level | MP Gain  |
 |------------|----------|
@@ -392,9 +394,9 @@ You enjoy the feeling of not being around magic. While there is no magical effec
 
 ### Advanced Spell Unraveling
 
-You learn how to stop reality from breaking. You may spend 1 AP to dispel any ongoing spell effect, if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
+You learn how to stop reality from breaking. You may spend 1 AP to dispel any ongoing spell effect from your disdained school, if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
 
-You learn how to prevent reality from being broken. You gain ADV when contesting a spell with Spell Duel, and the spell costs 1 AP less and 1 MP less, minimum 0.
+You learn how to prevent reality from being broken. You gain ADV when contesting a spell from your disdained school with Spell Duel, and then your spell costs 1 AP less and 1 MP less, minimum 0.
 
 ### Subclass Capstone Feature
 
@@ -402,7 +404,7 @@ You learn how to prevent reality from being broken. You gain ADV when contesting
 
 You can stop imperfections from forming. You may spend 2 AP and 2 MP to create an anti-spell field at any point you can see. Like a normal spell, the anti-spell field is bound by your Cast Range, Tether Range, Spell Duration, and Area Radius; and requires sustaining.
 
-You may use your Vindication feature on spells dismissed and/or prevented by your anti-spell fields.
+The anti-spell field causes any spell from your disdained schools that is cast in it or that overlaps with it to fail. Existing spells from your disdained schools that overlap with it are dispelled.
 
 You may have any number of anti-spell fields active at a time. Your anti-spell fields sustain themselves while you’re inside at least 1 of them, even if you can’t sustain them yourself.
 
