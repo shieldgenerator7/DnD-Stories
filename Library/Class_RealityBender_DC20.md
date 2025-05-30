@@ -38,18 +38,18 @@ version 0.1.1 – 0.0.0
 
 # Spell Casting Table
 
-| **Char Level** | **Cast Range** | **Tether Range** | **Spell Duration** | **Area Radius** |
-|----------------|----------------|------------------|--------------------|-----------------|
-| 1              | 3 Spaces       | 6 Spaces         | 5 min              | 1 Space         |
-| 2              | 6 Spaces       | 15 Spaces        | 1 hr               | 2 Spaces        |
-| 3              | 12 Spaces      | 36 Spaces        | 4 hr               | 3 Spaces        |
-| 4              | 20 Spaces      | 80 Spaces        | 12 hr              | 4 Spaces        |
-| 5              | 30 Spaces      | 120 Spaces       | 3 d                | 5 Spaces        |
-| 6              | 40 Spaces      | 200 Spaces       | 14 d               | 6 Spaces        |
-| 7              | 60 Spaces      | 1mi              | 180 d              | 7 Spaces        |
-| 8              | 100 Spaces     | 15mi             | 5 yr               | 8 Spaces        |
-| 9              | 200 Spaces     | 1000mi           | 50 yr              | 9 Spaces        |
-| 10             | 1mi            | 1000000mi        | 1000 yr            | 10 Spaces       |
+| **Char Level** | **Cast Range (INT)** | **Tether Range (AGI)** | **Spell Duration (CHA)** | **Area Radius (MIG)** |
+|----------------|----------------------|------------------------|--------------------------|-----------------------|
+| 1              | (INT \* 1) Spaces    | (AGI \* 2) Spaces      | 5 min                    | 1 Space               |
+| 2              | (INT \* 2) Spaces    | (AGI \* 4) Spaces      | 1 hr                     | 2 Spaces              |
+| 3              | (INT \* 4) Spaces    | (AGI \* 12) Spaces     | 4 hr                     | 3 Spaces              |
+| 4              | (INT \* 7) Spaces    | (AGI \* 28) Spaces     | 12 hr                    | 4 Spaces              |
+| 5              | (INT \* 11) Spaces   | (AGI \* 55) Spaces     | 3 d                      | 5 Spaces              |
+| 6              | (INT \* 16) Spaces   | (AGI \* 96) Spaces     | 14 d                     | 6 Spaces              |
+| 7              | (INT \* 23) Spaces   | (AGI \* 161) Spaces    | 180 d                    | 7 Spaces              |
+| 8              | (INT \* 30) Spaces   | (AGI \* 240) Spaces    | 5 yr                     | 8 Spaces              |
+| 9              | (INT \* 45) Spaces   | (AGI \* 385) Spaces    | 50 yr                    | 9 Spaces              |
+| 10             | (INT \* 70) Spaces   | (AGI \* 700) Spaces    | 1000 yr                  | 10 Spaces             |
 
 # Reality Bender
 
