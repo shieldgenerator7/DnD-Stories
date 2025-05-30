@@ -1280,23 +1280,35 @@ You sing and dance to cast your spells. Basically, a bard-like subclass.
 
 ### Performance
 
-You can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You learn the following Bond Affinity option:
+You can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You may spend 4 AP to start a performance on your turn, and then you must spend 1 AP on your following turns to sustain the performance. This is independent of and in addition to sustaining any regular spells that you cast.
 
--   Performance: 1 MP. Cast this spell centered on yourself, and target all creatures you can see within range.
+Your performance has a radius up to your Area Radius, and its shape is a circle centered on you. This is know as your performance area. Your performance has a max duration equal to your Spell Duration.
 
-The range of a Performance spell is any range you choose up to your Cast Range. If the Performance spell has an area of effect, the radius is equal to the range you chose for it. A Performance spell is bound by your performance. It is not bound by your Spell Duration; it lasts as long as your performance does, and always ends automatically when your performance ends. You can end the performance whenever you like as a free action, and it ends automatically when you become unable to perform.
+Whenever you start or sustain a performance, you may change:
 
-The Performance spell’s area of effect is always a sphere centered on yourself, ignoring what the spell description says. You can choose if the area of effect includes you or not.
+-   The radius of your performance area, up to your Area Radius
+-   Whether or not your performance area includes you.
 
-The creatures must also be able to see/hear you, depending on which performance style you chose. Creatures that cannot be charmed cannot be targeted or effected by a performance spell.
+You target each creature in your performance’s area of effect, if that creature:
 
-The spell ends on a creatures that leaves the Performance spell’s area of effect early. The Performance spell can target an additional creature after casting if the creature enters the spell’s area of effect.
+-   Can see/hear you, depending on which performance style you chose
+-   Is not immune to being charmed
+
+You learn the following Bond Affinity option:
+
+-   Performance: 1 MP. This spell is bound by your performance, if it has an area of effect or can target one or more creatures.
+
+A Performance spell always has an area of effect matching the area of effect of your performance. A Performance spell is sustained automatically by your performance. However, you may choose to stop sustaining a Performance spell independent of the performance. A performance can only sustain 1 Performance spell at a time. If a Performance spell has a duration of Instantaneous or 1 round, it gets cast every round.
+
+You can’t cast a spell as Performance spell if it doesn’t have an area of effect or the ability to target one or more creatures.
+
+A Performance spell ends on a creatures that leaves your performance area early. A Performance spell targets an additional creature after casting if the creature enters your performance area.
 
 A Performance spell is not effected by the following Bond Affinity options: Reaching, Remote, Lasting, Ashes.
 
 ### Big Show
 
-You can weave your performance into another one. Whenever you stop sustaining a Performance spell, you can cast a new Performance spell, without paying the MP cost of the new spell.
+You can weave your performance into another one. Whenever you stop sustaining a Performance spell, you may spend 2 AP to cast a new Performance spell, without paying the MP cost of the new spell.
 
 The new spell is allowed to be the same spell as the old spell. The MP cost of the new spell must be equal to or less than the MP cost of the old spell plus your CM.
 
@@ -1320,7 +1332,7 @@ Reaction: You use your Big Show feature.
 
 You become multitalented. You can now:
 
--   Sustain 2 additional spells if they’re Performance spells
+-   Sustain 2 Performance spells with the same performance
 -   Your second Performance spell each turn ignores the Multiple Check Penalty
 
 ## Safe Guarder
