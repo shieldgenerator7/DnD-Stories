@@ -139,7 +139,7 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 
 -   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell by 1.
 -   Reuse: 1 MP. The next time you cast this spell, it costs 2 MP less to cast, minimum 0.
--   Quick: 1 MP. Ignore the Multiple Check Penalty for Spell Checks for this spell cast.
+-   Quick: 2 MP. Ignore the Multiple Check Penalty for Spell Checks for this spell cast.
 -   Reactive: 2 MP. Cast this spell as a reaction, even if you didn’t declare a hold action.  
     Trigger: Anything.  
     Reaction: Cast this spell.
@@ -150,7 +150,8 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 -   Reaching: 1 MP. Increase this spell’s cast range by your Cast Range.
 -   Remote: 1 MP. Increase this spell’s tether range by your Tether Range.
 -   Lasting: 1 MP. Increase this spell’s spell duration by your Spell Duration.
--   Ashes: 0 MP. When this spell would automatically disappear, it instead lingers for 1 minute, then disappears.
+-   Wide: 1 MP. Increase this spell’s area radius by your Area Radius, if it has an area of effect.
+-   Lingering: 0 MP. When you stop sustaining this spell, it lingers for 1 minute before it disappears.
 
 ### Attribute Limit Change
 
