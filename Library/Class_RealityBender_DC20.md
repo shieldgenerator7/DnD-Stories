@@ -185,6 +185,10 @@ You may spend 1 minute studying an ongoing spell effect to make a Spell Check. T
 
 Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
+### Bond Affinity Ease
+
+You can more easily apply Bond Affinity options. You may spend 1 AP to reduce the MP cost of a Bond Affinity option by 1. You may do this multiple times per spell. This AP cost still counts against your Mana Spend Limit.
+
 ## Level 5 Class Features
 
 ### Spell Warp
