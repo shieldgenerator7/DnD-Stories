@@ -128,7 +128,7 @@ You may spend AP to gain ADV on this roll like normal.
 
 ## Dispelling Spells
 
-As an action, you may dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent.
+You may spend 1 AP to dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent.
 
 # Reality Bender Class Features
 
@@ -152,7 +152,7 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 -   Reactive: 2 MP. Cast this spell as a reaction, even if you didn’t declare a hold action.  
     Trigger: Anything.  
     Reaction: Cast this spell.
--   Hasty: 2 MP. Cast this spell as an action, if the spell’s cast time is 1 minute.
+-   Hasty: 2 MP. Spend 1 AP to cast this spell, if the spell’s cast time is 1 minute.
 -   Capital: 1 MP. Increase your Mana Spend Limit by 3 for this spell cast.
 -   Animating: 1 MP. Cast this spell without requiring it to be sustained.
 -   Focused: 1 MP. Add your prime modifier to the prime modifier used by this spell cast.
@@ -263,7 +263,7 @@ A creature and/or object remains touched by your chaos until:
 
 -   Its chaos duration expires. The chaos duration is equal to your Spell Duration.
 -   It leaves your Tether Range or is no longer on the same plane as you.
--   It uses its action to make a Mental Check against your spell save DC. Success: it is no longer touched by your chaos.
+-   It spends 1 AP to make a Mental Check against your spell save DC. Success: it is no longer touched by your chaos.
 -   You no longer have CP.
 
 A creature touched by your chaos may spend 1 AP to make a Mental Save against your Spell Save DC. Success: it is no longer touched by your chaos.
@@ -391,7 +391,7 @@ When you apply a Bond Disdain option to a spell that you cast, you may reduce th
 
 ### Easy Dismissal
 
-You have disdain for even your own spells. You may dismiss a spell that you cast as a free action instead of an action.
+You have disdain for even your own spells. You may dismiss a spell that you cast as a free action without spending AP.
 
 ### Level 6 Subclass Features
 
@@ -1113,7 +1113,7 @@ You can react to luck not going your way. You gain the following Bond Affinity o
 
 You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, its MP cost is reduced by 1, minimum 0. If you guess the name and get it exactly right, its MP cost is set to 0.
 
-For example, if you guess that the first letter of the spell is “T”, that its cast time is 1 action, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2.
+For example, if you guess that the first letter of the spell is “T”, that its AP cost is 1, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2.
 
 ### The Trap
 
