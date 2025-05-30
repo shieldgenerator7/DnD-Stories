@@ -25,7 +25,7 @@ version 0.1.1 – 0.0.1
 
 | **Char Level** | **Features**                             | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** |
 |----------------|------------------------------------------|--------------------|---------------------------|--------------------|
-| 1              | Class Features                           | +1                 | +1                        | +1                 |
+| 1              | Class Features                           | +1                 | +2                        | +1                 |
 | 2              | Class Feature, Talent + 1 Path Point     | +1                 | +1                        | +1                 |
 | 3              | Subclass Feature                         |                    |                           | +1                 |
 | 4              | Talent + 1 Path Point, 2 Ancestry Points |                    | +1                        | +1                 |
@@ -34,7 +34,7 @@ version 0.1.1 – 0.0.1
 | 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 |
 | 8              | Class Capstone Feature                   |                    | +1                        | +1                 |
 | 9              | Subclass Capstone Feature                | +1                 |                           | +1                 |
-| 10             | Epic Boon, Talent + 1 Path Point         |                    |                           | +1                 |
+| 10             | Epic Boon, Talent + 1 Path Point         |                    | +1                        | +1                 |
 
 # Spell Casting Table
 
@@ -135,7 +135,7 @@ Reaction: You learn the spell. You must finish a long rest before you are able t
 
 ### Bond Affinity
 
-You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can only apply 1 Bond Affinity option to a spell you cast. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options counts against your Mana Spend Limit.
+You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can only apply 1 Bond Affinity option to a spell you cast. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options count against your Mana Spend Limit.
 
 -   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell by 1.
 -   Reuse: 1 MP. The next time you cast this spell, it costs 2 MP less to cast, minimum 0.
