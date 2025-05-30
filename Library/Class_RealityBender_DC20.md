@@ -103,7 +103,7 @@ Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by
 
 When you cast the spell, you can decide to lower the Cast Range, Spell Duration, Tether Range and/or Area Radius of the spell.
 
-Your spells all require sustaining, even if they don’t explicitly state it. You may cast spells while already sustaining spells, even outside of combat. You may spend 1 AP on each of your turns to sustain multiple spells. You can simultaneously sustain a number of spells equal to your CM. You can’t sustain a spell that is outside your Tether Range or on another plane as you. You can decide which spells to sustain.
+Your spells all require sustaining, even if they don’t explicitly state it. You may cast spells while already sustaining spells, even outside of combat. You may spend 1 AP on each of your turns to sustain multiple spells. You can simultaneously sustain a number of spells up to your CM. You can’t sustain a spell that is outside your Tether Range or on another plane as you. You can decide which spells to sustain.
 
 Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when you stop sustaining them or their duration expires.
 
@@ -150,7 +150,6 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 -   Reaching: 1 MP. Increase this spell’s cast range by your Cast Range.
 -   Remote: 1 MP. Increase this spell’s tether range by your Tether Range.
 -   Lasting: 1 MP. Increase this spell’s spell duration by your Spell Duration.
--   Enduring: 3 MP. This spell doesn’t automatically disappear due to you becoming asleep, unconscious, or dead.
 -   Ashes: 0 MP. When this spell would automatically disappear, it instead lingers for 1 minute, then disappears.
 
 ### Attribute Limit Change
@@ -362,7 +361,6 @@ You can disrupt others who are casting spells in your bonded schools. You may ch
 -   Unfocused: Half the spellcaster’s prime modifier for this spell cast, rounded up.
 -   Weak: Decrease all healing, damage, and temporary hp this spell grants by 1.
 -   Thought Consuming: This spell cast requires sustaining, if it doesn’t already.
--   Ephemeral: This spell cast’s effects are temporary, even if explicitly stated to be permanent. This spell cast automatically dissipates when the caster falls asleep, goes unconscious, or dies.
 -   Bumped: This spell cast costs 1 AP extra. If the caster can’t pay the additional AP cost, the spell fails, still spending any MP already spent.
 -   Slow: This spell cast takes twice as long to cast, if the cast time is 1 minute or more.
 -   Small: Half this spell cast’s radius and/or diameter, if it has an area of effect.
@@ -406,7 +404,7 @@ You can stop imperfections from forming. You may spend 2 AP and 2 MP to create a
 
 You may use your Vindication feature on spells dismissed and/or prevented by your anti-spell fields.
 
-You may have any number of anti-spell fields active at a time. Your anti-spell fields sustain themselves while you’re inside at least 1 of them.
+You may have any number of anti-spell fields active at a time. Your anti-spell fields sustain themselves while you’re inside at least 1 of them, even if you can’t sustain them yourself.
 
 ## Reality Sharer
 
@@ -444,7 +442,7 @@ When you share a spell, you may choose a Bond Affinity option to apply to the sp
 
 While a vessel has a spell, you cannot cast that spell or share it. You can share multiple spells with the same vessel.
 
-A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your prime modifier. The spell is limited by your Mana Spend Limit. If a shared spell requires sustaining, the vessel has to sustain it. Every other reference to “you” or “self” in the shared spell refers to the vessel. A vessel gains the benefits of your spellcasting focus when casting a shared spell. If the vessel has a body part similar to your spellcasting focus body part, it glows your spell casting glow color when they cast a spell.
+A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your prime modifier. The spell is limited by your Mana Spend Limit. The vessel has to sustain it, and can sustain spells up to their CM, using your spell sustaining rules for the spells shared with them. Every other reference to “you” or “self” in the shared spell refers to the vessel. A vessel gains the benefits of your spellcasting focus when casting a shared spell. If the vessel has a body part similar to your spellcasting focus body part, it glows your spell casting glow color when they cast a spell.
 
 Being a vessel isn’t forever. A creature automatically stops being a vessel if any of the following happens:
 
@@ -537,7 +535,7 @@ You can modify yourself daily. Whenever you finish a long rest, you may make a p
 -   Bonded Schools (Level 3). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast them.
 -   Bending Trick (Level 5). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
 -   Ancestry (Level 6). Change part of your ancestry. Gain an Ancestry Trait from any ancestry by losing an Ancestry Trait you already have. The new Ancestry Trait must be of equal or lesser value than the old Ancestry Trait. Optionally, you may choose 2 new Ancestry Traits, as long as their combined total is less than or equal to the old Ancestry Trait’s cost. You may also choose which part of your appearance changes. If you use this option multiple times, your appearance and ancestry can change completely.
--   Spell (Level 7). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must either have a duration longer than Instantaneous and 1 round, or have a range of Self or Touch. The spell costs double the MP it normally would. If the spell fails, the MP are still spent, and so is the use of this feature. If the spell succeeds, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
+-   Spell (Level 7). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently and it doesn’t require sustaining. The spell must either have a duration longer than Instantaneous and 1 round, or have a range of Self or Touch. The spell costs double the MP it normally would. If the spell fails, the MP are still spent, and so is the use of this feature. If the spell succeeds, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
 What changes are available to you depends on your level.
 
@@ -636,7 +634,7 @@ When you an infuse an item, you may instead choose to infuse a lower number of c
 
 An item can only be infused with one spell at a time. If you infuse an infused item with another spell, the new spell overwrites the old spell.
 
-Infused items are infused permanently. They don’t lose their infusion when they leave your Tether Range, and they don’t expire after your Spell Duration. You may spend 1 hour to un-infuse a spell from an item.
+Infused items are infused permanently and don’t require sustaining to remain infused. You may spend 1 hour to un-infuse a spell from an item you infused.
 
 If the infused spell has range of Self, it targets the active user of the item. If the active user changes to another creature during the spell, the target switches to the new active user. If there is no active user, it targets no one, but does not end the spell early.
 
@@ -728,7 +726,7 @@ You have mastery with your Weapon-Formed spells, and you learn all Attack Maneuv
 
 ### Formed Spell Proc
 
-Your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, it casts the Formed spell on them. Any Spell Checks in the spell’s description automatically succeed, and the creature automatically fails any Agility saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise. If the spell requires sustaining, the spell can’t be sustained.
+Your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, it casts the Formed spell on them. Any Spell Checks in the spell’s description automatically succeed, and the creature automatically fails any Agility saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise. If the spell effect is bound by your Spell Duration, you have to sustain it separately from the Formed spell that created it.
 
 ### Armor Conjuration
 
@@ -1046,7 +1044,7 @@ If the Drawn spell can target one or more creatures, it only targets the card ho
 
 You are the caster of these spells, and the card holder is the target.
 
-The deck sustains all sustained Drawn spells drawn from it, and can sustain a number of active spells at a time equal to your CM. A Drawn spell does not automatically end when its deck is destroyed.
+The deck sustains all Drawn spells drawn from it, and can sustain a number of active spells at a time equal to your CM. A Drawn spell does not automatically end when its deck is destroyed.
 
 If you’re willing, other creatures can also use this feature to draw a card. Otherwise, they must try to steal a card to draw one.
 
@@ -1292,13 +1290,13 @@ The creatures must also be able to see/hear you, depending on which performance 
 
 The spell ends on a creatures that leaves the Performance spell’s area of effect early. The Performance spell can target an additional creature after casting if the creature enters the spell’s area of effect.
 
-Your Performance spell requires sustaining, even if the spell doesn’t specifically state it. A Performance spell is not effected by the following Bond Affinity options: Animated, Enduring, Reaching, Remote, Lasting, Ashes.
+A Performance spell is not effected by the following Bond Affinity options: Reaching, Remote, Lasting, Ashes.
 
 ### Big Show
 
-You can weave your performance into another one. Whenever you end your Performance spell as a free action, you can cast a new Performance spell with the same MP cost or lower as the old spell, without paying the MP cost of the new spell.
+You can weave your performance into another one. Whenever you stop sustaining a Performance spell, you can cast a new Performance spell, without paying the MP cost of the new spell.
 
-The new spell is allowed to be the same spell as the old spell.
+The new spell is allowed to be the same spell as the old spell. The MP cost of the new spell must be equal to or less than the MP cost of the old spell plus your CM.
 
 ### Level 6 Subclass Features
 
@@ -1320,7 +1318,7 @@ Reaction: You use your Big Show feature.
 
 You become multitalented. You can now:
 
--   Spend 1 AP to Sustain 2 Performance spells
+-   Sustain 2 additional spells if they’re Performance spells
 -   Your second Performance spell each turn ignores the Multiple Check Penalty
 
 ## Safe Guarder
