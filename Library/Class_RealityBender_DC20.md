@@ -92,13 +92,13 @@ Spells that you cast from your bonded schools have their attributes changed:
 
 Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by your level and modifiers as shown in the spellcasting table.
 
--   Your Cast Range is determined by your INT multiplied by your level’s Cast Range multiplier. The value is in Spaces. The minimum is 1 Space.  
+-   Your Cast Range is determined by your INT multiplied by your level’s Cast Range multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
     EX: If your INT is 3 and you’re level 2, your Cast Range is 6 Spaces
--   Your Tether Range is determined by your AGI multiplied by your level’s Tether Range multiplier. The value is in Spaces. The minimum is 1 Space.  
+-   Your Tether Range is determined by your AGI multiplied by your level’s Tether Range multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
     Ex: If your AGI is 2 and you’re level 3, your Tether Range is 24 Spaces.
--   Your Spell Duration is determined by your CHA multiplied by your level’s Spell Duration multiplier. The value is in minutes. The minimum is 0.2min, which is equivalent to 1 round.  
+-   Your Spell Duration is determined by your CHA multiplied by your level’s Spell Duration multiplier. The value is in minutes. The minimum is a number of rounds equal to your level (5 rounds is 1 min).  
     EX: If your CHA is 4 and you’re level 5, your Spell Duration is 200min, which is equivalent to 3hr 20min.
--   Your Area Radius is determined by your MIG multiplied by your level’s Area Radius multiplier. The value is in Spaces. The minimum is 1 Space.  
+-   Your Area Radius is determined by your MIG multiplied by your level’s Area Radius multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
     EX: If your MIG is 2 and you’re level 7, your Area Radius is 14 Spaces.
 
 When you cast the spell, you can decide to lower the Cast Range, Spell Duration, Tether Range and/or Area Radius of the spell.
