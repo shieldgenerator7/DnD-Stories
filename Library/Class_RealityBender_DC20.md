@@ -38,18 +38,18 @@ version 0.1.1 – 0.0.0
 
 # Spell Casting Table
 
-| **Char Level** | **Cast Range** | **Tether Range** | **Spell Duration** |
-|----------------|----------------|------------------|--------------------|
-| 1              | 3 Spaces       | 6 Spaces         | 5 min              |
-| 2              | 6 Spaces       | 15 Spaces        | 1 hr               |
-| 3              | 12 Spaces      | 36 Spaces        | 4 hr               |
-| 4              | 20 Spaces      | 80 Spaces        | 12 hr              |
-| 5              | 30 Spaces      | 120 Spaces       | 3 d                |
-| 6              | 40 Spaces      | 200 Spaces       | 14 d               |
-| 7              | 60 Spaces      | 1mi              | 180 d              |
-| 8              | 100 Spaces     | 15mi             | 5 yr               |
-| 9              | 200 Spaces     | 1000mi           | 50 yr              |
-| 10             | 1mi            | 1000000mi        | 1000 yr            |
+| **Char Level** | **Cast Range** | **Tether Range** | **Spell Duration** | **Area Radius** |
+|----------------|----------------|------------------|--------------------|-----------------|
+| 1              | 3 Spaces       | 6 Spaces         | 5 min              | 1 Space         |
+| 2              | 6 Spaces       | 15 Spaces        | 1 hr               | 2 Spaces        |
+| 3              | 12 Spaces      | 36 Spaces        | 4 hr               | 3 Spaces        |
+| 4              | 20 Spaces      | 80 Spaces        | 12 hr              | 4 Spaces        |
+| 5              | 30 Spaces      | 120 Spaces       | 3 d                | 5 Spaces        |
+| 6              | 40 Spaces      | 200 Spaces       | 14 d               | 6 Spaces        |
+| 7              | 60 Spaces      | 1mi              | 180 d              | 7 Spaces        |
+| 8              | 100 Spaces     | 15mi             | 5 yr               | 8 Spaces        |
+| 9              | 200 Spaces     | 1000mi           | 50 yr              | 9 Spaces        |
+| 10             | 1mi            | 1000000mi        | 1000 yr            | 10 Spaces       |
 
 # Reality Bender
 
@@ -88,10 +88,11 @@ Spells that you cast from your bonded schools have their attributes changed:
 -   If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range
 -   Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration
 -   If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
+-   If the spell has an area of effect, its radius is equal to your Area Radius.
 
-Your Cast Range, Spell Duration, and Tether Range are determined by your level as shown in the class table.
+Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by your level as shown in the spellcasting table.
 
-When you cast the spell, you can decide to lower the Cast Range, Spell Duration, and/or Tether Range of the spell.
+When you cast the spell, you can decide to lower the Cast Range, Spell Duration, Tether Range and/or Area Radius of the spell.
 
 Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when any of the following happens:
 
@@ -100,7 +101,7 @@ Your spell effects are temporary, even if the spell explicitly states that it is
 -   The spell’s duration expires
 -   You leave the plane
 
-Cantrips from your bonded schools are also bound by your Cast Range, Tether Range, and Spell Duration.
+Cantrips from your bonded schools are also bound by your Cast Range, Tether Range, Spell Duration, and Area Radius.
 
 ## Casting Past Your Mana Spend Limit
 
