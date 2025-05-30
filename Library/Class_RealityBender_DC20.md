@@ -103,14 +103,9 @@ Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by
 
 When you cast the spell, you can decide to lower the Cast Range, Spell Duration, Tether Range and/or Area Radius of the spell.
 
-Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when any of the following happens:
+Your spells all require sustaining, even if they don’t explicitly state it. You may cast spells while already sustaining spells, even outside of combat. You may spend 1 AP on each of your turns to sustain multiple spells. You can simultaneously sustain a number of spells equal to your CM. You can’t sustain a spell that is outside your Tether Range or on another plane as you. You can decide which spells to sustain.
 
--   You fall asleep, go unconscious, or die
--   The center of the spell effect leaves your Tether Range
--   The spell’s duration expires
--   You leave the plane
-
-If the Tether Range of a spell is lower than its Cast Range, and you are not in its Tether Range, the spell ends after 1 round, regardless of its Spell Duration.
+Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when you stop sustaining them or their duration expires.
 
 Cantrips from your bonded schools are also bound by your Cast Range, Tether Range, Spell Duration, and Area Radius.
 
@@ -125,10 +120,6 @@ To dangerously cast a spell, make a Spell Check with a DC equal to 10 plus 3 tim
 Dangerously Cast DC = 10 + ((Mana Spend Limit – MP spent) \* 3)
 
 You may spend AP to gain ADV on this roll like normal.
-
-## Dispelling Spells
-
-You may spend 1 AP to dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent.
 
 # Reality Bender Class Features
 
@@ -199,15 +190,13 @@ Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
 ### Spell Warp
 
-You can change ongoing spells. When you spend AP to dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the MP cost of the new spell must be equal to or less than the MP cost of the old spell.
+You can change ongoing spells. You gain the following reaction:
 
-### Recasting
-
-You can keep your spells going longer. You gain the following reaction:
-
-**Recast**  
+**Spell Warp**  
 Trigger: One of your spells ends.  
-Reaction: You recast the spell on the same target(s), using the same Bond Affinity option(s), spending any necessary MP.
+Reaction: You may cast a spell on the same target(s) without spending AP or MP.
+
+The new spell may be the same spell or a different spell. The new spell must target the same target(s) or area as the old spell, and the MP cost of the new spell must be equal to or less than the MP cost of the old spell.
 
 ## Class Capstone Feature
 
@@ -312,19 +301,21 @@ You learn how to make your spells stable long-term.
 
 You gain the following Bond Affinity option:
 
--   Permanent: 0 MP. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect. Double the MP cost and casting time for this spell cast.
+-   Permanent: 0 MP. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect. This spell doesn’t require sustaining. Double the MP cost and casting time for this spell cast.
+
+Permanent spells don’t require sustaining, even if the spell specifically states that it does. Permanent spells don’t automatically end, even if the spell specifically states that it does.
+
+You can’t use the Permanent Bond Affinity option on a spell that doesn’t have an area of effect.
 
 Permanent spells cost double the MP to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. If a Permanent spell is centered on yourself, another creature, or an object, it is instead centered on a point in space.
 
-You cannot spend AP to dismiss one of your Permanent spells. Instead, you may spend 1 minute and a number of MP equal to the spell’s MP cost to dismiss it. You cannot use this feature to dismiss Permanent spells you did not cast.
+Permanent spells are resistant to being dispelled. If a creature attempts to dispel it, they must make a Spell Check with a DC equal to 10 plus the MP spent to cast it multiplied by your prime modifier at the time of casting. Success: they dispel the spell, provided the other conditions are met. Failure: the Permanent spell still stands.
 
-You may not move a Permanent spell after casting it, even if the spell specifically states that you can.
+Dispel DC: 10 + (MP spent \* (old) CM)
 
-Permanent spells don’t require sustaining. Permanent spells do not dissipate automatically when you leave the plane, fall asleep, go unconscious, or die.
+You may spend 4 AP to dispel a Permanent spell you cast, using the rules outlined above. You gain ADV on this check.
 
-Permanent spells are resistant to being countered and dispelled. If a creature attempts to counter it or dispel it, they must make a Spell Check with a DC equal to 10 plus your prime modifier. Success: they counter or dispel the spell, provided the other conditions are met. Failure: the Permanent spell still stands.
-
-You may use your Area Modulation feature on a Permanent spell that you cast, but you must spend 1 MP to do so.
+You may spend 1 AP and 1 MP to use your Area Modulation feature on a Permanent spell that you cast. You may not move a Permanent spell after casting it, even if the spell specifically states that you can.
 
 ### Level 6 Subclass Features
 
@@ -389,10 +380,6 @@ If a casted spell is a Bending Trick for you, you may apply an additional Bond D
 
 When you apply a Bond Disdain option to a spell that you cast, you may reduce the MP cost of that spell by 1 for each Bond Disdain option that you applied to it.
 
-### Easy Dismissal
-
-You have disdain for even your own spells. You may dismiss a spell that you cast as a free action without spending AP.
-
 ### Level 6 Subclass Features
 
 ### Peace of Mind
@@ -407,7 +394,7 @@ You enjoy the feeling of not being around magic. While there is no magical effec
 
 ### Advanced Spell Unraveling
 
-You learn how to stop reality from breaking. You may spend 1 AP to dismiss any ongoing spell effect, if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
+You learn how to stop reality from breaking. You may spend 1 AP to dispel any ongoing spell effect, if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
 
 You learn how to prevent reality from being broken. You gain ADV when contesting a spell with Spell Duel, and the spell costs 1 AP less and 1 MP less, minimum 0.
 
@@ -415,15 +402,11 @@ You learn how to prevent reality from being broken. You gain ADV when contesting
 
 ### Perfection
 
-You can stop imperfections from forming. You may spend 1 minute and 2 MP to create an anti-spell field at any point within your Cast Range. The anti-spell field has a radius up to your Cast Range and a duration equal to your Spell Duration, and is bound by your Tether Range.
-
-The anti-spell field causes any spell from your bonded schools that is cast in it or that overlaps with it to fail. Existing spells from your bonded schools that overlap with it are dismissed.
+You can stop imperfections from forming. You may spend 2 AP and 2 MP to create an anti-spell field at any point you can see. Like a normal spell, the anti-spell field is bound by your Cast Range, Tether Range, Spell Duration, and Area Radius; and requires sustaining.
 
 You may use your Vindication feature on spells dismissed and/or prevented by your anti-spell fields.
 
-You may have any number of anti-spell fields active at a time. Your anti-spell fields don’t automatically dissipate when you fall asleep, go unconscious, or die.
-
-You may spend 1 AP to dismiss an anti-spell field that is within your Cast Range.
+You may have any number of anti-spell fields active at a time. Your anti-spell fields sustain themselves while you’re inside at least 1 of them.
 
 ## Reality Sharer
 
@@ -505,7 +488,7 @@ Your Spell Sharing feature is enhanced.
 -   You may refresh the vessel duration of any vessel that is within your Tether Range.
 -   Vessels within your Cast Range continuously have their vessel duration refreshed automatically.
 -   Each time a vessel casts a spell that you shared with them, their vessel duration is refreshed.
--   You can spend 1 AP to dismiss any shared spell that one of your vessels had casted.
+-   You can spend 1 AP to dispel any shared spell that one of your vessels had casted.
 
 ### Subclass Capstone Feature
 
@@ -721,17 +704,7 @@ The Formed spell appears as a spectral shape modeled after the piece of equipmen
 
 The Formed spell has max hp, PD, and MD equal to 10 plus its MP cost.
 
-A Formed spell is very volatile, and dissipates at the end of your turn if:
-
--   It has 0 hp or less.
--   It was conjured longer ago than your Spell Duration.
--   It is outside your Tether Range or on another plane.
--   It hit the ground or another creature and you are not holding it.
--   It got hit by another creature and you are not holding it.
--   You are asleep, unconscious, or dead.
--   You spent 1 AP to dismiss it.
-
-A Formed spell does not require sustaining to remain formed. You can have multiple Formed spells in existence at once.
+A Formed spell requires sustaining like normal. It can’t be sustained while it has 0 hp or less or is not being held by a creature. You can have multiple Formed spells in existence at once.
 
 ### Born to Forge
 
@@ -807,7 +780,7 @@ Your combat prowess grows. Your second attack each turn ignores the Multiple Che
 
 ### Violent Dismissal
 
-You figure out how to exploit the volatile nature of your Formed spells. You may spend 1 AP to choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make a Agility save. Success: they take true damage equal to the Formed spell’s MP cost divided by 2, rounded down. Failure: they take true damage equal to the Formed spell’s MP cost and the Formed spell procs your Formed Spell Proc feature on them.
+You figure out how to exploit the volatile nature of your Formed spells. You may spend 1 AP to choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make a Agility save. Success: they take true damage equal to the Formed spell’s MP cost divided by 2. Failure: they take true damage equal to the Formed spell’s MP cost and the Formed spell procs your Formed Spell Proc feature on them.
 
 The Formed spell is destroyed immediately when it explodes.
 
@@ -827,9 +800,7 @@ You don’t really want to participate in reality, and prefer to watch it unfold
 
 ### Bystander
 
-You learn how to keep other people from interacting with you. You may spend 1 AP and 1 MP to make yourself invisible. The duration of this effect is equal to your Spell Duration.
-
-You may spend 1 AP to dismiss this effect.
+You learn how to keep other people from interacting with you. You may spend 1 AP and 1 MP to make yourself invisible. This effect is bound by your Spell Duration and Tether Range, and requires sustaining like a normal spell.
 
 This effect ends automatically if you attack or cast a spell.
 
@@ -850,9 +821,7 @@ You learn how to make yourself less vulnerable. You may spend 1 AP and 1 MP to m
 -   Your attacks don’t deal damage.
 -   Your spells don’t deal damage, don’t heal, don’t grant temporary hp, can’t kill a creature, and can’t revive a creature.
 
-The duration of this effect is equal to your Spell Duration.
-
-You may spend 1 AP to dismiss this effect.
+### This effect is bound by your Spell Duration and Tether Range, and requires sustaining like a normal spell.
 
 ### Level 6 Subclass Features
 
@@ -867,9 +836,7 @@ You can bring guests into your world. You can use your Far Watcher Bending Style
 
 The creature must be willing. If they are not, you can attempt to force the effect on them. If you do, make a Spell check against their Charisma save. Success: the creature is effected.
 
-These effects are also bound by your Tether Range. If a creature under one of these effects leaves your Tether Range, these effects end for that creature.
-
-You may spend 1 AP to target multiple creatures with multiple effects, as long as all are willing and you have the MP for it.
+Because these effects are also bound by your Tether Range, if a creature under one of these effects leaves your Tether Range, these effects end for that creature.
 
 Creatures that you used your Bystander effect on can see each other, and creatures that you used your Safe effect on can interact with each other as normal.
 
@@ -1143,7 +1110,7 @@ You can exhume dead bodies from their resting place. You may spend 1 AP and 1 MP
 
 ### Undead Minions
 
-You gain control of undead minions. They are bound to your Tether Range and Spell Duration. When they expire, they collapse to the ground as the pile of flesh and bones that they are.
+You gain control of undead minions. They are bound to your Tether Range and Spell Duration, but they do not require sustaining. When they expire, they collapse to the ground as the pile of flesh and bones that they are.
 
 A minion also collapses when:
 
@@ -1181,7 +1148,7 @@ Additionally, you gain the following reaction:
 
 **Undead Fortitude**  
 Trigger: You drop to 0hp or less  
-Reaction: You dismiss an undead minion and heal to 1hp.
+Reaction: You disintegrate one of your undead minions and heal to 1hp.
 
 ### Subclass Capstone Feature
 
