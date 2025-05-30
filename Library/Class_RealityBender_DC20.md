@@ -1377,7 +1377,7 @@ You can swiftly respond to threats. Your Damage Mitigation feature now has the f
 
 -   Cast a Safe spell
 
-Additionally, you gain +2 AP extra at the end of your turn. You may only spend this AP on reactions.
+Additionally, you gain +2 AP extra at the end of your turn. This extra AP goes away at the start of your next turn.
 
 ### Subclass Capstone Feature
 
