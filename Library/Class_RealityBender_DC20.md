@@ -57,7 +57,7 @@ Cantrips Know: The number of Cantrips you know increases as shown in the Cantrip
 
 Spells Known: The number of Spells you know increases as shown in the Spells Known column of the Reality Bender Class Table. These can be Spells with or without the Cantrip Spell Tag.
 
-Mana Points: Your maximum number of Mana Points increases as shown in the Mana Points column of the Wizard Class Table.
+Mana Points: Your maximum number of Mana Points increases as shown in the Mana Points column of the Reality Bender Class Table.
 
 ## Spellcasting Focus
 
