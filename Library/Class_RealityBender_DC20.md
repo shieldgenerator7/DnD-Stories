@@ -38,18 +38,18 @@ version 0.1.1 – 0.0.0
 
 # Spell Casting Table
 
-| **Char Level** | **Cast Range (INT)** | **Tether Range (AGI)** | **Spell Duration (CHA)** | **Area Radius (MIG)** |
-|----------------|----------------------|------------------------|--------------------------|-----------------------|
-| 1              | (INT \* 1) Spaces    | (AGI \* 2) Spaces      | 5 min                    | 1 Space               |
-| 2              | (INT \* 2) Spaces    | (AGI \* 4) Spaces      | 1 hr                     | 2 Spaces              |
-| 3              | (INT \* 4) Spaces    | (AGI \* 12) Spaces     | 4 hr                     | 3 Spaces              |
-| 4              | (INT \* 7) Spaces    | (AGI \* 28) Spaces     | 12 hr                    | 4 Spaces              |
-| 5              | (INT \* 11) Spaces   | (AGI \* 55) Spaces     | 3 d                      | 5 Spaces              |
-| 6              | (INT \* 16) Spaces   | (AGI \* 96) Spaces     | 14 d                     | 6 Spaces              |
-| 7              | (INT \* 23) Spaces   | (AGI \* 161) Spaces    | 180 d                    | 7 Spaces              |
-| 8              | (INT \* 30) Spaces   | (AGI \* 240) Spaces    | 5 yr                     | 8 Spaces              |
-| 9              | (INT \* 45) Spaces   | (AGI \* 385) Spaces    | 50 yr                    | 9 Spaces              |
-| 10             | (INT \* 70) Spaces   | (AGI \* 700) Spaces    | 1000 yr                  | 10 Spaces             |
+| **Char Level** | **Cast Range (INT) (Spaces)** | **Tether Range (AGI) (Spaces)** | **Spell Duration (CHA) (min)** | **Area Radius (MIG) (Spaces)** |
+|----------------|-------------------------------|---------------------------------|--------------------------------|--------------------------------|
+| 1              | x1                            | x2                              | x1                             | x1                             |
+| 2              | x2                            | x4                              | x5                             | x2                             |
+| 3              | x4                            | x12                             | x15                            | x3                             |
+| 4              | x7                            | x28                             | x30                            | x4                             |
+| 5              | x11                           | x55                             | x50                            | x5                             |
+| 6              | x16                           | x96                             | x75                            | x6                             |
+| 7              | x23                           | x161                            | x110                           | x7                             |
+| 8              | x30                           | x240                            | x150                           | x8                             |
+| 9              | x45                           | x385                            | x200                           | x9                             |
+| 10             | x70                           | x700                            | x300                           | x10                            |
 
 # Reality Bender
 
