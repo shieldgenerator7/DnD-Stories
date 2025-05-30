@@ -106,7 +106,7 @@ When you cast the spell, you can decide to lower the Cast Range, Spell Duration,
 Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when any of the following happens:
 
 -   You fall asleep, go unconscious, or die
--   The center of the spell effect leaves your tether range
+-   The center of the spell effect leaves your Tether Range
 -   The spell’s duration expires
 -   You leave the plane
 
@@ -435,8 +435,8 @@ You want to help other people create their own realities.
 
 You gain the ability to help others bend reality. You gain the following reaction:
 
-**Bend Spell  
-**Trigger: Another creature within your Cast Range casts a spell from your bonded schools  
+**Bend Spell**  
+Trigger: Another creature within your Cast Range casts a spell from your bonded schools  
 Reaction: You add one of your Bond Affinity options to the spell
 
 You can use your Bend Spell reaction even if a Bond Affinity option has already been applied to it by someone else. You may not apply a Bond Affinity option that has already been applied with your Spell Sharing feature.
