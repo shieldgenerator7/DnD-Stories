@@ -1258,7 +1258,7 @@ Your Mana Spend Limit is increased by your CM. Additionally, whenever you regain
 
 You can will your power back to you. In combat, you can spend 2 AP to focus and regain 1 MP.
 
-Outside of combat, you can focus as long as you want. Focusing for 1 minute without interruption restores 5 MP. You regain MP equal to your MP maximum after a short rest.
+Outside of combat, you can focus for longer. Focusing for 1 minute without interruption restores 5 MP. You regain MP equal to your MP maximum after a short rest.
 
 ### Subclass Capstone Feature
 
