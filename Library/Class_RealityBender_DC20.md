@@ -86,11 +86,20 @@ When you cast spells, this body part glows, shedding dim light in a 1 space radi
 Spells that you cast from your bonded schools have their attributes changed:
 
 -   If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range
--   Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration
 -   If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
+-   Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration
 -   If the spell has an area of effect, its radius is equal to your Area Radius.
 
-Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by your level as shown in the spellcasting table.
+Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by your level and modifiers as shown in the spellcasting table.
+
+-   Your Cast Range is determined by your INT multiplied by your level’s Cast Range multiplier. The value is in Spaces. The minimum is 1 Space.  
+    EX: If your INT is 3 and you’re level 2, your Cast Range is 6 Spaces
+-   Your Tether Range is determined by your AGI multiplied by your level’s Tether Range multiplier. The value is in Spaces. The minimum is 1 Space.  
+    Ex: If your AGI is 2 and you’re level 3, your Tether Range is 24 Spaces.
+-   Your Spell Duration is determined by your CHA multiplied by your level’s Spell Duration multiplier. The value is in minutes. The minimum is 0.2min, which is equivalent to 1 round.  
+    EX: If your CHA is 4 and you’re level 5, your Spell Duration is 200min, which is equivalent to 3hr 20min.
+-   Your Area Radius is determined by your MIG multiplied by your level’s Area Radius multiplier. The value is in Spaces. The minimum is 1 Space.  
+    EX: If your MIG is 2 and you’re level 7, your Area Radius is 14 Spaces.
 
 When you cast the spell, you can decide to lower the Cast Range, Spell Duration, Tether Range and/or Area Radius of the spell.
 
@@ -100,6 +109,8 @@ Your spell effects are temporary, even if the spell explicitly states that it is
 -   The center of the spell effect leaves your tether range
 -   The spell’s duration expires
 -   You leave the plane
+
+If the Tether Range of a spell is lower than its Cast Range, and you are not in its Tether Range, the spell ends after 1 round, regardless of its Spell Duration.
 
 Cantrips from your bonded schools are also bound by your Cast Range, Tether Range, Spell Duration, and Area Radius.
 
