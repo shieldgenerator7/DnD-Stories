@@ -190,6 +190,10 @@ Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
 You can more easily apply Bond Affinity options. You may spend 1 AP to reduce the MP cost of a Bond Affinity option by 1. You may do this multiple times per spell. This AP cost still counts against your Mana Spend Limit.
 
+### Quick Casting
+
+You can easily cast quick spells. Whenever you cast a spell, if the total AP cost of that spell is 1, you can ignore the Multiple Check Penalty for that spell cast.
+
 ## Level 5 Class Features
 
 ### Spell Warp
