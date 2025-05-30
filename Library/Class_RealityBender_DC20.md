@@ -23,19 +23,33 @@ version 0.1.1 – 0.0.0
 
 # Reality Bender Table
 
-|                |                                          |                    |                           |                    | **Spell Casting** |                  |                    |
-|----------------|------------------------------------------|--------------------|---------------------------|--------------------|-------------------|------------------|--------------------|
-| **Char Level** | **Features**                             | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1              | Class Features                           | +1                 | +1                        | +1                 | 3 Spaces          | 6 Spaces         | 5 min              |
-| 2              | Class Feature, Talent + 1 Path Point     | +1                 | +1                        | +1                 | 6 Spaces          | 15 Spaces        | 1 hr               |
-| 3              | Subclass Feature                         |                    |                           | +1                 | 12 Spaces         | 36 Spaces        | 4 hr               |
-| 4              | Talent + 1 Path Point, 2 Ancestry Points |                    | +1                        | +1                 | 20 Spaces         | 80 Spaces        | 12 hr              |
-| 5              | Class Feature                            | +1                 |                           | +1                 | 30 Spaces         | 120 Spaces       | 3 d                |
-| 6              | Subclass Feature                         |                    | +1                        | +1                 | 40 Spaces         | 200 Spaces       | 14 d               |
-| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 | 60 Spaces         | 1mi              | 180 d              |
-| 8              | Class Capstone Feature                   |                    | +1                        | +1                 | 100 Spaces        | 15mi             | 5 yr               |
-| 9              | Subclass Capstone Feature                | +1                 |                           | +1                 | 200 Spaces        | 1000mi           | 50 yr              |
-| 10             | Epic Boon, Talent + 1 Path Point         |                    |                           | +1                 | 1mi               | 1000000mi        | 1000 yr            |
+| **Char Level** | **Features**                             | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** |
+|----------------|------------------------------------------|--------------------|---------------------------|--------------------|
+| 1              | Class Features                           | +1                 | +1                        | +1                 |
+| 2              | Class Feature, Talent + 1 Path Point     | +1                 | +1                        | +1                 |
+| 3              | Subclass Feature                         |                    |                           | +1                 |
+| 4              | Talent + 1 Path Point, 2 Ancestry Points |                    | +1                        | +1                 |
+| 5              | Class Feature                            | +1                 |                           | +1                 |
+| 6              | Subclass Feature                         |                    | +1                        | +1                 |
+| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 |
+| 8              | Class Capstone Feature                   |                    | +1                        | +1                 |
+| 9              | Subclass Capstone Feature                | +1                 |                           | +1                 |
+| 10             | Epic Boon, Talent + 1 Path Point         |                    |                           | +1                 |
+
+# Spell Casting Table
+
+| **Char Level** | **Cast Range** | **Tether Range** | **Spell Duration** |
+|----------------|----------------|------------------|--------------------|
+| 1              | 3 Spaces       | 6 Spaces         | 5 min              |
+| 2              | 6 Spaces       | 15 Spaces        | 1 hr               |
+| 3              | 12 Spaces      | 36 Spaces        | 4 hr               |
+| 4              | 20 Spaces      | 80 Spaces        | 12 hr              |
+| 5              | 30 Spaces      | 120 Spaces       | 3 d                |
+| 6              | 40 Spaces      | 200 Spaces       | 14 d               |
+| 7              | 60 Spaces      | 1mi              | 180 d              |
+| 8              | 100 Spaces     | 15mi             | 5 yr               |
+| 9              | 200 Spaces     | 1000mi           | 50 yr              |
+| 10             | 1mi            | 1000000mi        | 1000 yr            |
 
 # Reality Bender
 
