@@ -1280,7 +1280,7 @@ You sing and dance to cast your spells. Basically, a bard-like subclass.
 
 ### Performance
 
-You can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You may spend 4 AP to start a performance on your turn, and then you must spend 1 AP on your following turns to sustain the performance. This is independent of and in addition to sustaining any regular spells that you cast.
+You can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You may spend 4 AP and 2 MP to start a performance on your turn, and then you must spend 1 AP and 1 MP on your following turns to sustain the performance. This is independent of and in addition to sustaining any regular spells that you cast.
 
 Your performance has a radius up to your Area Radius, and its shape is a circle centered on you. This is know as your performance area. Your performance has a max duration equal to your Spell Duration.
 
@@ -1306,6 +1306,8 @@ A Performance spell ends on a creatures that leaves your performance area early.
 
 A Performance spell is not effected by the following Bond Affinity options: Reaching, Remote, Lasting, Ashes.
 
+Whenever a creature is effected by one of your Performance spells, you regain 1 MP.
+
 ### Big Show
 
 You can weave your performance into another one. Whenever you stop sustaining a Performance spell, you may spend 2 AP to cast a new Performance spell, without paying the MP cost of the new spell.
@@ -1320,7 +1322,7 @@ You learn how to feed off of applause. A creature in your area of effect may spe
 
 ### The Show Must Go On
 
-You can endure through encounters despite hecklers. You have Dazed Resistance while Sustaining a Performance spell. Additionally, you gain the following reaction:
+You can endure through encounters despite hecklers. You have Dazed Resistance while Sustaining a performance. Additionally, you gain the following reaction:
 
 **Show Stopper**  
 Trigger: Anything  
