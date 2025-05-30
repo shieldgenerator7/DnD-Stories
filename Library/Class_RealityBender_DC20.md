@@ -1113,7 +1113,7 @@ You can react to luck not going your way. You gain the following Bond Affinity o
 
 You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, its MP cost is reduced by 1, minimum 0. If you guess the name and get it exactly right, its MP cost is set to 0.
 
-For example, if you guess that the first letter of the spell is “T”, that its AP cost is 1, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2.
+For example, if you guess that the first letter of the spell is “T”, that its AP cost is 1, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2. You may make a number of guesses about the spell up to your CM.
 
 ### The Trap
 
