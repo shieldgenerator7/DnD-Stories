@@ -150,3 +150,18 @@ You speak the name of a tea, and a tea cup filled with fresh tea of that kind ap
 As an object interaction, you may sip it to restore 1d4 hp.
 
 The tea is bound to you. If anyone touches the cup, the cup disappears. If the tea is spilled, it vanishes before it hits the ground.
+
+# Death Spotting
+
+1st-level Divination
+
+Casting Time: 1 bonus action
+
+Range: 30ft
+
+Components: V, S
+
+Duration: 24 hours
+
+Up to 3 creatures you can see within range are warded. While they are warded, if they drop to 0 hit points or less, all creatures within 10ft of them take 1d4 radiant damage and are lit up for 1 minute. The creature that last hit the warded creature is lit up for 24 hours. While a creature is lit up, attack rolls against them have advantage, and they have disadvantage on Dexterity saving throws against harmful spell effects.
+
