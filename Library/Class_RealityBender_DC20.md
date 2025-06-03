@@ -23,18 +23,18 @@ version 0.1.1 – 0.0.2
 
 # Reality Bender Table
 
-| **Char Level** | **Features**                             | **Bonded Schools** | **Bond Affinity Options** | **Bending Tricks** |
-|----------------|------------------------------------------|--------------------|---------------------------|--------------------|
-| 1              | Class Features                           | +1                 | +2                        | +1                 |
-| 2              | Class Feature, Talent + 1 Path Point     | +1                 | +1                        | +1                 |
-| 3              | Subclass Feature                         |                    |                           | +1                 |
-| 4              | Talent + 1 Path Point, 2 Ancestry Points |                    | +1                        | +1                 |
-| 5              | Class Feature                            | +1                 |                           | +1                 |
-| 6              | Subclass Feature                         |                    | +1                        | +1                 |
-| 7              | Talent +1 Path Point, 2 Ancestry Points  |                    |                           | +1                 |
-| 8              | Class Capstone Feature                   |                    | +1                        | +1                 |
-| 9              | Subclass Capstone Feature                | +1                 |                           | +1                 |
-| 10             | Epic Boon, Talent + 1 Path Point         |                    | +1                        | +1                 |
+| **Char Level** | **Features**                             | **Bond Affinity Options** | **Bending Tricks** |
+|----------------|------------------------------------------|---------------------------|--------------------|
+| 1              | Class Features                           | +2                        | +1                 |
+| 2              | Class Feature, Talent + 1 Path Point     | +1                        | +1                 |
+| 3              | Subclass Feature                         |                           | +1                 |
+| 4              | Talent + 1 Path Point, 2 Ancestry Points | +1                        | +1                 |
+| 5              | Class Feature                            |                           | +1                 |
+| 6              | Subclass Feature                         | +1                        | +1                 |
+| 7              | Talent +1 Path Point, 2 Ancestry Points  |                           | +1                 |
+| 8              | Class Capstone Feature                   | +1                        | +1                 |
+| 9              | Subclass Capstone Feature                |                           | +1                 |
+| 10             | Epic Boon, Talent + 1 Path Point         | +1                        | +1                 |
 
 # Spell Casting Table
 
@@ -65,7 +65,7 @@ This class grants you no additional starting equipment.
 
 Combat Training: None
 
-Spell List: You choose 1 school of magic. This is your Bonded School. When you learn a new Spell, you can choose any Spell from your Bonded School. You bond to more schools as you level up, as shown in the Reality Bender Class Table.
+Spell List: You choose 1 school of magic. This is your Bonded School. When you learn a new Spell, you can choose any Spell from your Bonded School.
 
 Cantrips Known: The number of Cantrips you know increases as shown in the Cantrips Known column of the Reality Bender Class Table. Cantrips are Spells with the Cantrip Spell Tag.
 
@@ -180,6 +180,10 @@ The new spell may be the same spell or a different spell. The new spell must tar
 You gain command of your spells more easily. You may choose a new Bending Trick spell at the start of every month, not just when you level up.
 
 ## Class Talents
+
+### Expanded Bonded School
+
+Choose 1 additional Spell School that also counts as your bonded school. You can’t choose the same School more than once.
 
 ### Arcane Growth
 
