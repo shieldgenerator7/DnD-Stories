@@ -918,7 +918,7 @@ You have an affinity for one element in particular, and you can weave it into yo
 
 ### Elemental Attunement
 
-You attune to a particular element. Choose a damage type: fire, cold, lightning, sonic, poison, corrosion, psychic, radiant, or umbral. This becomes your attuned element. You may attune to an additional element at level 9.
+You attune to a particular element. Choose a damage type: fire, cold, lightning, sonic, poison, corrosion, psychic, radiant, or umbral. This becomes your attuned element.
 
 Your weapon attacks within your Cast Range deal an additional 1 damage of the type of your attuned element.
 
@@ -936,45 +936,39 @@ When you deal damage of your attuned element to another creature, you regain 1 M
 
 You gain various bonuses, depending on your attuned element:
 
--   Cold: As a free action, you can move one of your ongoing area of effect spells within Cast Range up to your movement speed on your turn.
+-   Cold: Whenever you deal damage to a creature, they must make a Physical Save. Failure: They become Impaired and Hindered.
 -   Fire: When you deal damage, double the damage.
 -   Lightning: Single target spells can be cast without the Multiple Check Penalty.
 -   Sonic: Every action you take is incredibly loud. Creatures within your Cast Range gain ADV on Stealth rolls, and you gain ADV on Perception checks.
--   Poison: Damaging a creature imposes DisADV to their next check or save.
+-   Poison: Damaging a creature imposes DisADV to their next Check or Save.
 -   Corrosion: Damaging a creature lowers their PD and AD by 1. This effect can stack.
 -   Radiant: Spells you cast and targets you effect shed light in a 1 Space radius. Creatures have ADV when attacking a target you’re lighting up.
--   Umbral: When you Umbral damage to a creature, it becomes marked. A marked creature takes an extra 1 Umbral damage whenever they take damage of another type. This effect can stack.
+-   Umbral: When you deal Umbral damage to a creature, it becomes marked. A marked creature takes an extra 1 Umbral damage whenever they take damage of another type. This effect can stack.
 -   Psychic: When you damage a creature, it must choose one feature or spell that it has. It can’t use that chosen feature or spell.
 
 These effects are bound by your Spell Duration and Tether Range.
 
 ### Elemental Armor
 
-You learn to protect yourself from your own element. You gain the following defenses from your own element, based on your level, as shown in the table below:
+You learn to protect yourself from your own element. You gain Resistance (X) to your element, where X is your CM. Additionally, you gain the following reaction:
 
-| Char Level | Defenses          |
-|------------|-------------------|
-| 3          | Resistance (Half) |
-| 6          | Immunity          |
-| 9          | Absorption        |
+**Elemental Armor  
+**Trigger: You would take damage of your elemental type.  
+Reaction: You spend 2 MP to grant yourself Immunity to it, or you spend 5 MP to grant yourself Absorption to it.
 
 ### Elemental Piercing
 
-At level 3, you learn to overcome defenses to your element. If a creature takes normal damage from your elemental damage type, you can instead deal damage to it as if it is vulnerable to your elemental damage type.
+You learn to overcome defenses to your element. You learn the following Bond Affinity options:
 
-At level 6, you can damage a creature with resistance to your elemental damage type as if it didn’t have resistance.
-
-At level 9, you can damage a creature with immunity to your elemental damage type as if it had resistance.
+-   Pierce Elemental Normal: (1 MP) Your elemental damage of this spell deals damage to the target as if the target had Vulnerability (X), where X is your CM, if the target usually receives normal damage from your element.
+-   Pierce Elemental Resistance: (2 MP) Your elemental damage of this spell deals damage to the target as if the target didn’t have Resistance, if the target has Resistance to your element.
+-   Pierce Elemental Vulnerability: (3 MP) Your elemental damage of this spell deals damage to the target as if the target had Resistance (Half), if the target has Immunity to your element.
 
 ### Level 6 Subclass Features
 
 ### Elemental Trick
 
-You become familiar with certain spells.
-
 Spells that deal damage of your attuned element cost 1 MP less to cast. Bending Tricks that deal damage of your attuned element are considered an Elemental Bending Trick. Elemental Bending Tricks cost an additional 1 MP less to cast.
-
-Additionally, you may end one of your active Elemental Bending Tricks as a free action.
 
 ### Combo Moves
 
@@ -992,9 +986,11 @@ Both may use the same base spell. The second Elemental Bending Trick’s MP cost
 
 You master your element.
 
-You can add any number of bond affinity options to a spell that deals damage of your attuned element.
+Bending: Your Mana Spend Limit for casting Elemental Bending Tricks increases by your CM.
 
-You can add any number of additional bond affinity options to a spell that you applied the Elemental bond affinity option to.
+Trance State: You may spend 4 AP to gain Absorption to your element for a number of rounds equal to your CM. During this time, you gain an equal amount of MP whenever you gain HP. You may use this once per long rest, but may use it again when you roll initiative.
+
+Meditation: You may spend 10 minutes meditating with your element to regain all MP.
 
 ## Card Bender
 
