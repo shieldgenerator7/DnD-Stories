@@ -501,7 +501,7 @@ You are a self-made person, literally. You modified your being and can modify it
 
 ### Shape Self
 
-You can modify yourself daily. Whenever you finish a long rest, you may make a permanent change to yourself:
+You can modify yourself daily. Whenever you finish a long rest, you may choose one option to make a permanent change to yourself:
 
 -   Appearance. You may change part of your appearance. Ex: the colors of your eyes, skin, hair/fur, racial markers, etc; your height, weight; facial hair, hair coverage, hairiness, facial shape; etc. This appearance change does not have any mechanical effect.
 -   Vulnerability. Gain vulnerability to a damage type by losing vulnerability to a damage type you already have.
@@ -512,9 +512,9 @@ You can modify yourself daily. Whenever you finish a long rest, you may make a p
 -   Affinity. Switch out a Bond Affinity option you know with another one you don’t know.
 -   Attribute (Level 2). Increase an attribute by 1, by decreasing another attribute by 1.
 -   Bonded Schools (Level 3). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast them.
--   Bending Trick (Level 5). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
+-   Bending Trick (Level 5). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same Bending Trick level.
 -   Ancestry (Level 6). Change part of your ancestry. Gain an Ancestry Trait from any ancestry by losing an Ancestry Trait you already have. The new Ancestry Trait must be of equal or lesser value than the old Ancestry Trait. Optionally, you may choose 2 new Ancestry Traits, as long as their combined total is less than or equal to the old Ancestry Trait’s cost. You may also choose which part of your appearance changes. If you use this option multiple times, your appearance and ancestry can change completely.
--   Spell (Level 7). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently and it doesn’t require sustaining. The spell must either have a duration longer than Instantaneous and 1 round, or have a range of Self or Touch. The spell costs double the MP it normally would. If the spell fails, the MP are still spent, and so is the use of this feature. If the spell succeeds, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
+-   Spell (Level 7). Cast a spell you know from your Bonded School that targets only you. You gain the effects of the spell permanently and it doesn’t require Sustaining. The spell must either have a duration longer than Instant and 1 round, or have a range of Self or Touch. The spell costs double the MP it normally would. If the spell fails, the MP are still spent, and so is the use of this feature. If the spell succeeds, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
 What changes are available to you depends on your level.
 
@@ -528,9 +528,9 @@ You can always include yourself. Spells that you cast that target you cost 1 MP 
 
 ### Level 6 Subclass Features
 
-### Improved Ability Score
+### Improved Attribute Limit
 
-Your Attribute limit increases by your CM. Whenever you level up, you may increase an additional Attribute by 1.
+Your Attribute Limit increases by your CM. Whenever you level up, you may increase an additional Attribute by 1.
 
 ### Quick Self Cast
 
@@ -544,7 +544,7 @@ Reaction: You cast a spell that targets only you.
 
 ### Identity
 
-You can modify yourself even more easily. Whenever you cast a spell that targets only yourself, it costs 2 MP less to cast and your Mana Spend Limit is increased by your CM for this spell cast.
+You can modify yourself even more easily. Whenever you cast a spell that targets only yourself, it costs 2 MP less to cast, minimum 0, and your Mana Spend Limit is increased by your CM for this spell cast.
 
 Additionally, when you cast a spell as part of your Shape Self feature, that spell costs 5 MP less to cast, minimum 0.
 
