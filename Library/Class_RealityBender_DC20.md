@@ -111,7 +111,22 @@ Your spell effects are temporary, even if the spell explicitly states that it is
 
 Cantrips from your bonded schools are also bound by your Cast Range, Tether Range, Spell Duration, and Area Radius.
 
-## Casting Past Your Mana Spend Limit
+# Reality Bender Class Features
+
+## Level 1 Class Features
+
+### Bending Trick
+
+You know a spell so well you can cast it with ease. Choose a spell you know. Increase its Bending Trick level by 1, leveling it up. It then counts as a Bending Trick for you.
+
+When you cast a Bending Trick, you:
+
+-   Increase your Mana Spend Limit by the spell’s Bending Trick level for this spell cast.
+-   Decrease its MP cost by its Bending Trick level, minimum 0. This cost reduction still counts against your Mana Spend Limit.
+
+When you level up, you can increase the Bending Trick level of one of your spells by 1, as shown in the class table.
+
+### Casting Past Your Mana Spend Limit
 
 If the MP you want to spend on a spell is within your Mana Spend Limit, you can safely cast it.
 
@@ -123,9 +138,20 @@ Dangerously Cast DC = 10 + ((Mana Spend Limit – MP spent) \* 3)
 
 You may spend AP to gain ADV on this roll like normal.
 
-# Reality Bender Class Features
+### Attribute Limit Change
 
-## Level 1 Class Features
+Your Attribute Limit is replaced with the following table:
+
+| PC Level | Attribute Limit |
+|----------|-----------------|
+| 1        | +2              |
+| 3        | +3              |
+| 5        | +4              |
+| 7        | +5              |
+| 10       | +6              |
+| 15       | +7              |
+| 17       | +8              |
+| 20       | +9              |
 
 ### Reality Observer (Flavor Feature)
 
@@ -140,6 +166,8 @@ Success (10): You learn the spell.
 Failure: You don’t learn the spell, but you gain ADV on your next check to learn it.
 
 Reality Observer DC = 10 + spell’s MP cost – Mana Spend Limit
+
+## Level 2 Class Features
 
 ### Bond Affinity
 
@@ -160,34 +188,6 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 -   Lasting: 1 MP. Increase this spell’s spell duration by your Spell Duration.
 -   Wide: 1 MP. Increase this spell’s area radius by your Area Radius, if it has an area of effect.
 -   Lingering: 0 MP. When you stop sustaining this spell, it lingers for 1 minute before it disappears.
-
-### Attribute Limit Change
-
-Your Attribute Limit is replaced with the following table:
-
-| PC Level | Attribute Limit |
-|----------|-----------------|
-| 1        | +2              |
-| 3        | +3              |
-| 5        | +4              |
-| 7        | +5              |
-| 10       | +6              |
-| 15       | +7              |
-| 17       | +8              |
-| 20       | +9              |
-
-### Bending Trick
-
-You know a spell so well you can cast it with ease. Choose a spell you know. Increase its Bending Trick level by 1, leveling it up. It then counts as a Bending Trick for you.
-
-When you cast a Bending Trick, you:
-
--   Increase your Mana Spend Limit by the spell’s Bending Trick level for this spell cast.
--   Decrease its MP cost by its Bending Trick level, minimum 0. This cost reduction still counts against your Mana Spend Limit.
-
-When you level up, you can increase the Bending Trick level of one of your spells by 1, as shown in the class table.
-
-## Level 2 Class Features
 
 ### Reality Studier (Flavor Features)
 
