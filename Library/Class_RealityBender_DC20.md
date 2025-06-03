@@ -674,7 +674,7 @@ The Formed spell appears as a spectral shape modeled after the piece of equipmen
 
 The Formed spell has max hp, PD, and MD equal to 10 plus its MP cost.
 
-A Formed spell requires sustaining like normal. It can’t be sustained while it has 0 hp or less or is not being held by a creature. You can have multiple Formed spells in existence at once.
+A Formed spell requires Sustaining like normal. It can’t be Sustained while it has 0 hp or less or is not being held by a creature. You can have multiple Formed spells in existence at once.
 
 ### Born to Forge
 
@@ -694,21 +694,21 @@ A Weapon-Formed spell counts as a Formed spell and follows the same rules as out
 
 When you conjure a Weapon-Formed spell, it comes formed as the chosen weapon that you remembered, with the same damage and properties, but with true damage as the damage type. When it hits, it procs your Formed Spell Proc feature on the target. If it is ranged, it magically conjures its own ammo, and its close range and max range is your Cast Range and Tether Range, respectively. If it is thrown, its close range and max range is your Cast Range and Tether Range, respectively.
 
-You have mastery with your Weapon-Formed spells, and you learn all Attack Maneuvers. Other creatures may also have mastery with them, if it is in the form of a weapon that they have proficiency with.
+You have mastery with your Weapon-Formed spells, and you learn all Attack Maneuvers. Other creatures may also have mastery with them, if it is in the form of a weapon that they have mastery with.
 
 ### Formed Spell Proc
 
-Your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, it casts the Formed spell on them. Any Spell Checks in the spell’s description automatically succeed, and the creature automatically fails any Agility saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise. If the spell effect is bound by your Spell Duration, you have to sustain it separately from the Formed spell that created it.
+Your Formed spells can cast themselves on a target. When a Formed spell procs this feature on a creature, it casts the Formed spell on them. Any Spell Checks in the spell’s description automatically succeed, and the creature automatically fails any Agility saving throws in the spell’s description. The spell may only target the single creature, even if the spell description says otherwise. If the spell effect is bound by your Spell Duration, you have to Sustain it separately from the Formed spell that created it.
 
 ### Armor Conjuration
 
 You learn to protect yourself with your spells. You learn the following Bond Affinity option:
 
--   Armor-Formed: 2 MP. Conjure this spell cast into a piece of armor you remember and don it, if the spell can target one or more creatures, and has a duration longer than Instantaneous and 1 round.
+-   Armor-Formed: 2 MP. Conjure this spell cast into a piece of armor you remember and don it, if the spell can target one or more creatures, and has a duration longer than Instant and 1 round.
 
 An Armor-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
-When you conjure an Armor-Formed spell, it comes formed as the chosen piece of armor that you remembered, with the same PD and AD bonus, but no movement or ability penalty. You can choose to conjure it on a willing creature within your Cast Range instead of yourself.
+When you conjure an Armor-Formed spell, it comes formed as the chosen piece of armor that you remembered, with the same PD and AD bonus, but no movement or ability penalty. You can choose to conjure it on a willing creature you touch instead of yourself.
 
 Whenever you don an Armor-Formed spell, it procs your Formed Spell Proc feature on you. The spell lasts while the armor is donned, and ends automatically when the armor is doffed or it dissipates.
 
@@ -716,7 +716,10 @@ You can only wear one Armor-Formed spell at a time. If you don an Armor-Formed s
 
 You have training with your Armor-Formed spells. Other creatures may also have training with them, if it is in the form of a piece of armor that they have training with.
 
-You can force armor onto unwilling creatures. You may attempt to use your Armor Conjuration feature on an unwilling creature, spending MP as normal. Make a Spell check against the creature’s Charisma save. Success: your conjuration succeeds. Failure: your conjuration fails but you still spend the MP.
+You can force armor onto unwilling creatures. You may attempt to use your Armor Conjuration feature on an unwilling creature, spending MP as normal. Make a Spell check against the creature’s Charisma Save.
+
+Success: You conjure the armor on the unwilling creature.  
+Failure: You fail to conjure the armor, but you still spend the MP.
 
 ### Shield Conjuration
 
@@ -750,13 +753,14 @@ Your combat prowess grows. Your second attack each turn ignores the Multiple Che
 
 ### Violent Dismissal
 
-You figure out how to exploit the volatile nature of your Formed spells. You may spend 1 AP to choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make a Agility save. Success: they take true damage equal to the Formed spell’s MP cost divided by 2. Failure: they take true damage equal to the Formed spell’s MP cost and the Formed spell procs your Formed Spell Proc feature on them.
+You figure out how to exploit the volatile nature of your Formed spells. You may spend 1 AP to choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make an Agility Save.
+
+Success: The target takes true damage equal to your CM.  
+Failure: The target takes true damage equal to your CM and the Formed spell procs your Formed Spell Proc feature on them.
 
 The Formed spell is destroyed immediately when it explodes.
 
-You may target a Formed spell with this feature even if it is outside your Cast Range or Tether Range.
-
-You can get one last use out of your Formed spells. You gain the following reaction:
+Additionally, you gain the following reaction:
 
 **Last Word**  
 Trigger: One or more of your Formed spells is about to end, or you or another creature you can see dies  
