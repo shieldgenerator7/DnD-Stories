@@ -217,68 +217,56 @@ You bend reality so much that things stop making sense.
 
 ### Level 3 Subclass Features
 
-### Chaos Buildup
+### Chaos
 
-You start losing control of your abilities. You gain chaos points (CP) at an alarming rate, that builds up overtime, with no maximum value. As you level up, the rate increases.
+Buildup: Whenever you finish a long rest, you gain Chaos Points equal to your CM. While you have Chaos Points, you are innately Chaotic.
 
-| Level | Chaos Buildup Rate |
-|-------|--------------------|
-| 3     | 1/hour             |
-| 6     | 1/minute           |
-| 9     | 1/round            |
+Release: You may spend Chaos Points to pay for a spell’s MP cost. This makes the spell Chaotic.
 
-Additionally, whenever you or a creature touched by your chaos casts a spell from your bonded schools, you gain 1 CP.
+Spread: Spells cast by a Chaotic creature also become Chaotic. Targets and area effected by a Chaotic spell also become Chaotic.
 
-You don’t gain CP from this feature while unconscious.
+Feedback: Whenever a Chaotic creature spends MP to cast a spell from your Bonded School, you gain 1 Chaos Point.
 
-### Chaos Release
+Burn: At the start of your turn, make a Spell Check against the AD of all Chaotic creatures. Hit: The target takes true damage equal to your Chaos Points minus your Mana Spend Limit.
 
-You can let out your chaotic urges. You gain the following reaction:
+Revert: When you are no longer Sustaining any Chaotic spells, all other creatures and spells that you made Chaotic are no longer Chaotic.
 
-**Chaos Release**  
-Trigger: You gain CP.  
-Reaction: You cast a spell you know from your bonded schools.
+### Chaotic Aura (Flavor Feature)
 
-You gain the following Bond Affinity option:
-
--   Chaotic: 0 MP. Spend CP for this spell cast instead of MP. Touch this spell cast with your chaos, also touching creatures effected by this spell cast with your chaos.
-
-You don’t gain CP from casting a Chaotic spell.
+Things always seem to go wrong around you. Creatures within your Cast Range that you are looking at gain DisADV on all Saves.
 
 ### Level 6 Subclass Features
 
-### Chaos Spread
+### Chaotic Trigger
 
-You can’t contain your chaos as it spreads.
+You can let out your chaotic urges on a dime. You gain the following reaction:
 
-When a creature touched by your chaos casts a spell or makes an attack, that spell or attack is also touched by your chaos. A spell that is touched by your chaos causes everything it targets or in its area of effect to also be touched by your chaos. An attack that is touched by your chaos causes its target to also be touched by your chaos, if it hits.
-
-A creature and/or object remains touched by your chaos until:
-
--   Its chaos duration expires. The chaos duration is equal to your Spell Duration.
--   It leaves your Tether Range or is no longer on the same plane as you.
--   It spends 1 AP to make a Mental Check against your spell save DC. Success: it is no longer touched by your chaos.
--   You no longer have CP.
-
-A creature touched by your chaos may spend 1 AP to make a Mental Save against your Spell Save DC. Success: it is no longer touched by your chaos.
-
-### Chaos Burn
-
-Your chaos starts undoing reality. Whenever you gain CP, you and things touched by your chaos take true damage, spread evenly amongst all targets. The amount of true damage is equal to your CP minus your MP maximum, minimum of 0.
+**Chaos Trigger**  
+Trigger: You gain Chaos Points.  
+Reaction: You cast a Bonded School spell you know.
 
 ### Chaos Modifier
 
-Your chaos effects your ability to cast effective spells. While you have CP, your prime modifier is equal to your CP.
+Your chaos effects your spell power. While you have Chaos Points, your Prime Modifier is equal to your Chaos Points.
+
+### Wrong Spell
+
+Whenever a Chaotic creature fails a Spell Check, choose a random spell that they know, and use the relevant Failure or Miss option from that spell as if they had casted that spell instead.
 
 ### Subclass Capstone Feature
 
 ### Chaotic Luck
 
-Outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, and you have CP, if it is rolled by you or an effect or creature that is touched by your chaos, its value is warped. If the result is odd, you add your prime modifier to it. If the result is even, you subtract your spell casting ability modifier from it. The result may go above 20 or below 0.
+Outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled by a Chaotic creature, its value is warped. If the result is odd, you add your Prime Modifier to it. If the result is even, you subtract your Prime Modifier from it.
 
 ### Lag
 
-Time starts moving at random speeds. At the start of its turn, a creature touched by your chaos must make a Physical Save, with a DC equal to 8 plus your prime modifier. Success: nothing happens. Success (each 5): it gets +1 AP this turn. Failure: it gets -1 AP this turn. Failure (each 5): it gets -1 AP this turn.
+Time starts moving at random speeds. At the start of its turn, a Chaotic creature must make a Physical or Mental Save of their choice:
+
+Success: Nothing happens.  
+Success (each 5): They get +1 AP this turn.  
+Failure: Nothing happens.  
+Failure (each 5): They get -1 AP this turn.
 
 ## Reality Forger
 
