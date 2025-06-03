@@ -213,7 +213,7 @@ You can easily cast quick spells. Whenever you cast a spell, if the total AP cos
 
 ### Bond Affinity Ease
 
-*Requires Bond Affinity, level 3.*
+*Requires Bond Affinity, Level 3.*
 
 You can more easily apply Bond Affinity options. You may spend 1 AP to reduce the cost of a Bond Affinity option by 1 MP. You may do this multiple times per spell. This AP cost still counts against your Mana Spend Limit.
 
