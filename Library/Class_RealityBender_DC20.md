@@ -205,7 +205,9 @@ You can more easily apply Bond Affinity options. You may spend 1 AP to reduce th
 
 *Requires Bond Affinity, Level 3.*
 
-Whenever you finish a long rest, you may switch out a Bond Affinity option you know with another Bond Affinity option you don’t know. Both Bond Affinity options must be from the same list.
+Whenever you finish a long rest or level up, you may switch out a Bond Affinity option you know with another Bond Affinity option you don’t know. Both Bond Affinity options must be from the Bond Affinity list.
+
+When you level up, you may choose to learn 2 additional Bond Affinity options from the Bond Affinity list, permanently. If you do, you lose this feature.
 
 # Subclasses
 
