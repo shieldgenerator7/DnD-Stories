@@ -73,43 +73,23 @@ Spells Known: The number of Spells you know increases as shown in the Spells Kno
 
 Mana Points: Your maximum number of Mana Points increases as shown in the Mana Points column of the Reality Bender Class Table.
 
-## Spellcasting Focus
+Spellcasting Focus: You choose a body part and a color. When you cast spells, this body part glows, shedding dim light of that color in a 1 Space radius.
 
-Choose a body part as your spell casting focus.
+Cast Range: If a spell you cast in your bonded schools has a base range greater than Touch or Self, its base range is changed to your Cast Range. Your Cast Range is determined by your INT multiplied by your level’s Cast Range multiplier. The value is in Spaces, minimum a number of Spaces equal to your level.  
+EX: If your INT is 3 and you’re level 2, your Cast Range is 6 Spaces
 
-This body part can be used as your spell casting focus for spells in your bonded schools, allowing you to cast those spells without the verbal, somatic, or material components they would normally require, even if the spell normally consumes the material components.
+Tether Range: You can only sustain a spell in your bonded schools if at least one part of it is inside your Tether Range. It must also be on the same plane as you. Your Tether Range is determined by your AGI multiplied by your level’s Tether Range multiplier. The value is in Spaces, minimum a number of Spaces equal to your level times 2. Spell enhancements that increase cast range also increase tether range by the enhancement’s value times 2.  
+Ex: If your AGI is 2 and you’re level 3, your Tether Range is 24 Spaces.
 
-When you cast spells, this body part glows, shedding dim light in a 1 space radius. You may choose the color of the glow when you choose the body part.
+Spell Duration: If a spell you cast in your bonded schools has a duration longer than instant or 1 round, its duration is changed to your Spell Duration. Your Spell Duration is determined by your CHA multiplied by your level’s Spell Duration multiplier. The value is in minutes, minimum a number of minutes equal to your level divided by 5 (1 min is 5 rounds).  
+EX: If your CHA is 4 and you’re level 5, your Spell Duration is 200min, which is equivalent to 3hr 20min.
 
-## Casting Spells
+Area Radius: If a spell you cast in your bonded schools has an area of effect, its radius is equal to or less than your Area Radius. Your Area Radius is determined by your MIG multiplied by your level’s Area Radius multiplier. The value is in Spaces, minimum a number of Spaces equal to your level.  
+EX: If your MIG is 2 and you’re level 7, your Area Radius is 14 Spaces.
 
-Spells that you cast from your bonded schools have their attributes changed:
+Sustain: Your spells all require Sustaining, even if they don’t explicitly state it. You may cast spells while already Sustaining spells, even outside of combat. You may spend 1 AP on each of your turns to Sustain a number of spells up to your CM. You can’t sustain a spell that is outside your Tether Range or on a different plane.
 
--   If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range.
--   You can only sustain a spell if its center of effect is inside your Tether Range. It must also be on the same plane as you.
--   Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration
--   If the spell has an area of effect, its radius is equal to your Area Radius.
-
-Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by your level and modifiers as shown in the spellcasting table.
-
--   Your Cast Range is determined by your INT multiplied by your level’s Cast Range multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
-    EX: If your INT is 3 and you’re level 2, your Cast Range is 6 Spaces
--   Your Tether Range is determined by your AGI multiplied by your level’s Tether Range multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level times 2.  
-    Ex: If your AGI is 2 and you’re level 3, your Tether Range is 24 Spaces.
--   Your Spell Duration is determined by your CHA multiplied by your level’s Spell Duration multiplier. The value is in minutes. The minimum is a number of rounds equal to your level (1 min is 5 rounds).  
-    EX: If your CHA is 4 and you’re level 5, your Spell Duration is 200min, which is equivalent to 3hr 20min.
--   Your Area Radius is determined by your MIG multiplied by your level’s Area Radius multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
-    EX: If your MIG is 2 and you’re level 7, your Area Radius is 14 Spaces.
-
-These attributes only effect a spell’s base values; spell enhancements can still be used to increase them. EX: Your Cast Range is 5 Spaces, but you want to cast Message to someone beyond that range. You can spend 1 MP to use the Range MPE of Message to increase its range to 35 Spaces. This also increases the Tether Range by 30 Spaces as well. APEs and MPEs can also increase the Spell Duration and Area Radius as normal.
-
-When you cast the spell, you can decide to lower the Cast Range, Spell Duration, Tether Range and/or Area Radius of the spell.
-
-Your spells all require sustaining, even if they don’t explicitly state it. You may cast spells while already sustaining spells, even outside of combat. You may spend 1 AP on each of your turns to sustain multiple spells. You can simultaneously sustain a number of spells up to your CM. You can’t sustain a spell that is outside your Tether Range or on another plane as you. You can decide which spells to sustain.
-
-Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when you stop sustaining them or their duration expires.
-
-Cantrips from your bonded schools are also bound by your Cast Range, Tether Range, Spell Duration, and Area Radius.
+Volatility: Your spell effects are temporary, even if the spell explicitly states that it is permanent. Objects and creatures that you create are also temporary. Your spell effects automatically disappear/revert when you stop Sustaining them or their duration expires.
 
 # Reality Bender Class Features
 
