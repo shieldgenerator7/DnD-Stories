@@ -1249,30 +1249,25 @@ You care about those in your reality and do what you can to keep them from harm.
 
 You can keep yourself from harming others. You learn the following Bond Affinity option:
 
--   Safe: 0 MP. This spell deals 0 damage, if it would deal damage. It also costs 2 MP less. You may double your prime modifier for this spell cast.
+-   Safe: 0 MP. This spell deals 0 damage, if it would deal damage. It also costs 2 MP less, minimum 0. You may double your Prime Modifier for this spell cast.
+
+### Safe Feeling (Flavor Feature)
+
+You gain ADV on Influence checks to make creatures trust you, provided you are not hostile to them.
+
+### Level 6 Subclass Features
 
 ### Damage Mitigation
 
 You can keep others from doing harm. You gain the following reaction:
 
-Mitigate Damage  
-Trigger: Another creature casts a spell  
-Reaction: You do one of the following:
+**Mitigate Damage**  
+Trigger: Another creature casts a spell within your Cast Range  
+Reaction: You choose one of the following that you have not chosen since the end of your last turn:
 
 -   Reduce that spell’s damage to 0
 -   Change all damage in that spell to giving temporary hp instead
 -   Change all damage in that spell to healing instead
-
-Either the creature or the spell must be in your Cast Range.
-
-You can only choose each option once per round.
-
-### Level 6 Subclass Features
-
-### Fast Reaction Speed
-
-You can swiftly respond to threats. Your Damage Mitigation feature now has the following additional option:
-
 -   Cast a Safe spell
 
 Additionally, you gain +2 AP extra at the end of your turn. This extra AP goes away at the start of your next turn.
