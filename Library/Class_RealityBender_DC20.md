@@ -998,61 +998,55 @@ Your magic spells manifest as a deck of cards.
 
 ### Level 3 Subclass Features
 
-### The Deck
+### Spell Roulette
 
 Your magic manifests itself as a deck of cards.
 
-You may spend 4 AP and 2 MP to manifest your deck of spells. Each spell you know from your Bonded School becomes a card in the deck. You must have a free hand to hold the deck.
+**The Deck:** You may spend 4 AP and 2 MP to manifest your deck of spells, which contains 1 copy of each spell you know from your Bonded School. At the start of your turn, you must spend 1 AP to Sustain the deck. You can only Sustain 1 deck at a time.
 
-The deck is volatile. It is bound by your Tether Range and Spell Duration. It also disappears when:
+**The Draw:** You may spend 1 AP to draw a card from the top of your spell deck and look at it. The spell is instantly cast on you, regardless of its casting time and without paying its cost. This is called a Drawn spell. If you’re willing, other creatures can also use this feature to draw a card, else they must try to steal a card to draw one.
 
--   It leaves your line of sight
--   You manifest a new deck
--   The last card is drawn and activated
+**The Card:** A Drawn spell only targets the card holder (or the card holder’s space). If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). The Drawn spell automatically succeeds any Spell checks at the lowest success level, and the card holder automatically fails any Agility saves at the highest failure level.
 
-The deck has only one copy of each card, and they do not get replenished when drawn. If you cast a spell normally, if that spell’s card is still in the deck, that card disappears from the deck.
-
-You may spend 1 AP to draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you, regardless of its casting time and without paying its cost. This is called a Drawn spell.
-
-A Drawn spell only targets the card holder. If the Drawn spell is an AoE spell, it only effects the card holder’s Space. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any Spell checks at the lowest success level, and the card holder automatically fails any Agility saves at the highest failure level.
-
-The deck Sustains all Drawn spells drawn from it, and can sustain a number of active spells at a time equal to your CM. A Drawn spell automatically ends when its deck is destroyed.
-
-If you’re willing, other creatures can also use this feature to draw a card. Otherwise, they must try to steal a card to draw one.
-
-You gain the following reaction:
+**The Surprise:** You gain the following reaction:
 
 **Warp Card Effect**  
-Trigger: A card is drawn from your deck.  
+Trigger: A Drawn spell from your deck is activated.  
 Reaction: You apply bond affinity options to the Drawn spell.
 
-You may draw for another creature. You may spend 1 AP to draw a card without looking at it and use it on another creature in the following ways.
+Additionally, you gain the following Bond Affinity options:
+
+• Blue Card: 2 MP. This spell deals 3 true damage instead of its usual effect.
+
+• Red Card: 2 MP. This spell deals 1 true damage to the target and all creatures within 1 Space of it instead of the spell’s usual effect.
+
+• Gold Card: 2 MP. This spell stuns the target for 1 round, if the target fails any Saves for this spell.
+
+**The Hit:** You may draw for another creature. You may spend 1 AP to draw a card without looking at it and use it on another creature in the following ways. Once it gets used like this, the card disappears.
 
 Melee: Make a melee weapon attack. Hit: The card targets the creature as if they had drawn the card themselves.
 
 Ranged: Make a ranged weapon attack ([Cast Range] / [Tether Range]). Hit: The card targets the creature as if they had drawn the card themselves.
 
-Trap: Place the card facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves. This trap card is bound to your Tether Range and Spell Duration
+Trap: Place the card facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
 
-This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate due to you manifesting a new deck, nor from leaving your line of sight.
+### Card Slinger (Flavor Feature)
 
-### The Switch
-
-You can react to luck not going your way. You gain the following Bond Affinity options:
-
--   Blue Card: 1 MP. This spell deals 3 damage instead of its usual effect. Regain 2 MP.
--   Red Card: 1 MP. This spell deals 2 damage to the target and all creatures within 1 Space of it instead of the spell’s usual effect.
--   Gold Card: 1 MP. This spell stuns the target for 1 round, if the target fails any Saves for this spell.
+You can imbue regular playing cards with your cantrips. When you cast a spell without spending MP, you can instead imbue it into a regular playing card. The next creature to hold the card and look at it activates it, and the spell in the card targets the creature.
 
 ### Level 6 Subclass Features
 
+### Reverse Card
+
+When you declare a Spell Duel, you may spend 1 AP and 1 card to challenge the initiating spell. If you win the Spell Duel, the challenging card absorbs the initiating spell and sends it back to its caster. Make a Spell Check against the initiator’s PD. Hit: The card casts the initiating spell on the initiator.
+
 ### Subclass Capstone Feature
 
-### The Heart
+### Heart of the Cards
 
-You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, its MP cost is reduced by 1, minimum 0. If you guess the name and get it exactly right, its MP cost is set to 0. This cost reduction can decrease the cost of Bond Affinity options applied to it.
+You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may make a number of guesses about the spell up to your CM. For each piece of information you get right about the spell, the total MP cost of Bond Affinity options applied to it is reduced by 1, minimum 0. If you guess the name and get it exactly right, you get the maximum MP cost reduction and regain 2 MP.
 
-For example, if you guess that the first letter of the spell is “T”, that its AP cost is 1, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2. You may make a number of guesses about the spell up to your CM.
+For example, if you guess that the first letter of the spell is “T”, that its AP cost is 1, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2.
 
 ## Death Bender
 
