@@ -1158,19 +1158,19 @@ You study reality and hone your skills in manipulating magic.
 
 ### Level 3 Subclass Features
 
-### Mana Wellspring
+### Raw Power
 
-You have more raw power than other Reality Benders. You gain an additional +2 MP per level.
+You have more raw power than other Reality Benders.
 
-### Spell Warp Study
+Mana Wellspring: Whenever you level up, you gain an additional +2 MP.
 
-You learn more ways to manipulate your spells. You learn 2 additional Bond Affinity options when you get this feature. Whenever a level up lets you learn a Bond Affinity option, you learn 1 additional Bond Affinity option.
+Affinity Fluent: You learn 2 additional Bond Affinity options.
 
-You learn the following Bond Affinity option:
+Trick Taking: Whenever you level up, you may increase the Bending Trick level of 1 additional spell.
 
--   Errata’d: 0 MP. You spend any amount of additional MP to cross out 1 word in the spell’s description per 1 additional MP spent this way.
+### Studious (Flavor Feature)
 
-This is subject to DM’s approval, of course.
+You understand the ins and outs of magic. You gain ADV on Arcana and Insight checks made to identify magical effects. You gain ADV on your checks to learn spells from magical effects you’ve identified.
 
 ### Level 6 Subclass Features
 
@@ -1180,9 +1180,11 @@ Your Mana Spend Limit is increased by your CM. Additionally, whenever you regain
 
 ### Mind Palace
 
-You can will your power back to you. In combat, you can spend 2 AP to focus and regain 1 MP.
+You can will your power back to you.
 
-Outside of combat, you can focus for longer. Focusing for 1 minute without interruption restores 5 MP. You regain MP equal to your MP maximum after a short rest.
+In combat, you can spend 2 AP to focus and regain MP equal to your CM.
+
+Outside of combat, you can focus for longer. Focusing for 10 minutes without interruption restores MP equal to your max MP. Once you use this feature outside of combat, you can’t use it outside of combat again until you finish a long rest or roll for initiative.
 
 ### Subclass Capstone Feature
 
