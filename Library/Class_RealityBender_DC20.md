@@ -2,7 +2,7 @@
 
 DC20 Class
 
-version 0.1.1 – 0.0.2
+version 0.1.1 – 0.0.3
 
 # Class Table
 
