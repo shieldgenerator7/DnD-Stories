@@ -196,16 +196,6 @@ You may spend 1 minute studying an ongoing spell effect to make a Spell Check. T
 
 Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
-### Bond Affinity Ease
-
-You learn 1 additional Bond Affinity option.
-
-You can more easily apply Bond Affinity options. You may spend 1 AP to reduce the cost of a Bond Affinity option by 1 MP. You may do this multiple times per spell. This AP cost still counts against your Mana Spend Limit.
-
-### Quick Casting
-
-You can easily cast quick spells. Whenever you cast a spell, if the total AP cost of that spell is 1, you can ignore the Multiple Check Penalty for that spell cast.
-
 ## Level 5 Class Features
 
 ### Spell Warp
@@ -223,6 +213,18 @@ The new spell may be the same spell or a different spell. The new spell must tar
 ### Reality Command
 
 You gain command of your spells more easily. You may choose a new Bending Trick spell at the start of every month, not just when you level up.
+
+## Class Talents
+
+### Quick Casting
+
+You can easily cast quick spells. Whenever you cast a spell, if the total AP cost of that spell is 1, you can ignore the Multiple Check Penalty for that spell cast.
+
+### Bond Affinity Ease
+
+*Requires Bond Affinity, level 3.*
+
+You can more easily apply Bond Affinity options. You may spend 1 AP to reduce the cost of a Bond Affinity option by 1 MP. You may do this multiple times per spell. This AP cost still counts against your Mana Spend Limit.
 
 # Subclasses
 
