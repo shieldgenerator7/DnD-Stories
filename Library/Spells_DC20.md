@@ -188,3 +188,19 @@ Choose a point within range. You leave behind an ethereal eye that becomes invis
 Whenever a creature comes within 15ft of the eye, you get a mental signal telling you that it sensed something. You may then use your reaction to see from the eye as described above.
 
 At higher levels. As you level up, the range of the eye’s senses and auto-detect increase by 15ft at the following levels: level 5 (30ft), level 11 (45ft), level 15 (60ft)
+
+# Cultivate Soil (0.9.5)
+
+Destruction Cantrip
+
+Cost: 1 AP
+
+Range: 3 Spaces
+
+Duration: Instant
+
+You choose 1 Space in range. If it’s dirt or stone, you grind up the dirt and/or stone to make loose dirt if it’s dirt, and loose gravel if it’s stone.
+
+Action Point Enhancements
+
+Plowed: (1 AP) You can make grooves in the dirt appear, making the Space count as Difficult Terrain.
