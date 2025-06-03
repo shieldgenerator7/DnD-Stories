@@ -178,11 +178,14 @@ Your Attribute Limit is replaced with the following table:
 
 ### Bending Trick
 
-You know a spell so well you can cast it with ease. Choose a spell you know. It becomes a Bending Trick for you.
+You know a spell so well you can cast it with ease. Choose a spell you know. Increase its Bending Trick level by 1, leveling it up. It then counts as a Bending Trick for you.
 
-When you cast a Bending Trick, you can apply an additional Bond Affinity option to it. Additionally, the Bending Trick costs 1 MP less to cast, minimum 0. This still counts against your Mana Spend Limit.
+When you cast a Bending Trick, you:
 
-Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may instead upgrade an existing Bending Trick again instead of choosing a new one, using the same rules.
+-   Increase your Mana Spend Limit by the spell’s Bending Trick level for this spell cast.
+-   Decrease its MP cost by its Bending Trick level, minimum 0. This cost reduction still counts against your Mana Spend Limit.
+
+When you level up, you can increase the Bending Trick level of one of your spells by 1, as shown in the class table.
 
 ## Level 2 Class Features
 
