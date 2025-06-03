@@ -1002,27 +1002,19 @@ Your magic spells manifest as a deck of cards.
 
 Your magic manifests itself as a deck of cards.
 
-You may spend 4 AP and 2 MP to manifest your deck of spells. Each spell and cantrip you know becomes a card in the deck. You must have a free hand to do so.
+You may spend 4 AP and 2 MP to manifest your deck of spells. Each spell you know from your Bonded School becomes a card in the deck. You must have a free hand to hold the deck.
 
-When you manifest a new deck, any decks you previously manifested disappear.
+The deck is volatile. It is bound by your Tether Range and Spell Duration. It also disappears when:
 
-The deck is volatile. If it leaves your line of sight, it disappears. It is also bound to your Tether Range and Spell Duration.
+-   It leaves your line of sight
+-   You manifest a new deck
+-   The last card is drawn and activated
 
-The deck has only one copy of each card, and they do not get replenished when drawn. When the last card is drawn, the deck disappears, and you must manifest a new deck to use spell cards again.
+The deck has only one copy of each card, and they do not get replenished when drawn. If you cast a spell normally, if that spell’s card is still in the deck, that card disappears from the deck.
 
-If you cast a spell normally, if that spell’s card is still in the deck, that card disappears from the deck.
+You may spend 1 AP to draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you, regardless of its casting time and without paying its cost. This is called a Drawn spell.
 
-### The Draw
-
-You and others may draw from your spell deck.
-
-You may spend 1 AP to draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you, regardless of its casting time or material component requirements. This is called a Drawn spell.
-
-If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an AoE spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any Spell checks, and the target automatically fails any Agility saves for the Drawn spell.
-
-You are the caster of these spells, and the card holder is the target.
-
-The Drawn spell doesn’t cost MP to cast from the deck, but gets cast with no enhancements. This cost reduction does not apply to Bond Affinity options applied to it when cast.
+A Drawn spell only targets the card holder. If the Drawn spell is an AoE spell, it only effects the card holder’s Space. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any Spell checks at the lowest success level, and the card holder automatically fails any Agility saves at the highest failure level.
 
 The deck Sustains all Drawn spells drawn from it, and can sustain a number of active spells at a time equal to your CM. A Drawn spell automatically ends when its deck is destroyed.
 
@@ -1030,27 +1022,21 @@ If you’re willing, other creatures can also use this feature to draw a card. O
 
 You gain the following reaction:
 
-Warp Card Effect  
+**Warp Card Effect**  
 Trigger: A card is drawn from your deck.  
 Reaction: You apply bond affinity options to the Drawn spell.
 
-### The Hit
+You may draw for another creature. You may spend 1 AP to draw a card without looking at it and use it on another creature in the following ways.
 
-You may draw for another creature.
+Melee: Make a melee weapon attack. Hit: The card targets the creature as if they had drawn the card themselves.
 
-You may spend 1 AP and make an Attack check to draw the top card of the deck without looking at it and use it as a melee weapon with a reach of 1 Space. You are trained with this card weapon.
+Ranged: Make a ranged weapon attack ([Cast Range] / [Tether Range]). Hit: The card targets the creature as if they had drawn the card themselves.
 
-Hit: The card targets the creature as if they had drawn the card themselves.  
-Miss: The card dissipates without casting the spell, and you find out what spell it was.
+Trap: Place the card facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves. This trap card is bound to your Tether Range and Spell Duration
 
-You can draw cards for creatures at range.
+This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate due to you manifesting a new deck, nor from leaving your line of sight.
 
-You may spend 1 AP to make an Attack check, draw the top card of the deck without looking at it, and use it as a ranged weapon. Its close range is equal to your Cast Range, and its max range is equal to your Tether Range. You are trained with this card weapon.
-
-Hit: The card targets the creature as if they had drawn the card themselves.  
-Miss: The card dissipates without casting the spell, and you find out what spell it was.
-
-### The Surprise
+### The Switch
 
 You can react to luck not going your way. You gain the following Bond Affinity options:
 
@@ -1060,28 +1046,13 @@ You can react to luck not going your way. You gain the following Bond Affinity o
 
 ### Level 6 Subclass Features
 
+### Subclass Capstone Feature
+
 ### The Heart
 
 You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, its MP cost is reduced by 1, minimum 0. If you guess the name and get it exactly right, its MP cost is set to 0. This cost reduction can decrease the cost of Bond Affinity options applied to it.
 
 For example, if you guess that the first letter of the spell is “T”, that its AP cost is 1, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2. You may make a number of guesses about the spell up to your CM.
-
-### The Trap
-
-You can set cards as traps. Draw the top card of the deck without looking at it, and place it facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
-
-This trap card is bound to your Tether Range and Spell Duration. However, it does not automatically dissipate due to you manifesting a new deck, nor from leaving your line of sight.
-
-### Subclass Capstone Feature
-
-### The Filter
-
-You learn how to control the randomness of the deck. Whenever you manifest the deck, you may choose to filter the deck to only specific cards. You may filter the deck to only cards that are:
-
--   From a certain spell list or spell lists
--   From a certain school or schools
--   Targeted spells or AoE spells
--   Have or don’t have certain tags (Cantrip, Sustained, etc)
 
 ## Death Bender
 
