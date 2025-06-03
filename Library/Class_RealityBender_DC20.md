@@ -1098,35 +1098,25 @@ You channel your magic into creatures you can train.
 
 ### Level 3 Subclass Features
 
-### Magidex
-
-You have an encyclopedic knowledge of creatures you see, and recall them and their stats.
-
 ### Conjure Them All
 
 You can conjure a creature in the shape of a creature you remember with your Magidex feature. You gain the following bond affinity option:
 
--   Conjured Creature: 1 MP. Conjure this spell as a creature instead of casting it.
+-   Conjured Creature: 1 MP. Conjure this spell as a creature in a space you can see within range instead of casting it.
 
-A Conjured Creature spell will appear in an open space you designate within your Cast Range. Conjured Creatures are bound by your Tether Range and Spell Duration.
+A Conjured Creature spawns with HP equal to the total amount of AP and MP spent to cast it. While a Conjured Creature spell is alive, you cannot cast that spell. When a Conjured Creature spell dies from having its HP reduced to 0, it disappears, and you cannot cast that spell again until you finish a long rest.
 
-Conjured Creatures spawn with HP equal to the total amount of AP and MP spent to cast it.
-
-While a Conjured Creature spell is alive, you cannot cast that spell.
-
-When a Conjured Creature spell dies from having its HP reduced to 0, it disappears, and you cannot cast that spell again until you finish a long rest.
-
-### Creature Party
-
-You can have a maximum of amount of Conjured Creatures at a time equal to your CM + 1. When you cast another Conjured Creature spell while you already have the maximum allowed out, one Conjured Creature of your choice automatically dissipates.
-
-Each Conjured Creature has its own turn in the turn order.
+Creature Party: You can have a number of Conjured Creatures at a time up to your CM. When you cast another Conjured Creature spell while you already have the maximum allowed out, one Conjured Creature of your choice automatically dissipates. Each Conjured Creature has its own turn in the turn order.
 
 ### Aggro Threat
 
-You get your Conjured Creatures to fight for you.
+You get your Conjured Creature to fight for you.
 
 Whenever a Conjured Creature makes an attack on a creature, that creature has DisADV on any attack roll not made against a Conjured Creature that attacked it, and the Conjured Creature has ADV on any attack of opportunity attacks it makes on the target creature until its next turn.
+
+### Magidex (Flavor Feature)
+
+You have an encyclopedic knowledge of creatures you see, and recall them and their stats. You gain ADV on Knowledge checks to recall information about creatures you’ve seen.
 
 ### Level 6 Subclass Features
 
