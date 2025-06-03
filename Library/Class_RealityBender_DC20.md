@@ -847,7 +847,10 @@ You have multiple different dreams at night, as dreams come and go. Dreams alway
 
 When your current dream ends, your dream self disappears and you are no longer dreaming.
 
-When a dream ends, you must make a DC15 Mental check. Success: you remember everything that happened in the dream. Failure: you forget everything that happened in the dream, but can remember one detail about a place you went to, a person you met, or a creature and/or object you saw.
+When a dream ends, you must make a DC15 Mental check:
+
+Success: You remember everything that happened in the dream.  
+Failure: you forget everything that happened in the dream, but can remember one detail about a place you went to, a person you met, or a creature and/or object you saw.
 
 While you’re sleeping but not dreaming,
 
@@ -863,7 +866,7 @@ Spells that would normally automatically disappear when you fall asleep instead 
 
 ### Dream Variance
 
-Your dreams can take on a mind of their own. You have a new stat called your Dream Value, which starts at 0 at the start of a dream. Your Dream Value is added to your prime modifier for checks and saves that your dream self makes. Your spells have their MP costs reduced by your Dream Value, minimum 0.
+Your dreams can take on a mind of their own. You have a new stat called your Dream Value, which starts at 0 at the start of a dream. Your Dream Value is added to your Prime Modifier for Checks and Saves that your dream self makes. Your spells have their MP costs reduced by your Dream Value, minimum 0.
 
 When your dream self takes damage, reduce your Dream Value by the damage taken.
 
@@ -883,7 +886,10 @@ While you have temporary hit points, taking damage doesn’t wake you up.
 
 Your dream self can teleport. You may spend 1 AP to teleport your dream self to a space within Cast Range of your dream target.
 
-Whenever your dream self would fall or otherwise be forced to move, you may make a DC10 Spell check instead. Success: your dream self doesn’t fall or get moved forcefully, becoming ethereal if necessary to avoid sharing a space with another creature or object. It becomes solid again when it is no longer sharing a space with that creature or object. Failure: your dream self falls or gets moved forcefully like normal.
+Whenever your dream self would fall or otherwise be forced to move, you may make a DC10 Spell check instead.
+
+Success: Your dream self doesn’t fall or get moved forcefully, becoming ethereal if necessary to avoid sharing a space with another creature or object. It becomes solid again when it is no longer sharing a space with that creature or object.  
+Failure: Your dream self falls or gets moved forcefully like normal.
 
 Additionally, you’re unbound from your physical form. When you enter a new dream, your dream self can appear as any creature you’ve seen before. It still has your stats and abilities. It gains 2 Ancestry Points with which to spend on Ancestry Traits and/or Beast Traits. It keeps these new Ancestry Traits until the end of the dream.
 
