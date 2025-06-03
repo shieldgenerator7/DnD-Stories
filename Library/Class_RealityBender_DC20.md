@@ -126,13 +126,12 @@ When you cast a Bending Trick, you:
 
 When you level up, you can increase the Bending Trick level of one of your spells by 1, as shown in the class table.
 
-### Casting Past Your Mana Spend Limit
+### Dangerous Casting
 
-If the MP you want to spend on a spell is within your Mana Spend Limit, you can safely cast it.
+You may dangerously cast a spell, spending over your Mana Spend Limit. Make a Spell Check with a DC equal to 10 plus 3 times the difference between your Mana Spend Limit and the MP spent:
 
-However, as long as you have the MP to cast a spell, you can cast it, regardless of your Mana Spend Limit. To do this, you may dangerously cast a spell.
-
-To dangerously cast a spell, make a Spell Check with a DC equal to 10 plus 3 times the difference between your Mana Spend Limit and the MP spent. Success: you cast the spell. Failure: you don’t cast the spell, but the MP are still spent, and you cannot attempt to cast that spell again until you finish a long rest.
+Success: You cast the spell.  
+Failure: You don’t cast the spell, but the MP are still spent, and you cannot cast that spell again until you finish a long rest.
 
 Dangerously Cast DC = 10 + ((Mana Spend Limit – MP spent) \* 3)
 
