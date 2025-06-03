@@ -67,7 +67,7 @@ Combat Training: None
 
 Spell List: You choose 1 school of magic. This is your Bonded School. When you learn a new Spell, you can choose any Spell from your Bonded School. You bond to more schools as you level up, as shown in the Reality Bender Class Table.
 
-Cantrips Know: The number of Cantrips you know increases as shown in the Cantrips Known column of the Reality Bender Class Table. Cantrips are Spells with the Cantrip Spell Tag.
+Cantrips Known: The number of Cantrips you know increases as shown in the Cantrips Known column of the Reality Bender Class Table. Cantrips are Spells with the Cantrip Spell Tag.
 
 Spells Known: The number of Spells you know increases as shown in the Spells Known column of the Reality Bender Class Table. These can be Spells with or without the Cantrip Spell Tag.
 
@@ -170,7 +170,7 @@ Reality Observer DC = 10 + spell’s MP cost – Mana Spend Limit
 
 ### Bond Affinity
 
-You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can as many Bond Affinity options to a spell you cast as you want, but only as long as the resulting total doesn’t go over your Mana Spend Limit. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options count against your Mana Spend Limit.
+You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can apply as many Bond Affinity options to a spell as you want, but only as long as the resulting total doesn’t go over your Mana Spend Limit. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options count against your Mana Spend Limit.
 
 -   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell by 1.
 -   Reuse: 1 MP. The next time you cast this spell, it costs 2 MP less to cast, minimum 0.
@@ -188,7 +188,7 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
 -   Wide: 1 MP. Increase this spell’s area radius by your Area Radius, if it has an area of effect.
 -   Lingering: 0 MP. When you stop sustaining this spell, it lingers for 1 minute before it disappears.
 
-### Reality Studier (Flavor Features)
+### Reality Studier (Flavor Feature)
 
 You can more easily absorb information about spells that you see.
 
