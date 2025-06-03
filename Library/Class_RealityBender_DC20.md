@@ -1206,45 +1206,21 @@ You sing and dance to cast your spells. Basically, a bard-like subclass.
 
 ### Performance
 
-You can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You may spend 4 AP and 2 MP to start a performance on your turn, and then you must spend 1 AP and 1 MP on your following turns to sustain the performance. This is independent of and in addition to sustaining any regular spells that you cast.
+You can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part.
 
-Your performance has a radius up to your Area Radius, and its shape is a circle centered on you. This is know as your performance area. Your performance has a max duration equal to your Spell Duration.
+Performance: You may spend 4 AP and 2 MP to start a performance on your turn, and then you must spend 1 AP and 1 MP on your following turns to Sustain the performance. This is independent of and in addition to Sustaining any regular spells that you cast. You target each creature in your performance’s area of effect, if that creature can see/ hear you and is not immune to being charmed.
 
-Whenever you start or sustain a performance, you may change:
+Performance Area: Your performance has a radius up to your Area Radius, and its shape is a circle centered on you. This is your performance area. Your performance has a max duration equal to your Spell Duration, minimum 1 minute. Whenever you start or Sustain a performance, you may change the radius of your performance area, up to your Area Radius, and decide whether or not your performance area includes you.
 
--   The radius of your performance area, up to your Area Radius
--   Whether or not your performance area includes you.
-
-You target each creature in your performance’s area of effect, if that creature:
-
--   Can see/hear you, depending on which performance style you chose
--   Is not immune to being charmed
-
-You learn the following Bond Affinity option:
+Performant Spells: You learn the following Bond Affinity option:
 
 -   Performance: 1 MP. This spell is bound by your performance, if it has an area of effect or can target one or more creatures.
 
-A Performance spell always has an area of effect matching the area of effect of your performance. A Performance spell is sustained automatically by your performance. However, you may choose to stop sustaining a Performance spell independent of the performance. A performance can only sustain 1 Performance spell at a time. If a Performance spell has a duration of Instantaneous or 1 round, it gets cast every round.
+Crowd Energy: Whenever a creature is effected by one of your Performance spells, you regain 1 MP.
 
-You can’t cast a spell as Performance spell if it doesn’t have an area of effect or the ability to target one or more creatures.
-
-A Performance spell ends on a creatures that leaves your performance area early. A Performance spell targets an additional creature after casting if the creature enters your performance area.
-
-A Performance spell is not effected by the following Bond Affinity options: Reaching, Remote, Lasting, Ashes.
-
-Whenever a creature is effected by one of your Performance spells, you regain 1 MP.
-
-### Big Show
-
-You can weave your performance into another one. Whenever you stop sustaining a Performance spell, you may spend 2 AP to cast a new Performance spell, without paying the MP cost of the new spell.
-
-The new spell is allowed to be the same spell as the old spell. The MP cost of the new spell must be equal to or less than the MP cost of the old spell plus your CM.
+Big Show: You can weave your performance into another one. Whenever you stop Sustaining a Performance spell, you may spend 2 AP to cast a new Performance spell within the same performance, without paying the MP cost of the new spell. The MP cost of the new spell must be equal to or less than the MP cost of the old spell plus your CM.
 
 ### Level 6 Subclass Features
-
-### Applause
-
-You learn how to feed off of applause. A creature in your area of effect may spend 1 AP to cheer you on. When they do, you gain 1 MP. The creature must be within range and you must be able to see/hear them. They do not need to be effected by the spell.
 
 ### The Show Must Go On
 
@@ -1252,7 +1228,7 @@ You can endure through encounters despite hecklers. You have Dazed Resistance wh
 
 **Show Stopper**  
 Trigger: Anything  
-Reaction: You use your Big Show feature.
+Reaction: You use your Performance Big Show feature.
 
 ### Subclass Capstone Feature
 
