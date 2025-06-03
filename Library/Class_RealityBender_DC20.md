@@ -558,7 +558,7 @@ Fortune favors you and bends to your will.
 
 Your spells are lucky. You gain the following Bond Affinity option:
 
--   Lucky: 1 MP. Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
+-   Lucky: 1 MP. Gain ADV X on this Spell Check, where X is your CM.
 
 ### Lucky
 
@@ -575,7 +575,7 @@ Natural luck comes to your aid. You regain 1 MP whenever:
 
 ### Plot Armor
 
-No one can hurt you. Whenever you or another creature must make a saving throw, you may spend any number of MP to decrease the DC by 1 per MP spent.
+No one can hurt you. Whenever you or another creature must make a Save, you may spend any number of MP to decrease the DC by 1 per MP spent.
 
 Additionally, whenever you are attacked, you may spend any number of MP to increase your PD or AD by the number of MP spent, until the start of your next turn.
 
@@ -583,7 +583,7 @@ Additionally, whenever you are attacked, you may spend any number of MP to incre
 
 ### Luck Dictation
 
-You have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 5 MP to set any number of the rolled dice to any value possible for that die.
+You have mastered fortune. You may spend 1 AP and 5 MP to determine the outcome of a situation. Until the end of your next turn, whenever a d20 is rolled, you may set its rolled value to any value possible for that die. You can use this feature once per long rest, but regain the ability to use it again when you roll for Initiative.
 
 ## Item Infuser
 
