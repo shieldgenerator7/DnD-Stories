@@ -774,7 +774,7 @@ You don’t really want to participate in reality, and prefer to watch it unfold
 
 ### Bystander
 
-You learn how to keep other people from interacting with you. You may spend 1 AP and 1 MP to make yourself invisible. This effect is bound by your Spell Duration and Tether Range, and requires sustaining like a normal spell.
+You learn how to keep other people from interacting with you. You may spend 1 AP and 1 MP to make yourself invisible. This effect is bound by your Spell Duration and Tether Range, and requires Sustaining like a normal spell.
 
 This effect ends automatically if you attack or cast a spell.
 
@@ -795,7 +795,7 @@ You learn how to make yourself less vulnerable. You may spend 1 AP and 1 MP to m
 -   Your attacks don’t deal damage.
 -   Your spells don’t deal damage, don’t heal, don’t grant temporary hp, can’t kill a creature, and can’t revive a creature.
 
-### This effect is bound by your Spell Duration and Tether Range, and requires sustaining like a normal spell.
+This effect is bound by your Spell Duration and Tether Range, and requires Sustaining like a normal spell.
 
 ### Level 6 Subclass Features
 
@@ -808,7 +808,7 @@ You can bring guests into your world. You can use your Far Watcher Bending Style
 -   Predictive
 -   Removed from Reality
 
-The creature must be willing. If they are not, you can attempt to force the effect on them. If you do, make a Spell check against their Charisma save. Success: the creature is effected.
+The creature must be willing. If they are not, you can attempt to force the effect on them. If you do, make a Spell check against their Charisma Save. Success: the creature is effected.
 
 Because these effects are also bound by your Tether Range, if a creature under one of these effects leaves your Tether Range, these effects end for that creature.
 
