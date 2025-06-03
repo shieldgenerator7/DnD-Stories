@@ -193,7 +193,7 @@ Your Attribute Limit is now 1 higher than the Attribute Limit for your level.
 
 *Requires Level 3*
 
-You can easily cast quick spells. Whenever you cast a spell, if the total AP cost of that spell is 1, you can ignore the Multiple Check Penalty for that spell cast.
+You can easily cast quick spells. Whenever you cast a spell in your bonded school, if the total AP cost of that spell is 1, you can ignore the Multiple Check Penalty for that spell cast.
 
 ### Bond Affinity Ease
 
