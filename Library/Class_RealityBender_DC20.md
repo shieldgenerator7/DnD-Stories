@@ -201,6 +201,12 @@ You can easily cast quick spells. Whenever you cast a spell, if the total AP cos
 
 You can more easily apply Bond Affinity options. You may spend 1 AP to reduce the cost of a Bond Affinity option by 1 MP. You may do this multiple times per spell. This AP cost still counts against your Mana Spend Limit.
 
+### Bond Affinity Experimenter
+
+*Requires Bond Affinity, Level 3.*
+
+Whenever you finish a long rest, you may switch out a Bond Affinity option you know with another Bond Affinity option you don’t know. Both Bond Affinity options must be from the same list.
+
 # Subclasses
 
 ## Reality Breaker
