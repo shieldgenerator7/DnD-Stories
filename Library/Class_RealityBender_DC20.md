@@ -595,45 +595,38 @@ You don’t like casting spells directly, and instead prefer to infuse items wit
 
 You gain the ability to infuse an item with a spell.
 
-You may spend 1 hour or more infusing an item you’re holding with a spell from your bonded schools, applying Bond Affinity options as normal. The spell costs double the amount of MP it normally would. Make a Spell check. The DC equals the spell’s MP cost times 2, plus 10, minus the number of hours you spend infusing it. Success: the MP are spent, and the item is infused with the spell. Failure: the MP are still spent, but the item is not infused with the spell.
+You may spend 1 hour or more infusing an item you’re holding with a spell from your Bonded School, applying Bond Affinity options as normal. The spell costs double the amount of MP it normally would. Make a Spell check with a DC equal to the spell’s MP cost times 2, plus 20, minus the number of hours you spend infusing it. If you dangerously infuse a spell, add 10 to the DC.
 
-Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. When you infuse the item, you may instead choose to use a lower value for the Cast Range, Tether Range, and/or Spell Duration. The infused spell always uses the Bond Affinity option applied to it when it was infused.
+Success: The item is infused with the spell.  
+Failure: The item is not infused with the spell, but the MP are still spent.
 
-Anyone can hold an infused item and activate its affect. The creature holding the infused item may spend 1 AP to consume a charge and activate the effect. If the item has no charges, nothing happens.
+Infuse DC: 20 + (MP cost \* 2) – Infuse hours
 
-An infused item has a limited number of charges of a spell. It regains all charges at dawn each day. As you level up, the amount of charges you can infuse into an item also increases, as shown in the following table:
+Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, Spell Duration, and Area Radius at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. When you infuse the item, you may instead choose to use a lower value for the Cast Range, Tether Range, Spell Duration and/or Area Radius. The infused spell always uses the Bond Affinity options applied to it when it was infused.
 
-| Level | Charges |
-|-------|---------|
-| 3     | 2       |
-| 6     | 3       |
-| 9     | 5       |
+Anyone can use an infused item. The creature holding the infused item may spend 1 AP to consume a charge and activate the effect. If the item has no charges, nothing happens.
 
-When you an infuse an item, you may instead choose to infuse a lower number of charges than your level allows.
+An infused item has a limited number of charges of a spell, regaining all charges at dawn each day. You can infuse a number of charges into an item up to your CM.
 
 An item can only be infused with one spell at a time. If you infuse an infused item with another spell, the new spell overwrites the old spell.
 
-Infused items are infused permanently and don’t require sustaining to remain infused. You may spend 1 hour to un-infuse a spell from an item you infused.
+Infused items are infused permanently and don’t require Sustaining to remain infused. You may spend 1 hour to un-infuse a spell from an item you infused.
 
 If the infused spell has range of Self, it targets the active user of the item. If the active user changes to another creature during the spell, the target switches to the new active user. If there is no active user, it targets no one, but does not end the spell early.
 
-If the infused spell requires sustaining, the item sustains the spell itself. Activating a sustained spell a second time ends the spell effect of the previous activations.
+If the infused spell requires Sustaining, the item Sustains the spell itself. Activating a Sustained spell a second time ends the spell effect of the previous activations.
 
-The holder of the infused item may use spend 1 AP to dispel any spells cast by the infused item. You may also dispel a spell cast from one of your infused items as if you had cast the spell.
+The holder of the infused item may spend 1 AP to dispel any spells cast by the infused item.
 
 You learn the following Bond Affinity option:
 
--   Infusable: 1 MP. Lower the DC to infuse this spell by 2 times your Mana Spend Limit.
+-   Infusable: 1 MP. Lower the DC to infuse this spell by your Mana Spend Limit times 2.
 
 You can’t use the Infusable Bond Affinity option on a spell that you’re not infusing into an item.
 
-### Instant Refill
+You can quickly recharge an infused item. You may spend 1 AP and 1 MP to refill 1 charge into an infused item you’re holding.
 
-You can quickly recharge an infused item. You may spend 1 AP and 1 MP to refill 1 charge to an infused item you can see within your Cast Range.
-
-### Item Upgrading
-
-You can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of MP equal to the infused spell’s MP cost to upgrade or downgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. You may also choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
+You can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of MP equal to the infused spell’s MP cost to upgrade or downgrade the infused spell’s Cast Range, Tether Range, Spell Duration and/or Area Radius to be equal to or less than yours. You can also upgrade or downgrade its number of charges, up to your CM. You may also choose to change which Bond Affinity options the infused spell uses.
 
 ### Level 6 Subclass Features
 
