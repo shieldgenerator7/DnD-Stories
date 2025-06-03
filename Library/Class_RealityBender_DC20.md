@@ -1018,11 +1018,13 @@ You and others may draw from your spell deck.
 
 You may spend 1 AP to draw a card from the top of your spell deck. When you draw a card and look at the card front, the spell is instantly cast on you, regardless of its casting time or material component requirements. This is called a Drawn spell.
 
-If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an area of effect spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any Spell checks, and the target automatically fails any Agility saves for the Drawn spell.
+If the Drawn spell can target one or more creatures, it only targets the card holder. If the Drawn spell is an AoE spell, the center of the effect is on the card holder. If the card holder is an invalid target for the spell, then the spell has no effect (e.g. a living creature draws Distort Value). If the Drawn spell creates something, it does so in the closest available space to the card holder. The Drawn spell automatically succeeds any Spell checks, and the target automatically fails any Agility saves for the Drawn spell.
 
 You are the caster of these spells, and the card holder is the target.
 
-The deck sustains all Drawn spells drawn from it, and can sustain a number of active spells at a time equal to your CM. A Drawn spell does not automatically end when its deck is destroyed.
+The Drawn spell doesn’t cost MP to cast from the deck, but gets cast with no enhancements. This cost reduction does not apply to Bond Affinity options applied to it when cast.
+
+The deck Sustains all Drawn spells drawn from it, and can sustain a number of active spells at a time equal to your CM. A Drawn spell automatically ends when its deck is destroyed.
 
 If you’re willing, other creatures can also use this feature to draw a card. Otherwise, they must try to steal a card to draw one.
 
@@ -1030,17 +1032,23 @@ You gain the following reaction:
 
 Warp Card Effect  
 Trigger: A card is drawn from your deck.  
-Reaction: You apply a bond affinity option to the Drawn spell.
+Reaction: You apply bond affinity options to the Drawn spell.
 
 ### The Hit
 
 You may draw for another creature.
 
-You may spend 1 AP and make an Attack check to draw the top card of the deck without looking at it and use it as a melee weapon with a reach of 1 Space. You are trained with this card weapon. Hit: the card targets the creature as if they had drawn the card themselves. Miss: the card dissipates without casting the spell, and you find out what spell it was.
+You may spend 1 AP and make an Attack check to draw the top card of the deck without looking at it and use it as a melee weapon with a reach of 1 Space. You are trained with this card weapon.
+
+Hit: The card targets the creature as if they had drawn the card themselves.  
+Miss: The card dissipates without casting the spell, and you find out what spell it was.
 
 You can draw cards for creatures at range.
 
-You may spend 1 AP to make an Attack check, draw the top card of the deck without looking at it, and use it as a ranged weapon. Its close range is equal to your Cast Range, and its max range is equal to your Tether Range. You are trained with this card weapon. Hit: the card targets the creature as if they had drawn the card themselves. Miss: the card dissipates without casting the spell, and you find out what spell it was.
+You may spend 1 AP to make an Attack check, draw the top card of the deck without looking at it, and use it as a ranged weapon. Its close range is equal to your Cast Range, and its max range is equal to your Tether Range. You are trained with this card weapon.
+
+Hit: The card targets the creature as if they had drawn the card themselves.  
+Miss: The card dissipates without casting the spell, and you find out what spell it was.
 
 ### The Surprise
 
@@ -1048,13 +1056,13 @@ You can react to luck not going your way. You gain the following Bond Affinity o
 
 -   Blue Card: 1 MP. This spell deals 3 damage instead of its usual effect. Regain 2 MP.
 -   Red Card: 1 MP. This spell deals 2 damage to the target and all creatures within 1 Space of it instead of the spell’s usual effect.
--   Gold Card: 1 MP. This spell stuns the target for 1 round, if the target fails any saving for this spell.
+-   Gold Card: 1 MP. This spell stuns the target for 1 round, if the target fails any Saves for this spell.
 
 ### Level 6 Subclass Features
 
 ### The Heart
 
-You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, its MP cost is reduced by 1, minimum 0. If you guess the name and get it exactly right, its MP cost is set to 0.
+You become attuned to your deck’s ways. Whenever you draw a card and don’t look at the face of it, you may guess information about the spell. For each piece of information you get right about the spell, its MP cost is reduced by 1, minimum 0. If you guess the name and get it exactly right, its MP cost is set to 0. This cost reduction can decrease the cost of Bond Affinity options applied to it.
 
 For example, if you guess that the first letter of the spell is “T”, that its AP cost is 1, and that its duration is 10 minutes; and the spell you draw is revealed to be Tidal Wave, you would have correctly guessed 2 pieces of information about it, and the spell would be have its MP cost reduced by 2. You may make a number of guesses about the spell up to your CM.
 
@@ -1072,7 +1080,8 @@ You learn how to control the randomness of the deck. Whenever you manifest the d
 
 -   From a certain spell list or spell lists
 -   From a certain school or schools
--   Targeted spells or area of effect spells
+-   Targeted spells or AoE spells
+-   Have or don’t have certain tags (Cantrip, Sustained, etc)
 
 ## Death Bender
 
