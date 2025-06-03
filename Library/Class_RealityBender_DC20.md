@@ -143,7 +143,7 @@ Reality Observer DC = 10 + spell’s MP cost – Mana Spend Limit
 
 ### Bond Affinity
 
-You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can only apply 1 Bond Affinity option to a spell you cast. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options count against your Mana Spend Limit.
+You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can as many Bond Affinity options to a spell you cast as you want, but only as long as the resulting total doesn’t go over your Mana Spend Limit. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options count against your Mana Spend Limit.
 
 -   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell by 1.
 -   Reuse: 1 MP. The next time you cast this spell, it costs 2 MP less to cast, minimum 0.
