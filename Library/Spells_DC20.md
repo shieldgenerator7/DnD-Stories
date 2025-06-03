@@ -2,21 +2,27 @@ Custom DnD Spells
 
 # Anti-Death Field
 
-8th-level Abjuration
+Protection
 
-Casting Time: 1 action
+Cost: 2 AP + 2 MP
 
-Range: 45ft (15-foot-radius circle)
+Range: 9 Spaces
 
-Components: V, S, M (a small piece of adamantine worth at least 250 gp, which the spell consumes)
+Duration: 1 hr (Sustained)
 
-Duration: Concentration, up to 1 hour
+Choose a Space within range. Warding glyphs appear in a 3 Space Radius from the chosen Space, preventing creatures from dying inside. Whenever a creature in the glyphs would drop to 0 hp or less, it instead drops to 1 hp. That creature then gains Immunity to all damage.
 
-A 15 ft radius circle appears at a point you can see within range. For the duration, it prevents creatures inside it from dying. Whenever a creature would drop to 0 hp or less, it instead drops to 1 hp. Creatures at 1 hp don’t take damage while in the area.
+When a creature takes damage and is prevented from dropping to 0 hp with this effect, they must make a Might Save, with a DC equal to 10 or the damage dealt, whichever is higher. Success: the creature instead drops to 1 hp and stays conscious. Failure: the creature instead drops to 1 hp, but falls unconscious.
 
-When a creature takes damage and is prevented from dropping to 0 hp with this effect, they must make a Constitution saving throw, with a DC equal to 10 or the damage dealt, whichever is higher. When you cast this spell, you may choose to add or subtract your spell casting ability modifier to this DC. On a success, the creature instead drops to 1 hp and stays conscious. On a failure, the creature drops to 1 hp but falls unconscious.
+Mana Point Enhancements
 
-If you take damage while inside the area, the effect takes precedence over rolling for concentration.
+More Awake: (1 MP) You lower the DC by your PM.
+
+More Asleep: (1 MP) You raise the DC by your PM.
+
+More Area: (1 MP) Increase the Radius by 1 Space.
+
+More Time: (1 MP) Increase the duration by 1 hour.
 
 *“Reaper, you’re dismissed.” -Pancake*
 
