@@ -127,13 +127,19 @@ You may spend AP to gain ADV on this roll like normal.
 
 ## Level 1 Class Features
 
-### Reality Observer
+### Reality Observer (Flavor Feature)
 
 Your spells are only limited by your imagination. You gain the following reaction:
 
 **Reality Observer**  
 Trigger: You see another creature cast a spell in your bonded schools  
-Reaction: You learn the spell. You must finish a long rest before you are able to first cast the new spell.
+Reaction: You attempt to learn the spell. Make a Spell Check, with a DC equal to 10 plus the spell’s MP cost minus your Mana Spend Limit:
+
+Success: You learn the spell, but you must finish a long rest before you are able to first cast it.  
+Success (10): You learn the spell.  
+Failure: You don’t learn the spell, but you gain ADV on your next check to learn it.
+
+Reality Observer DC = 10 + spell’s MP cost – Mana Spend Limit
 
 ### Bond Affinity
 
