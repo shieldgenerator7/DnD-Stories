@@ -137,21 +137,6 @@ Dangerously Cast DC = 10 + ((Mana Spend Limit – MP spent) \* 3)
 
 You may spend AP to gain ADV on this roll like normal.
 
-### Attribute Limit Change
-
-Your Attribute Limit is replaced with the following table:
-
-| PC Level | Attribute Limit |
-|----------|-----------------|
-| 1        | +2              |
-| 3        | +3              |
-| 5        | +4              |
-| 7        | +5              |
-| 10       | +6              |
-| 15       | +7              |
-| 17       | +8              |
-| 20       | +9              |
-
 ### Reality Observer (Flavor Feature)
 
 Your spells are only limited by your imagination. You gain the following reaction:
@@ -215,6 +200,10 @@ The new spell may be the same spell or a different spell. The new spell must tar
 You gain command of your spells more easily. You may choose a new Bending Trick spell at the start of every month, not just when you level up.
 
 ## Class Talents
+
+### Arcane Growth
+
+Your Attribute Limit is now 1 higher than the Attribute Limit for your level.
 
 ### Quick Casting
 
