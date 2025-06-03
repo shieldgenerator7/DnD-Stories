@@ -353,61 +353,59 @@ You fix reality to the way you believe it is originally meant to be. You believe
 
 ### Disdain Hinder
 
-Choose a school of magic, this becomes your Disdained School. You may choose an additional disdained school whenever you choose an additional bonded school. Your disdained schools may overlap with your bonded schools.
+Choose a School of Magic, this becomes your Disdained School. Your Disdained School may not overlap with your Bonded School. You may choose an additional Disdained School whenever you choose an additional Bonded School, but you may not choose the same Disdained School more than once.
 
-You can disrupt others who are casting spells in your disdained schools. You may choose 2 Disdain Hinder options from the list below. You learn a new Disdain Hinder option whenever you learn a bond affinity option.
+You can disrupt others who are casting spells in your Disdained School. You may choose 2 Disdain Hinder options from the list below. You learn a new Disdain Hinder option whenever you learn a bond affinity option.
 
 -   Costly: Double the amount of MP spent to cast this spell. If the caster can’t pay the cost, the spell fails, still spending any MP they already spent.
 -   Close: Half this spell’s cast range.
--   Tethered: Add a Tether Range to this spell cast equal to its caster’s walk speed, or if it already has a Tether Range, half it.
+-   Tethered: Add a Tether Range to this spell cast equal to its caster’s move speed, or if it already has a Tether Range, half it.
 -   Short: Half this spell’s duration, if its duration is longer than 1 round. If the duration is 1 round, the spell ends at the end of the turn instead.
--   Unfocused: Half the spellcaster’s prime modifier for this spell cast, rounded up.
+-   Unfocused: Half the spellcaster’s Prime Modifier for this spell cast.
 -   Weak: Decrease all healing, damage, and temporary hp this spell grants by 1.
--   Thought Consuming: This spell cast requires sustaining, if it doesn’t already.
+-   Thought Consuming: This spell cast requires Sustaining, if it doesn’t already.
 -   Bumped: This spell cast costs 1 AP extra. If the caster can’t pay the additional AP cost, the spell fails, still spending any MP already spent.
 -   Slow: This spell cast takes twice as long to cast, if the cast time is 1 minute or more.
--   Small: Half this spell cast’s radius and/or diameter, if it has an area of effect.
--   Exclusive: Reduce the number of targets this spell cast can target by 1, minimum 0, if this spell can target creatures and/or objects.
+-   Small: Half this spell cast’s radius and/or diameter, if it is an AoE spell.
+-   Exclusive: Reduce the number of targets this spell can target by 1, minimum 0, if this spell can target creatures and/or objects.
 
 You gain the following reaction:
 
 **Magic Disdain**  
-Trigger: A creature within your Cast Range casts a spell in your disdained schools.  
+Trigger: A creature within your Cast Range casts a spell in your Disdained School.  
 Reaction: You apply a Disdain Hinder option to it.
 
-Either the caster or the spell must be within your Cast Range for you to use this feature. You may apply a Disdain Hinder option to a spell even if it already has a Bond Affinity and/or Disdain Hinder option applied to it.
-
-If a casted spell is a Bending Trick for you, you may apply an additional Disdain Hinder option to it for each time that you chose it as a Bending Trick.
-
-When you apply a Disdain Hinder option to a spell that you cast, you may reduce the MP cost of that spell by 1 for each Disdain Hinder option that you applied to it.
+Either the caster or the spell must be within your Cast Range for you to use this feature.
 
 ### Level 6 Subclass Features
 
 ### Peace of Mind
 
-You enjoy the feeling of not being around magic. While there is no magical effect of any spell from your Disdained Schools within your Tether Range, you regain MP as shown in the table below.
-
-| Char Level | MP Gain  |
-|------------|----------|
-| 3          | 1/minute |
-| 6          | 1/round  |
-| 9          | 2/round  |
+You enjoy the feeling of not being around harmful magic. While there is no magical effect of any spell from your Disdained Schools within your Tether Range, you may spend 1 AP to regain MP up to your CM.
 
 ### Advanced Spell Unraveling
 
-You learn how to stop reality from breaking. You may spend 1 AP to dispel any ongoing spell effect from your disdained school, if you didn’t cast the spell that created the effect. The spell effect must be within your Cast Range.
+You learn how to fix broken reality and prevent it from breaking.
 
-You learn how to prevent reality from being broken. You gain ADV when contesting a spell from your disdained school with Spell Duel, and then your spell costs 1 AP less and 1 MP less, minimum 0.
+Dispel: You may spend 1 AP to dispel any ongoing spell effect from your Disdained School within your Cast Range.
+
+Counter: When you declare a Spell Duel against a spell in your Disdained School, you gain ADV on your Spell Check, and your challenging spell costs 1 AP less and 1 MP less, minimum 0.
+
+### Disdain Absorption
+
+*Requires Disdain Hinder*
+
+Whenever you apply a Disdain Hinder option to a Disdained spell, successfully Dispel a Disdained spell, or successfully counter a Disdained spell, you gain MP equal to that spell’s combined AP and MP cost.
 
 ### Subclass Capstone Feature
 
 ### Perfection
 
-You can stop imperfections from forming. You may spend 2 AP and 2 MP to create an anti-spell field at any point you can see. Like a normal spell, the anti-spell field is bound by your Cast Range, Tether Range, Spell Duration, and Area Radius; and requires sustaining.
+You can stop imperfections from forming. You may spend 2 AP and 2 MP to create an anti-spell field at any point you can see. Like a normal spell, the anti-spell field is bound by your Cast Range, Tether Range, Spell Duration, and Area Radius; and requires Sustaining.
 
-The anti-spell field causes any spell from your disdained schools that is cast in it or that overlaps with it to fail. Existing spells from your disdained schools that overlap with it are dispelled.
+The anti-spell field causes any spell from your Disdained School that is cast in it or that overlaps with it to fail. Existing spells from your Disdained School that overlap with it are dispelled.
 
-You may have any number of anti-spell fields active at a time. Your anti-spell fields sustain themselves while you’re inside at least 1 of them, even if you can’t sustain them yourself.
+You may have any number of anti-spell fields active at a time. Your anti-spell fields Sustain themselves while you’re inside at least 1 of them, even if you can’t Sustain them yourself.
 
 ## Reality Sharer
 
