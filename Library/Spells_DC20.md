@@ -189,18 +189,16 @@ Whenever a creature comes within 15ft of the eye, you get a mental signal tellin
 
 At higher levels. As you level up, the range of the eye’s senses and auto-detect increase by 15ft at the following levels: level 5 (30ft), level 11 (45ft), level 15 (60ft)
 
-# Cultivate Soil (0.9.5)
+# Cultivate Soil
 
-Destruction Cantrip
+Destruction (Cantrip)
 
 Cost: 1 AP
 
-Range: 3 Spaces
+Range: 5 Spaces
 
 Duration: Instant
 
-You choose 1 Space in range. If it’s dirt or stone, you grind up the dirt and/or stone to make loose dirt if it’s dirt, and loose gravel if it’s stone.
+Choose a Space within Range. You grind up the dirt and stone in a 1 Space Radius from the chose Space. You grind up the dirt into loose dirt, and the stone into loose gravel. You make grooves in the loose dirt and gravel appear. If a Space in the area is at least half loose dirt or gravel, that Space is now Difficult Terrain.
 
-Action Point Enhancements
-
-Plowed: (1 AP) You can make grooves in the dirt appear, making the Space count as Difficult Terrain.
+A creature can spend 2 AP to clear the grooves in the loose dirt and gravel, making the Space no longer Difficult Terrain.
