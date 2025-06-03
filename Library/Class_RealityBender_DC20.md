@@ -418,54 +418,44 @@ You want to help other people create their own realities.
 You gain the ability to help others bend reality. You gain the following reaction:
 
 **Bend Spell**  
-Trigger: Another creature within your Cast Range casts a spell from your bonded schools  
-Reaction: You add one of your Bond Affinity options to the spell
-
-You can use your Bend Spell reaction even if a Bond Affinity option has already been applied to it by someone else. You may not apply a Bond Affinity option that has already been applied with your Spell Sharing feature.
-
-Either the casting creature or the spell must be within your Cast Range.
-
-If the casted spell is a Bending Trick for you, you may apply an additional Bond Affinity option to it for each time you chose it as a Bending Trick.
+Trigger: Another creature casts a spell within your Cast Range from your Bonded Schools  
+Reaction: You add one of your Bond Affinity options to the spell not already applied to it.
 
 You gain the following Bond Affinity option:
 
--   Bent: 0 MP. Modify this spell cast’s attributes to your Cast Range, Tether Range, and Spell Duration.
+-   Bent: 0 MP. Bind this spell to your Cast Range, Tether Range, Spell Duration, and Area Radius.
 
 ### Spell Sharing
 
 You can give someone else a piece of your power.
 
-You can spend 1 minute to designate another willing creature as a vessel of your power. You must be able to see the creature and they must be within your Cast Range for the whole duration. The creature is now one of your vessels. You can have any number of vessels active at the same time.
+You can spend 1 minute to designate another willing creature you touch as a vessel of your power. The creature is a vessel for you. You can have any number of vessels active at the same time.
 
-You can spend 1 AP to share a spell you know from your bonded schools with a vessel in your Cast Range. The vessel gains the ability to cast the shared spell, expending your MP when they do.
+You can spend 1 AP to share a spell you know from your Bonded School with a vessel in your Cast Range. The vessel gains the ability to cast the shared spell, expending your MP, and selecting from your bond affinity options when they do so.
 
-When you share a spell, you may choose a Bond Affinity option to apply to the spell whenever the vessel casts it. You can choose the same Bond Affinity option for multiple shared spells.
+You can share a number of spells with the same vessel up to your CM. You can share the same spell with a number of vessels up to your CM. While sharing a spell with the max amount of vessels, you cannot cast that spell or share it.
 
-While a vessel has a spell, you cannot cast that spell or share it. You can share multiple spells with the same vessel.
-
-A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your prime modifier. The spell is limited by your Mana Spend Limit. The vessel has to sustain it, and can sustain spells up to their CM, using your spell sustaining rules for the spells shared with them. Every other reference to “you” or “self” in the shared spell refers to the vessel. A vessel gains the benefits of your spellcasting focus when casting a shared spell. If the vessel has a body part similar to your spellcasting focus body part, it glows your spell casting glow color when they cast a spell.
+A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your Prime Modifier and is limited by your Mana Spend Limit. The vessel has to Sustain it, and can Sustain shared spells up to their CM, using your spell sustaining rules. Every reference to “you” or “self” in the shared spell refers to the vessel. If the vessel has a body part similar to your spellcasting focus body part, it glows your spell casting glow color when they cast a spell.
 
 Being a vessel isn’t forever. A creature automatically stops being a vessel if any of the following happens:
 
--   The vessel duration for the vessel expires. A vessel’s vessel duration is equal to your Spell Duration.
+-   The vessel duration for the vessel expires. A vessel’s vessel duration is equal to your Spell Duration in days.
 -   The vessel becomes outside your Tether Range or shifts to another plane.
 -   The vessel dies or ceases to exist.
 -   The vessel willingly decides to stop being a vessel.
--   You spend 1 AP to make them no longer a vessel.
+-   You spend 1 AP to revoke their vessel status.
 
-When a vessel stops being a vessel, all spells you shared with them automatically return to you.
+A vessel’s vessel duration is automatically refreshed while it is within your Cast Range. Additionally, you may spend 1 AP to refresh the vessel duration of a vessel within your Tether Range.
 
-You may spend 1 AP to refresh a vessel’s vessel duration, if the vessel is within your Cast Range. Additionally, whenever you share a spell with a vessel, that vessel’s vessel duration is automatically refreshed.
+You may spend 1 AP to take back any number of spells from a vessel within your Cast Range.
 
-You may spend 1 AP to take back any number of spells from a vessel, if the vessel is within your Cast Range.
-
-You may spend 1 AP to revoke a vessel’s vessel status.
+You may spend 1 AP to revoke a vessel’s vessel status or dispel a shared spell Sustained by one of your vessels.
 
 ### Level 6 Subclass Features
 
 ### Vessel Network
 
-You can see from your vessels’ points of view. You may spend 1 AP to sense the world through one of your vessel’s point of view. This lasts until you end it as a free action.
+You can see from your vessels’ points of view. You may spend 1 AP to sense the world through one of your vessel’s senses. This lasts until you end it as a free action.
 
 Any position that is within Tether Range of a vessel is considered to be within Tether Range of you.
 
@@ -473,21 +463,9 @@ You may use your Reality Observer and Affinity Assist features on spells that a 
 
 ### Worship
 
-Your power grows the more your name is said.
+Your vessels can help you as much as you can help them.
 
-At the start of a vessel’s turn, they may say your name, granting you 1 MP.
-
-Additionally, your maximum MP is increased by the number of vessels you have.
-
-### Enhanced Spell Sharing
-
-Your Spell Sharing feature is enhanced.
-
--   Shared spells are no longer restricted from you when you share them. You can now share a single spell with multiple vessels, and you can now cast it yourself while it is shared.
--   You may refresh the vessel duration of any vessel that is within your Tether Range.
--   Vessels within your Cast Range continuously have their vessel duration refreshed automatically.
--   Each time a vessel casts a spell that you shared with them, their vessel duration is refreshed.
--   You can spend 1 AP to dispel any shared spell that one of your vessels had casted.
+Whenever a vessel finishes a long rest, they may pray to you, refreshing their vessel duration and granting you bonus MP equal to their level that lasts while they are conscious.
 
 ### Subclass Capstone Feature
 
@@ -495,7 +473,7 @@ Your Spell Sharing feature is enhanced.
 
 Your vessels can evangelize.
 
-You may spend 1 hour to designate a willing vessel as a prime vessel. You must be able to see the vessel and they must be within your Cast Range for the whole duration. That vessel then becomes a prime vessel.
+You may spend 1 hour to designate a willing vessel you touch as a prime vessel. That vessel then becomes a prime vessel.
 
 A prime vessel has the ability to use your Spell Sharing feature to
 
