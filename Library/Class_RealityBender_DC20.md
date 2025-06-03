@@ -85,8 +85,8 @@ When you cast spells, this body part glows, shedding dim light in a 1 space radi
 
 Spells that you cast from your bonded schools have their attributes changed:
 
--   If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range
--   If the spell’s center of effect ever becomes further away from you than the Tether Range, then the spell ends automatically. Leaving the plane counts as leaving your Tether Range.
+-   If the spell has a range greater than Touch or Self, its casting range is changed to your Cast Range.
+-   You can only sustain a spell if its center of effect is inside your Tether Range. It must also be on the same plane as you.
 -   Spells that have a duration longer than Instantaneous or 1 round also have their duration changed to your Spell Duration
 -   If the spell has an area of effect, its radius is equal to your Area Radius.
 
@@ -94,12 +94,14 @@ Your Cast Range, Spell Duration, Tether Range, and Area Radius are determined by
 
 -   Your Cast Range is determined by your INT multiplied by your level’s Cast Range multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
     EX: If your INT is 3 and you’re level 2, your Cast Range is 6 Spaces
--   Your Tether Range is determined by your AGI multiplied by your level’s Tether Range multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
+-   Your Tether Range is determined by your AGI multiplied by your level’s Tether Range multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level times 2.  
     Ex: If your AGI is 2 and you’re level 3, your Tether Range is 24 Spaces.
--   Your Spell Duration is determined by your CHA multiplied by your level’s Spell Duration multiplier. The value is in minutes. The minimum is a number of rounds equal to your level (5 rounds is 1 min).  
+-   Your Spell Duration is determined by your CHA multiplied by your level’s Spell Duration multiplier. The value is in minutes. The minimum is a number of rounds equal to your level (1 min is 5 rounds).  
     EX: If your CHA is 4 and you’re level 5, your Spell Duration is 200min, which is equivalent to 3hr 20min.
 -   Your Area Radius is determined by your MIG multiplied by your level’s Area Radius multiplier. The value is in Spaces. The minimum is a number of Spaces equal to your level.  
     EX: If your MIG is 2 and you’re level 7, your Area Radius is 14 Spaces.
+
+These attributes only effect a spell’s base values; spell enhancements can still be used to increase them. EX: Your Cast Range is 5 Spaces, but you want to cast Message to someone beyond that range. You can spend 1 MP to use the Range MPE of Message to increase its range to 35 Spaces. This also increases the Tether Range by 30 Spaces as well. APEs and MPEs can also increase the Spell Duration and Area Radius as normal.
 
 When you cast the spell, you can decide to lower the Cast Range, Spell Duration, Tether Range and/or Area Radius of the spell.
 
@@ -172,13 +174,13 @@ Your Attribute Limit is replaced with the following table:
 
 You know a spell so well you can cast it with ease. Choose a spell you know. It becomes a Bending Trick for you.
 
-When you cast a Bending Trick, you can apply an additional Bond Affinity option to it. Additionally, the Bending Trick costs 1 MP less to cast, minimum 0.
+When you cast a Bending Trick, you can apply an additional Bond Affinity option to it. Additionally, the Bending Trick costs 1 MP less to cast, minimum 0. This still counts against your Mana Spend Limit.
 
 Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may instead upgrade an existing Bending Trick again instead of choosing a new one, using the same rules.
 
 ## Level 2 Class Features
 
-### Reality Studier
+### Reality Studier (Flavor Features)
 
 You can more easily absorb information about spells that you see.
 
@@ -187,6 +189,8 @@ You may spend 1 minute studying an ongoing spell effect to make a Spell Check. T
 Reality Studier DC = 20 + spell’s MP cost – Mana Spend Limit
 
 ### Bond Affinity Ease
+
+You learn 1 additional Bond Affinity option.
 
 You can more easily apply Bond Affinity options. You may spend 1 AP to reduce the MP cost of a Bond Affinity option by 1. You may do this multiple times per spell. This AP cost still counts against your Mana Spend Limit.
 
