@@ -1030,9 +1030,9 @@ Ranged: Make a ranged weapon attack ([Cast Range] / [Tether Range]). Hit: The ca
 
 Trap: Place the card facedown on a table, counter, chair, or other surface. The first creature to hold the card and look at its front activates it, and the card targets the creature as if they had drawn the card themselves.
 
-### Card Slinger (Flavor Feature)
+### Card Counter (Flavor Feature)
 
-You can imbue regular playing cards with your cantrips. When you cast a spell without spending MP, you can instead imbue it into a regular playing card. The next creature to hold the card and look at it activates it, and the spell in the card targets the creature.
+You can imbue regular playing cards with your magic. You gain ADV on Insight Checks made to identify a regular face down card and ADV on Trickery Checks when handling cards.
 
 ### Level 6 Subclass Features
 
