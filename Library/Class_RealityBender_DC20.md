@@ -1056,49 +1056,33 @@ You use the dead to bend reality to your will.
 
 ### Raise the Dead
 
-You can exhume dead bodies from their resting place. You may spend 1 AP and 1 MP or more to bring a dead body within your Cast Range to life. If it is able, it will spend all its actions on movement to get to your location, digging through as much dirt and opening as many doors as it needs to (only if it is physically capable of doing so) to do so. It then serves you as an undead minion until it collapses.
+Exhume: You can exhume dead bodies from their resting place. You may spend 1 AP and 1 MP or more to animate a number of dead bodies within your Cast Range equal to the MP spent. Dead bodies animated in this way become undead minions, and if they are able, they will spend all their actions on movement to get to your location, digging through as much dirt and opening as many doors as they need to.
 
-### Undead Minions
+Undead Minions: Undead minions:
 
-You gain control of undead minions. They are bound to your Tether Range and Spell Duration, but they do not require sustaining. When they expire, they collapse to the ground as the pile of flesh and bones that they are.
+-   Do not require Sustaining
+-   Start with health equal to your CM
+-   Can’t be healed by magical or mundane means
+-   Have psychic immunity
 
-A minion also collapses when:
+Servitude: You may spend 1 AP to telepathically command a number of undead minions up to your CM, and they will do as you say. Common commands include Attack, Move, Carry, and Die.
 
--   You become unconscious.
--   You are no longer on the same plane as the undead minion.
--   You spend 1 AP to dismiss it.
+Undead Magic: You gain the following bond affinity options:
 
-Minions start with hit points equal to your CM times the MP spent to animate it. Undead minions can’t be healed by magical or mundane means.
-
-Your minions attack and move on your turn. You can command your undead minions telepathically.
-
-You may spend 1 AP to dismiss a particular undead minion, and it collapses.
-
-Undead minions are immune to psychic damage. However, any psychic damage they would take instead gets transferred to you.
-
-### Undead Immunity
-
-You learn how to cast spells without harming your undead minions. You gain the following bond affinity option:
-
-• Undead Safety: 1 MP. This spell has no effect on your undead minions.
+-   Horde Immunity: 1 MP. This spell has no effect on your undead minions.
+-   All Undead: 1 MP. This spell targets all your undead minions within your Cast Range.
 
 ### Level 6 Subclass Features
 
-### Undead Enchanting
-
-You can cast spells on all your undead minions at once. You gain the following bond affinity option:
-
--   Undead: 1 MP. If this spell targets one or more of your undead minions, it also targets all your undead minions within your Cast Range.
-
 ### Undead Fortitude
 
-You can syphon the energy of your undead minions. You may spend 1 AP and 1 MP to consume the energy of one of your undead minions within your Cast Range. You gain hp equal to that undead minion’s remaining hp, and the undead minion collapses and shrivels into dust. It can’t be reanimated again.
+You can syphon the energy of your undead minions. You may spend 1 AP and 1 MP to consume the energy of one of your undead minions within your Cast Range. You gain health equal to that undead minion’s remaining health, and the undead minion dies, unable to be reanimated again.
 
 Additionally, you gain the following reaction:
 
 **Undead Fortitude**  
 Trigger: You drop to 0hp or less  
-Reaction: You disintegrate one of your undead minions and heal to 1hp.
+Reaction: You disintegrate one of your undead minions, healing for its remaining health. Then, if you have less than 1 health, you heal to 1 health.
 
 ### Subclass Capstone Feature
 
@@ -1106,7 +1090,7 @@ Reaction: You disintegrate one of your undead minions and heal to 1hp.
 
 You can turn the tide of battles with a sudden rise of undead.
 
-You may spend 4 AP and 5 MP to target any amount of creatures that you can see within your Cast Range and that have died within your Spell Duration. You may then use your Raise the Dead feature on all of them at once. They have hp equal to your CM times 5.
+You may spend 4 AP and 5 MP to target any amount of creatures that you can see within your Cast Range and that have died within your Spell Duration. You may then use your Raise the Dead feature on all of them at once. They have health equal to your CM times 5.
 
 ## Creature Wrangler
 
