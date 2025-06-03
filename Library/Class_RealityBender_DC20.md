@@ -274,19 +274,13 @@ You seek to build a new environment that is to your liking.
 
 ### Level 3 Subclass Features
 
-### Area Modulation
+### Area Affinity
 
-You gain affinity for area of effect spells. You may spend 1 AP to target an existing area of effect spell in your bonded schools, and increase its radius (or diameter) up to an amount depending on your level, as shown in the following chart. Alternatively, you can decrease its radius (or diameter).
+You gain affinity for AoE spells.
 
-|   | Effect Radius Increase | Effect Diameter Increase |
-|---|------------------------|--------------------------|
-| 3 | 1 Space                | 2 Spaces                 |
-| 6 | 4 Spaces               | 8 Spaces                 |
-| 9 | 20 Spaces              | 40 Spaces                |
+Increased size: Your Area Radius is multiplied by 2.
 
-The target spell must be within your Cast Range. The radius can’t exceed the Tether Range of the spell, or go below 0. If the radius gets reduced to 0, the spell ends.
-
-You may use this feature on an area of effect spell that you did not cast, as long as it is in your bonded schools. If the spell doesn’t have a Tether Range, you use your Tether Range for determining the max radius you can expand it to.
+Modulation: You may spend 2 AP to target an existing AoE spell in your Bonded School within your Cast Range, and increase or decrease its radius (or diameter) by an amount up to your CM. If the radius gets reduced to 0, the spell ends.
 
 ### Area Permanence
 
@@ -294,33 +288,38 @@ You learn how to make your spells stable long-term.
 
 You gain the following Bond Affinity option:
 
--   Permanent: 0 MP. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an area of effect. This spell doesn’t require sustaining. Double the MP cost and casting time for this spell cast.
+-   Permanent: 0 MP. Increase your Tether Range and/or Spell Duration up to infinity for this spell cast, if it has an AoE. This spell doesn’t require Sustaining. Double the MP cost and casting time for this spell cast.
 
-Permanent spells don’t require sustaining, even if the spell specifically states that it does. Permanent spells don’t automatically end, even if the spell specifically states that it does.
+Permanent spells don’t require Sustaining, even if the spell specifically states that it does. Permanent spells don’t automatically end, even if the spell specifically states that it does.
 
-You can’t use the Permanent Bond Affinity option on a spell that doesn’t have an area of effect.
+You can’t use the Permanent Bond Affinity option on a non-AoE spell.
 
-Permanent spells cost double the MP to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute. If a Permanent spell is centered on yourself, another creature, or an object, it is instead centered on a point in space.
+Permanent spells cost double the MP to cast, and take twice as long to cast. If the cast time is less than 1 minute, the cast time is increased to 1 minute.
 
-Permanent spells are resistant to being dispelled. If a creature attempts to dispel it, they must make a Spell Check with a DC equal to 10 plus the MP spent to cast it multiplied by your prime modifier at the time of casting. Success: they dispel the spell, provided the other conditions are met. Failure: the Permanent spell still stands.
+A Permanent spell is always centered on a point in space.
 
-Dispel DC: 10 + (MP spent \* (old) CM)
+Permanent spells are resistant to being dispelled. If a creature attempts to dispel it, they must make a Spell Check with a DC equal to 10 plus its radius.
+
+Success: They dispel the Permanent spell, provided the other conditions are met.  
+Failure: The Permanent spell still stands.
 
 You may spend 4 AP to dispel a Permanent spell you cast, using the rules outlined above. You gain ADV on this check.
 
-You may spend 1 AP and 1 MP to use your Area Modulation feature on a Permanent spell that you cast. You may not move a Permanent spell after casting it, even if the spell specifically states that you can.
+You may spend 1 AP and 1 MP to use your Area Affinity Modulation feature on a Permanent spell that you cast. You may not move a Permanent spell after casting it, even if the spell specifically states that you can.
 
 ### Level 6 Subclass Features
 
 ### Home Sweet Home
 
-You can begin to call your area your home. Each of your Permanent spells contributes to the combined area called your Permanent Area. Whenever you finish a short rest or long rest in your Permanent Area, you regain all expended MP.
+You can begin to call your area your home. Each of your Permanent spells contributes to the combined area called your Permanent Area. While in your Permanent Area:
 
-Additionally, while standing in your Permanent Area, your Mana Spend Limit increases by your CM.
+-   Whenever you roll for initiative, you regain all expended MP.
+-   Your Mana Spend Limit increases by your CM.
+-   You gain ADV on all Saves from spell effects.
 
 ### Area Fixation
 
-Other area of effect spells have no effect in your Permanent Area, unless that other spell is also Permanent, or you allow that other spell to effect your Permanent Area.
+Whenever another creature attempts to cast an AoE spell in your Permanent Area, they have DisADV on the Spell Check, unless that spell is also Permanent or you give them permission.
 
 ### Subclass Capstone Feature
 
@@ -328,15 +327,23 @@ Other area of effect spells have no effect in your Permanent Area, unless that o
 
 You gain advanced control over who can access your areas.
 
-You may spend 1 AP to choose a creature that is within your Cast Range and outside your Permanent Area to mark as Banned. At the start of a Banned creature’s turn, if it’s inside your Permanent Area, that creature takes true damage up to your CM and must make a Physical save. Failure: the creature is forced 1 Space toward the closest square not in your Permanent Area. This effect also happens the first time the creature enters your Permanent Area on its turn. If a Banned creature finds itself inside your Permanent Area due to you casting a spell on its location, its Banned mark is removed.
+You may spend 1 AP to choose a creature that is within your Cast Range and outside your Permanent Area to mark as Banned. At the start of a Banned creature’s turn, if it’s inside your Permanent Area, that creature takes true damage up to your CM and must make a Physical save:
 
-You may spend 1 AP to choose a creature that is within your Cast Range and inside your Permanent Area to mark as Penned. At the start of a Penned creature’s turn, if it’s not inside your Permanent Area, that creature takes true damage up to your CM and must make a Physical save. Failure: the creature is forced 1 Space toward the closest square in your Permanent Area. This effect also happens the first time the creature exits your Permanent Area on its turn. If a Penned creature finds itself outside your Permanent Area due to one of your spells being dispelled, its Penned mark is removed.
+Failure: the creature is forced 1 Space toward the closest square not in your Permanent Area.
+
+This effect also happens the first time the creature enters your Permanent Area on its turn. If a Banned creature finds itself inside your Permanent Area due to you casting a spell on its location, its Banned mark is removed.
+
+You may spend 1 AP to choose a creature that is within your Cast Range and inside your Permanent Area to mark as Penned. At the start of a Penned creature’s turn, if it’s not inside your Permanent Area, that creature takes true damage up to your CM and must make a Physical save:
+
+Failure: the creature is forced 1 Space toward the closest square in your Permanent Area.
+
+This effect also happens the first time the creature exits your Permanent Area on its turn. If a Penned creature finds itself outside your Permanent Area due to one of your spells being dispelled, its Penned mark is removed.
 
 You may spend 1 AP to remove a Banned or Penned mark from a creature.
 
 Each mark is permanent, and you may mark an infinite number of creatures. If you attempt to mark a creature you already marked, the new mark replaces the old mark.
 
-If a creature would take damage from this feature, you may instead reduce that damage to any amount, minimum 0. You may choose the maximum damage a creature can take when you mark them, up to your CM.
+If a creature would take damage from this feature, you may instead reduce that damage to any amount, minimum 0. You may also choose the maximum damage a creature can take from this feature when you mark them, up to your CM.
 
 ## Reality Fixer
 
