@@ -28,21 +28,38 @@ More Time: (1 MP) Increase the duration by 1 hour.
 
 # Cringe Reminiscence
 
-3rd-level Enchantment
+Enchantment
 
-Casting Time: 1 action
+Cost: 2 AP + 2 MP
 
-Range: 120 feet
-
-Components: V
+Range: 25 Spaces
 
 Duration: 1 minute
 
 You admonish a creature you can see within range, causing them to relive a painful memory from their youth. Perhaps the time they farted in front of their crush, the time they entered the wrong house by mistake, or the time they forgot the name of an acquaintance.
 
-The creature must make a Charisma save. On a success, on their next turn, the target must choose between taking their action, bonus action, reaction, or movement; and forfeit the others. On a failure, on each of their turns for the duration of the spell, the target must choose between taking their action, bonus action, reaction, or movement; and forfeit the others.
+The creature must make a Charisma Save:
+
+Success (10): The target suffers no ill effect.  
+Success: The target gets -3 AP until the end of their next turn.  
+Failure: The target gets -3 AP for the duration of the spell.
+
+The creature may spend 1 AP to make a Charisma Save on each of its turns.
+
+Success: It breaks free of this spell.
 
 The creature must be able to hear you and understand you. Creatures that can’t be charmed are immune to this effect.
+
+Mana Point Enhancements
+
+Universal Tone: (2 MP) The creature doesn’t have to understand you to be effected.
+
+Body Language: (2 MP) The creature doesn’t have to hear you to be effected.
+
+Emotional Damage: (2 MP) Make a Spell Check against the creature’s AD.
+
+Hit: The creature takes 3 + CM Psychic damage.  
+Miss: The creature takes 3 Psychic damage.
 
 *“You should be ashamed of yourself.” -Pancake*
 
