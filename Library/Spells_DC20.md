@@ -164,21 +164,19 @@ Dispel Insurance: (2 MP) This spell can’t be dispelled by normal means. A crea
 
 # Conjure Tea Cup
 
-Conjuration Cantrip
+Conjuration (Cantrip)
 
-Casting Time: 1 bonus action
+Cost: 1 AP
 
 Range: Self
 
-Components: V
-
 Duration: 1 minute
 
-You speak the name of a tea, and a tea cup filled with fresh tea of that kind appears in your hand, on a flat surface within 5ft of you, or at your feet.
+You speak the name of a tea, and a tea cup filled with fresh tea of that kind appears in your hand, on a flat surface within 1 Space of you, or at your feet.
 
-As an object interaction, you may sip it to restore 1d4 hp.
+As a Minor Action, you may sip it to restore 1 Rest Point.
 
-The tea is bound to you. If anyone touches the cup, the cup disappears. If the tea is spilled, it vanishes before it hits the ground.
+The tea cup is spill-proof. If it would spill or break, it instead vanishes.
 
 # Death Spotting
 
