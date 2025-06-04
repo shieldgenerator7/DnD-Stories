@@ -142,21 +142,25 @@ At Higher Levels. Casting this spell at 6th level or higher, you may target one 
 
 # Enduring Thread
 
-5th-level Necromancy
+Necromancy
 
-Casting Time: 1 hour
+Cost: 1 hour (Ritual) + 3 MP
 
 Range: Touch
 
-Components: S, M (an iron thread, which the spell consumes)
+Duration: Permanent
 
-Duration: Instantaneous
+You weave an iron thread into a target creature, safeguarding them from the aging process. The target gains Immunity to all damage from aging and organ failure.
 
-You touch a creature and safeguard them from the aging process. The creature can’t die due to aging or organ failure.
+If the target would die from old age or organ failure, they instead continue living, retaining their memories, personalities, and stats. They become effected by spells that effect Undead, such as Detect Undead and Turn Undead, but are not truly Undead themselves.
 
-If the creature would take damage or die from aging or organ failure, they instead don’t. They then become Undead for the purposes of spells like Detect Undead and Turn Undead, but they retain their memories, personalities, and stats.
+Mana Point Enhancements
 
-Additionally, they become immune to poison and disease, and the Poisoned condition.
+Disease Insurance: (1 MP) The target gains Immunity to disease.
+
+Poison Insurance: (1 MP) The target gains Immunity to Poison damage and the Poisoned condition.
+
+Dispel Insurance: (2 MP) This spell can’t be dispelled by normal means. A creature within 1 Space may spend 1 AP to make an Investigation Check against your Save DC. Success: The creature finds the iron thread in the target. For 1 minute or until they move away from the target, they can dispel this spell by targeting the iron thread.
 
 # Conjure Tea Cup
 
