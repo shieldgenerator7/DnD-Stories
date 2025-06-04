@@ -194,21 +194,23 @@ Up to 3 creatures you can see within range are warded. While they are warded, if
 
 # Eye Ward
 
-Divination Cantrip
+Divination (Cantrip)
 
-Casting Time: 1 bonus action
+Cost: 1 AP
 
-Range: 10ft
+Range: 2 Spaces
 
-Components: S
+Duration: 24 hours
 
-Duration: up to 24 hours
+Choose a point within range. You leave behind an ethereal eye that becomes invisible after 1 minute and lasts for the duration. It has sight out to a range of 3 Spaces. You may spend 1 AP to connect to the eye, seeing what it sees, and becoming Blinded to your own senses. You may end this connection at any time, and when you do, the eye disappears.
 
-Choose a point within range. You leave behind an ethereal eye that becomes invisible after 1 minute and lasts for the duration. You may use your bonus action to see what it sees and hear what it sees, becoming blind and deaf to your own senses. It has sight and hearing out to a range of 15ft. You may end this effect as a free action. When you do, the eye disappears.
+Action Point Enhancements
 
-Whenever a creature comes within 15ft of the eye, you get a mental signal telling you that it sensed something. You may then use your reaction to see from the eye as described above.
+Alarm: (1 AP) Whenever a creature comes within the eye’s sight range, you get a mental signal telling you that it sensed something. You may then use your reaction to connect to the eye.
 
-At higher levels. As you level up, the range of the eye’s senses and auto-detect increase by 15ft at the following levels: level 5 (30ft), level 11 (45ft), level 15 (60ft)
+Ears: (1 AP) The eye also has ears and hearing out to the same range. When you connect to it, you hear what it hears and become Deafened to your own senses.
+
+Glasses: (1 AP) The range of the eye’s senses increases by 3 Spaces.
 
 # Cultivate Soil
 
