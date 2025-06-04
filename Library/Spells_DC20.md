@@ -87,30 +87,30 @@ Without a Trace: (1 MP) The target immediately makes a Stealth Check with ADV ag
 
 # Heart Rend
 
-9th-level Enchantment
+Enchantment
 
-Casting Time: 1 action
+Cost: 2 AP + 5 MP
 
 Range: Touch
 
-Components: V, S
-
 Duration: 24 hours
 
-You touch a creature and tell them how much they hurt you. They must make a Charisma saving throw. If they have less than 20d10 health, they fail automatically. On a failure, they are overcome with guilt. For the duration, they suffer the following effects:
+You touch a target creature and tell them how much they hurt you. They must make a Charisma Save. If they have less than 100 health, they fail automatically. Failure: They are overcome with guilt. For the duration, they suffer the following effects:
 
--   Their movement speed is halved
--   Their AC is decreased by their Agility score modifier
--   They can no longer crit
+-   Their move speed is halved
+-   Their PD is halved
+-   They can’t crit or heavy hit
 -   Rolling a 2 on a d20 counts as a fumble for them
--   They must reroll any max value damage dice and use the new value instead
--   All healing they receive is halved
--   They don’t benefit from a short rest or a long rest
--   Whenever they damage you, they must make another Charisma saving throw. On a failure, they take psychic damage equal to the damage they dealt to you times your spellcasting ability modifier.
 
-The creature must be able to hear you and understand you. Creatures that can’t be charmed are immune to this effect.
+The target must be able to hear you and understand you. A target that can’t be charmed is immune to this effect.
 
-The creature can spend 10 minutes to have an open-hearted conversation with you, in which they apologize at least once. If they do, this effect ends early.
+The target can spend 10 minutes to have an open-hearted conversation with you, in which they apologize at least once. If they do, this effect ends early.
+
+Mana Point Enhancements
+
+This’ll Hurt Me: (2 MP) When the target fails the Charisma Save, all healing they receive is halved and they don’t benefit from a short rest or a long rest.
+
+More Than It Hurts You: (2 MP) Whenever the target damages you, they make a Charisma Save. Failure: they take Psychic damage equal to the damage they dealt to you times your Prime Modifier.
 
 *“What you did to me… it hurts.” -Pancake*
 
