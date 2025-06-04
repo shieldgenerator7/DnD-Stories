@@ -202,7 +202,7 @@ Range: 2 Spaces
 
 Duration: 24 hours
 
-Choose a point within range. You leave behind an ethereal eye that becomes invisible after 1 minute and lasts for the duration. It has sight out to a range of 3 Spaces. You may spend 1 AP to connect to the eye, seeing what it sees, and becoming Blinded to your own senses. You may end this connection at any time, and when you do, the eye disappears.
+Choose a point within range. You leave behind an ethereal eye that becomes invisible after 1 minute and lasts for the duration. It has sight out to a range of 3 Spaces in every direction. You may spend 1 AP to connect to the eye, seeing what it sees, and becoming Blinded to your own senses. You may end this connection at any time.
 
 Action Point Enhancements
 
