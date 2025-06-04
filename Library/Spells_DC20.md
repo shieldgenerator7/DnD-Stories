@@ -65,21 +65,23 @@ Miss: The creature takes 3 Psychic damage.
 
 # Oblivious Obscuration
 
-5th-level abjuration
+Protection
 
-Casting Time: 1 action
+Cost: 2 AP + 2 MP
 
-Range: 10 ft
+Range: 5 Spaces
 
-Components: V, S, M (a piece of wool)
+Duration: 1 hour (Sustain)
 
-Duration: 1 hour
+You fog up the eyes of a target creature you can see within range. For the duration of the spell, the target suffers a penalty to Passive Perception equal to your Prime Modifier, and DisADV on Perception checks. They gain a bonus to their Stealth checks equal to your Prime Modifier. Creatures that the target is unaware of have DisADV on their Perception checks to detect the target, and a penalty to Passive Perception equal to your Prime Modifier to detect the target. When the target becomes aware of a hostile creature, the spell ends.
 
-You fog up the eyes of a creature you can see within range. For the duration of the spell, the creature suffers a penalty to Passive Perception equal to your spellcasting ability modifier, and disadvantage on Perception checks. They gain a bonus to their Stealth checks equal to your spellcasting ability modifier and other creatures that they are unaware of have disadvantage on their Perception checks to detect the creature, and a penalty to Passive Perception equal to your spellcasting ability modifier.
+Mana Point Enhancements
 
-The creature is immune to damage from creatures they are unaware of.
+Party: (1 MP) Target 1 additional creature. Targets effected by the same instance of this spell are still aware of each other.
 
-When the creature becomes aware of a hostile creature, the spell ends.
+Safe Passage: (1 MP) The target has Immunity to damage from creatures they are unaware of.
+
+Without a Trace: (1 MP) The target immediately makes a Stealth Check with ADV against the Passive Perception of creatures that are aware of it. Success: The target seems to vanish.
 
 *“Keep your head low.” -Pancake*
 
