@@ -162,7 +162,7 @@ Poison Insurance: (1 MP) The target gains Immunity to Poison damage and the Pois
 
 Dispel Insurance: (2 MP) This spell can’t be dispelled by normal means. A creature within 1 Space may spend 1 AP to make an Investigation Check against your Save DC. Success: The creature finds the iron thread in the target. For 1 minute or until they move away from the target, they can dispel this spell by targeting the iron thread.
 
-# Conjure Tea Cup
+# Conjure Teacup
 
 Conjuration (Cantrip)
 
@@ -172,11 +172,11 @@ Range: Self
 
 Duration: 1 minute
 
-You speak the name of a tea, and a tea cup filled with fresh tea of that kind appears in your hand, on a flat surface within 1 Space of you, or at your feet.
+You speak the name of a tea, and a teacup filled with fresh tea of that kind appears in your hand, on a flat surface within 1 Space of you, or at your feet.
 
 As a Minor Action, you may sip it to restore 1 Rest Point.
 
-The tea cup is spill-proof. If it would spill or break, it instead vanishes.
+The teacup is spill-proof. If it would spill or break, it instead vanishes.
 
 # Death Spotting
 
