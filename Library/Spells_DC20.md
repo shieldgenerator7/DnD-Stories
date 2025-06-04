@@ -4,25 +4,25 @@ Custom DnD Spells
 
 Protection
 
-Cost: 2 AP + 2 MP
+Cost: 2 AP + 3 MP
 
 Range: 9 Spaces
 
 Duration: 1 hr (Sustained)
 
-Choose a Space within range. Warding glyphs appear in a 3 Space Radius from the chosen Space, preventing creatures from dying inside. Whenever a creature in the glyphs would drop to 0 hp or less, it instead drops to 1 hp. That creature then gains Immunity to all damage.
+Choose a Space within range. Warding glyphs appear in a 3 Space Radius from the chosen Space, preventing creatures from dying inside. Whenever a creature in the glyphs would drop to 0 health or less, it instead drops to 1 health. That creature then gains Immunity to all damage while effected by this spell.
 
-When a creature takes damage and is prevented from dropping to 0 hp with this effect, they must make a Might Save, with a DC equal to 10 or the damage dealt, whichever is higher. Success: the creature instead drops to 1 hp and stays conscious. Failure: the creature instead drops to 1 hp, but falls unconscious.
+When a creature is prevented from dropping to 0 health by this spell, they must make a Might Save against a DC of 10 or the damage dealt, whichever is higher. Failure: The creature falls Unconscious.
 
 Mana Point Enhancements
 
-More Awake: (1 MP) You lower the DC by your PM.
+More Awake: (2 MP) Lower the DC by your Prime Modifier.
 
-More Asleep: (1 MP) You raise the DC by your PM.
+More Asleep: (2 MP) Raise the DC by your Prime Modifier.
 
-More Area: (1 MP) Increase the Radius by 1 Space.
+More Area: (2 MP) Increase the Radius by 1 Space.
 
-More Time: (1 MP) Increase the duration by 1 hour.
+More Time: (2 MP) Increase the duration by 1 hour.
 
 *“Reaper, you’re dismissed.” -Pancake*
 
