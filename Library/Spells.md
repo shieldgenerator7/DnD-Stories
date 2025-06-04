@@ -129,9 +129,11 @@ Duration: Instantaneous
 
 You touch a creature and safeguard them from the aging process. The creature can’t die due to aging or organ failure.
 
-If the creature would take damage or die from aging or organ failure, they instead don’t. They then become Undead for the purposes of spells like Detect Undead and Turn Undead, but they retain their memories, personalities, and stats.
+The creature has Immunity to all damage from aging and organ failure. If they would die from old age or organ failure, they instead continue living, retaining their memories, personalities, and stats. They become effected by spells that effect Undead, such as Detect Undead and Turn Undead, but are not truly Undead.
 
 Additionally, they become immune to poison and disease, and the Poisoned condition.
+
+This spell can’t be dispelled by normal means. It can be dispelled by the Wish spell, or a creature may use its action to make a DC20 Investigation check to find the iron thread in the creature, and on a success, they can dispel the spell by targeting the iron thread.
 
 # Conjure Tea Cup
 
