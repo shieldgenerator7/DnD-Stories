@@ -142,15 +142,19 @@ At Higher Levels. Casting this spell at 6th level or higher, you may target one 
 
 # Enduring Thread
 
-Necromancy
+Protection
 
 Cost: 1 hour (Ritual) + 3 MP
 
 Range: Touch
 
-Duration: Permanent
+Duration: 1 day - Permanent
 
-You weave an iron thread into a target creature, safeguarding them from the aging process. The target gains Immunity to all damage from aging and organ failure.
+You weave an iron thread into a target creature, safeguarding them from the aging process. The target gains Immunity to all damage from aging and organ failure. Make a DC 20 Spell Check:  
+Success (10): The effects are permanent.  
+Success: The effects last for 1 year.  
+Failure: The effects last for 1 month.  
+Failure (5): The effects last for 1 day.
 
 If the target would die from old age or organ failure, they instead continue living, retaining their memories, personalities, and stats. They become effected by spells that effect Undead, such as Detect Undead and Turn Undead, but are not truly Undead themselves.
 
