@@ -101,6 +101,44 @@ A spectral, floating hand appears.
 
 *0.9.5, pg 169*
 
+# Shield
+
+Protection (Cantrip)
+
+Cost: 1 AP
+
+Range: 1 Space
+
+Duration: Instant
+
+You create a barrier of magic to protect yourself or another
+
+creature nearby.
+
+Trigger: When a creature you can see within range
+
+(including yourself) is targeted by an Attack.
+
+Reaction: You grant the target a +5 bonus to its PD and AD
+
+against the Attack.
+
+Mana Point Enhancements
+
+Increase Range: (1 MP) The range increases to 5 Spaces.
+
+Multiple Targets: (1 MP) You can target 1 additional
+
+creature in range from the same triggering Attack (such as
+
+an Area of Effect).
+
+Increase Duration: (2 MP) The PD and AD bonus lasts
+
+until the start of your next turn.
+
+*0.9.5, pg 180*
+
 # Sleep (2 AP + 1 MP)
 
 *Enchantment - 15 Spaces - 1 min*
