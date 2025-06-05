@@ -49,10 +49,8 @@ A spectral, floating hand appears.
 -   Stow or retrieve an item from an open container
 -   Pour the contents out of a container
 
-Enhancements
-
-Range Hand: (1 MP) The range increases to 20 Spaces.
-
+Enhancements  
+Range Hand: (1 MP) The range increases to 20 Spaces.  
 Lasting Hand: (1 MP) The duration increases to 1 hour.
 
 *0.9.5, pg 169*
