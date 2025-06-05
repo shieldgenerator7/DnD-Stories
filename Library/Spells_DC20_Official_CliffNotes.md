@@ -36,7 +36,7 @@ Additional Traits: (1 MP) Familiar gains 2 additional Familiar and/or Beast Trai
 
 Conjuration (Cantrip)  
 Cost: 1 AP  
-Range: 5 Spaces  
+Range: 5 Spaces (Tethered)  
 Duration: 1 min (Unique)  
 Weight limit: 10 pounds
 
