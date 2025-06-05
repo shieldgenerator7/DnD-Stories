@@ -2,17 +2,14 @@ DC20 Spells Cliff Notes Version
 
 2025-06-05: copied from 0.9.5
 
-# Command
+# Command (2 AP + 1 MP)
 
-Enchantment  
-Cost: 2 AP + 1 MP  
-Range: 10 Spaces (Hear, See within 1 minute)  
-Duration: 1 Round
+*Enchantment - 10 Spaces - Hear, See within 1 minute - 1 Round*
 
 You command a creature.
 
 Spell Check: vs Charisma Save.  
-Success: The creature spends 2 AP to follow the command.
+Success: The creature spends (2 AP) to follow the command.
 
 Ignoring a Command: The Spell has no effect if
 
@@ -22,55 +19,46 @@ Ignoring a Command: The Spell has no effect if
 
 Choosing a Command:
 
--   Move: The target moves to a location or in a direction.
--   Prone: The target falls Prone.
--   Drop: The target drops anything it’s holding.
--   Attack: The target makes 1 Attack Check or Spell Check that normally costs 1 AP.
--   Other: at DM’s discretion
+-   **Move:** The target moves to a location or in a direction.
+-   **Prone:** The target falls Prone.
+-   **Drop:** The target drops anything it’s holding.
+-   **Attack:** The target makes 1 Attack Check or Spell Check that normally costs 1 AP.
+-   **Other:** at DM’s discretion
 
-Enhancements  
-Duration: (1 MP) +1 Round.  
-Targets: (2 MP) +1 target.
+\---  
+**Duration:** (1 MP) +1 Round  
+**Targets:** (2 MP) +1 target
 
 *0.9.5, pg 175*
 
-# Find Familiar
+# Find Familiar (1 AP + 1 MP)
 
-Conjuration (Ritual)  
-Cost: 1 AP + 1 MP  
-Range: 2 Spaces  
-Duration: Instant (Unique)
+*Conjuration – Ritual - 2 Spaces - Instant - Unique*
 
 A friendly servant spirit appears in the form of a Tiny creature.
 
 Passives:
 
--   Familiar Bond: Familiar shares your HP and Death’s Door Threshold.
--   Shared Telepathy: Telepathy with Familiar. Range: 20 Spaces
--   Spell Delivery: Cast a Touch spell through Familiar. Range: 10 Spaces
--   Shared MCP: Familiar shares your Multiple Check Penalty.
--   Death & Resurrection: Familiar dies when you die.
+-   **Familiar Bond:** Familiar shares your HP and Death’s Door Threshold.
+-   **Shared Telepathy:** *20 Spaces* - Telepathy with Familiar.
+-   **Spell Delivery:** *10 Spaces* - Cast a Touch spell through Familiar.
+-   **Shared MCP:** Familiar shares your Multiple Check Penalty.
+-   **Death & Resurrection:** Familiar dies when you die.
 
 Spell Actions:
 
--   Pocket Dimension: (Minor Action) Dismiss or resummon Familiar
--   Shared Senses: (1 AP) Connect your senses to Familiar’s senses. Range: 20 Spaces (Tethered), Duration: 1 round+
--   Combat: (1 AP) Familiar takes an Action other than the Attack or Spell Action, default: Dodge Action. When you take an action, Familiar moves.
--   Shared MCP: Familiar shares your Multiple Check Penalty.
--   Death & Resurrection: Familiar dies when you die.
+-   **Pocket Dimension:** (Minor Action) Dismiss or resummon Familiar
+-   **Shared Senses:** (1 AP) *20 Spaces – Tethered – 1 round+* - Connect your senses to Familiar’s senses.
+-   **Combat:** (1 AP) Familiar takes an Action other than the Attack or Spell Action, default: Dodge Action. When you take an action, Familiar moves.
 
-Enhancements  
-Additional Traits: (1 MP) Familiar gains 2 additional Familiar and/or Beast Traits. *(0.9.5 pg 180, pg 115)*
+\---  
+**Additional Traits:** (1 MP) Familiar gains 2 additional Familiar and/or Beast Traits. *(0.9.5 pg 180, pg 115)*
 
 *0.9.5, pg 179*
 
-# Mage Hand
+# Mage Hand (1 AP)
 
-Conjuration (Cantrip)  
-Cost: 1 AP  
-Range: 5 Spaces (Tethered)  
-Duration: 1 min (Unique)  
-Weight limit: 10 pounds
+*Conjuration – Cantrip  - 5 Spaces – Tethered - 1 min – Unique – 10lbs*
 
 A spectral, floating hand appears.
 
@@ -81,32 +69,31 @@ A spectral, floating hand appears.
 -   Stow or retrieve an item from an open container
 -   Pour the contents out of a container
 
-Enhancements  
-Range Hand: (1 MP) The range increases to 20 Spaces.  
-Lasting Hand: (1 MP) The duration increases to 1 hour.
+\---  
+**Range Hand:** (1 MP) +20 Spaces  
+**Lasting Hand:** (1 MP) +1 hour
 
 *0.9.5, pg 169*
 
-# Sleep
+# Sleep (2 AP + 1 MP)
 
-Enchantment  
-Cost: 2 AP + 1 MP  
-Range: 15 Spaces  
-Duration: 1 min
+*Enchantment - 15 Spaces - 1 min*
 
-Creatures within 4 Spaces of a point fall Unconscious.
+Creatures within 4 Spaces of a point fall Unconscious, up to HP limit.
 
-Spell Check: DC 10  
-Success: This Spell can effect 10 HP worth of creatures.  
-Success (each 5): +2 HP.  
-Failure: 5 HP.
+**Spell Check:** DC 10
+
+-   **Success:** 10 HP
+-   **Success (+5):** +2 HP
+-   **Failure:** 5 HP
 
 Counters:
 
--   (1 AP) Wake up a sleeping creature. Range: 1 Space
--   Undead and creatures that don’t sleep aren’t affected by this spell.
+-   (1 AP) *1 Space* - Wake up a sleeping creature.
+-   Unaffected: Undead
+-   Unaffected: Creatures that don’t sleep
 
-Enhancements  
-Slumber: (1 MP) +10 HP
+\---  
+**Slumber:** (1 MP) +10 HP
 
 *0.9.5, pg 175*
