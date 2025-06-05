@@ -14,15 +14,15 @@ A friendly servant spirit appears in the form of a Tiny creature.
 
 Passives:
 
--   Familiar Bond: Your Familiar shares your HP and Death’s Door Threshold.
--   Shared Telepathy: Telepathy to/from familiar. Range: 20 Spaces
--   Spell Delivery: Cast a Touch spell through your familiar. Range: 10 Spaces
--   Shared MCP: Your Familiar shares your Multiple Check Penalty.
--   Death & Resurrection: Your Familiar dies when you die.
+-   Familiar Bond: Familiar shares your HP and Death’s Door Threshold.
+-   Shared Telepathy: Telepathy with Familiar. Range: 20 Spaces
+-   Spell Delivery: Cast a Touch spell through Familiar. Range: 10 Spaces
+-   Shared MCP: Familiar shares your Multiple Check Penalty.
+-   Death & Resurrection: Familiar dies when you die.
 
 Pocket Dimension: (Minor Action) Dismiss or resummon Familiar  
-Shared Senses: (1 AP) Connect your senses to the Familiar’s senses. Range: 20 Spaces (Tethered). Duration: 1 round+  
-Combat: (1 AP) The Familiar takes an Action other than the Attack or Spell Action. When you take an action, your Familiar gains its full movement. Default: Dodge Action.  
+Shared Senses: (1 AP) Connect your senses to Familiar’s senses. Range: 20 Spaces (Tethered), Duration: 1 round+  
+Combat: (1 AP) Familiar takes an Action other than the Attack or Spell Action, default: Dodge Action. When you take an action, Familiar moves.  
 Shared MCP: Your Familiar shares your Multiple Check Penalty.  
 Death & Resurrection: Your Familiar dies when you die.
 
