@@ -120,6 +120,34 @@ Increase Duration: (2 MP) 1 round-
 
 *0.9.5, pg 180*
 
+# Shield of Faith
+
+Protection
+
+Cost: 1 AP + 1 MP
+
+Range: 10 Spaces
+
+Duration: 10 min (Sustained)
+
+A shimmering field appears and surrounds a creature of
+
+your choice within range.
+
+Make a DC 10 Spell Check. Success: The target gains +2
+
+PD for the duration. Success (each 10): +1 PD. Failure:
+
+The target gains 1 PD instead.
+
+Mana Point Enhancements
+
+Targets: (1 MP) You increase the number of creatures you
+
+can affect by 1.
+
+*0.9.5, pg 177*
+
 # Sleep (2 AP + 1 MP)
 
 *Enchantment - 15 Spaces - 1 min*
