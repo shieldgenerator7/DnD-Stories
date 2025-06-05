@@ -4,65 +4,35 @@ DC20 Spells Cliff Notes Version
 
 # Command
 
-Enchantment
-
-Cost: 2 AP + 1 MP
-
-Range: 10 Spaces
-
+Enchantment  
+Cost: 2 AP + 1 MP  
+Range: 10 Spaces (Hear, See within 1 minute)  
 Duration: 1 Round
 
-You speak a command to a creature that you can see
+You command a creature.
 
-within range that can hear you. You don’t have to see the
+Spell Check: vs Charisma Save.  
+Success: The creature spends 2 AP to follow the command.
 
-creature if you’ve seen them within the last minute. Make
+Ignoring a Command: The Spell has no effect if
 
-a Spell Check contested by the target’s Charisma Save.
+-   The target doesn’t understand your language
+-   It’s unable to follow your command
+-   If your command is directly harmful to itself.
 
-Success: The creature immediately spends 2 AP to follow
+Choosing a Command:
 
-the command given, regardless of its usual AP cost. The
+-   Move: The target moves to a location or in a direction.
+-   Prone: The target falls Prone.
+-   Drop: The target drops anything it’s holding.
+-   Attack: The target makes 1 Attack Check or Spell Check that normally costs 1 AP.
+-   Other: at DM’s discretion
 
-creature can’t spend any resources (AP, SP, or MP) to
+Enhancements  
+Duration: (1 MP) +1 Round.  
+Targets: (2 MP) +1 target.
 
-modify the Action it takes.
-
-Ignoring a Command: The Spell has no effect if the target
-
-doesn’t understand your language, if it’s unable to follow
-
-your command, or if your command is directly harmful to
-
-itself.
-
-Choosing a Command: You can choose from the list of
-
-example commands below or improvise your own at the
-
-GM’s discretion.
-
-• Move: The target moves up to its Speed to a location (or
-
-in a direction) of your choice.
-
-• Prone: The target falls Prone.
-
-• Drop: The target drops anything it’s holding.
-
-• Attack: The target makes 1 Attack Check or Spell Check
-
-(your choice) that normally costs 1 AP. You choose
-
-the target of the Attack, which must be within the
-
-commanded creature’s range.
-
-Mana Point Enhancements
-
-Duration: (1 MP) You increase the duration by 1 Round.
-
-Targets: (2 MP) You can add 1 additional target.
+*0.9.5, pg 175*
 
 # Find Familiar
 
@@ -126,7 +96,7 @@ Duration: 1 min
 
 Creatures within 4 Spaces of a point fall Unconscious.
 
-Make a DC 10 Spell Check.  
+Spell Check: DC 10  
 Success: This Spell can effect 10 HP worth of creatures.  
 Success (each 5): +2 HP.  
 Failure: 5 HP.
