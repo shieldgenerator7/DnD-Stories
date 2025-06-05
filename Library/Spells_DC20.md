@@ -180,17 +180,15 @@ The teacup is spill-proof. If it would spill or break, it instead vanishes.
 
 # Death Spotting
 
-1st-level Divination
+Divination
 
-Casting Time: 1 bonus action
+Cost: 1 AP + 2 MP
 
-Range: 30ft
-
-Components: V, S
+Range: 6 Spaces
 
 Duration: 24 hours
 
-Up to 3 creatures you can see within range are warded. While they are warded, if they drop to 0 hit points or less, all creatures within 10ft of them take 1d4 radiant damage and are lit up for 1 minute. The creature that last hit the warded creature is lit up for 24 hours. While a creature is lit up, attack rolls against them have advantage, and they have disadvantage on Dexterity saving throws against harmful spell effects.
+You choose up to 3 target creatures you can see within range and ward them for the duration. If a warded target enters Death’s Door, all hostile creatures within 2 Spaces of them take 2 Radiant damage and are Exposed and Weakened for 1 minute. The creature that last hit the target is Exposed and Weakened for 1 hour.
 
 # Eye Ward
 
