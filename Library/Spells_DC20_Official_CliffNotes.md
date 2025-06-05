@@ -59,7 +59,7 @@ Choosing a Command:
 
 # Find Familiar (1 AP + 1 MP)
 
-*Conjuration – Ritual - 2 Spaces - Instant - Unique*
+*Conjuration – Ritual - 2 Spaces - Instant – Unique\**
 
 A friendly servant spirit appears in the form of a Tiny creature.
 
