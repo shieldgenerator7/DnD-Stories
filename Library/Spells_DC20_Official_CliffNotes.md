@@ -24,11 +24,11 @@ Spell Actions:
 -   Pocket Dimension: (Minor Action) Dismiss or resummon Familiar
 -   Shared Senses: (1 AP) Connect your senses to Familiar’s senses. Range: 20 Spaces (Tethered), Duration: 1 round+
 -   Combat: (1 AP) Familiar takes an Action other than the Attack or Spell Action, default: Dodge Action. When you take an action, Familiar moves.
--   Shared MCP: Your Familiar shares your Multiple Check Penalty.
--   Death & Resurrection: Your Familiar dies when you die.
+-   Shared MCP: Familiar shares your Multiple Check Penalty.
+-   Death & Resurrection: Familiar dies when you die.
 
 Enhancements  
-Additional Traits: (1 MP) Your Familiar gains 2 additional Familiar and/or Beast Traits. *(0.9.5 pg 180, pg 115)*
+Additional Traits: (1 MP) Familiar gains 2 additional Familiar and/or Beast Traits. *(0.9.5 pg 180, pg 115)*
 
 *0.9.5, pg 179*
 
