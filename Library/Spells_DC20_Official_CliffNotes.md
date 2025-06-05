@@ -2,6 +2,44 @@ DC20 Spells Cliff Notes Version
 
 2025-06-05: copied from 0.9.5
 
+# Befriend
+
+Enchantment (Cantrip)
+
+Cost: 1 AP
+
+Range: 10 Spaces
+
+Duration: 1 min (Sustained)
+
+You attempt to Charm a creature within range. Choose a
+
+non-hostile creature that can see and hear you and make
+
+a Spell Check contested by the target’s Charisma Save.
+
+Success: The creature is Charmed by you for the duration
+
+or until it takes damage. When the Spell effect ends or you
+
+fail the Check, the creature realizes that you used magic
+
+to influence its mood and may become hostile toward you.
+
+Mana Point Enhancements
+
+Hostile Charm: (1 MP) You can target even hostile creatures
+
+with the Spell.
+
+Clear Suspicion: (2 MP) The target doesn’t realize that
+
+magic was used on them when the Spell ends.
+
+More Friends: (2 MP) You can target an additional creature
+
+and increase the range by 10 Spaces.
+
 # Command (2 AP + 1 MP)
 
 *Enchantment - 10 Spaces - Hear, See within 1 minute - 1 Round*
