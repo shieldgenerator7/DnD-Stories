@@ -54,3 +54,47 @@ Range Hand: (1 MP) The range increases to 20 Spaces.
 Lasting Hand: (1 MP) The duration increases to 1 hour.
 
 *0.9.5, pg 169*
+
+# Sleep
+
+Enchantment
+
+Cost: 2 AP + 1 MP
+
+Range: 15 Spaces
+
+Duration: 1 min
+
+You attempt to force creatures within 4 Spaces of a point
+
+you choose within range to fall into a magical slumber.
+
+Make a DC 10 Spell Check. Success: This Spell can
+
+effect 10 HP worth of creatures. Success (each 5): +2 HP.
+
+Failure: 5 HP.
+
+Starting with the creature with the lowest current HP, each
+
+creature affected by this Spell falls Unconscious. Subtract
+
+each creature’s HP from the total before moving on to the
+
+creature with the next lowest current HP. A creature’s HP
+
+must be equal to or less than the remaining total for that
+
+creature to be affected. The sleep lasts until the Spell ends
+
+or another creature within 1 Space spends 1 AP to shake or
+
+slap the sleeping creature awake.
+
+Undead and creatures that don’t sleep aren’t affected
+
+by this spell.
+
+Mana Point Enhancements
+
+Slumber: (1 MP) You increase the HP affected by 10.
