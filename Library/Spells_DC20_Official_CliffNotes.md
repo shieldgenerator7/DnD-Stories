@@ -120,31 +120,21 @@ Increase Duration: (2 MP) 1 round-
 
 *0.9.5, pg 180*
 
-# Shield of Faith
+# Shield of Faith (1 AP + 1 MP)
 
-Protection
+*Protection - 10 Spaces - 10 min - Sustained*
 
-Cost: 1 AP + 1 MP
+A shimmering field surrounds a creature.
 
-Range: 10 Spaces
+**Spell Check:** DC 10:
 
-Duration: 10 min (Sustained)
+-   **Success:** +2 PD
+-   **Success (+10):** +1 PD
+-   **Failure:** +1 PD
 
-A shimmering field appears and surrounds a creature of
+\---
 
-your choice within range.
-
-Make a DC 10 Spell Check. Success: The target gains +2
-
-PD for the duration. Success (each 10): +1 PD. Failure:
-
-The target gains 1 PD instead.
-
-Mana Point Enhancements
-
-Targets: (1 MP) You increase the number of creatures you
-
-can affect by 1.
+**Targets:** (1 MP) +1 target
 
 *0.9.5, pg 177*
 
