@@ -258,6 +258,8 @@ being Charmed or Frightened (including Rattled and
 
 Intimidated).
 
+*0.9.5, pg 179*
+
 # Mage Hand
 
 Conjuration (Cantrip)  
@@ -280,3 +282,5 @@ Enhancements
 Range Hand: (1 MP) The range increases to 20 Spaces.
 
 Lasting Hand: (1 MP) The duration increases to 1 hour.
+
+*0.9.5, pg 169*
