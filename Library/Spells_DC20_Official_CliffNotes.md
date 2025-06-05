@@ -30,7 +30,7 @@ More Friends: (2 MP) +1 target, +10 Spaces
 
 # Command (2 AP + 1 MP)
 
-*Enchantment - 10 Spaces - Hear, See within 1 minute - 1 Round*
+*Enchantment - 10 Spaces – See within 1 minute, Hear you - 1 Round*
 
 You command a creature.
 
