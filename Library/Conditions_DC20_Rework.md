@@ -77,9 +77,11 @@ III. The only Action you can take is the Move Action to try to run away, or the 
 
 You have DisADV X on Attacks.
 
-# Immobilized
+# Immobilized Y
 
-You can’t move and you have DisADV on Agility Saves.
+I. You’re Slowed (Half) and have DisADV on Agility Saves.  
+II. You can’t move.  
+III. You’re Hindered and Exposed.
 
 # Incapacitated
 
@@ -110,14 +112,6 @@ You are subjected to the following effects:
 
 -   You’re Weakened (DisADV on Physical Checks and Physical Saves).
 -   You take 1 Poison damage at the start of each of your turns.
-
-# Restrained
-
-You are subjected to the following effects:
-
--   You’re Immobilized.
--   Your Attacks have DisADV.
--   Attacks against you have ADV.
 
 # Slowed X
 
