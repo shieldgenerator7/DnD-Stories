@@ -119,10 +119,6 @@ Your Speed is reduced by X, minimum 0. If you have 0 Speed, you are also Immobil
 
 Your current and maximum AP is reduced by X, minimum 0. If you have 0 maximum AP, you are also Incapacitated.
 
-# Surprised
-
-You are Stunned 2.
-
 # Taunted Y
 
 I. You have DisADV on Attacks against targets other than the source.  
