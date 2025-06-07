@@ -32,7 +32,7 @@ You are subjected to the following effects:
 
 # Dazed X
 
-You have DisADV X on Mental Checks.
+You have DisADV X on Mental Checks and Mental Saves.
 
 # Deafened
 
@@ -40,10 +40,6 @@ You are subjected to the following effects:
 
 -   You can’t hear (see the Unheard section for more information).
 -   You have Resistance (Half) to Sonic damage.
-
-# Disoriented X
-
-You have DisADV X on Mental Saves.
 
 # Doomed X
 
