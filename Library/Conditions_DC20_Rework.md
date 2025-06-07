@@ -138,9 +138,11 @@ Your current and maximum AP is reduced by X. While you’re Stunned 4 or higher,
 
 Your current and maximum AP is reduced by 2.
 
-# Taunted
+# Taunted Y
 
-You have DisADV on Attacks against targets other than the source.
+I. You have DisADV on Attacks against targets other than the source.  
+II. You can’t willingly attack a target other than the source.  
+III. You must spend at least 1 AP to attack the source on your turn.
 
 # Terrified
 
