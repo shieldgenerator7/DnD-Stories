@@ -86,10 +86,6 @@ You have DisADV X on Attacks.
 
 You can’t move and you have DisADV on Agility Saves.
 
-# Impaired X
-
-You have DisADV X on Physical Checks.
-
 # Incapacitated
 
 You are subjected to the following effects:
@@ -184,4 +180,4 @@ When you become Unconscious, you immediately drop whatever you are holding and f
 
 # Weakened X
 
-You have DisADV X on Physical Saves.
+You have DisADV X on Physical Checks and Physical Saves.
