@@ -44,9 +44,8 @@ You are subjected to the following effects:
 
 You are subjected to the following effects:
 
-• Your current and maximum HP is reduced by the value of X.
-
-• When an effect restores your HP, you regain X less HP than normal.
+-   Your current and maximum HP is reduced by the value of X.
+-   When an effect restores your HP, you regain X less HP than normal.
 
 **Ending Doomed:** All stacks of the Condition end when you complete a Long Rest.
 
@@ -54,11 +53,9 @@ You are subjected to the following effects:
 
 You are subjected to the following effects:
 
-• You gain a penalty equal to X on all Checks and Saves you make.
-
-• Your Save DC is reduced by X.
-
-You’re Slowed X.
+-   You gain a penalty equal to X on all Checks and Saves you make.
+-   Your Save DC is reduced by X.
+-   You’re Slowed X.
 
 **Death:** You immediately die if your Exhaustion is greater than your CM.
 
