@@ -4,13 +4,6 @@ Copied from 0.9.5
 
 Im doing this because theres some discussion about how theres too many abilities, and I don’t currently like how some of them are implemented.
 
-# Blinded
-
-You are subjected to the following effects:
-
--   You can’t see (see the Unseen section for more information).
--   All terrain is considered Difficult Terrain for you unless you’re guided by another creature.
-
 # Charmed Y
 
 I. Your Charmer has ADV on Charisma Checks made against you.  
@@ -21,12 +14,19 @@ III. You can’t target your Charmer with harmful Attacks or effects.
 
 You have DisADV X on Mental Checks and Mental Saves.
 
-# Deafened
+# Deprived of [Sense]
 
-You are subjected to the following effects:
+You are deprived of [Sense], and are subjected to the relevant following effects:
 
--   You can’t hear (see the Unheard section for more information).
--   You have Resistance (Half) to Sonic damage.
+-   Hearing
+    -   You can’t hear (see the Unheard section for more information).
+    -   You have Resistance (Half) to Sonic damage.
+-   Sight
+    -   You can’t see (see the Unseen section for more information).
+    -   All terrain is considered Difficult Terrain for you unless you’re guided by another creature.
+-   Smell: You can’t smell.
+-   Taste: You can’t taste.
+-   Touch: You can’t feel touch.
 
 # Doomed X
 
