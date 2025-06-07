@@ -4,27 +4,12 @@ Copied from 0.9.5
 
 Im doing this because theres some discussion about how theres too many abilities, and I don’t currently like how some of them are implemented.
 
-# Bleeding X
-
-You take X True damage at the start of each of your turns.
-
-**Ending Bleeding:**
-
--   You recover hp: Remove all stacks.
--   A creature can attempt to remove 1 or more stacks of the Condition by taking the Medicine Action.
-
 # Blinded
 
 You are subjected to the following effects:
 
 -   You can’t see (see the Unseen section for more information).
 -   All terrain is considered Difficult Terrain for you unless you’re guided by another creature.
-
-# Burning X
-
-You take X Fire damage at the start of each of your turns.
-
-**Ending Burning:** All stacks of the Condition end when you’re doused by at least 1 gallon (4 liters) of water or fully immersed in water. Alternatively, a creature within 1 Space can spend 1 AP to remove 1 stack of the Condition.
 
 # Charmed Y
 
@@ -107,13 +92,6 @@ You and your mundane belongings are turned into a inanimate substance (often sto
 -   You gain Bludgeoning Vulnerability (Double) and Resistance (Half) to all other damage.
 -   Curses, Diseases, Poisons, or Conditions afflicting you are suspended (unless it imposed the Petrified Condition), and you’re immune to gaining new ones.
 
-# Poisoned
-
-You are subjected to the following effects:
-
--   You’re Weakened (DisADV on Physical Checks and Physical Saves).
--   You take 1 Poison damage at the start of each of your turns.
-
 # Slowed X
 
 Your Speed is reduced by X, minimum 0. If you have 0 Speed, you are also Immobilized III.
@@ -121,6 +99,10 @@ Your Speed is reduced by X, minimum 0. If you have 0 Speed, you are also Immobil
 # Stunned X
 
 Your current and maximum AP is reduced by X, minimum 0. If you have 0 maximum AP, you are also Incapacitated.
+
+# Suffering [Damage] X
+
+You take X [Damage] damage at the start of each of your turns.
 
 # Taunted Y
 
