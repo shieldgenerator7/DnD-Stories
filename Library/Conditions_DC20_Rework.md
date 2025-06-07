@@ -67,12 +67,11 @@ You are subjected to the following effects:
 
 Attacks against you have ADV X.
 
-# Frightened
+# Frightened Y
 
-You are subjected to the following effects:
-
--   You can’t willingly move closer to the source.
--   You have DisADV on all Checks made against the source.
+I. You have DisADV on all Checks made against the source.  
+II. You can’t willingly move closer to the source.  
+III. The only Action you can take is the Move Action to try to run away, or the Dodge Action if you are prevented from moving or there’s nowhere farther to move.
 
 # Hindered X
 
@@ -91,10 +90,6 @@ You are subjected to the following effects:
 -   You automatically fail Physical Saves (except against Poisons and Diseases).
 -   Attacks against you have ADV.
 -   Attacks made within 1 Space are considered Critical Hits.
-
-# Intimidated
-
-You have DisADV on all Checks made against the source.
 
 # Invisible
 
@@ -141,13 +136,6 @@ You are Stunned 2.
 I. You have DisADV on Attacks against targets other than the source.  
 II. You can’t willingly attack a target other than the source.  
 III. You must spend at least 1 AP to attack the source on your turn.
-
-# Terrified
-
-You are subjected to the following effects:
-
--   You must spend your turns trying to move as far away as you can from the source as possible.
--   The only Action you can take is the Move Action to try to run away, or the Dodge Action if you are prevented from moving or there’s nowhere farther to move.
 
 # Tethered
 
