@@ -107,8 +107,6 @@ You and your mundane belongings are turned into a inanimate substance (often sto
 -   You’re not aware of your surroundings.
 -   You’re 10 times heavier than normal.
 -   You’re Incapacitated.
--   You automatically fail Physical Saves.
--   Attacks against you have ADV.
 -   You gain Bludgeoning Vulnerability (Double) and Resistance (Half) to all other damage.
 -   Curses, Diseases, Poisons, or Conditions afflicting you are suspended (unless it imposed the Petrified Condition), and you’re immune to gaining new ones.
 
@@ -136,8 +134,6 @@ Every 1 Space you move costs an extra X Spaces of movement.
 Your current and maximum AP is reduced by X. While you’re Stunned 4 or higher, you are subjected to the following effects:
 
 -   You’re Incapacitated.
--   Attacks against you have ADV.
--   You automatically fail Physical Saves (except against Poisons and Diseases).
 
 # Surprised
 
@@ -164,9 +160,6 @@ When you become Unconscious, you immediately drop whatever you are holding and f
 
 -   You’re Incapacitated.
 -   You’re not aware of your surroundings.
--   You automatically fail Physical Saves (except against Poisons and Diseases).
--   Attacks against you have ADV.
--   Attacks made within 1 Space are considered Critical Hits.
 
 # Weakened X
 
