@@ -23,12 +23,11 @@ You take X Fire damage at the start of each of your turns.
 
 **Ending Burning:** All stacks of the Condition end when you’re doused by at least 1 gallon (4 liters) of water or fully immersed in water. Alternatively, a creature within 1 Space can spend 1 AP to remove 1 stack of the Condition.
 
-# Charmed
+# Charmed Y
 
-You are subjected to the following effects:
-
--   Your Charmer has ADV on Charisma Checks made against you.
--   You can’t target your Charmer with harmful Attacks or effects.
+I. Your Charmer has ADV on Charisma Checks made against you.  
+II. You have DisADV on harmful checks towards your Charmer.  
+III. You can’t target your Charmer with harmful Attacks or effects.
 
 # Dazed X
 
