@@ -79,9 +79,9 @@ You are subjected to the following effects:
 -   Attacks against you have ADV.
 -   Attacks made within 1 Space are considered Critical Hits.
 
-# Invisible
+# Hidden from [Sense]
 
-Creatures can’t see you unless they have the ability to see the Invisible (see the Unseen section for more information).
+Creatures can’t use [Sense] to detect you unless they have the ability to detect things that are undetectable by [Sense] (see the Unseen and Unheard sections for more information).
 
 # Petrified
 
