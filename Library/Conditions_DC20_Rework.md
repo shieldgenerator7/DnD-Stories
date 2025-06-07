@@ -126,7 +126,7 @@ You are subjected to the following effects:
 
 # Slowed X
 
-Every 1 Space you move costs an extra X Spaces of movement.
+Your movement is reduced by X Spaces, minimum 1.
 
 # Stunned X
 
