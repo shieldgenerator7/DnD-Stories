@@ -58,7 +58,7 @@ You are subjected to the following effects:
 
 • Your Speed and Save DC is reduced by X.
 
-**Death:** You immediately die if you reach 6 stacks of Exhaustion.
+**Death:** You immediately die if your Exhaustion is greater than your CM.
 
 **Example:** If you have Exhaustion 3, then you would have a -3 penalty on Checks and Saves, your Speed would be reduced by 3 Spaces, and your Save DC would be reduced by 3.
 
