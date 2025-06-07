@@ -104,9 +104,8 @@ Creatures can’t see you unless they have the ability to see the Invisible (see
 
 You and your mundane belongings are turned into a inanimate substance (often stone). While Petrified, you count as both an object and a creature, and you’re subjected to the following effects:
 
--   You’re not aware of your surroundings.
+-   You’re Unconscious.
 -   You’re 10 times heavier than normal.
--   You’re Incapacitated.
 -   You gain Bludgeoning Vulnerability (Double) and Resistance (Half) to all other damage.
 -   Curses, Diseases, Poisons, or Conditions afflicting you are suspended (unless it imposed the Petrified Condition), and you’re immune to gaining new ones.
 
