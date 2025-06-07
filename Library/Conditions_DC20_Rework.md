@@ -114,7 +114,7 @@ You are subjected to the following effects:
 
 # Slowed X
 
-Your movement is reduced by X Spaces, minimum 1.
+Your Speed is reduced by X, minimum 0. If you have 0 Speed, you are also Immobilized III.
 
 # Stunned X
 
