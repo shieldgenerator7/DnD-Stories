@@ -8,7 +8,10 @@ Im doing this because theres some discussion about how theres too many abilities
 
 You take X True damage at the start of each of your turns.
 
-**Ending Bleeding:** All stacks of the Condition end when you’re subjected to an effect that restores your HP. Alternatively, a creature can attempt to remove 1 or more stacks of the Condition by taking the Medicine Action.
+**Ending Bleeding:**
+
+-   You recover hp: Remove all stacks.
+-   A creature can attempt to remove 1 or more stacks of the Condition by taking the Medicine Action.
 
 # Blinded
 
