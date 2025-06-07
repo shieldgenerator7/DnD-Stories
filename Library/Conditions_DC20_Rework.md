@@ -130,13 +130,11 @@ Every 1 Space you move costs an extra X Spaces of movement.
 
 # Stunned X
 
-Your current and maximum AP is reduced by X. While you’re Stunned 4 or higher, you are subjected to the following effects:
-
--   You’re Incapacitated.
+Your current and maximum AP is reduced by X, minimum 0. If you have 0 maximum AP, you are also Incapacitated.
 
 # Surprised
 
-Your current and maximum AP is reduced by 2.
+You are Stunned 2.
 
 # Taunted Y
 
