@@ -59,6 +59,10 @@ I. You have DisADV on all Checks made against the source.
 II. You can’t willingly move closer to the source.  
 III. The only Action you can take is the Move Action to try to run away, or the Dodge Action if you are prevented from moving or there’s nowhere farther to move.
 
+# Hidden from [Sense]
+
+Creatures can’t use [Sense] to detect you unless they have the ability to detect things that are undetectable by [Sense] (see the Unseen and Unheard sections for more information).
+
 # Hindered X
 
 You have DisADV X on Attacks.
@@ -78,10 +82,6 @@ You are subjected to the following effects:
 -   You automatically fail Physical Saves (except against Poisons and Diseases).
 -   Attacks against you have ADV.
 -   Attacks made within 1 Space are considered Critical Hits.
-
-# Hidden from [Sense]
-
-Creatures can’t use [Sense] to detect you unless they have the ability to detect things that are undetectable by [Sense] (see the Unseen and Unheard sections for more information).
 
 # Petrified
 
