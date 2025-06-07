@@ -56,7 +56,9 @@ You are subjected to the following effects:
 
 • You gain a penalty equal to X on all Checks and Saves you make.
 
-• Your Speed and Save DC is reduced by X.
+• Your Save DC is reduced by X.
+
+You’re Slowed X.
 
 **Death:** You immediately die if your Exhaustion is greater than your CM.
 
