@@ -108,7 +108,7 @@ You and your mundane belongings are turned into a inanimate substance (often sto
 
 You are subjected to the following effects:
 
--   You’re Impaired (DisADV on Physical Checks).
+-   You’re Weakened (DisADV on Physical Checks and Physical Saves).
 -   You take 1 Poison damage at the start of each of your turns.
 
 # Restrained
