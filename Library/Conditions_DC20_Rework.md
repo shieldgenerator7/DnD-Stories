@@ -88,6 +88,9 @@ You are subjected to the following effects:
 
 -   You can’t move or speak.
 -   You can’t spend Actions Points or use Minor Actions.
+-   You automatically fail Physical Saves (except against Poisons and Diseases).
+-   Attacks against you have ADV.
+-   Attacks made within 1 Space are considered Critical Hits.
 
 # Intimidated
 
@@ -96,15 +99,6 @@ You have DisADV on all Checks made against the source.
 # Invisible
 
 Creatures can’t see you unless they have the ability to see the Invisible (see the Unseen section for more information).
-
-# Paralyzed
-
-You are subjected to the following effects:
-
--   You’re Incapacitated.
--   You automatically fail Physical Saves (except against Poisons and Diseases).
--   Attacks against you have ADV.
--   Attacks made within 1 Space are considered Critical Hits.
 
 # Petrified
 
