@@ -1303,9 +1303,9 @@ At level 5, you learn more ways to manipulate your spells. You learn two additio
 
 You learn the following Bond Affinity option:
 
--   Errata’d: 10 Spell Points. You spend any amount of additional Spell Points to cross out 1 word in the spell’s description per 1 additional Spell Point spent this way.
+-   Errata’d: 30 Spell Points. You spend any amount of additional Spell Points to cross out 1 word in the spell’s description per 15 additional Spell Point spent this way.
 
-This is subject to DM’s approval, of course.
+This is subject to DM’s approval, of course. Recommended: if the new sentence(s) isn’t grammatically correct, the spell fails.
 
 ### Mana Overflow
 
