@@ -2,7 +2,7 @@ Custom DnD Spells
 
 # Anti-Death Field
 
-8th-level Abjuration
+9th-level Abjuration
 
 Casting Time: 1 action
 
@@ -117,7 +117,7 @@ At Higher Levels. Casting this spell at 6th level or higher, you may target one 
 
 # Enduring Thread
 
-5th-level Necromancy
+9th-level Necromancy
 
 Casting Time: 1 hour
 
