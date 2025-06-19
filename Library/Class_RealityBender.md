@@ -6,29 +6,29 @@ version 0.1.1
 
 # Class Table
 
-|           |                 |                                 |                    |                           |                  | **Spell Casting** |                  |                    |
-|-----------|-----------------|---------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
-| **Level** | **Prof. Bonus** | **Features**                    | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | +2              | Spellcasting, Reality Observer  | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
-| 2nd       | +2              | Bond Affinity                   | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
-| 3rd       | +2              | Bending Style                   | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
-| 4th       | +2              | Ability Score Improvement (ASI) | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
-| 5th       | +3              | Bending Style Feature (BSF)     | 2                  | 2                         | 85               | 45ft              | 135ft            | 2 hr               |
-| 6th       | +3              | Bending Trick (BT)              | 2                  | 2                         | 90               | 60ft              | 180ft            | 4 hr               |
-| 7th       | +3              | BSF, BT                         | 2                  | 2                         | 100              | 75ft              | 225ft            | 7 hr               |
-| 8th       | +3              | Reality Studier, ASI, BT        | 2                  | 3                         | 125              | 100ft             | 400ft            | 12 hr              |
-| 9th       | +4              | BT                              | 2                  | 3                         | 150              | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | Spell Warp, BT                  | 3                  | 3                         | 200              | 150ft             | 600ft            | 3 d                |
-| 11th      | +4              | BSF, BT                         | 3                  | 3                         | 250              | 175ft             | 700ft            | 7 d                |
-| 12th      | +4              | ASI, BT                         | 3                  | 4                         | 300              | 200ft             | 1000ft           | 14 d               |
-| 13th      | +5              | Recasting, BT                   | 3                  | 4                         | 350              | 250ft             | 2500ft           | 30 d               |
-| 14th      | +5              | BT                              | 3                  | 4                         | 400              | 300ft             | 1mi              | 180 d              |
-| 15th      | +5              | BSF, BT                         | 3                  | 4                         | 450              | 400ft             | 5mi              | 1 yr               |
-| 16th      | +5              | ASI, BT                         | 3                  | 5                         | 500              | 500ft             | 15mi             | 5 yr               |
-| 17th      | +6              | BT                              | 4                  | 5                         | 550              | 750ft             | 100mi            | 10 yr              |
-| 18th      | +6              | BT                              | 4                  | 5                         | 575              | 1000ft            | 1000mi           | 50 yr              |
-| 19th      | +6              | ASI, BT                         | 4                  | 5                         | 650              | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | +6              | Reality Command, BT             | 4                  | 5                         | 700              | 1mi               | 1000000mi        | 1000 yr            |
+|           |                 |                                     |                    |                           |                  | **Spell Casting** |                  |                    |
+|-----------|-----------------|-------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
+| **Level** | **Prof. Bonus** | **Features**                        | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
+| 1st       | +2              | Spellcasting, Reality Observer      | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
+| 2nd       | +2              | Bond Affinity, Bending Trick (BT)   | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
+| 3rd       | +2              | Bending Style, BT                   | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
+| 4th       | +2              | Ability Score Improvement (ASI), BT | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
+| 5th       | +3              | Bending Style Feature (BSF), BT     | 2                  | 2                         | 85               | 45ft              | 135ft            | 2 hr               |
+| 6th       | +3              | BT                                  | 2                  | 2                         | 90               | 60ft              | 180ft            | 4 hr               |
+| 7th       | +3              | BSF, BT                             | 2                  | 2                         | 100              | 75ft              | 225ft            | 7 hr               |
+| 8th       | +3              | Reality Studier, ASI, BT            | 2                  | 3                         | 125              | 100ft             | 400ft            | 12 hr              |
+| 9th       | +4              | BT                                  | 2                  | 3                         | 150              | 125ft             | 500ft            | 1 d                |
+| 10th      | +4              | Spell Warp, BT                      | 3                  | 3                         | 200              | 150ft             | 600ft            | 3 d                |
+| 11th      | +4              | BSF, BT                             | 3                  | 3                         | 250              | 175ft             | 700ft            | 7 d                |
+| 12th      | +4              | ASI, BT                             | 3                  | 4                         | 300              | 200ft             | 1000ft           | 14 d               |
+| 13th      | +5              | Recasting, BT                       | 3                  | 4                         | 350              | 250ft             | 2500ft           | 30 d               |
+| 14th      | +5              | BT                                  | 3                  | 4                         | 400              | 300ft             | 1mi              | 180 d              |
+| 15th      | +5              | BSF, BT                             | 3                  | 4                         | 450              | 400ft             | 5mi              | 1 yr               |
+| 16th      | +5              | ASI, BT                             | 3                  | 5                         | 500              | 500ft             | 15mi             | 5 yr               |
+| 17th      | +6              | BT                                  | 4                  | 5                         | 550              | 750ft             | 100mi            | 10 yr              |
+| 18th      | +6              | BT                                  | 4                  | 5                         | 575              | 1000ft            | 1000mi           | 50 yr              |
+| 19th      | +6              | ASI, BT                             | 4                  | 5                         | 650              | 2000ft            | 10000mi          | 100 yr             |
+| 20th      | +6              | Reality Command, BT                 | 4                  | 5                         | 700              | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
@@ -168,7 +168,7 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 # Bond Affinity
 
-At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a spell in your bonded schools, you may spend extra spell points to choose one Bond Affinity option that you learned to apply to it:
+At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a Bending Trick spell in your bonded schools, you may spend extra spell points to choose a Bond Affinity option that you learned to apply to it:
 
 -   Powerful: 10 Spell Points. Roll 2 extra dice whenever you would roll dice for the effects of this spell cast.
 -   Reuse: 5 Spell Points. The next time you cast this spell, it costs 15 Spell Points less to cast, minimum 0.
@@ -221,13 +221,13 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 # Bending Trick
 
-At level 6, you know a spell so well you can cast it with ease. Choose a spell you know and can safely cast. It becomes a Bending Trick for you.
+At level 2, you know a spell so well you can cast it with ease. Choose a spell you know and can safely cast. It becomes a Bending Trick for you.
 
-When you cast a Bending Trick, you can apply an additional Bond Affinity option to it. Additionally, the Bending Trick costs 5 Spell Points less to cast, minimum 0.
+When you cast a Bending Trick, you can apply a Bond Affinity option to it and the Bending Trick costs 5 Spell Points less to cast, minimum 0.
 
 Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may not downgrade a Bending Trick, and you may not replace a Bending Trick you know with a new Bending Trick.
 
-You may upgrade an existing Bending Trick again instead of choosing a new one, using the same rules.
+You may upgrade an existing Bending Trick again instead of choosing a new one, using the same rules. The benefits of a Bending Trick stack. For example, if you choose to upgrade the same spell 3 times, you can apply 3 Bond Affinity options to it, and it costs 15 Spell Points less to cast.
 
 # Reality Studier
 
