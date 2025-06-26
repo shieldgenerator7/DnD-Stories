@@ -10,7 +10,7 @@ version 0.1.1
 |-----------|-----------------|-------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
 | **Level** | **Prof. Bonus** | **Features**                        | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
 | 1st       | +2              | Spellcasting, Reality Observer      | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
-| 2nd       | +2              | Bond Affinity, Bending Trick (BT)   | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
+| 2nd       | +2              | Bending Trick (BT), Bond Affinity   | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
 | 3rd       | +2              | Bending Style, BT                   | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
 | 4th       | +2              | Ability Score Improvement (ASI), BT | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
 | 5th       | +3              | Bending Style Feature (BSF), BT     | 2                  | 2                         | 85               | 45ft              | 135ft            | 2 hr               |
@@ -166,6 +166,16 @@ You learn additional cantrips and spells as you adventure in the world, using yo
 
 Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
 
+# Bending Trick
+
+At level 2, you know a spell so well you can cast it with ease. Choose a spell you know and can safely cast. It becomes a Bending Trick for you.
+
+When you cast a Bending Trick, you can apply a Bond Affinity option to it and the Bending Trick costs 5 Spell Points less to cast, minimum 0.
+
+Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may not downgrade a Bending Trick, and you may not replace a Bending Trick you know with a new Bending Trick.
+
+You may upgrade an existing Bending Trick again instead of choosing a new one, using the same rules. The benefits of a Bending Trick stack. For example, if you choose to upgrade the same spell 3 times, you can apply 3 Bond Affinity options to it, and it costs 15 Spell Points less to cast.
+
 # Bond Affinity
 
 At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a Bending Trick spell in your bonded schools, you may spend extra spell points to choose a Bond Affinity option that you learned to apply to it:
@@ -218,16 +228,6 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 -   Increase one ability score of your choice by 2, max 20.
 -   Increase two ability scores of your choice by 1, max 20.
 -   Increase your spellcasting ability score by 1, max 30.
-
-# Bending Trick
-
-At level 2, you know a spell so well you can cast it with ease. Choose a spell you know and can safely cast. It becomes a Bending Trick for you.
-
-When you cast a Bending Trick, you can apply a Bond Affinity option to it and the Bending Trick costs 5 Spell Points less to cast, minimum 0.
-
-Whenever you level up, you can upgrade an additional spell into a Bending Trick, using the same rules. You may not downgrade a Bending Trick, and you may not replace a Bending Trick you know with a new Bending Trick.
-
-You may upgrade an existing Bending Trick again instead of choosing a new one, using the same rules. The benefits of a Bending Trick stack. For example, if you choose to upgrade the same spell 3 times, you can apply 3 Bond Affinity options to it, and it costs 15 Spell Points less to cast.
 
 # Reality Studier
 
