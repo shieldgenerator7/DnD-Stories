@@ -168,7 +168,7 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 # Bending Trick
 
-At level 2, you know a spell so well you can cast it with ease. Choose a spell you know and can safely cast. It becomes a Bending Trick for you.
+At level 2, you know a spell so well you can cast it with ease. Choose a spell in your bonded school you know and can safely cast. It becomes a Bending Trick for you.
 
 When you cast a Bending Trick, you can apply a Bond Affinity option to it and the Bending Trick costs 5 Spell Points less to cast, minimum 0.
 
@@ -178,7 +178,7 @@ You may upgrade an existing Bending Trick again instead of choosing a new one, u
 
 # Bond Affinity
 
-At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a Bending Trick spell in your bonded schools, you may spend extra spell points to choose a Bond Affinity option that you learned to apply to it:
+At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a Bending Trick spell, you may spend extra spell points to choose a Bond Affinity option that you learned to apply to it:
 
 -   Powerful: 10 Spell Points. Roll 2 extra dice whenever you would roll dice for the effects of this spell cast.
 -   Reuse: 5 Spell Points. The next time you cast this spell, it costs 15 Spell Points less to cast, minimum 0.
