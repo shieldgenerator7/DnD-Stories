@@ -12,10 +12,6 @@ This adventure will focus more on exploration and resource management, with some
 
 Material components of spells will be tracked in this adventure.
 
-This adventure is inspired by *Rudolph, the Red-Blooded Paindeer* adventure from the DM’s Secret Weapon magazine, Dec 2023 issue (\#24). It was created by William Earl and Doug Wallace. This adventure uses some monster stat blocks, puzzles, and other elements from that adventure.
-
-<https://dndshorts.myshopify.com/collections/digital-content/products/college-of-battle-bard-digital-magazine-24>
-
 ## Setting
 
 This adventure takes place within a year after Kraken Raid, on a peninsula not yet explored in the Minotaur’s Maze universe. The season is winter and a huge blizzard is coming to the land.
@@ -49,6 +45,12 @@ Spells:
     -   Antimagic Field
     -   Wish
     -   All technomagic spells
+
+## Inspiration
+
+This adventure is inspired by *Rudolph, the Red-Blooded Paindeer* adventure from the DM’s Secret Weapon magazine, Dec 2023 issue (\#24). It was created by William Earl and Doug Wallace. This adventure uses some monster stat blocks, puzzles, and other elements from that adventure.
+
+<https://dndshorts.myshopify.com/collections/digital-content/products/college-of-battle-bard-digital-magazine-24>
 
 # New Stuff
 
