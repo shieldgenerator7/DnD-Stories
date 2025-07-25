@@ -532,3 +532,66 @@ While inside the sphere, a creature:
 -   Has its spell save DC and spell attack modifier reduced by 8.
 
 As a bonus action, you may move the center of the sphere up to 30ft to a point that’s still within range of you.
+
+# New Stuff (Part 2)
+
+This is homebrew content pulled from other sources. Unless otherwise stated, it is from DM’s Secret Weapon, Dec 2023 issue (\#24).
+
+## Spells
+
+### Charge
+
+1st-level Abjuration
+
+1 action – Self – V S – Concentration – 1 minute
+
+You fortify yourself with magic, building power in preparation for an explosive burst. When you cast this spell, and at the start of each of your turns, you gain 1d4 Temporary Hit Points.
+
+When you cast a levelled spell using an action, you can choose to stop concentrating on this spell. If you do, treat that spell as if it were cast at one level higher than the level of the spell slot you expended to cast it.
+
+### Icicle Lancer
+
+2nd-level Evocation
+
+1 action – 30ft range – V S M (a snowflake preserved in amber) – Instantaneous
+
+Roll 1d4. You conjure a number of icicles equal to the result on the die, which you can hurl at targets you can see within 30 feet. You can hurl them at one target or several. Make a ranged spell attack roll for each icicle. On a hit, the icicle deals 2d4 cold damage.
+
+*At Higher levels*. When you cast this spell with a spell slot of 3rd-or-4th level, the size of the die you roll to determine how many icicles you conjure and the damage dice of each icicle increase to a d6. These dice increase to a d8 if you cast it with a 5th-or-6th level spell slot, a d10 if you cast it with a 7th-8th level spell slot, and a d12 if you cast it with a 9th level spell slot.
+
+### Trace
+
+4th-level Abjuration
+
+1 reaction – 60ft range – V S – Instantaneous
+
+When you see a creature within 60ft cast a spell, you may cast Trace as a reaction.
+
+You attempt to trace the somatic and verbal components of a spell you can see being cast. If that spell is of a level lower than the slot level you used to cast this spell, and does not require Material components with a monetary value (e.g. a gem worth at least 50 gp), you successfully trace it, and you can cast that spell using this reaction without expending a further spell slot or requiring material components. Your casting of the spell happens immediately after the initial spellcaster casts it. If the spellcaster is casting a spell level equal to or higher than the slot level you used to cast this spell, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a success, you successfully trace the spell.
+
+## Feats
+
+### All’s Well That Ends Spell
+
+You are well practiced in the art of battling other spellcasters, granting you the following benefits.
+
+-   Increase your Constitution, Intelligence, or Charisma score by 1, to a maximum of 20.
+-   If a spell you cast is countered, you regain the spell slot used to cast that spell, and can use the same action, bonus action, or reaction you used to cast the countered spell to cast a cantrip in its place.
+-   A creature damaged by a spell you cast has disadvantage on Constitution saving throws to maintain its concentration.
+-   If you lose concentration on a spell as a result of taking damage, you can use your reaction to deal force damage equal to 5 times that spell’s level to one creature you can see within 30 feet of you.
+
+### Ki Thief
+
+Your command of ki is so great that you have the power to manipulate the life force of others, granting you the following benefits.
+
+-   Your unarmed strikes and monk weapons score a critical hit on a 19 or a 20.
+-   When you score a critical hit against a creature with an unarmed strike or monk weapon, you regain 2 ki points.
+
+### Hunter’s Mastery
+
+Your focus in battle is nigh-unshakable, granting you the following benefits.
+
+-   You learn the spell hunter’s mark. It counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.
+-   When you roll for initiative, you can use your reaction to cast hunter’s mark. Once you use this feature, you cannot do so again until you finish a short or long rest.
+-   You have advantage on Constitution saving throws to maintain concentration on your ranger spells.
+-   If the target of your hunter’s mark 0 hit points before the spell ends, you can use a reaction to mark a new creature. You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
