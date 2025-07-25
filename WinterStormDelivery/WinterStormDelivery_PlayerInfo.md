@@ -318,7 +318,7 @@ You channel your inner energy to survive the cold, gaining the following benefit
 -   While not the leader, whenever you spend 1 or more Ki points, you restore an amount of stamina equal to your max stamina times your Dex score divided by 100
 -   When making a saving throw to resist the cold or a spell effect that does cold damage, you may spend 1 Ki point to gain a +10 bonus to your roll.
 
-## Magic Items
+## (Magic) Items
 
 ### Magic Reindeer Collar
 
@@ -348,6 +348,16 @@ A magic map of the peninsula. While holding it, you can give it commands to upda
 ### Sleigh Harness
 
 This harness fits over your back and allows you to quickly connect and disconnect from the sleigh pole. While connected, you can help pull the sleigh. You may connect and disconnect as an action.
+
+### Reindeer Ration
+
+During a short rest, you may choose to eat a Reindeer Ration. It restores 25% of your stamina, and heals 25% of your health.
+
+If you are not a deer race, make a DC20 Constitution saving throw. On a failure, you take a 1d4 poison damage and do not gain the benefits of this ration.
+
+### Ration
+
+Standard ration, edible for most species. During a short rest, you may choose to eat a Ration. It restores 10% of your health.
 
 ## Spells
 
