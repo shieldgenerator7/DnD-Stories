@@ -218,25 +218,25 @@ First, calculate your mps. Take your base mps and multiply it by all applicable 
 | **Condition**         | **Multiplier** |
 |-----------------------|----------------|
 | Normal                | 1              |
-| Difficult Terrain     | 2              |
-| Uphill                | 1.2            |
-| Downhill              | 0.8            |
+| Difficult Terrain     | 0.5            |
+| Uphill                | 0.8            |
+| Downhill              | 1.2            |
 | Ground Travel         | 1              |
-| Air Travel            | 0.75           |
-| Water Travel (Swim)   | 3              |
+| Air Travel            | 1.25           |
+| Water Travel (Swim)   | 0.3            |
 | Water Travel (Boat)   | 0              |
 | Comfy Capacity        | 1              |
-| Double Comfy Capacity | 2              |
-| Half Comfy Capacity   | 0.5            |
+| Double Comfy Capacity | 0.5            |
+| Half Comfy Capacity   | 1              |
 | Average Speed         | 1              |
-| +1 mph (Ground)       | 1.2            |
-| +1 mph (Air)          | 1.1            |
-| Front (Air)           | 1.2            |
-| Back (Ground)         | 1.5            |
+| +1 mph (Ground)       | 0.8            |
+| +1 mph (Air)          | 0.9            |
+| Front (Air)           | 0.8            |
+| Back (Ground)         | 0.7            |
 | No Wind               | 1              |
-| With Wind             | 0.5            |
-| Against Wind          | 2              |
-| Perpendicular Wind    | 1.1            |
+| Tail Wind             | 2              |
+| Head Wind             | 0.5            |
+| Perpendicular Wind    | 0.95           |
 
 Now you have your net mps.
 
