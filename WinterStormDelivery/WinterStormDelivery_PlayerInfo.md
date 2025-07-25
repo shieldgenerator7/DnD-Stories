@@ -251,6 +251,73 @@ You have darkvision out to 90 feet.
 
 You have antlers attached to your head. You can use them as melee weapons that you are proficient with, and they deal 1d6 + your Strength modifier piercing damage. They can also be used as a spellcasting focus.
 
+## Feats
+
+### Bulky
+
+You’re heavy thick and muscular.
+
+-   \+1 Strength
+-   \+50 lb. weight
+-   Your carrying capacity is increased by your weight times STR divided by 2
+-   Advantage on saving throws to resist being forcibly moved
+
+### Cervid Engine
+
+You’re good at efficiently using your stamina.
+
+-   \+1 Dexterity
+-   Add your PB to your mps. This requires Concentration.
+-   Whenever you regain stamina, multiply the amount gained by x1.5
+-   You can regain stamina over your max stamina
+
+### Cold Endurance
+
+You adapt to resist the cold, gaining the following benefits:
+
+-   \+1 Constitution
+-   Advantage on saving throws to resist the cold
+-   Advantage on saving throws to resist spell effects that deal cold damage
+-   Resistance to cold damage
+
+### Orienteer Expert
+
+You are really skilled at observing your surroundings and reading a map.
+
+-   \+1 Intelligence
+-   Add your PB to Perception checks to spot landmarks
+-   Add your PB to Investigation checks to identify where you are
+-   Advantage on Navigation checks
+-   Add your PB to your Navigation Distance
+
+### Reindeer Vision
+
+You can see all around you at all times.
+
+-   \+1 Wisdom
+-   Advantage on Perception checks to spot landmarks
+-   Advantage on Perception checks to spot threats and potential problems
+-   Advantage on initiative rolls against enemies you saw coming
+-   Add your PB to Investigation rolls to discern information about objects and creatures from a distance
+-   \+90ft darkvision
+
+### Natural Born Leader
+
+You know how to inspire your team.
+
+-   \+1 Charisma
+-   During a short rest while you are the leader, your team gets a multiplier to any stamina they gain equal to your Leadership Multiplier.
+-   While you are the leader, you may spend any amount of stamina up to your CHA \* 10 to restore that much stamina to an ally within 20ft of you. Once you use this feature, you can’t do so again until you finish a short rest or long rest.
+-   While you are the leader, when you leave a town or safe place, double your Leadership Multiplier for the next stretch of your journey.
+
+### Ki Endurance
+
+You channel your inner energy to survive the cold, gaining the following benefits:
+
+-   \+1 max Ki point
+-   While not the leader, whenever you spend 1 or more Ki points, you restore an amount of stamina equal to your max stamina times your Dex score divided by 100
+-   When making a saving throw to resist the cold or a spell effect that does cold damage, you may spend 1 Ki point to gain a +10 bonus to your roll.
+
 ## Magic Items
 
 ### Magic Reindeer Collar
