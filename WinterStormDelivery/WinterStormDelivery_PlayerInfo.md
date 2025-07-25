@@ -100,6 +100,8 @@ Your mps is higher when you travel:
 -   In the front while walking
 -   By boat
 
+Managing your stamina is very important. It’s the resource that lets you pull the sleigh. If you run out of stamina, you are no longer able to contribute to pulling the sleigh until you regain it.
+
 ## Attribute Effects on Stamina
 
 Your attribute scores effect your stamina:
