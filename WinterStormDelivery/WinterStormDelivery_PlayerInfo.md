@@ -9,6 +9,8 @@ TL;DR:
 -   You have a new resource called Stamina, which you spend to travel long distances
 -   Your attribute scores effect your stamina in unique ways
 -   Every player will take turns as leader, who navigates, watches for danger, and boosts team morale.
+-   Recommended race: Reindeerkin (included below)
+-   The New Stuff section includes a lot of homebrew options for spells, feats, magic items, etc
 
 ## Premise
 
