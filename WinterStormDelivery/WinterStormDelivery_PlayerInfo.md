@@ -22,40 +22,46 @@ This adventure takes place within a year after Kraken Raid, on a peninsula not y
 
 There’s a lot of homebrew stuff made just for this adventure. The following content was all made by me, shieldgenerator7.
 
-## Races
-
 **Reindeerkin**
 
-Reindeerkin are human-like reindeer who can walk on all fours or two legs. They can think and reason like humans, and can run fast and carry lots of weight like reindeer.
+Reindeerkin are human-like reindeer who can walk on two legs or on all fours. They can think and reason like humans, and can run fast and carry lots of weight like reindeer.
 
-**Traits**
+### Ability Score Increase
 
-Ability Score Increase  
 Your Constitution increases by 2 and your Strength by 1.
 
-Age  
+### Age
+
 Reindeerkin reach maturity around 14 and can live as long as 50.
 
-Alignment  
+### Alignment
+
 Reindeerkin prefer things to stay consistent, and dislike change. They tend towards lawful alignments.
 
-Size  
+### Size
+
 On all fours, they can reach 3ft tall. On two legs, they can be as big as 6ft tall. Your size is Medium.
 
-Speed  
+### Speed
+
 Your base walking speed is 30ft, increased to 60ft when on all fours.
 
-Winter Coat  
+### Winter Coat
+
 You have resistance to Cold damage and advantage on saving throws to resist the effects of cold weather.
 
-Languages  
+### Languages
+
 You speak common and 1 other language of your choice.
 
-Keen Hearing  
+### Keen Hearing
+
 You have advantage on ability checks involving sound.
 
-Darkvision  
+### Darkvision
+
 You have darkvision out to 90 feet.
 
-Antlers  
+### Antlers
+
 You have antlers attached to your head. You can use them as melee weapons that you are proficient with, and they deal 1d6 + your Strength modifier piercing damage. They can also be used as a spellcasting focus.
