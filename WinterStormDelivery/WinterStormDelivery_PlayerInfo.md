@@ -126,15 +126,15 @@ This is the maximum amount of stamina you can have. A long rest gives you back f
 
 ### Navigation
 
-When navigating, this is how far ahead you can navigate per navigation check. After you travel this far, you will have to roll another navigation check. Typically only one player needs to roll for this at a time.
+While you are leading, you navigate. This is how far ahead you can navigate per navigation check. After you travel this far, you will have to roll another navigation check.
 
 ### Encounter DC
 
-If you are in the leadership role, the DM has to beat this Encounter DC for you to get ambushed. If the DM fails this check, there might still be an encounter, but you will be able to see it coming from a mile away (quite literally). This also works on problems that arise in your journey. The higher this DC is, the earlier you will be able to detect problems.
+While you are leading, the DM has to beat this Encounter DC for you to get ambushed. If the DM fails this check, there might still be an encounter, but you will be able to see it coming from a mile away (quite literally), and can choose to adjust your course. This also works on problems that arise in your journey. The higher this DC is, the earlier you will be able to detect problems.
 
 ### Leadership
 
-If you are in the leadership role, you and your allies get a multiplier to their mps equal to your Leadership value.
+While you are leading, you and your allies get a multiplier to their mps equal to your Leadership value.
 
 ## Travel
 
