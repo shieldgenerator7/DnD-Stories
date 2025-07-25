@@ -58,11 +58,11 @@ This module is going to be a lot about exploration, route planning, and resource
 
 -   Stamina (see Stamina)
 
-**Short Rest**
+## Short Rest
 
 A short rest is 12 minutes, during which you can eat 1 ration. A ration restores 25% of your stamina.
 
-**Stamina**
+## Stamina
 
 Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace.
 
@@ -75,7 +75,7 @@ How much stamina you use per mile changes based on
 -   How much weight you’re carrying
 -   Whether you’re in the front of the group or the back
 
-**Travel**
+## Travel
 
 You travel a lot in this module. While traveling, you spend stamina for each mile you travel. You can choose to travel on foot, by flying, or by swimming or boat.
 
@@ -87,7 +87,7 @@ While swimming, you are less likely to encounter enemies and you don’t get blo
 
 While taking a boat, you can rest. However, you have to pay the toll each time to get on a boat. It’s also faster than swimming, though not as fast as going by foot or by flight.
 
-**Manifest**
+## Manifest
 
 This is the manifest log of the items in the sleigh and where they need to be delivered to.
 
