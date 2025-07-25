@@ -426,7 +426,10 @@ You choose a blob of snow within range, and build a snow fort out of it. The sno
 
 1 action – Ritual – 50mi range – V M (a map) – Concentration – 1 day
 
-While holding or looking at the map, choose a point on the map. A glowing star hovers over the corresponding location in the world. The star looks like a northern star. It is always at your same elevation, always appears the same size no matter how far you are, and is always visible, even when behind walls and other obstructions. The star is only visible to you, and does not shed light of any kind.
+While holding or looking at the map, choose a point on the map. A glowing star hovers over the corresponding location in the world. The star looks like a northern star. It is always at the same elevation as you, always appears the same size no matter how far you are, and is always visible, even when behind walls and other obstructions. The star is only visible to you, and does not shed light of any kind.
+
+When you cast this spell, if the point on the map is not within range in the world, the spell fails.
+
 ### Snowman
 
 2nd-level Transmutation
