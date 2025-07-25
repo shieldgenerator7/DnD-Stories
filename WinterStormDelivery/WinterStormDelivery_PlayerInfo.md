@@ -229,7 +229,7 @@ The jingle bell has a max capacity of 1 item. Its weight doesn’t change when y
 
 ### Scheninsel Peninsula Map
 
-A magic map of the peninsula that automatically updates when you see changes to the roads. It also always shows you where you are on the map.
+A magic map of the peninsula. While holding it, you can give it commands to update itself using information that you have.
 
 ### Sleigh Harness
 
