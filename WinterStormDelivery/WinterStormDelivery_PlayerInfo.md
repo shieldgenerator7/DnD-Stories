@@ -104,12 +104,16 @@ Your mps is higher when you travel:
 
 Your attribute scores effect your stamina:
 
--   STR – Increases your carry capacity
+-   STR – Increases your carrying capacity
 -   DEX – Increases your mps
 -   CON – Increases your max stamina
--   INT – Helps with navigation
--   WIS – Helps with orienting and lankmark recognition
--   CHA – Helps with leadership (conditionally increases your ally’s mps)
+-   INT – Increases the distance you can navigate\*
+-   WIS – Increases the chance you will see upcoming danger\*
+-   CHA – Increases the morale boost you provide for your team\*
+
+\*only applicable while you’re the leader
+
+### Stat Formulas
 
 Mark these stats on your character sheet:
 
