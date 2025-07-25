@@ -30,6 +30,18 @@ The following will be tracked in this adventure:
 -   Temperature
 -   Material components for spells
 
+## Starting Equipment
+
+You start with the following equipment, in addition to your class starting equipment:
+
+-   Magic Reindeer Collar
+-   Sleigh Harness
+
+Additionally, the party starts with the following shared equipment:
+
+-   Map of Scheninsel Pensinsula
+-   Cargo Sleigh
+
 ## Setting
 
 This adventure takes place within a year after Kraken Raid, on a peninsula not yet explored in the Minotaur’s Maze universe. The season is winter and a huge blizzard is coming to the land.
