@@ -100,8 +100,6 @@ You may only take a short rest while on the ground or on a boat.
 
 Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace. Thus that means you can normally go 1 mile per 1 stamina (mps). If you want to conserve your stamina, you want a higher mps.
 
-How much stamina you use per mile changes based on
-
 Your mps is lower when you travel:
 
 -   Faster than your comfy speed
@@ -277,7 +275,7 @@ While taking a boat, you can rest. However, you have to pay the toll each time t
 
 There’s a lot of homebrew content made just for this adventure. The following content was all made by me, shieldgenerator7, specifically for this adventure.
 
-**Reindeerkin**
+## Reindeerkin
 
 Reindeerkin are human-like reindeer who can walk on two legs or on all fours. They can think and reason like humans, and can run fast and carry lots of weight like reindeer.
 
