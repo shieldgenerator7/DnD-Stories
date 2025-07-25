@@ -150,7 +150,25 @@ While you are leading, the DM has to beat this Encounter DC for you to get ambus
 
 ### Leadership
 
-While you are leading, you and your allies get a multiplier to their mps equal to your Leadership value.
+While you are leading, you and your allies get a multiplier to their mps equal to your Leadership multiplier.
+
+EX: If your CHA is 3, then your Leadership multiplier is x1.5, which means you multiply your and your allies’ mps times 1.5, which means you can travel farther.
+
+## Leading
+
+There is no one leader in the group. Each deer is good at different aspects of leading, so they switch out on a regular basis. While you are leading, you:
+
+-   Decide which way to go
+-   Navigate to your destination (Navigation)
+-   Look ahead for any trouble (Encounter DC)
+-   Give your team a morale boost (Leadership)
+-   Hold the map, and give it commands
+-   Set the pace
+-   Decide whether to take a short rest
+
+### Pace Setting
+
+While leading, you can decide how fast the herd goes. Going at normal speed has no effect on your mps. Going twice your speed halves your mps, and going half your speed doubles your mps.
 
 ## Travel
 
