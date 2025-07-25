@@ -361,6 +361,22 @@ You choose a target within range and cause it to glow. The target must be no lar
 
 If you cast this spell again, the previous effects fade away.
 
+### Snowball
+
+Transmutation Cantrip
+
+1 action – 30ft range – S – Instantaneous
+
+You choose a blob of snow within range, and magically compact it into a snowball. You then launch it at any target within 30ft of it. Make a spell attack on the target, dealing 1d4 + spellcasting ability modifier cold damage on a hit.
+
+### Snowfort
+
+1st-level Transmutation
+
+1 action – 15ft range – V – 1 hour
+
+You choose a blob of snow within range, and build a snow fort out of it. The snow fort has room for 1 medium-sized creature. If you spend a short rest in the snowfort, it counts as a warm place for the rest of its duration.
+
 ### Northern Star
 
 2nd-level Divination
@@ -368,6 +384,25 @@ If you cast this spell again, the previous effects fade away.
 1 action – Ritual – 50mi range – V M (a map) – Concentration – 1 day
 
 While holding or looking at the map, choose a point on the map. A glowing star hovers over the corresponding location in the world. The star looks like a northern star. It is always at your same elevation, always appears the same size no matter how far you are, and is always visible, even when behind walls and other obstructions. The star is only visible to you, and does not shed light of any kind.
+### Snowman
+
+2nd-level Transmutation
+
+1 action – 5ft range – V S M (a hat worth at least 1gp, which the spell consumes) – 1 day
+
+You place the hat on a mound of snow within range, and a snowman comes to life beneath it.
+
+The snowman will follow your commands to the best of its ability. It cannot speak, but it can understand the language you used as the vocal component of this spell. It acts on its own turn.
+
+### Process Meat
+
+2nd-Level Transmutation
+
+1 action – Ritual 10ft range – S M (a knife) – Instantaneous
+
+You choose a dead creature within range, and slice it up into food. For every 10 lbs of meat in the body, you make 1 Reindeer Ration or 1 Ration. When the spell is finished, only the bones remain.
+
+If the dead creature is an ungulate, this spell fails.
 
 ### Saving Grace
 
