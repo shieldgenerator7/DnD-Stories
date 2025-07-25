@@ -170,9 +170,16 @@ There is no one leader in the group. Each deer is good at different aspects of l
 
 While leading, you can decide how fast the herd goes. Going at normal speed has no effect on your mps. Going twice your speed halves your mps, and going half your speed doubles your mps.
 
-## Travel
+## Travel Methods
 
-You travel a lot in this module. While traveling, you spend stamina for each mile you travel. You can choose to travel on foot, by flying, or by swimming or boat.
+You travel a lot in this module. While traveling, you spend stamina for each mile you travel. You can choose to travel on foot, by flying, or by swimming or boat. Each of these methods have varying difficulty levels when encountering common problems in your journey.
+
+| **Method** | **Terrain** | **Encounters** | **Wind** | **Cold** |
+|------------|-------------|----------------|----------|----------|
+| Footing    | Moderate    | Hard           | Easy     | Moderate |
+| Flying     | Easy        | Easy           | Hard     | Hard     |
+| Swimming   | Hard        | Easy           | Easy     | Hard     |
+| Boating    | Easy        | Easy           | Easy     | Easy     |
 
 ### Footing
 
