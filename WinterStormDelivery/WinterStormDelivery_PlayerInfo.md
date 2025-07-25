@@ -445,7 +445,7 @@ Transmutation Cantrip
 
 1 action – 30ft range – S – Instantaneous
 
-You choose a blob of snow within range, and magically compact it into a snowball. You then launch it at any target within 30ft of it. Make a spell attack on the target, dealing 1d4 + spellcasting ability modifier cold damage on a hit.
+You choose a blob of snow within range, and magically compact it into a snowball. You then launch it at any target within 30ft of it. Make a ranged spell attack on the target. On a hit, deal 1d4 + spellcasting ability modifier cold damage.
 
 ### Snowfort
 
