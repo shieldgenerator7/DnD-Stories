@@ -146,7 +146,7 @@ Mark these stats on your character sheet:
 -   Carrying capacity (lbs) = 100 \* STR + 300
 -   Miles Per Stamina (MPS) = 3 + DEX
 -   Stamina\* = 50 \* CON + 50
--   Navigation (mi) = 5 \* INT + 10
+-   Navigation Distance (mi) = 5 \* INT + 10
 -   Encounter DC = 8 + PB + WIS
 -   Leadership = 0.25 \* CHA + 0.75
 
@@ -164,7 +164,7 @@ For 1 point of stamina, you can travel this many miles.
 
 This is the maximum amount of stamina you can have. A long rest gives you back full stamina.
 
-### Navigation
+### Navigation Distance
 
 While you are leading, you navigate. This is how far ahead you can navigate per navigation check. After you travel this far, you will have to roll another navigation check.
 
@@ -183,12 +183,27 @@ EX: If your CHA is 3, then your Leadership multiplier is x1.5, which means you m
 There is no one leader in the group. Each deer is good at different aspects of leading, so they switch out on a regular basis. While you are leading, you:
 
 -   Decide which way to go
+-   Decide how fast to go
+-   Decide what method to travel by (see Travel Methods)
 -   Navigate to your destination (Navigation)
 -   Look ahead for any trouble (Encounter DC)
 -   Give your team a morale boost (Leadership)
 -   Hold the map, and give it commands
--   Set the pace
 -   Decide whether to take a short rest
+
+### Navigating
+
+While leading, you decide which way to go to get to your destination. To navigate:
+
+1.  Declare where you are
+2.  Declare the method of travel you plan to take
+3.  Declare the route you plan to take
+4.  Declare how fast you plan to go
+5.  Roll for Navigation (1d20 + Intelligence)
+
+From here, the DM will describe what happens. Most likely, you will move along your route a number of miles equal to your Navigation Distance. Or there might be an encounter.
+
+Then you and your team calculate how much stamina they’ve used. (see Stamina Usage)
 
 ### Pace Setting
 
