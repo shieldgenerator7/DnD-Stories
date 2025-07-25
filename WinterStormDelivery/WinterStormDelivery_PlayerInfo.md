@@ -2,6 +2,8 @@
 
 D&D 5e Adventure
 
+TO ALL PLAYERS: Please read the Premise and the Rules! This is very important!
+
 ## Premise
 
 You play as deer pulling a delivery sled to a peninsula about to be frozen over by a blizzard. The cargo you carry will ensure the people of the frozen land can survive the winter storm. How will you survive the blizzard and make all the deliveries?
