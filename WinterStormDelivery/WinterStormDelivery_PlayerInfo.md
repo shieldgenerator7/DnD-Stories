@@ -56,36 +56,103 @@ This adventure is inspired by *Rudolph, the Red-Blooded Paindeer* adventure from
 
 # Rules
 
-This module is going to be a lot about exploration, route planning, and resource management. Your character has the following new stat:
-
--   Stamina (see Stamina)
+This module is going to be a lot about exploration, route planning, and resource management. Your character has the following new resource: Stamina.
 
 ## Short Rest
 
-A short rest is 12 minutes, during which you can eat 1 ration. A ration restores 25% of your stamina.
+A short rest is 12 minutes, during which you can eat 1 reindeer ration. A reindeer ration restores 25% of your max stamina.
 
 ## Stamina
 
-Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace.
+Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace. Thus that means you can normally go 1 mile per 1 stamina (mps). If you want to conserve your stamina, you want a higher mps.
 
 How much stamina you use per mile changes based on
 
--   How fast you’re moving
--   How difficult the terrain is
--   Hills
--   Wind
--   How much weight you’re carrying
--   Whether you’re in the front of the group or the back
+Your mps is lower when you travel:
+
+-   Faster than your comfy speed
+-   Across difficult terrain
+-   Uphill
+-   Into a head wind
+-   With more weight than your comfy carry capacity
+-   In the front while flying
+-   In the back while walking
+-   By swimming
+
+Your mps is higher when you travel:
+
+-   Slower than your comfy speed
+-   Across easy terrain
+-   Downhill
+-   Out of a tail wind
+-   With less weight than your comfy carry capacity
+-   In the back while flying
+-   In the front while walking
+-   By boat
+
+## Attribute Effects on Stamina
+
+Your attribute scores effect your stamina:
+
+-   STR – Increases your carry capacity
+-   DEX – Increases your mps
+-   CON – Increases your max stamina
+-   INT – Helps with navigation
+-   WIS – Helps with orienting and lankmark recognition
+-   CHA – Helps with leadership (conditionally increases your ally’s mps)
+
+Mark these stats on your character sheet:
+
+-   Carrying capacity (lbs) = 100 \* STR + 300
+-   Miles Per Stamina (MPS) = 3 + DEX
+-   Stamina\* = 50 \* CON + 50
+-   Navigation (mi) = 2 \* INT + 1
+-   Orienteering = WIS
+-   Leadership = 0.2 \* CHA + 0.8
+
+\* Refreshes on a long rest
+
+### Carrying Capacity
+
+Your mps scales inversely with the weight you’re carrying. While carrying a load that weighs as much as your carrying capacity, your mps is normal. While carrying a load that’s twice your carrying capacity, your mps is halved. While carrying a load that’s half your carrying capacity or less, your mps is increased by your DEX.
+
+### Miles Per Stamina
+
+For 1 point of stamina, you can travel this many miles.
+
+### Max Stamina
+
+This is the maximum amount of stamina you can have. A long rest gives you back full stamina.
+
+### Navigation
+
+When navigating, this is how far ahead you can navigate per navigation check. After you travel this far, you will have to roll another navigation check. Typically only one player needs to roll for this at a time.
+
+### Orienteering
+
+This is how well you are able to identify your surroundings and pinpoint where you are. When making a perception check to orient yourself on the map or in the world, add this value to it.
+
+### Leadership
+
+If you are in the leadership role, you and your allies get a multiplier to their mps equal to your Leadership value.
 
 ## Travel
 
 You travel a lot in this module. While traveling, you spend stamina for each mile you travel. You can choose to travel on foot, by flying, or by swimming or boat.
 
+### Footing
+
 While on foot, you have to deal with difficult terrain and encounters with monsters are more common. However, you are immune to the wind effects of the blizzard.
+
+### Flying
 
 While flying, you have less chance of encountering enemies, and can get to the destination quicker and without worrying about terrain, but you are very susceptible to getting blown around by the wind. You might also get lost due to the lack of landmarks.
 
+### Swimming
+
 While swimming, you are less likely to encounter enemies and you don’t get blown around by the wind. If you stay near the shore, you also don’t get pushed around by the waves enough to matter. However, swimming is very slow, and you can get cold easily.
+
+### Boating
 
 While taking a boat, you can rest. However, you have to pay the toll each time to get on a boat. It’s also faster than swimming, though not as fast as going by foot or by flight.
 
