@@ -107,7 +107,7 @@ Mark these stats on your character sheet:
 -   Miles Per Stamina (MPS) = 3 + DEX
 -   Stamina\* = 50 \* CON + 50
 -   Navigation (mi) = 2 \* INT + 1
--   Orienteering = WIS
+-   Encounter DC = 8 + PB + WIS
 -   Leadership = 0.2 \* CHA + 0.8
 
 \* Refreshes on a long rest
@@ -128,9 +128,9 @@ This is the maximum amount of stamina you can have. A long rest gives you back f
 
 When navigating, this is how far ahead you can navigate per navigation check. After you travel this far, you will have to roll another navigation check. Typically only one player needs to roll for this at a time.
 
-### Orienteering
+### Encounter DC
 
-This is how well you are able to identify your surroundings and pinpoint where you are. When making a perception check to orient yourself on the map or in the world, add this value to it.
+If you are in the leadership role, the DM has to beat this Encounter DC for you to get ambushed. If the DM fails this check, there might still be an encounter, but you will be able to see it coming from a mile away (quite literally). This also works on problems that arise in your journey. The higher this DC is, the earlier you will be able to detect problems.
 
 ### Leadership
 
