@@ -20,7 +20,7 @@ This adventure takes place within a year after Kraken Raid, on a peninsula not y
 
 # New Stuff
 
-There’s a lot of homebrew stuff made just for this adventure. The following content was all made by me, shieldgenerator7.
+There’s a lot of homebrew content made just for this adventure. The following content was all made by me, shieldgenerator7, specifically for this adventure.
 
 **Reindeerkin**
 
@@ -65,3 +65,102 @@ You have darkvision out to 90 feet.
 ### Antlers
 
 You have antlers attached to your head. You can use them as melee weapons that you are proficient with, and they deal 1d6 + your Strength modifier piercing damage. They can also be used as a spellcasting focus.
+
+## Magic Items
+
+### Magic Reindeer Collar
+
+While wearing this collar, you gain the following benefits:
+
+-   Flight Speed of 90ft
+-   Telekinetic feat
+-   If you attempt to walk on two feet, you must succeed on a DC20 Dexterity saving throw or fall prone.
+-   It is lined with Jingle Bells of Holding. How many is determined by its rarity:
+
+| **Rarity** | **Jingle Bells** |
+|------------|------------------|
+| Common     | 3                |
+| Uncommon   | 5                |
+| Rare       | 7                |
+
+### Jingle Bell of Holding
+
+This bell jingles like a normal jingle bell, but with a lower pitch. As an object interaction, you may stow 1 item in the jingle bell. While holding an item, its jingle has a higher pitch. As an object interaction, you may retrieve 1 item from the jingle bell.
+
+The jingle bell has a max capacity of 1 item. Its weight doesn’t change when you put an item inside it. Otherwise, it works like a Bag of Holding.
+
+### Scheninsel Peninsula Map
+
+A magic map of the peninsula that automatically updates when you see changes to the roads. It also always shows you where you are on the map.
+
+### Sleigh Harness
+
+This harness fits over your back and allows you to quickly connect and disconnect from the sleigh pole. While connected, you can help pull the sleigh. You may connect and disconnect as an action.
+
+## Spells
+
+### Glow
+
+Illusion Cantrip
+
+1 action – 30ft range – S – 1 hour
+
+You choose a target within range and cause it to glow. The target must be no larger than a 6”x6” cube. The target can be an object or creature, or part of an object or creature. The glow casts bright light out to a range of 5ft, and dim light out to a range of 60ft. You choose the color of the glow when you cast this spell.
+
+If you cast this spell again, the previous effects fade away.
+
+### Northern Star
+
+2nd-level Divination
+
+1 action – Ritual – 50mi range – V M (a map) – Concentration – 1 day
+
+While holding or looking at the map, choose a point on the map. A glowing star hovers over the corresponding location in the world. The star looks like a northern star. It is always at your same elevation, always appears the same size no matter how far you are, and is always visible, even when behind walls and other obstructions. The star is only visible to you, and does not shed light of any kind.
+
+### Saving Grace
+
+1st-level Abjuration
+
+1 reaction – 30ft range – V – 1 round\*
+
+When a creature you can see or hear casts a spell, you can use your reaction to cast Saving Grace.
+
+You choose 1 creature of your choice within range and give them magic resistance. Choose one of the 6 core attributes. Until the start of your next turn, they have advantage on all saving throws that use the attribute you chose.
+
+*At Higher Levels*. For each spell slot level above 1st, you can target 1 additional creature within range.
+
+### Wind Shroud
+
+3rd-level Abjuration
+
+1 action – Ritual – 60ft range – V S M (a cup of water) – Concentration – 1 hour
+
+You choose 3 targets in range and protect them from wind. For the duration, each target has advantage on all checks and saves to resist being forcibly moved or drawn off course by wind or moving air. Additionally, all ranged attacks that target them or move through their space have disadvantage.
+
+### Unweave
+
+3rd-level Abjuration
+
+1 action – 120ft range – 10ft radius – V S – Instantaneous
+
+You choose a point within range, and a burst of antimagic appears instantly. The antimagic burst has a radius of 10ft. Inside the burst, each ongoing spell or magical effect of 3rd level or lower gets dispelled.
+
+At Higher Levels. For each spell slot level above 3rd, the level of spell this dispels increases by 1.
+
+### Magic Suppression
+
+8th-level Abjuration
+
+1 action – 120ft range – 30ft radius – V S M (an iron bead) – Concentration – 1 hour
+
+You choose a point within range, and a sphere of magic suppression appears. The sphere has a radius of 10ft.
+
+While inside the sphere, a creature:
+
+-   Has disadvantage on Constitution saving throws to maintain concentration.
+-   Must succeed on an Arcana check to cast a spell, with a DC equal to 20 + the spell’s level.
+-   Has advantage on all saving throws to resist the effects of a spell or magical effect.
+-   Cannot gain or regain spell slots, sorcery points, spell points, uses of magic-related features, or magical item charges.
+-   Has its spell save DC and spell attack modifier reduced by 8.
+
+As a bonus action, you may move the center of the sphere up to 30ft to a point that’s still within range of you.
