@@ -52,6 +52,45 @@ This adventure is inspired by *Rudolph, the Red-Blooded Paindeer* adventure from
 
 <https://dndshorts.myshopify.com/collections/digital-content/products/college-of-battle-bard-digital-magazine-24>
 
+# Rules
+
+This module is going to be a lot about exploration, route planning, and resource management. Your character has the following new stat:
+
+-   Stamina (see Stamina)
+
+**Short Rest**
+
+A short rest is 12 minutes, during which you can eat 1 ration. A ration restores 25% of your stamina.
+
+**Stamina**
+
+Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace.
+
+How much stamina you use per mile changes based on
+
+-   How fast you’re moving
+-   How difficult the terrain is
+-   Hills
+-   Wind
+-   How much weight you’re carrying
+-   Whether you’re in the front of the group or the back
+
+**Travel**
+
+You travel a lot in this module. While traveling, you spend stamina for each mile you travel. You can choose to travel on foot, by flying, or by swimming or boat.
+
+While on foot, you have to deal with difficult terrain and encounters with monsters are more common. However, you are immune to the wind effects of the blizzard.
+
+While flying, you have less chance of encountering enemies, and can get to the destination quicker and without worrying about terrain, but you are very susceptible to getting blown around by the wind. You might also get lost due to the lack of landmarks.
+
+While swimming, you are less likely to encounter enemies and you don’t get blown around by the wind. If you stay near the shore, you also don’t get pushed around by the waves enough to matter. However, swimming is very slow, and you can get cold easily.
+
+While taking a boat, you can rest. However, you have to pay the toll each time to get on a boat. It’s also faster than swimming, though not as fast as going by foot or by flight.
+
+**Manifest**
+
+This is the manifest log of the items in the sleigh and where they need to be delivered to.
+
 # New Stuff
 
 There’s a lot of homebrew content made just for this adventure. The following content was all made by me, shieldgenerator7, specifically for this adventure.
