@@ -92,6 +92,10 @@ This module is going to be a lot about exploration, route planning, and resource
 
 A short rest is 12 minutes, during which you can eat 1 reindeer ration. A reindeer ration restores 25% of your max stamina.
 
+A short rest is usually when you switch leaders.
+
+You may only take a short rest while on the ground or on a boat.
+
 ## Stamina
 
 Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace. Thus that means you can normally go 1 mile per 1 stamina (mps). If you want to conserve your stamina, you want a higher mps.
