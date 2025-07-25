@@ -2,7 +2,13 @@
 
 D&D 5e Adventure
 
-TO ALL PLAYERS: Please read the Premise and the Rules! This is very important!
+TL;DR:
+
+-   You play as a deer delivering packages in a snowstorm
+-   This adventure is focused on exploration and resource management
+-   You have a new resource called Stamina, which you spend to travel long distances
+-   Your attribute scores effect your stamina in unique ways
+-   Every player will take turns as leader, who navigates, watches for danger, and boosts team morale.
 
 ## Premise
 
