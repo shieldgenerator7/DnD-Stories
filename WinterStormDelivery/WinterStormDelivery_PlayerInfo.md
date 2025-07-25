@@ -10,6 +10,8 @@ You play as deer pulling a delivery sled to a peninsula about to be frozen over 
 
 This adventure will focus more on exploration and resource management, with some combat and roleplaying. Each player will have a new resource: Stamina. This is used to determine how far you can travel in a day. Each of the 6 core attributes will have bonus effects that influence your stamina and how much you use, and this will effect your build decisions.
 
+Material components of spells will be tracked in this adventure.
+
 This adventure is inspired by *Rudolph, the Red-Blooded Paindeer* adventure from the DM’s Secret Weapon magazine, Dec 2023 issue (\#24). It was created by William Earl and Doug Wallace. This adventure uses some monster stat blocks, puzzles, and other elements from that adventure.
 
 <https://dndshorts.myshopify.com/collections/digital-content/products/college-of-battle-bard-digital-magazine-24>
