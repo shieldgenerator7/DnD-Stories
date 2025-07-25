@@ -122,9 +122,9 @@ Mark these stats on your character sheet:
 -   Carrying capacity (lbs) = 100 \* STR + 300
 -   Miles Per Stamina (MPS) = 3 + DEX
 -   Stamina\* = 50 \* CON + 50
--   Navigation (mi) = 2 \* INT + 1
+-   Navigation (mi) = 5 \* INT + 10
 -   Encounter DC = 8 + PB + WIS
--   Leadership = 0.2 \* CHA + 0.8
+-   Leadership = 0.25 \* CHA + 0.75
 
 \* Refreshes on a long rest
 
