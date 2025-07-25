@@ -12,7 +12,17 @@ You play as deer pulling a delivery sled to a peninsula about to be frozen over 
 
 This adventure will focus more on exploration and resource management, with some combat and roleplaying. Each player will have a new resource: Stamina. This is used to determine how far you can travel in a day. Each of the 6 core attributes will have bonus effects that influence your stamina and how much you use, and this will effect your build decisions.
 
-Material components of spells will be tracked in this adventure.
+## Tracked Stats
+
+The following will be tracked in this adventure:
+
+-   Time
+-   Distance traveled
+-   Stamina
+-   Gold
+-   Packages (carrying, delivered, lost)
+-   Temperature
+-   Material components for spells
 
 ## Setting
 
