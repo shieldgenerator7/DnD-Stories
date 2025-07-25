@@ -89,10 +89,6 @@ While swimming, you are less likely to encounter enemies and you don’t get blo
 
 While taking a boat, you can rest. However, you have to pay the toll each time to get on a boat. It’s also faster than swimming, though not as fast as going by foot or by flight.
 
-## Manifest
-
-This is the manifest log of the items in the sleigh and where they need to be delivered to.
-
 # New Stuff
 
 There’s a lot of homebrew content made just for this adventure. The following content was all made by me, shieldgenerator7, specifically for this adventure.
