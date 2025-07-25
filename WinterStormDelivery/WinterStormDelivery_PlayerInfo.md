@@ -209,6 +209,43 @@ Then you and your team calculate how much stamina they’ve used. (see Stamina U
 
 While leading, you can decide how fast the herd goes. Going at normal speed has no effect on your mps. Going twice your speed halves your mps, and going half your speed doubles your mps.
 
+## Stamina Usage
+
+When you finish navigating to a waypoint, it’s time for you and your team to calculate how many stamina points they’ve used.
+
+First, calculate your mps. Take your base mps and multiply it by all applicable entries in the following chart:
+
+| **Condition**         | **Multiplier** |
+|-----------------------|----------------|
+| Normal                | 1              |
+| Difficult Terrain     | 2              |
+| Uphill                | 1.2            |
+| Downhill              | 0.8            |
+| Ground Travel         | 1              |
+| Air Travel            | 0.75           |
+| Water Travel (Swim)   | 3              |
+| Water Travel (Boat)   | 0              |
+| Comfy Capacity        | 1              |
+| Double Comfy Capacity | 2              |
+| Half Comfy Capacity   | 0.5            |
+| Average Speed         | 1              |
+| +1 mph (Ground)       | 1.2            |
+| +1 mph (Air)          | 1.1            |
+| Front (Air)           | 1.2            |
+| Back (Ground)         | 1.5            |
+| No Wind               | 1              |
+| With Wind             | 0.5            |
+| Against Wind          | 2              |
+| Perpendicular Wind    | 1.1            |
+
+Now you have your net mps.
+
+Second, take your net mps, and do the calculation:
+
+Stamina used = (1 / mps) \* miles
+
+Then reduce your current stamina by that amount. This might make your stamina a fractional value.
+
 ## Travel Methods
 
 You travel a lot in this module. While traveling, you spend stamina for each mile you travel. You can choose to travel on foot, by flying, or by swimming or boat. Each of these methods have varying difficulty levels when encountering common problems in your journey.
