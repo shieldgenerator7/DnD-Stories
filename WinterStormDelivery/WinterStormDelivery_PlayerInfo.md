@@ -18,6 +18,36 @@ This adventure is inspired by *Rudolph, the Red-Blooded Paindeer* adventure from
 
 This adventure takes place within a year after Kraken Raid, on a peninsula not yet explored in the Minotaur’s Maze universe. The season is winter and a huge blizzard is coming to the land.
 
+## Allowed Content
+
+All homebrew content in this document are allowed.
+
+Races:
+
+-   Only deer races are allowed
+-   Homebrew welcome
+-   Recommended: Reindeerkin
+
+Classes:
+
+-   All official classes
+-   Reality Bender
+-   Non-official subclasses allowed with DM approval
+-   Multiclassing NOT allowed
+
+Spells:
+
+-   Homebrew spells in this document
+-   If it’s on wikidot, and not on the banned list, it’s allowed
+-   Banned:
+    -   Silvery Barbs
+    -   Darkness
+    -   Counterspell
+    -   Dispel Magic
+    -   Antimagic Field
+    -   Wish
+    -   All technomagic spells
+
 # New Stuff
 
 There’s a lot of homebrew content made just for this adventure. The following content was all made by me, shieldgenerator7, specifically for this adventure.
