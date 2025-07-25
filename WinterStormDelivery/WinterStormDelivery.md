@@ -1,10 +1,10 @@
 # Winter Storm Delivery
 
-You play as reindeer pulling a delivery sled to a peninsula about to be frozen over by a blizzard. The cargo you carry will ensure the people of the frozen land can survive the winter storm. How will you get to all the towns in time and survive the blizzard?
+You play as deer pulling a delivery sled to a peninsula about to be frozen over by a blizzard. The cargo you carry will ensure the people of the frozen land can survive the winter storm. How will you get to all the towns in time and survive the blizzard?
 
 # Race
 
-You will play as a reindeerkin.
+You will play as any deer race. Here’s a homebrew race specifically for this adventure: Reindeerkin.
 
 ## Reindeerkin
 
@@ -22,7 +22,7 @@ Alignment
 Reindeerkin prefer things to stay consistent, and dislike change. They tend towards lawful alignments.
 
 Size  
-On all fours, they can reach 5ft tall. On two legs, they can be as big as 10ft tall. Your size is Large.
+On all fours, they can reach 3ft tall. On two legs, they can be as big as 6ft tall. Your size is Medium.
 
 Speed  
 Your base walking speed is 30ft, increased to 60ft when on all fours.
@@ -36,8 +36,11 @@ You speak common and 1 other language of your choice.
 Keen Hearing  
 You have advantage on ability checks involving sound.
 
+Darkvision  
+You have darkvision out to 90 feet.
+
 Antlers  
-You have antlers attached to your head. You can use them as melee weapons that you are proficient with, and they deal 1d12 + your Strength modifier piercing damage.
+You have antlers attached to your head. You can use them as melee weapons that you are proficient with, and they deal 1d6 + your Strength modifier piercing damage. They can also be used as a spellcasting focus.
 
 # Towns
 
