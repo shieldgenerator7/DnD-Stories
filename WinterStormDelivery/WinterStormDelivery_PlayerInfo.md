@@ -6,10 +6,12 @@ TL;DR:
 
 -   You play as a deer delivering packages in a snowstorm
 -   This adventure is focused on exploration and resource management
+-   You are Level 7
 -   You have a new resource called Stamina, which you spend to travel long distances
 -   Your attribute scores effect your stamina in unique ways
 -   Every player will take turns as leader, who navigates, watches for danger, and boosts team morale.
 -   Recommended race: Reindeerkin (included below)
+-   You start with some magic items that let you fly, hook to the sleigh, and store your items
 -   The New Stuff section includes a lot of homebrew options for spells, feats, magic items, etc
 
 ## Premise
@@ -36,13 +38,17 @@ The following will be tracked in this adventure:
 
 You start with the following equipment, in addition to your class starting equipment:
 
--   Magic Reindeer Collar
+-   Magic Reindeer Collar (includes Jingle Bells of Holding)
 -   Sleigh Harness
+-   10gp
+-   Level 7
 
 Additionally, the party starts with the following shared equipment:
 
 -   Map of Scheninsel Pensinsula
 -   Cargo Sleigh
+-   Reindeer Rations
+-   50gp
 
 ## Setting
 
@@ -98,7 +104,9 @@ You may only take a short rest while on the ground or on a boat.
 
 ## Stamina
 
-Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace. Thus that means you can normally go 1 mile per 1 stamina (mps). If you want to conserve your stamina, you want a higher mps.
+Stamina is how far you can travel in a long rest. Under normal conditions, you spend 1 stamina to travel 1 mile at normal pace. Thus that means you can normally go 1 mile per 1 stamina (mps). If you want to conserve your stamina and travel further, you want a higher mps.
+
+Managing your stamina is very important. It’s the resource that lets you pull the sleigh. If you run out of stamina, you are no longer able to contribute to pulling the sleigh until you regain it.
 
 Your mps is lower when you travel:
 
@@ -121,8 +129,6 @@ Your mps is higher when you travel:
 -   In the back while flying
 -   In the front while walking
 -   By boat
-
-Managing your stamina is very important. It’s the resource that lets you pull the sleigh. If you run out of stamina, you are no longer able to contribute to pulling the sleigh until you regain it.
 
 ## Attribute Effects on Stamina
 
@@ -174,7 +180,7 @@ While you are leading, the DM has to beat this Encounter DC for you to get ambus
 
 While you are leading, you and your allies get a multiplier to their mps equal to your Leadership multiplier.
 
-EX: If your CHA is 3, then your Leadership multiplier is x1.5, which means you multiply your and your allies’ mps times 1.5, which means you can travel farther.
+EX: If your CHA is +3, then your Leadership multiplier is x1.5, which means you multiply your and your allies’ mps times 1.5, which means you can travel farther.
 
 ## Leading
 
@@ -209,7 +215,7 @@ While leading, you can decide how fast the herd goes. Going at normal speed has 
 
 ## Stamina Usage
 
-When you finish navigating to a waypoint, it’s time for you and your team to calculate how many stamina points they’ve used.
+When you finish navigating to a waypoint, it’s time for you and your team to calculate how many stamina points you’ve used.
 
 First, calculate your mps. Take your base mps and multiply it by all applicable entries in the following chart:
 
@@ -415,7 +421,13 @@ A magic map of the peninsula. While holding it, you can give it commands to upda
 
 ### Sleigh Harness
 
-This harness fits over your back and allows you to quickly connect and disconnect from the sleigh pole. While connected, you can help pull the sleigh. You may connect and disconnect as an action.
+This harness fits over your back and allows you to quickly connect and disconnect from the sleigh. While within 20ft of the sleigh, you can use an action to connect to it. You may disconnect as an action. While connected:
+
+-   You can help pull the sleigh
+-   When you move further from the sleigh than your starting distance, the sleigh is pulled with you
+-   If you run out of stamina, you are auto-disconnected from the sleigh
+
+If you have 0 stamina, you are not able to connect to the sleigh.
 
 ### Reindeer Ration
 
