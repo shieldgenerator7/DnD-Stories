@@ -40,15 +40,17 @@ You start with the following equipment, in addition to your class starting equip
 
 -   Magic Reindeer Collar (includes Jingle Bells of Holding)
 -   Sleigh Harness
--   10gp
+-   100gp
 -   Level 7
+-   2 common items or 1 uncommon item
+-   1 rare item
 
 Additionally, the party starts with the following shared equipment:
 
 -   Map of Scheninsel Pensinsula
 -   Cargo Sleigh
 -   Reindeer Rations
--   50gp
+-   500gp
 
 ## Setting
 
@@ -396,6 +398,8 @@ You channel your inner energy to survive the cold, gaining the following benefit
 
 ### Magic Reindeer Collar
 
+4lb
+
 While wearing this collar, you gain the following benefits:
 
 -   Flight Speed of 90ft
@@ -411,15 +415,23 @@ While wearing this collar, you gain the following benefits:
 
 ### Jingle Bell of Holding
 
-This bell jingles like a normal jingle bell, but with a lower pitch. As an object interaction, you may stow 1 item in the jingle bell. While holding an item, its jingle has a higher pitch. As an object interaction, you may retrieve 1 item from the jingle bell.
+0.1lb
+
+This bell jingles like a normal jingle bell, but with a lower pitch. As an object interaction, you may stow 1 item in the jingle bell. While holding an item, its jingle has a higher pitch. As an object interaction, you may retrieve 1 item from the jingle bell. When you retrieve an equippable object from it, you may equip it in the same free action.
 
 The jingle bell has a max capacity of 1 item. Its weight doesn’t change when you put an item inside it. Otherwise, it works like a Bag of Holding.
 
+Alternatively, you can store up to 100gp in a jingle bell as “1 item”. When you retrieve it, you may retrieve a portion of the gold instead of all of it. When the jingle bell has gp in it, it jingles sound like coin clinks.
+
 ### Scheninsel Peninsula Map
+
+0.1lb
 
 A magic map of the peninsula. While holding it, you can give it commands to update itself using information that you have.
 
 ### Sleigh Harness
+
+3lb
 
 This harness fits over your back and allows you to quickly connect and disconnect from the sleigh. While within 20ft of the sleigh, you can use an action to connect to it. You may disconnect as an action. While connected:
 
@@ -430,6 +442,8 @@ This harness fits over your back and allows you to quickly connect and disconnec
 If you have 0 stamina, you are not able to connect to the sleigh.
 
 ### Reindeer Ration
+
+0.2lb
 
 During a short rest, you may choose to eat a Reindeer Ration. It restores 25% of your stamina, and heals 25% of your health.
 
