@@ -465,6 +465,8 @@ You choose a target within range and cause it to glow. The target must be no lar
 
 If you cast this spell again, the previous effects fade away.
 
+*Artificer, Bard, Cleric, Sorcerer, Wizard*
+
 ### Snowball
 
 Transmutation Cantrip
@@ -473,6 +475,8 @@ Transmutation Cantrip
 
 You choose a blob of snow within range, and magically compact it into a snowball. You then launch it at any target within 30ft of it. Make a ranged spell attack on the target. On a hit, deal 1d4 + spellcasting ability modifier cold damage.
 
+*Druid, Sorcerer, Warlock, Wizard*
+
 ### Snowfort
 
 1st-level Transmutation
@@ -480,6 +484,8 @@ You choose a blob of snow within range, and magically compact it into a snowball
 1 action – 15ft range – V – 1 hour
 
 You choose a blob of snow within range, and build a snow fort out of it. The snow fort has room for 1 medium-sized creature. If you spend a short rest in the snowfort, it counts as a warm place for the rest of its duration.
+
+*Artificer, Druid, Wizard*
 
 ### Northern Star
 
@@ -491,6 +497,8 @@ While holding or looking at the map, choose a point on the map. A glowing star h
 
 When you cast this spell, if the point on the map is not within range in the world, the spell fails.
 
+*Bard, Cleric, Ranger*
+
 ### Snowman
 
 2nd-level Transmutation
@@ -501,6 +509,8 @@ You place the hat on a mound of snow within range, and a snowman comes to life b
 
 The snowman will follow your commands to the best of its ability. It cannot speak, but it can understand the language you used as the vocal component of this spell. It acts on its own turn.
 
+*Artificer, Bard, Wizard*
+
 ### Process Meat
 
 2nd-Level Transmutation
@@ -510,6 +520,8 @@ The snowman will follow your commands to the best of its ability. It cannot spea
 You choose a dead creature within range, and slice it up into food. For every 10 lbs of meat in the body, you make 1 Reindeer Ration or 1 Ration. When the spell is finished, only the bones remain.
 
 If the dead creature is an ungulate, this spell fails.
+
+*Druid (Optional), Ranger*
 
 ### Saving Grace
 
@@ -523,6 +535,8 @@ You choose 1 creature of your choice within range and give them magic resistance
 
 *At Higher Levels*. For each spell slot level above 1st, you can target 1 additional creature within range.
 
+*Cleric, Paladin (Optional), Sorcerer, Wizard*
+
 ### Wind Shroud
 
 3rd-level Abjuration
@@ -530,6 +544,8 @@ You choose 1 creature of your choice within range and give them magic resistance
 1 action – Ritual – 60ft range – V S M (a cup of water) – Concentration – 1 hour
 
 You choose 3 targets in range and protect them from wind. For the duration, each target has advantage on all checks and saves to resist being forcibly moved or drawn off course by wind or moving air. Additionally, all ranged attacks that target them or move through their space have disadvantage.
+
+*Druid, Ranger, Sorcerer, Wizard*
 
 ### Unweave
 
@@ -540,6 +556,8 @@ You choose 3 targets in range and protect them from wind. For the duration, each
 You choose a point within range, and a burst of antimagic appears instantly. The antimagic burst has a radius of 10ft. Inside the burst, each ongoing spell or magical effect of 3rd level or lower gets dispelled.
 
 At Higher Levels. For each spell slot level above 3rd, the level of spell this dispels increases by 1.
+
+*Artificer, Bard, Cleric, Druid, Paladin, Sorcerer, Wizard*
 
 ### Magic Suppression
 
@@ -558,6 +576,8 @@ While inside the sphere, a creature:
 -   Has its spell save DC and spell attack modifier reduced by 8.
 
 As a bonus action, you may move the center of the sphere up to 30ft to a point that’s still within range of you.
+
+*Cleric, Wizard*
 
 # New Stuff (Part 2)
 
