@@ -398,20 +398,24 @@ You channel your inner energy to survive the cold, gaining the following benefit
 
 ### Magic Reindeer Collar
 
-4lb – Uncommon, Rare, Very Rare
+4lb – Attunement – Uncommon, Rare, Very Rare
 
-While wearing this collar, you gain the following benefits:
+While wearing this collar and standing on all fours, you gain the following benefits:
 
 -   Flight Speed of 90ft
--   Telekinetic feat
--   If you attempt to walk on two feet, you must succeed on a DC20 Dexterity saving throw or fall prone.
--   It is lined with Jingle Bells of Holding. How many is determined by its rarity:
+-   Retrieve items from the attached Jingle Bells of Holding with a voice command (Rare)
+-   Cast the Sending spell as a free action without expending a spell slot and without material components. Your target must be another creature wearing a Magic Reindeer Collar. (Rare)
+-   Telekinetic feat (Very Rare)
+
+It is lined with Jingle Bells of Holding. How many is determined by its rarity:
 
 | **Rarity** | **Jingle Bells** |
 |------------|------------------|
-| Common     | 3                |
-| Uncommon   | 5                |
-| Rare       | 7                |
+| Uncommon   | 3                |
+| Rare       | 5                |
+| Very Rare  | 7                |
+
+You automatically attune to the collar when you put it on, and automatically unattuned to it when you take it off. The Jingle Bells of Holding on this collar can only be accessed by the creature attuned to this item.
 
 ### Jingle Bell of Holding
 
