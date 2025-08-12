@@ -404,7 +404,7 @@ While wearing this collar and standing on all fours, you gain the following bene
 
 -   Flight Speed of 90ft
 -   Retrieve items from the attached Jingle Bells of Holding with a voice command (Rare)
--   Cast the Sending spell as a free action without expending a spell slot and without material components. Your target must be another creature wearing a Magic Reindeer Collar. (Rare)
+-   Cast the Sending spell as a free action at will with no components. Your target must be another creature wearing a Magic Reindeer Collar. (Rare)
 -   Telekinetic feat (Very Rare)
 
 It is lined with Jingle Bells of Holding. How many is determined by its rarity:
