@@ -398,7 +398,7 @@ You channel your inner energy to survive the cold, gaining the following benefit
 
 ### Magic Reindeer Collar
 
-4lb
+4lb – Uncommon, Rare, Very Rare
 
 While wearing this collar, you gain the following benefits:
 
@@ -415,7 +415,7 @@ While wearing this collar, you gain the following benefits:
 
 ### Jingle Bell of Holding
 
-0.1lb
+0.1lb – Uncommon
 
 This bell jingles like a normal jingle bell, but with a lower pitch. As an object interaction, you may stow 1 item in the jingle bell. While holding an item, its jingle has a higher pitch. As an object interaction, you may retrieve 1 item from the jingle bell. When you retrieve an equippable object from it, you may equip it in the same free action.
 
@@ -425,7 +425,7 @@ Alternatively, you can store any amount of copper, silver, and gold coins in a j
 
 ### Scheninsel Peninsula Map
 
-0.1lb
+0.1lb – Rare
 
 A magic map of the peninsula. While holding it, you can give it commands to update itself using information that you have.
 
