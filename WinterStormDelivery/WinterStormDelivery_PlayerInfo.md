@@ -421,7 +421,7 @@ This bell jingles like a normal jingle bell, but with a lower pitch. As an objec
 
 The jingle bell has a max capacity of 1 item. Its weight doesn’t change when you put an item inside it. Otherwise, it works like a Bag of Holding.
 
-Alternatively, you can store up to 100gp in a jingle bell as “1 item”. When you retrieve it, you may retrieve a portion of the gold instead of all of it. When the jingle bell has gp in it, it jingles sound like coin clinks.
+Alternatively, you can store any amount of copper, silver, and gold coins in a jingle bell as “1 item”. When you retrieve it, you may retrieve a portion of the coins in exact change instead of all of it. When the jingle bell has coins in it, its jingles sound like coin clinks.
 
 ### Scheninsel Peninsula Map
 
