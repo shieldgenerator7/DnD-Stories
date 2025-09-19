@@ -42,7 +42,7 @@ It was another few weeks until they got to Albaridge. After settling down in the
 
 “Nonsense…” Elder Elminac waved his hand flippantly as he flipped through a spell book on his desk. “This’ll be easy…” He stroked his beard. “…or impossible.”
 
-Emigail held Donovard’s hand tightly, squeezing in sweaty anticipation. Donovard had his head pressed into her bossom. Both her watching the elder as he took his sweet old time flipping through the book one page at a time.
+Emigail held Donovard’s hand tightly, squeezing in sweaty anticipation. Donovard had his head pressed into her bosom. Both her watching the elder as he took his sweet old time flipping through the book one page at a time.
 
 Finally, he spoke. “Ah, yes. Polymorph. So… which one… will it be?”
 
@@ -50,7 +50,7 @@ They looked at each other, confused.
 
 “I’m sorry?”
 
-“Do you…” He pointed at Donovard. “Want to be a… Tabaxi…” He pointed at Emigai. “Or do you… want to… be a human?”
+“Do you…” He pointed at Donovard. “Want to be a… Tabaxi…” He pointed at Emigail. “Or do you… want to… be a human?”
 
 “We’ve… never thought about this before.” They exchanged glances.
 

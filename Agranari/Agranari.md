@@ -60,7 +60,7 @@ Zajar followed Gra into the silo where he kept the food. On the way there, Zajar
 
 Zajar let himself into the chicken pen and followed his dripping nose to the chicken coop. All the chickens scrambled out of his way but otherwise ignored the large black bear invading their coop.
 
-“Cluck!” The chicken in question greeted Zajar.
+*Cluck!* The chicken in question greeted Zajar.
 
 “Hey there, Henrietta.” Zajar picked her up and petted her head. She calmed down, cooing quietly. He moved his nose around her, taking note of how much his nose bled while doing so. “Ah, it’s your stomach, isn’t it?” He set her down back in her nest. “I’ve got just the thing for you.” He took out his medicinal kit and started crushing herbs together.
 
