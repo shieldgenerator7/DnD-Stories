@@ -53,6 +53,42 @@ This supplements pg19 of the rules.
 
 Thanks to @DebMarie for this rule.
 
+## Wounds
+
+When you roll a natural 1 during combat and then take damage in that same round, you suffer a wound.
+
+When you roll a natural 1 on an ability check and the result has you take damage, you suffer a wound.
+
+When you suffer a wound, roll a d10. Use the wound chart on page 21 of the rules, and take that wound.
+
+## Returning to the Shop
+
+If you're in an area where you found a shop before, and you're not in combat or a sublocation, you can return to the shop to buy/sell the same items even if the page doesn't explicitly mention a shop.
+
+This overrides pg23 of the rules.
+
+## Permadeath
+
+If a character has 0 hp at the end of a page, they die permanently. However, the character can be healed with an ability or item before the end of the page to be revived. A character who is revived always takes a debilitating wound as listed on pg21 of the rules, instead of rolling a d4.
+
+If your character dies, you may create a new character at the same level to take their place. The new character does not get your old character’s equipment.
+
+A character’s health cannot go below 0, so any amount of healing can revive them. Getting revived does not remove the Poisoned or Cursed conditions.
+
+This permadeath rule overrides pg20 & pg21 of the rules.
+
+## Multiplayer
+
+You may choose other players to be your allies.
+
+You may use abilities that add an extra die roll on your allies. You may use consumable items on your allies. You still expend the uses of these abilities and items as normal.
+
+During combat, you can help allies take down enemies. If you deal enough damage to an enemy to avoid getting hit, you can deal the excess damage to an ally’s enemy, to help them avoid getting hit. You may only hit that enemy if your original attack roll would hit them.
+
+During combat, you can block an attack for an ally. If an ally would get hit by an attack, you may take that damage instead. Roll for defense like usual, and you take the damage instead of your ally.
+
+This overrides pg5 of the rules.
+
 # Chapter 1 – Tak Redwind
 
 ======= 2024-01-01 =======
