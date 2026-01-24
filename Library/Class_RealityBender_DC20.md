@@ -2,31 +2,33 @@
 
 DC20 Class
 
-version 0.1.1 – 0.0.3
+version 0.1.1 – 0.0.4
 
 # Class Table
 
 2025-05-28: copied from DC20 Core Rules Beta 0.9.5
 
-| Char Level | Health Points | Attribute Points | Skill Points | Trade Points | Mana Points | Cantrips Known | Spells Known |
-|------------|---------------|------------------|--------------|--------------|-------------|----------------|--------------|
-| 1          | +7            | +1               |              |              | +3          | +2             | +3           |
-| 2          | +1            | +1               |              | +1           |             | +1             | +1           |
-| 3          | +1            | +1               | +1           |              | +1          | +1             | +1           |
-| 4          | +1            | +1               |              | +1           |             |                |              |
-| 5          | +1            | +1               | +1           |              | +1          | +1             |              |
-| 6          | +1            | +1               |              |              | +1          |                | +1           |
-| 7          | +1            | +1               |              | +1           |             |                |              |
-| 8          | +1            | +1               | +1           |              | +1          | +1             |              |
-| 9          | +1            | +1               |              | +1           | +1          |                | +1           |
-| 10         | +1            | +1               | +1           |              |             | +1             | +1           |
+2026-01-23: modified using DC20 Core Rules Beta 0.10.0
+
+| Char Level | Health Points | Attribute Points | Skill Points | Trade Points | Mana Points | Spells Known |
+|------------|---------------|------------------|--------------|--------------|-------------|--------------|
+| 1          | +7            | +1               |              |              | +3          | +4           |
+| 2          | +1            | +1               |              | +1           |             |              |
+| 3          | +1            | +1               | +1           |              | +1          | +1           |
+| 4          | +1            | +1               |              | +1           |             |              |
+| 5          | +1            | +1               | +1           |              | +1          | +1           |
+| 6          | +1            | +1               |              |              | +1          |              |
+| 7          | +1            | +1               |              | +1           |             | +1           |
+| 8          | +1            | +1               | +1           |              | +1          |              |
+| 9          | +1            | +1               |              | +1           | +1          | +1           |
+| 10         | +1            | +1               | +1           |              |             | +1           |
 
 # Reality Bender Table
 
 | **Char Level** | **Features**                             | **Bond Affinity Options** | **Bending Tricks** |
 |----------------|------------------------------------------|---------------------------|--------------------|
-| 1              | Class Features                           | +2                        | +1                 |
-| 2              | Class Feature, Talent + 1 Path Point     | +1                        | +1                 |
+| 1              | Class Features                           |                           | +1                 |
+| 2              | Class Feature, Talent + 1 Path Point     | +2                        | +1                 |
 | 3              | Subclass Feature                         |                           | +1                 |
 | 4              | Talent + 1 Path Point, 2 Ancestry Points | +1                        | +1                 |
 | 5              | Class Feature                            |                           | +1                 |
@@ -65,15 +67,15 @@ This class grants you no additional starting equipment.
 
 Combat Training: None
 
-Spell List: You choose 1 school of magic. This is your Bonded School. When you learn a new Spell, you can choose any Spell from your Bonded School.
+Spell List: You choose 1 school of magic. This is your Bonded School. When you learn a new Spell, you can choose any Spell from your Bonded School, regardless of Spell Source.
 
-Cantrips Known: The number of Cantrips you know increases as shown in the Cantrips Known column of the Reality Bender Class Table. Cantrips are Spells with the Cantrip Spell Tag.
-
-Spells Known: The number of Spells you know increases as shown in the Spells Known column of the Reality Bender Class Table. These can be Spells with or without the Cantrip Spell Tag.
+Spells Known: The minimum number of Spells you know increases as shown in the Spells Known column of the Reality Bender Class Table.
 
 Mana Points: Your maximum number of Mana Points increases as shown in the Mana Points column of the Reality Bender Class Table.
 
-Spellcasting Focus: You choose a body part and a color. When you cast spells, this body part glows, shedding dim light of that color in a 1 Space radius.
+Spell Focus: You choose a body part and a color. When you cast spells, this body part glows, shedding dim light of that color in a 1 Space radius. It counts as a Spell Focus for you, and you have 1 point with which to spend on a Spell Focus Property.
+
+Components: Your spells require somatic components, satisfied by your chosen body part. Your spells don’t require verbal components or material components, even when casting a spell that normally does.
 
 Cast Range: If a spell you cast in your bonded schools has a base range greater than Touch or Self, its base range is changed to your Cast Range. Your Cast Range is determined by your INT multiplied by your level’s Cast Range multiplier. The value is in Spaces, minimum a number of Spaces equal to your level.  
 EX: If your INT is 3 and you’re level 2, your Cast Range is 6 Spaces
@@ -97,12 +99,11 @@ Volatility: Your spell effects are temporary, even if the spell explicitly state
 
 ### Bending Trick
 
-You know a spell so well you can cast it with ease. Choose a spell you know. Increase its Bending Trick level by 1, leveling it up. It then counts as a Bending Trick for you.
+You know a spell so well you can cast it with ease. Choose a spell you know from your bonded school. Increase its Bending Trick level by 1, leveling it up. It then counts as a Bending Trick for you.
 
 When you cast a Bending Trick, you:
 
--   Increase your Mana Spend Limit by the spell’s Bending Trick level for this spell cast.
--   Decrease its MP cost by its Bending Trick level, minimum 0. This cost reduction still counts against your Mana Spend Limit.
+-   Decrease its MP cost by its Bending Trick level, minimum 0. This reduction applies to enhancements and Bond Affinity options.
 
 When you level up, you can increase the Bending Trick level of one of your spells by 1, as shown in the class table.
 
@@ -135,7 +136,7 @@ Reality Observer DC = 10 + spell’s MP cost – Mana Spend Limit
 
 ### Bond Affinity
 
-You gain affinity for spells in your bonded schools, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can apply as many Bond Affinity options to a spell as you want, but only as long as the resulting total doesn’t go over your Mana Spend Limit. You can only apply Bond Affinity options to spells in your bonded schools. MP spent on Bond Affinity options count against your Mana Spend Limit.
+You gain affinity for your bending trick spells, manipulating them to your will. You gain 2 Bond Affinity options from the list below. You learn more as you level up, as shown in the class table. You can apply as many Bond Affinity options to a bending trick as you want, but only as long as the resulting total after cost reductions doesn’t go over your Mana Spend Limit. You can only apply Bond Affinity options to your bending trick spells. MP spent on Bond Affinity options count against your Mana Spend Limit.
 
 -   Powerful: 1 MP. Increase healing, damage, or temporary hp of the spell by 1.
 -   Reuse: 1 MP. The next time you cast this spell, it costs 2 MP less to cast, minimum 0.
@@ -145,7 +146,7 @@ You gain affinity for spells in your bonded schools, manipulating them to your w
     Reaction: Cast this spell.
 -   Hasty: 2 MP. Spend 1 AP to cast this spell, if the spell’s cast time is 1 minute.
 -   Capital: 1 MP. Increase your Mana Spend Limit by 3 for this spell cast.
--   Animating: 1 MP. Cast this spell without requiring it to be sustained.
+-   Animating: 3 MP. Cast this spell without requiring it to be sustained.
 -   Focused: 1 MP. Add your prime modifier to the prime modifier used by this spell cast.
 -   Reaching: 1 MP. Increase this spell’s cast range by your Cast Range.
 -   Remote: 1 MP. Increase this spell’s tether range by your Tether Range.
