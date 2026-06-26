@@ -1014,17 +1014,33 @@ You have an affinity for one element in particular, and you can weave it into yo
 
 At level 3, you attune to a particular element. Choose a damage type: fire, cold, lightning, thunder, poison, acid, radiant, force, necrotic, or psychic. This becomes your attuned element. You may attune to an additional element at level 15.
 
-Your weapon attacks within your Cast Range deal an additional 1d6 damage of the type of your attuned element.
+A spell that can deal damage of your attuned element is considered an Elemental Spell. A Bending Trick that can deal damage of your attuned element is considered an Elemental Bending Trick.
 
-You gain the following bond affinity option:
+Elemental Spells cost 1 Spell Point less to cast. Elemental Bending Tricks cost an additional 1 Spell Point less to cast for each Bending Trick level it has.
 
--   Elemental: 3 Spell Points. This spell deals damage of the type of your attuned element instead of its original type, if it deals damage.
+You may end one of your active Elemental Bending Tricks as a free action.
+
+### Elemental Attacks
+
+At level 3, you can imbue your attacks with your elemental magic.
+
+Whenever you make a weapon attack within your Cast Range, you may spend 2 Spell Points to imbue your attack with your elemental magic, causing your attack to deal an additional 1d6 damage of the type of your attuned element.
+
+You gain the following Bond Affinity option:
+
+-   Elemental Attack: 2 Spell Points. This spell cast stores an elemental stack in your weapon. Your next successful attack with your weapon removes all elemental stacks to deal an additional 1d6 damage per stack, with the damage type of your attuned element.
 
 ### Elemental Recharge
 
 At level 3, you can thrive off your element.
 
 When you deal damage of your attuned element to a creature, you regain Spell Points equal to your Proficiency Bonus.
+
+### Elemental Refuge
+
+At level 3, you recharge when in the presence of your element.
+
+Once per turn, when you are exposed to your element or touch your element, you regain Spell Points equal to your Proficiency Bonus.
 
 ### Element Style
 
@@ -1063,11 +1079,9 @@ At level 15, you can reduce immunity to normal, resistance to vulnerability, and
 
 ### Elemental Trick
 
-At level 7, you become familiar with certain spells.
+At level 7, you learn how to warp spells into your element. You gain the following bond affinity option:
 
-Spells that deal damage of your attuned element cost 5 Spell Points less to cast. Bending Tricks that deal damage of your attuned element are considered an Elemental Bending Trick. Elemental Bending Tricks cost an additional 5 Spell Points less to cast.
-
-Additionally, you may end one of your active Elemental Bending Tricks as a free action.
+-   Elemental: 10 Spell Points. This spell deals damage of the type of your attuned element instead of its original type, if it deals damage.
 
 ### Combo Moves
 
@@ -1077,11 +1091,7 @@ At level 11, you become experienced in how to combine your spells. When one of y
 
 At level 15, you master your element.
 
-When dealing damage to a creature with immunity to your element, you can instead damage them as if they only had resistance. Likewise, you can reduce resistance to normal, and normal to vulnerability.
-
-You can add any number of bond affinity options to a spell that deals damage of your attuned element.
-
-You can add any number of additional bond affinity options to a spell that you applied the Elemental bond affinity option to.
+You can add any number of bond affinity options to an Elemental Spell.
 
 ## Card Bender
 
