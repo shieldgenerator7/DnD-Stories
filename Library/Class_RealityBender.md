@@ -1351,40 +1351,62 @@ You sing and dance to cast your spells. Basically, a bard-like subclass.
 
 ### Performance
 
-At level 3, you can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part. You learn the following Bond Affinity option:
+At level 3, you can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part.
 
--   Performance: 5 Spell Points. Cast this spell centered on yourself, and target all creatures you can see within range.
+As an action, you may start a performance using your performance style. The performance is centered on yourself, and it has a range up to your Cast Range. You may change the range at the start of each of your turns.
 
-The range of a Performance spell is any range you choose up to your Cast Range. If the Performance spell has an area of effect, the radius is equal to the range you chose for it. A Performance spell is bound by your performance. It is not bound by your Spell Duration; it lasts as long as your performance does, and always ends automatically when your performance ends. You can end the performance whenever you like as a free action, and it ends automatically when you become unable to perform.
+You may end your performance as a free action, and it ends automatically when you become unable to perform. You become unable to perform when you go to sleep, fall unconscious, die, or something else happens that prevents you from performing (ex: Your performance style is singing and you enter a zone of Silence). Your performance requires concentration, following the normal rules of spell concentration.
 
-The creatures must also be able to see/hear you, depending on which performance style you chose. Creatures that cannot be charmed cannot be targeted or effected by a performance spell.
+You learn the following Bond Affinity option, which you can only use during a performance:
 
-Your Performance spell requires concentration, even if the spell doesn’t specifically state it. A Performance spell is not effected by the following Bond Affinity options: Animated, Enduring, Reaching, Remote, Lasting, Ashes.
+-   Performance: 5 Spell Points. Cast this spell centered on yourself, and target all creatures within range, if this spell has a duration longer than Instantaneous.
 
-### Big Show
+Whenever you start a performance, you can cast a Performance spell as a bonus action.
 
-At level 5, you can weave your performance into another one. Whenever you end your Performance spell as a free action, you can cast a new Performance spell with the same Spell Point cost or lower as the old spell, without paying the Spell Point cost of the new spell.
+A Performance spell is bound by your performance:
 
-The new spell is allowed to be the same spell as the old spell.
+-   If it has an area of effect, the radius is equal to the performance’s range.
+-   It is not bound by your Spell Duration; it lasts for the entire duration of your performance.
+-   It ends automatically when your performance ends.
+-   It uses the concentration of your performance, even if it doesn’t already require concentration.
+-   It is not effected by the following Bond Affinity options: Animated, Enduring, Reaching, Remote, Lasting, Ashes.
+
+Creatures within range that can perceive the performance can be audience members. A creature is an audience member to a Performance spell if it meets all these criteria:
+
+-   It can see/hear you, depending on which performance style you chose
+-   It is able to be charmed
+-   It is within range
+
+Only audience members are targeted and effected by a Performance spell. A Performance spell targets all audience members, even if the spell usually only targets one creature or a set amount of creatures. A Performance spell that allows you to upcast to target more creatures (ex: Bless) does not need to be upcast to target more creatures.
+
+Audience members that stop meeting all the criteria stop being audience members (ex: moving out of range, looking away), and are no longer targeted by the spell. Non-audience members that start meeting all the criteria (ex: moving into range, looking at you) become audience members and are now targeted by the spell.
+
+At the start of each your turns, you can choose whether or not you count as an audience member for your performance.
+
+### Next Act
+
+At level 5, you can weave your performance into another one. As a bonus action, you can end your current Performance spell, and cast a new Performance spell with the same Spell Point cost or lower as the old spell, without paying the Spell Point cost of the new spell.
+
+The new spell is allowed to be the same spell as the old spell. You may choose the same or different Bond Affinity options for the new spell.
 
 ### Shout Out
 
-At level 7, you can point out a creature in particular. Whenever you use your Big Show feature, you may point out a particular creature you can see within range to make your new Performance spell target only that creature. If you do, you may choose any combination of the following:
+At level 7, you can point out a creature in particular. You may use your action to point out a particular audience member you can see to make your Performance spell more effective on them. If you do, you may choose any combination of the following:
 
 -   You have that creature get double the effects of the spell
 -   You double your spellcasting ability modifier for the spell
 
 ### Applause
 
-At level 7, you learn how to feed off of applause. Whenever a creature uses their action to cheer you on, you gain 1 Spell Point. The creature must be within range and you must be able to see/hear them.
+At level 7, you learn how to feed off of applause. An audience member may use their action to cheer you on, gaining you 1 Spell Point. You must be able to perceive the audience member.
 
 ### The Show Must Go On
 
-At level 11, you can endure through encounters despite hecklers. You gain advantage on Constitution checks made to keep concentration on a spell. Additionally, you may use your reaction to use your Big Show feature.
+At level 11, you can endure through encounters despite hecklers. You gain advantage on Constitution checks made to keep concentration on a performance. Additionally, you may use your reaction to use your Next Act feature.
 
-### Double Feature
+### Multi-Talented
 
-At level 15, you become multitalented. You can now:
+At level 15, you can show off multiple things at once. You can now:
 
 -   Concentrate on 2 Performance spells at a time
 -   Cast a Performance spell as a bonus action
