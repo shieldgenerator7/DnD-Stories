@@ -1024,27 +1024,21 @@ Elemental Spells cost 1 Spell Point less to cast. Elemental Bending Tricks cost 
 
 You may end one of your active Elemental Bending Tricks as a free action.
 
+You may learn and cast spells outside your bonded schools if they deal damage of your attuned element.
+
 ### Elemental Attacks
 
 At level 3, you can imbue your attacks with your elemental magic.
 
+You gain proficiency in one martial weapon of your choice, and proficiency in light armor.
+
 Whenever you make a weapon attack within your Cast Range, you may spend 2 Spell Points to imbue your attack with your elemental magic, causing your attack to deal an additional 1d6 damage of the type of your attuned element.
-
-You gain the following Bond Affinity option:
-
--   Elemental Attack: 2 Spell Points. This spell cast stores an elemental stack in your weapon. Your next successful attack with your weapon removes all elemental stacks to deal an additional 1d6 damage per stack, with the damage type of your attuned element.
 
 ### Elemental Recharge
 
 At level 3, you can thrive off your element.
 
 When you deal damage of your attuned element to a creature, you regain Spell Points equal to your Proficiency Bonus.
-
-### Elemental Refuge
-
-At level 3, you recharge when in the presence of your element.
-
-Once per turn, when you are exposed to your element or touch your element, you regain Spell Points equal to your Proficiency Bonus.
 
 ### Element Style
 
