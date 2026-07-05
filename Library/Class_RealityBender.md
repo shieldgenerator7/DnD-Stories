@@ -933,13 +933,13 @@ At level 3, your mind wanders the plane, conjuring a version of you. Whenever yo
 
 You can see, hear, and sense from your dream self, and you have full control over your dream self. Your dream self is tangible and can interact with objects. You can cast spells from your dream self, using your dream self’s position for the Cast Range and Tether Range.
 
-Your dream self has all your stats and takes damage as normal. If your dream self dies or drops to 0 hit points, it disappears and you wake up. Then you can’t go back to sleep for at least 10 minutes.
+Your dream self has all your stats and takes damage as normal. Your dream self is immune to the sleeping condition and falling unconscious. If your dream self dies, drops to 0 hit points, or moved to another plane, it disappears and you wake up. Then you can’t go back to sleep for at least 10 minutes.
 
 You have multiple different dreams at night, as dreams come and go. Dreams always start at a dream target. Dreams can end in multiple different ways:
 
--   If your dream self becomes further than your Tether Range from your dream target
--   When your dream self is near your dream target for longer than your Spell Duration
--   Your dream self falls to 0 hit points
+-   Your dream self becomes further than your Tether Range from your dream target
+-   The dream’s dream duration expires. The dream duration is equal to your Spell Duration
+-   Your dream self disappears
 
 When your current dream ends, your dream self disappears and you are no longer dreaming.
 
@@ -965,7 +965,7 @@ When your dream self takes damage, reduce your Dream Value by the damage amount 
 
 You gain the following Bond Affinity option:
 
--   Dream Bend: 5 Spell Points. This spell cast refreshes the duration of your current dream and increases your Dream Value by 2.
+-   Dream Bend: 5 Spell Points. This spell cast refreshes the dream duration of your current dream and increases your Dream Value by 2.
 
 ### Stasis
 
@@ -977,7 +977,7 @@ While you have temporary hit points, taking damage doesn’t wake you up.
 
 At level 5, your dream self can teleport. As a bonus action, you can teleport your dream self to a space within Cast Range of your dream target.
 
-Whenever your dream self would fall or otherwise be forced to move, you may make an ability check in your spellcasting ability instead. On a success, your dream self doesn’t fall or get moved forcefully, becoming ethereal if necessary to avoid sharing a space with another creature or object. It becomes solid again when it is no longer sharing a space with that creature or object. On a failure, your dream self falls or gets moved forcefully like normal.
+Whenever your dream self would fall or otherwise be forced to move, you may make an ability check in your spellcasting ability instead. On a success, your dream self doesn’t fall or get moved forcefully, becoming intangible if necessary to avoid sharing a space with another creature or object. It becomes solid again when it is no longer sharing a space with that creature or object. On a failure, your dream self falls or gets moved forcefully like normal.
 
 ### Dream Lucidity
 
