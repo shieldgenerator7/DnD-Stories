@@ -1412,13 +1412,9 @@ At level 7, you learn how to feed off of applause. An audience member may use th
 
 At level 11, you can endure through encounters despite hecklers. You gain advantage on Constitution checks made to keep concentration on a performance. Additionally, you may use your reaction to use your Next Act feature.
 
-### Multi-Talented
+### Finale
 
-At level 15, you can show off multiple things at once. You can now:
-
--   Concentrate on 2 Performance spells at a time
--   Cast a Performance spell as a bonus action
--   Cast 2 leveled spells in the same turn
+At level 15, you can end your show with a bang. Whenever your performance ends due to running out of Spell Points, you may do one last burst of magic. For each creature that was an audience member and is currently within your Cast Range, repeat one spell effect on them that you had cast during your performance.
 
 ## Safe Guarder
 
