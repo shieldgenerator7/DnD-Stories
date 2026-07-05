@@ -626,36 +626,42 @@ Additionally, when you cast a spell as part of your Shape Self feature, that spe
 
 Fortune favors you and bends to your will.
 
-### Luck Bend
+### Lucky
 
 At level 3, your spells are lucky. You gain the following Bond Affinity option:
 
--   Lucky: 5 Spell Points. Reroll all dice rolls for this spell cast, and then choose which set of rolls to use.
+-   Lucky: 5 Spell Points. Roll two sets of dice for this spell cast, and then choose which set of rolls to use.
 
-### Lucky
+For example, Eldritch Blast makes you roll a d20 for an attack roll and 1d10 for the damage. This Bond Affinity option would have you roll two sets of 1d20 + 1d10, and then you choose which set to use. If you target multiple creatures with this cantrip, youd roll more d20s in each set of dice.
 
-At level 5, luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 20 Spell Points to force it to be rerolled, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 20 Spell Points, cumulative. You may use this feature on the same roll a number of times up to your level in this class.
+### Luck Bend
+
+At level 5, you can bend luck. Whenever a d20 is rolled within your Cast Range, you may roll any amount of additional d20s, spending 20 Spell Points for each one. Then, you choose which d20 result among the ones you rolled to replace the original d20 result. This does not use your reaction, but you may only use this feature once per round.
 
 ### Happy Go Lucky
 
-At level 7, natural luck comes to your aid. You regain 5 spell points whenever:
+At level 7, you can sustain yourself on the natural luck around you. You regain 5 spell points whenever:
 
--   You or an ally rolls a 20 on a d20 or crits on an attack roll that hits
--   An enemy creature rolls a 1 on a d20 or fumbles on an attack roll that misses
+-   You or an ally rolls a 20 on a d20
+-   You or an ally crits on an attack roll that hits
+-   An enemy creature rolls a 1 on a d20
+-   An enemy creature fumbles on an attack roll that misses
 
 ### Good Fortune
 
-At level 11, your spells seem to be more effective. Whenever one of your Bending Tricks would have you roll dice, you may roll an additional die of that type for each time you chose that spell as a Bending Trick.
+At level 11, your most used spells are more powerful. Whenever one of your Bending Tricks would have you roll a non-d20, you may roll an additional die of that type for each time you chose that spell as a Bending Trick.
+
+For example, if you chose Color Spray as a Bending Trick 3 times, which normally can effect 6d10 worth of creature hit points, you would roll an extra 3d10, making it a total of 9d10 worth of creature hit points.
 
 ### Plot Armor
 
-At level 15, no one can hurt you. Whenever you or another creature must make a saving throw, you may spend any number of Spell Points to decrease the DC by 1 per 10 Spell Points spent.
+At level 15, your luck protects you from harm. Whenever you or another creature must make a saving throw, you may spend any number of Spell Points to decrease the DC by 1 per 10 Spell Points spent. This does not use your reaction.
 
-Additionally, whenever you are attacked, you may spend any number of Spell Points to increase your AC by the number of Spell Points spent divided by 5, rounded up, until the start of your next turn.
+Additionally, whenever you are attacked or targeted by a spell that targets your AC, you may spend any number of Spell Points to increase your AC by the number of Spell Points spent divided by 10, rounded up, until the start of your next turn. This does not use your reaction.
 
 ### Dictation
 
-At level 20, you have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 100 spell points to set any number of the rolled dice to any value possible for that die.
+At level 20, you have mastered fortune. Whenever one or more dice are rolled, but before the outcome is determined, you may spend 100 spell points to set any number of the rolled dice to any value possible for that die. This does not use your reaction.
 
 ## Item Infuser
 
