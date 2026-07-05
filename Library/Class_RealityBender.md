@@ -1145,7 +1145,7 @@ At level 3, you can react to luck not going your way. You gain the following Bon
 
 -   Blue Card: 1 Spell Point. This spell deals 2d10 damage instead of its usual effect.
 -   Red Card: 1 Spell Point. This spell deals 2d6 damage to the target and all creatures within 5ft of it instead of the spell’s usual effect.
--   Gold Card: 1 Spell Point. This spell stuns the target for 1 round, if the target fails any saving throws for this spell.
+-   Gold Card: 1 Spell Point. This spell forces the target to make an Intelligence, Wisdom, or Charisma saving throw (their choice) instead of the spell's usual effect. On a failure, the target is stunned for 1 round.
 
 ### The Fling
 
