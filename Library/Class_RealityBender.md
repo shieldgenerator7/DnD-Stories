@@ -417,6 +417,8 @@ You learn a Bond Disdain option at level 3, and may learn a new one at levels 5,
 
 Either the caster or the spell must be within your Cast Range for you to use this feature.
 
+This feature doesn’t use your reaction.
+
 ### Peace of Mind
 
 At level 3, you enjoy the feeling of not being around magic. While there is no magical effect of any spell from your disdained schools within your Tether Range, you regain 1 Spell Point per minute, increased to 1 Spell Point per round at level 11.
