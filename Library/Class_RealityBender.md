@@ -789,7 +789,7 @@ At level 3, you can conjure spells into a weapon. You gain the following Bond Af
 
 A Weapon-Formed spell counts as a Formed spell and follows the same rules as outlined in your Spell Conjuration feature, but with the special abilities outlined below.
 
-When you conjure a Weapon-Formed spell, it comes formed as the chosen weapon that you remembered, with the same damage roll and properties, but with force damage as the damage type. Its attack modifier ability is your spellcasting ability, and when it hits, it does extra damage equal to the spell’s casted level and procs your Formed Spell Proc feature on the target. If it is ranged, it magically conjures its own ammo, and its max range is your Tether Range. If it is thrown, its max range is your Tether Range.
+When you conjure a Weapon-Formed spell, it comes formed as the chosen weapon that you remembered, with the same damage roll and properties, but with force damage as the damage type. Its attack modifier ability is your spellcasting ability, and when it hits, it does extra damage equal to the spell’s casted level and procs your Formed Spell Proc feature on the target. If it is ranged, its short range is your Cast Range, its long range is your Tether range, and it magically conjures its own ammo. If it is thrown, its max range is your Tether Range.
 
 You have proficiency with your Weapon-Formed spells. Other creatures may also have proficiency with them, if it is in the form of a weapon that they have proficiency with.
 
@@ -846,26 +846,6 @@ At level 11, you work around some limitations of your conjured spells. Formed sp
 ### Forced Armor
 
 At level 15, you can force armor onto unwilling creatures. You may attempt to use your Armor Conjuration feature on an unwilling creature, spending Spell Points as normal. That creature makes a Wisdom save against your spell save DC. On a success, your conjuration fails, but you still spend the Spell Points. On a failure, your conjuration succeeds.
-
-### Violent Dismissal
-
-At level 15, you figure out how to exploit the volatile nature of your Formed spells. As an action, you can choose one of your Formed spells and make it explode. All creatures in a radius equal to your Cast Range and with line of sight of the Formed spell must make a Dexterity saving throw. On a failed save, they take damage equal to the Formed spell’s casted level and the Formed spell procs your Formed Spell Proc feature on them. On a success, they take half as much damage and suffer no ill effects.
-
-The Formed spell is destroyed immediately when it explodes.
-
-You may target a Formed spell with this feature even if it is outside your Cast Range or Tether Range.
-
-### Rigged Conjuration
-
-At level 15, you can get one last use out of your Formed spells. Whenever one or more of your Formed spells would simply dissipate at the end of your turn, you may instead use your reaction to activate your Violent Dismissal feature on any number of your Formed spells about to dissipate.
-
-You may also activate Violent Dismissal when you dispel one of your Formed spells as an action.
-
-### Last Word
-
-At level 15, you can react to the death around you.
-
-Whenever you or another creature you can see dies, you may use your reaction to activate your Violent Dismissal feature on any number of your Formed spells.
 
 ## Far Watcher
 
