@@ -2,33 +2,33 @@
 
 D&D Class
 
-version 0.1.1
+version 0.1.002
 
 # Class Table
 
-|           |                 |                                     |                    |                           |                  | **Spell Casting** |                  |                    |
-|-----------|-----------------|-------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
-| **Level** | **Prof. Bonus** | **Features**                        | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | +2              | Spellcasting, Reality Observer      | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
-| 2nd       | +2              | Bending Trick (BT), Bond Affinity   | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
-| 3rd       | +2              | Bending Style, BT                   | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
-| 4th       | +2              | Ability Score Improvement (ASI), BT | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
-| 5th       | +3              | Bending Style Feature (BSF), BT     | 2                  | 2                         | 85               | 45ft              | 135ft            | 2 hr               |
-| 6th       | +3              | BT                                  | 2                  | 2                         | 90               | 60ft              | 180ft            | 4 hr               |
-| 7th       | +3              | BSF, BT                             | 2                  | 2                         | 100              | 75ft              | 225ft            | 7 hr               |
-| 8th       | +3              | Reality Studier, ASI, BT            | 2                  | 3                         | 125              | 100ft             | 400ft            | 12 hr              |
-| 9th       | +4              | BT                                  | 2                  | 3                         | 150              | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | Spell Warp, BT                      | 3                  | 3                         | 200              | 150ft             | 600ft            | 3 d                |
-| 11th      | +4              | BSF, BT                             | 3                  | 3                         | 250              | 175ft             | 700ft            | 7 d                |
-| 12th      | +4              | ASI, BT                             | 3                  | 4                         | 300              | 200ft             | 1000ft           | 14 d               |
-| 13th      | +5              | Recasting, BT                       | 3                  | 4                         | 350              | 250ft             | 2500ft           | 30 d               |
-| 14th      | +5              | BT                                  | 3                  | 4                         | 400              | 300ft             | 1mi              | 180 d              |
-| 15th      | +5              | BSF, BT                             | 3                  | 4                         | 450              | 400ft             | 5mi              | 1 yr               |
-| 16th      | +5              | ASI, BT                             | 3                  | 5                         | 500              | 500ft             | 15mi             | 5 yr               |
-| 17th      | +6              | BT                                  | 4                  | 5                         | 550              | 750ft             | 100mi            | 10 yr              |
-| 18th      | +6              | BT                                  | 4                  | 5                         | 575              | 1000ft            | 1000mi           | 50 yr              |
-| 19th      | +6              | ASI, BT                             | 4                  | 5                         | 650              | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | +6              | Reality Command, BT                 | 4                  | 5                         | 700              | 1mi               | 1000000mi        | 1000 yr            |
+|           |                 |                                                    |                    |                           |                  | **Spell Casting** |                  |                    |
+|-----------|-----------------|----------------------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
+| **Level** | **Prof. Bonus** | **Features**                                       | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
+| 1st       | +2              | Spellcasting, Reality Observer, Bending Trick (BT) | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
+| 2nd       | +2              | Bond Affinity, BT                                  | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
+| 3rd       | +2              | Bending Style, BT                                  | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
+| 4th       | +2              | Ability Score Improvement (ASI), BT                | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
+| 5th       | +3              | Bending Style Feature (BSF), BT                    | 2                  | 2                         | 85               | 45ft              | 135ft            | 2 hr               |
+| 6th       | +3              | BT                                                 | 2                  | 2                         | 90               | 60ft              | 180ft            | 4 hr               |
+| 7th       | +3              | BSF, BT                                            | 2                  | 2                         | 100              | 75ft              | 225ft            | 7 hr               |
+| 8th       | +3              | Reality Studier, ASI, BT                           | 2                  | 3                         | 125              | 100ft             | 400ft            | 12 hr              |
+| 9th       | +4              | BT                                                 | 2                  | 3                         | 150              | 125ft             | 500ft            | 1 d                |
+| 10th      | +4              | Spell Warp, BT                                     | 3                  | 3                         | 200              | 150ft             | 600ft            | 3 d                |
+| 11th      | +4              | BSF, BT                                            | 3                  | 3                         | 250              | 175ft             | 700ft            | 7 d                |
+| 12th      | +4              | ASI, BT                                            | 3                  | 4                         | 300              | 200ft             | 1000ft           | 14 d               |
+| 13th      | +5              | Recasting, BT                                      | 3                  | 4                         | 350              | 250ft             | 2500ft           | 30 d               |
+| 14th      | +5              | BT                                                 | 3                  | 4                         | 400              | 300ft             | 1mi              | 180 d              |
+| 15th      | +5              | BSF, BT                                            | 3                  | 4                         | 450              | 400ft             | 5mi              | 1 yr               |
+| 16th      | +5              | ASI, BT                                            | 3                  | 5                         | 500              | 500ft             | 15mi             | 5 yr               |
+| 17th      | +6              | BT                                                 | 4                  | 5                         | 550              | 750ft             | 100mi            | 10 yr              |
+| 18th      | +6              | BT                                                 | 4                  | 5                         | 575              | 1000ft            | 1000mi           | 50 yr              |
+| 19th      | +6              | ASI, BT                                            | 4                  | 5                         | 650              | 2000ft            | 10000mi          | 100 yr             |
+| 20th      | +6              | Reality Command, BT                                | 4                  | 5                         | 700              | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
@@ -104,23 +104,23 @@ Your spell effects are temporary, even if the spell explicitly states that it is
 
 ## Casting Cantrips
 
-Cantrips cost 1 spell point to cast. You can apply Bond Affinity options to cantrips just like leveled spells.
+Cantrips cost 1 spell point to cast.
 
-Instead of having greater effects when you reach a higher level in this class, cantrips can be upcast by spending more spell points. Cantrips can be upcast past their max listed level.
+Cantrips are bound by your Cast Range, Tether Range, and Spell Duration, as outlined in the Casting Spells section.
 
-For example, you can cast Ray of Frost to deal 1d8 damage for 1 spell point. But if you upcast by spending 5 spell points instead, you get the 5th level version, which deals 2d8. And if you spend 10 spell points, you get the 11th level version, which does 3d8. And 17 spells points for the 17th level version, 4d8. Even though 17th level is the last listed level, you can upcast further than that, increasing the damage by 1d8 for each upcasted level.
+Instead of having greater effects when you reach a higher level in this class, cantrips can be upcast by spending more spell points. The first upcast is treated as 1st level (usually level 5), and the second upcast is treated as 2nd level (usually level 11). Cantrips can be upcast past their max listed level.
 
-Cantrips are also bound by your Cast Range, Tether Range, and Spell Duration, as outlined in the Casting Spells section.
+For example, you can cast Ray of Frost to deal 1d8 damage for 1 spell point. But if you upcast by spending 5 spell points instead (1st level), you get the 5th level version, which deals 2d8. And if you spend 10 spell points (2nd level), you get the 11th level version, which does 3d8. And 17 spells points for the 17th level version (3rd level), 4d8. Even though 17th level is the last listed level, you can upcast further than that, increasing the damage by 1d8 for each upcasted level.
 
 ## Upcasting Spells
 
-You can upcast a spell by spending an additional spell point per level. There is no limit to how many times you may upcast a spell. However, upcasting a spell past your safe casting level may fail, as outlined in the Casting Higher Level Spells section below.
+You can upcast a spell by spending additional Spell Points, using an amount of Spell Points appropriate for the level you want to cast at, as shown in the Spell Cost table. You may upcast a spell up to 9th level. You can even do this when you are at a low level. However, you have a max safe casting level, and upcasting past it has a chance of failure, as outlined in the Casting Higher Level Spells section below.
 
 Cantrips can be upcast past their max listed level.
 
 ## Casting Higher Level Spells
 
-As long as you have the spell points to cast a leveled spell, you can cast it, no matter what level it is, or what level you are. However, if you are not high enough level, the spell may fail.
+As long as you have the spell points to cast a leveled spell, you can cast it, no matter what level it is (max 9th level), or what level you are. However, if you are not high enough level, the spell may fail.
 
 You can safely cast any spell that is half your Reality Bender level (rounded down) + 1. For example, at level 1, you can safely cast level 1 spells; at level 3, you can safely cast level 2 spells; and at level 4, you can safely cast level 3 spells; etc.
 
@@ -128,11 +128,11 @@ If you can’t safely cast a spell because it’s too high level, you can danger
 
 Dangerously Cast DC = 10 + (spell’s casted level \* 2) – your max safe casting level
 
-You may spend any number of spell points to reduce the DC by 1 for every 20 spell points spent this way. You must spend these spell points before you make the roll.
+You may reduce the Dangerously Cast DC for a spell cast. To do so, spend 20 spell points to reduce the DC by 1. You may do this any number of times for the spell cast, but you must do so before you make the roll.
 
 ## Dispelling Spells
 
-As an action, you may dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent.
+As an action, you may dismiss any ongoing spell that you have cast, even if the spell explicitly stated that it was permanent. The spell must be in your Cast Range for you to do this.
 
 ## Spellcasting Ability
 
@@ -142,13 +142,13 @@ Choose an ability among Strength, Dexterity, Constitution, Intelligence, Wisdom,
 
 **Spell attack modifier** = your proficiency bonus + your chosen spellcasting ability modifier
 
-## Starting Spells
+## Starting Spells (Optional)
 
 When you’re starting a new campaign, you may have already seen a few spells in your bonded schools. Roll Xd10, where X is your Reality Bender level. The result is the total level of the spells you can start the game with. Refer to the “Learning New Spells” section for more information.
 
 You also start with some cantrips. To find out how many cantrips you start with, roll Xd4, where X is your Reality Bender level. For each 3 you roll this way, you gain 1 cantrip. For each 4 you roll this way, you gain 2 cantrips. You start with a minimum of 2 cantrips.
 
-## Learning New Spells
+## Learning New Spells (Optional)
 
 When you level up, roll 1d10. The result is the total levels of the new spells you can learn.
 
@@ -158,7 +158,7 @@ Additionally, you might learn some cantrips. Roll 1d4 -2. If the result is great
 
 You can’t unlearn a spell that you previously learned by using this feature, nor can you use this feature to replace a spell you learned with a new one.
 
-*Using this feature, it’s possible to have learned a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this feature with your DM and approve any spells you gain at the start of the campaign with this feature. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the level total, or put a limit on how many spells you can learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.*
+*NOTE: it’s possible to learn a 9th level spell at level 1, not that you necessarily have the means to cast it. For this reason, it’s imperative that you discuss this with your DM and approve any spells you gain at the start of the campaign. For example, your DM may apply a level restriction, such as only allowing spells of 3rd level or lower. Or they might raise or lower the level total, or put a limit on how many spells you can learn in total. This feature, as written, imposes no such limitations by default. Any and all limitations are up to your DM to decide.*
 
 You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
 
@@ -168,7 +168,7 @@ Your spells are only limited by your imagination. At level 1, whenever you see a
 
 # Bending Trick
 
-At level 2, you know a spell so well you can cast it with ease. Choose a spell in your bonded school you know and can safely cast. It becomes a Bending Trick for you.
+At level 1, you know a spell so well you can cast it with ease. Choose a spell in your bonded school you know and can safely cast. It becomes a Bending Trick for you.
 
 When you cast a Bending Trick, you can apply a Bond Affinity option to it and the Bending Trick costs 5 Spell Points less to cast, minimum 0.
 
@@ -176,11 +176,13 @@ Whenever you level up, you can upgrade an additional spell into a Bending Trick,
 
 You may upgrade an existing Bending Trick again instead of choosing a new one, using the same rules. The benefits of a Bending Trick stack. For example, if you choose to upgrade the same spell 3 times, you can apply 3 Bond Affinity options to it, and it costs 15 Spell Points less to cast.
 
+You may choose a cantrip as a Bending Trick.
+
 # Bond Affinity
 
-At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a Bending Trick spell, you may spend extra spell points to choose a Bond Affinity option that you learned to apply to it:
+At level 2, you gain affinity for spells in your bonded schools, manipulating them to your will. When you cast a Bending Trick spell, you may spend extra spell points to choose a Bond Affinity option that you have learned to apply to it. Choose one at level 2:
 
--   Powerful: 10 Spell Points. Roll 2 extra dice whenever you would roll dice for the effects of this spell cast.
+-   Powerful: 5 Spell Points. The first time you would roll a non-d20 die for the effects of this spell cast, roll an additional die of the same type.
 -   Reuse: 5 Spell Points. The next time you cast this spell, it costs 15 Spell Points less to cast, minimum 0.
 -   Quick: 10 Spell Points. Cast this spell as a bonus action, if the spell’s cast time is 1 action.
 -   Reactive: 20 Spell Points. Cast this spell as a reaction, if the spell’s cast time is 1 action or 1 bonus action.
@@ -195,6 +197,8 @@ At level 2, you gain affinity for spells in your bonded schools, manipulating th
 -   Ashes: 1 Spell Point. When this spell would automatically disappear, it instead lingers for 1 minute, then disappears.
 
 You learn one Bond Affinity option at level 2. You gain Bond Affinity options as you level up, as shown in the class table. You may not unlearn a Bond Affinity option, and when you may learn a new Bond Affinity option, you may not replace a Bond Affinity option you already learned.
+
+You can apply Bond Affinity options to cantrips just like leveled spells.
 
 Bending Styles may also grant you extra Bond Affinity options. These do not count against the total Bond Affinity options that you know as shown in the class table.
 
@@ -237,7 +241,7 @@ You may spend 1 minute studying an ongoing spell effect to make an ability check
 
 # Spell Warp
 
-At level 10, you can change ongoing spells. When you use your action to dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the spell point cost of the new spell must be equal to or less than the spell point cost of the old spell.
+At level 10, you can change ongoing spells. When you manually dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the spell point cost of the new spell must be equal to or less than the spell point cost of the old spell.
 
 # Recasting
 
@@ -512,7 +516,7 @@ You may use your Reality Observer and Affinity Assist features on spells that a 
 
 At level 11, your power grows the more your name is said.
 
-At the start of a vessel’s turn, they may say your name, granting you 1 spell point.
+At the start of a vessel’s turn, they may think of you and say your name, granting you 1 spell point.
 
 Additionally, your maximum Spell Points is increased by the number of vessels you have.
 
@@ -1313,19 +1317,23 @@ At level 5, you learn more ways to manipulate your spells. You learn two additio
 
 You learn the following Bond Affinity option:
 
--   Errata’d: 30 Spell Points. You spend any amount of additional Spell Points to cross out 1 word in the spell’s description per 15 additional Spell Point spent this way.
+-   Errata’d: 30 Spell Points. You spend any amount of additional Spell Points to cross out 1 word in the spell’s description per 15 additional Spell Points spent this way.
 
-This is subject to DM’s approval, of course. Recommended: if the new sentence(s) isn’t grammatically correct, the spell fails.
-
-### Mana Overflow
-
-At level 7, you can hold more Spell Points than your maximum.
+*NOTE: This is subject to DM’s approval, of course. Recommended: if the new sentence(s) isn’t grammatically correct, the spell fails.*
 
 ### Mind Palace
 
-At level 11, you can will your power back to you. As an action, you can focus to regain 1 Spell Point.
+At level 7, you can will your power back to you. As an action, you can focus to regain 1 Spell Point.
 
 You can focus as long as you want. Focusing for longer regains you additional Spell Points. Focusing for 1 minute without interruption restores 11 Spell Points. Focusing for 1 hour without interruption restores 70 Spell Points, up to your maximum.
+
+You may focus during a short rest and long rest as long as you are conscious.
+
+### Mana Overflow
+
+At level 11, you can hold more Spell Points than your maximum. This applies to your Mind Palace feature.
+
+All extra Spell Points go away when you go to sleep, fall unconscious, or die.
 
 ### Spell Write
 
@@ -1394,27 +1402,31 @@ At level 3, you can keep yourself from harming others. You learn the following B
 
 ### Damage Mitigation
 
-At level 5, you can keep others from doing harm. Whenever a creature casts a spell, you may use your reaction to do one of the following:
+At level 5, you can keep others from doing harm. Whenever a creature casts a spell, you may use your reaction and spend Spell Points to do one of the following (X is your Reality Bender level divided by 2, rounded down):
 
--   Reduce that spell’s damage to 0
--   Change all damage in that spell to giving temporary hp instead
--   Change all damage in that spell to healing instead
+-   Save: 5 Spell Points. Reduce the spell’s save DC by X.
+-   Block: 10 Spell Points. Reduce the spell’s damage by Xd10. Damage cannot be reduced to below 0.
+-   Shield: 20 Spell Points. The spell grants Xd8 temporary hp first, then does its effect.
+-   Heal: 25 Spell Points. The spell heals for Xd6 health first, then does its effect.
+-   Cast (level 11): 30 Spell Points. Cast a Safe spell.
 
-Either the creature or the spell must be in your Cast Range.
+Either the creature or the spell must be within your Cast Range.
 
 ### Block Slinger
 
 At level 7, you can prevent more harm per turn. If you use your reaction on your Damage Mitigation feature, you have 3 reactions, each of which must be spent on a different option of your Damage Mitigation feature.
 
+At level 11, this feature grants you 4 reactions.
+
 ### Fast Reaction Speed
 
 At level 11, you can swiftly respond to threats. Your Block Singer feature now has 4 reactions and your Damage Mitigation feature gains the following option:
 
--   Cast a Safe spell
+-   Cast
 
 ### Spell Snare
 
-At level 15, you can take away toys from those who don’t play nicely with them. Whenever you use your Damage Mitigation feature on a spell, and that spell deals no damage, that spell’s caster cannot cast that spell again until they finish a long rest.
+At level 15, you can take away toys from those who don’t play nicely with them. Whenever you use your Damage Mitigation feature on a spell, and that spell deals no damage, that spell’s caster must make a saving throw in your spellcasting ability modifier, with a DC equal to your spell save DC. On a failure, they cannot cast that spell again until they finish a long rest.
 
 ## Hunter
 
@@ -1422,11 +1434,19 @@ You hunt your targets by bending reality around them, leaving them no choice but
 
 ### Mark
 
-At level 3, you can mark a creature as your quarry. Take a hair, piece of clothing, or other possession that belongs to your quarry. After 1 minute of focus, you mark that creature as your quarry. You may cast spells on your quarry, or centered on your quarry, if they are within your Tether Range, and you do not need to see them to cast spells on them. You have advantage on initiative checks in combats with your quarry.
+At level 3, you can mark a creature as your quarry. Take a hair, piece of clothing, or other possession that belongs to your quarry. After 1 minute of focus, you mark that creature as your quarry.
+
+You can see through illusions that hide your quarry, you can see your quarry even if they are invisible, and you can see them in darkness as if they were lit by dim light, even in magical darkness. You have advantage on initiative checks in combats with your quarry.
+
+Your quarry remains your quarry until you lose the possession or you use this feature to mark a new quarry.
 
 You learn the following Bond Affinity option:
 
--   Seeking: 10 Spell Points. This spell only targets your quarry, and if it has an area of effect, it only effects your quarry.
+-   Seeking: 10 Spell Points. This spell’s Cast Range is increased by your Tether Range. If your quarry is not the original target of this spell, this spell jumps targets to your quarry, if your quarry is within your Cast Range of the original target.
+
+A Seeking spell may only effect your quarry, even if it targets other creatures, and even if it has an area of effect.
+
+If a Seeking spell has an area of effect, and your quarry is not in the original area of effect, but is within your Cast Range of the center, then the spell jumps to center your quarry in the area of effect.
 
 Seeking spells don’t give away your position, break invisibility, or give any indication that you are the one casting the spell.
 
@@ -1450,8 +1470,8 @@ At level 7, you can sense your quarry. Make a spellcasting ability check, and yo
 
 At level 11, you can control the lethality of your spells. You learn the following Bond Affinity options:
 
--   Dead: 10 Spell Points. Creatures effected by this spell are also effected by your execute threshold.
--   Alive: 10 Spell Points. Creatures dropped to 0 hp or less by this spell are instantly stabilized but not woken up.
+-   Dead: 10 Spell Points. Each creature that this spell damages drops to 0 hp instantly if their remaining health is equal to or less than your execute threshold.
+-   Alive: 10 Spell Points. Each creature that this spell drops to 0 hp or less are instantly stabilized but not woken up.
 
 ### Hunting Party
 
