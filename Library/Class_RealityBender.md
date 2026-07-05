@@ -885,12 +885,12 @@ An Invisible spell can’t be seen by anyone but you. An Invisible spell will no
 
 ### Safe
 
-At level 5, you learn how to make yourself less vulnerable. As an action, you can spend 10 Spell Points to make yourself ethereal. While you are ethereal:
+At level 5, you learn how to make yourself uninteractable. As an action, you can spend 10 Spell Points to make yourself intangible. While you are intangible:
 
 -   You can pass through walls, creatures, objects, and other tangible materials.
 -   You are untargetable and immune to all damage types.
 -   Your attacks don’t deal damage.
--   Your spells don’t deal damage, don’t heal, don’t grant 0 temporary hp, can’t kill a creature, and can’t revive a creature.
+-   Your spells don’t deal damage, don’t heal, don’t grant temporary hp, can’t kill a creature, and can’t revive a creature.
 
 The duration of this effect is equal to your Spell Duration.
 
