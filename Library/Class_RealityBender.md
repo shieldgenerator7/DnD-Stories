@@ -271,7 +271,7 @@ At level 3, you start losing control of your abilities. You gain chaos points at
 | 11    | 1/round            |
 | 15    | 10/round           |
 
-Additionally, whenever you or a creature touched by your chaos casts a spell from your bonded schools, you gain chaos points equal to 5 times that spell’s casted level.
+Additionally, whenever you or a chaotic creature casts a spell from your bonded schools, you gain chaos points equal to 5 times that spell’s casted level.
 
 You don’t gain chaos points from this feature while unconscious.
 
@@ -281,7 +281,7 @@ At level 3, you can let out your chaotic urges. Whenever you gain chaos points, 
 
 You gain the following Bond Affinity option:
 
--   Chaotic: 0 Spell Points. Spend chaos points for this spell cast instead of spell points. Touch this spell cast with your chaos, also touching creatures effected by this spell cast with your chaos.
+-   Chaotic: 0 Spell Points. Spend chaos points for this spell cast instead of spell points. Make this spell chaotic, also making creatures effected by this spell cast chaotic.
 
 You don’t gain chaos points from casting a Chaotic spell.
 
@@ -289,18 +289,18 @@ You don’t gain chaos points from casting a Chaotic spell.
 
 At level 3, you can’t contain your chaos as it spreads.
 
-When a creature touched by your chaos casts a spell or makes an attack, that spell or attack is also touched by your chaos. A spell that is touched by your chaos causes everything it targets or in its area of effect to also be touched by your chaos. An attack that is touched by your chaos causes its target to also be touched by your chaos, if it hits.
+When a chaotic creature casts a spell or makes an attack, that spell or attack is also made chaotic. A chaotic spell causes everything it targets or in its area of effect to also become chaotic. A chaotic attack causes its target to also become chaotic, if it hits.
 
-A creature and/or object remains touched by your chaos until:
+A creature and/or object remains chaotic until:
 
 -   Its chaos duration expires. The chaos duration is equal to your Spell Duration.
 -   It leaves your Tether Range or is no longer on the same plane as you.
--   It uses its action to make a Wisdom ability check against your spell save DC. On a success, it is no longer touched by your chaos.
+-   It uses its action to make a Wisdom ability check against your spell save DC. On a success, it is no longer chaotic.
 -   Your chaos points are reduced to 0 or below.
 
 ### Chaos Burn
 
-At level 3, your chaos starts undoing reality. Whenever you gain chaos points, you and things touched by your chaos take force damage, spread evenly amongst all targets. The amount of force damage is equal to your chaos points minus your max spell points, minimum of 0.
+At level 3, your chaos starts undoing reality. Whenever you gain chaos points, you and chaotic creatures and objects take force damage, spread evenly amongst all targets. The amount of force damage is equal to your chaos points minus your max spell points, minimum of 0.
 
 ### Chaos Modifier
 
@@ -308,7 +308,7 @@ At level 3, your chaos effects your ability to cast effective spells. While you 
 
 ### Chaotic Luck
 
-At level 5, outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, and you have chaos points, if it is rolled by you or an effect or creature that is touched by your chaos, its value is warped. If the result is odd, you add your spellcasting ability modifier to it. If the result is even, you subtract your spell casting ability modifier from it. The result may go above 20 or below 0.
+At level 5, outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, and you have chaos points, if it is rolled by you or a chaotic effect or chaotic creature, its value is warped. If the result is odd, you add your spellcasting ability modifier to it. If the result is even, you subtract your spellcasting ability modifier from it. The result may go above 20 or below 0.
 
 ### Origin Shifting
 
@@ -318,11 +318,11 @@ When a creature touched by your chaos moves on their turn, they first teleport i
 
 ### Lag
 
-At level 11, time starts moving at random speeds. At the start of its turn, a creature touched by your chaos must make a Constitution ability check, with a DC equal to your spellcasting ability modifier. On a failure, it doesn’t get to use its action this turn. On a success, nothing happens. If it beats the DC by 5 or more, it gets to take 2 actions this turn.
+At level 11, time starts moving at random speeds. At the start of its turn, a chaotic creature must make a Constitution ability check, with a DC equal to your spellcasting ability modifier. On a failure, it doesn’t get to use its action this turn. On a success, nothing happens. If it beats the DC by 5 or more, it may take an extra action this turn.
 
 ### Unstable
 
-At level 15, spells become unpredictable. When a spell is cast, if it is touched by your chaos, it has all numbers in its stats and description increased by your spellcasting ability modifier.
+At level 15, spells unpredictably break reality. When a spell is cast, if it is chaotic, it has all numbers in its stats and description increased by your spellcasting ability modifier.
 
 ## Reality Forger
 
