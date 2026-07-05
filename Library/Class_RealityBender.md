@@ -275,6 +275,8 @@ Additionally, whenever you or a chaotic creature casts a spell from your bonded 
 
 You don’t gain chaos points from this feature while unconscious.
 
+You don’t lose any chaos points when you go to sleep, fall unconscious, or die.
+
 ### Chaos Release
 
 At level 3, you can let out your chaotic urges. Whenever you gain chaos points, you may use your reaction to cast a spell you know from your bonded schools.
@@ -310,11 +312,8 @@ At level 3, your chaos effects your ability to cast effective spells. While you 
 
 At level 5, outcomes are randomly changed in unexpected ways. Whenever a d20 is rolled, and you have chaos points, if it is rolled by you or a chaotic effect or chaotic creature, its value is warped. If the result is odd, you add your spellcasting ability modifier to it. If the result is even, you subtract your spellcasting ability modifier from it. The result may go above 20 or below 0.
 
-### Origin Shifting
-
-At level 7, the points of origin shift around you in unnatural ways. The origin point of spells and attacks touched by your chaos shift in your shifting direction. Your shifting direction gets set to your current facing direction whenever you cast a Chaotic spell. Origin points continually shift in this direction by an amount equal to your chaos points divided by 10, rounded up to the nearest 5.
-
-When a creature touched by your chaos moves on their turn, they first teleport in your shifting direction, then move from there.
+### Chaos Leak
+At level 7, your chaos leaks out of you when you get hurt. Whenever you take damage, and you have at least 1 chaos point, you must cast a Chaotic spell, even when normally unable to cast a spell. You choose 3 spells and the DM randomly selects one of them to be cast.
 
 ### Lag
 
