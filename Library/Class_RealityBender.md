@@ -669,7 +669,7 @@ At level 3, you gain the ability to infuse an item with a spell.
 
 You may spend 1 hour or more infusing an item you’re holding with a spell from your bonded schools. The spell costs double the amount of spell points it normally would. Make an ability check in your spellcasting ability. The DC equals the spell’s casted level times 2, plus 10, minus the number of hours you spend infusing it. On a success, the Spell Points are spent, and the item is infused with the spell. On a failure, the Spell Points are still spent, but the item is not infused with the spell.
 
-Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. You may instead choose to use a lower value for the Cast Range, Tether Range, and/or Spell Duration. The infused spell always uses the Bond Affinity option applied to it when it was infused.
+Once complete, the item can be activated to cast the infused spell. The infused spell is still bound by your Cast Range, Tether Range, and Spell Duration at the time of infusion, but its Cast Range and Tether Range use the item’s position instead of your position. You may instead choose to use a lower value for the Cast Range, Tether Range, and/or Spell Duration when you infuse it. The infused spell always uses the Bond Affinity option applied to it when it was infused.
 
 An infused item has a limited number of charges of a spell. It regains all charges at dawn each day. As you level up, the amount of charges you can infuse into an item also increases, as shown in the following table:
 
@@ -697,7 +697,9 @@ You learn the following Bond Affinity option:
 
 -   Infusable: 10 Spell Points. Lower the DC to infuse this spell by 2 times your max safe casting level.
 
-If an Infusable spell is not infused into an item, the spell fails.
+If an Infusable spell is not used to infuse the spell into an item, the spell fails.
+
+Spells you cast without the Infusable bond affinity option cost an extra 25 Spell Points to cast.
 
 ### Instant Refill
 
@@ -705,7 +707,7 @@ At level 3, you can quickly recharge an infused item. Once during your turn, you
 
 ### Item Upgrading
 
-At level 5, you can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade or downgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. You may also choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know.
+At level 5, you can upgrade infused items you’ve previously infused. While holding the infused item, you can spend 1 hour and a number of spell points equal to the infused spell’s level to upgrade or downgrade the infused spell’s Cast Range, Tether Range, and Spell Duration to be equal to or less than yours. You can also upgrade or downgrade its number of charges. You may also choose to replace the spell’s Bond Affinity option with another Bond Affinity option that you know. You may also choose to upgrade or downgrade its infused casting level, spending Spell Points equal to the level difference times 5 to do so. You can’t use this feature to infuse an item with a spell past your max casting level.
 
 ### Item Location
 
@@ -729,7 +731,7 @@ At level 11, you learn how to cause an item to react to a situation. You learn t
 
 -   Reactive: 20 Spell Points. Set a reactive condition for this spell cast, which automatically activates this spell cast’s infused item when met.
 
-If a Reactive spell is not infused into an item, the spell fails.
+If a Reactive spell is not used to infuse the spell into an item, the spell fails.
 
 ### Multi-Infusing
 
@@ -739,7 +741,7 @@ At level 15, you learn how to cram more spells into a single item. You gain the 
 
 When an item with multiple infused spells is activated, each spell is activated all in the same turn, in order of infusion, using the same targets, if applicable.
 
-If an Appended spell is not infused into an item, the spell fails.
+If an Appended spell is not used to infuse the spell into an item, the spell fails.
 
 ## Battle Bender
 
@@ -1351,7 +1353,7 @@ You sing and dance to cast your spells. Basically, a bard-like subclass.
 
 At level 3, you can cast your spells with a performance. Choose a performance style that you can do with your spellcasting focus body part.
 
-As an action, you may start a performance using your performance style. The performance is centered on yourself, and it has a range up to your Cast Range. You may change the range at the start of each of your turns.
+As an action, you may start a performance using your performance style. The performance is centered on yourself, and it has a range up to your Cast Range. You may change the range at the start of each of your turns. If you move during the performance, the area of effect of the performance moves with you to stay centered on you.
 
 When you start a performance, you may spend any amount of Spell Points. Then during your performance, at the start of each of your turns, you spend that many Spell Points again. You can change how many Spell Points you spend at the start of each of your turns. The amount of Spell Points you spend at the start of your turn determines your performance’s energy level until the start of your next turn.
 
