@@ -573,19 +573,18 @@ You are a self-made person, literally. You modified your being and can modify it
 
 At level 3, you can modify yourself daily. Whenever you finish a long rest, you may make a permanent change to yourself:
 
--   Appearance. You may change part of your appearance. Ex: the colors of your eyes, skin, hair/fur, racial markers, etc; your height, weight; facial hair, hair coverage, hairiness, facial shape; etc. This appearance change does not have any mechanical effect.
+-   Appearance. You may change part of your appearance. Ex: the colors of your eyes, skin, hair/fur, racial markers, etc; your height, weight; facial hair, hair coverage, hairiness, facial shape; etc. This appearance change does not have any mechanical effect. Can be done in conjunction with another permanent change.
 -   Vulnerability. Gain vulnerability to a damage type by losing vulnerability to a damage type your already have.
 -   Resistance. Gain resistance to a damage type by losing resistance to a damage type you already have.
 -   Immunity. Gain immunity to a damage type by losing immunity to a damage type you already have.
 -   Absorption. Gain absorption to a damage type by losing absorption to a damage type you already have.
 -   Skill. Gain proficiency in a skill by losing proficiency in a skill you’re proficient in.
 -   Expertise. Gain expertise in a skill you’re proficient in by losing expertise in another skill.
--   Alignment. Change your alignment.
 -   Affinity. Switch out a Bond Affinity option you know with another one you don’t know.
--   Ability (Level 5). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
+-   Race (Level 5). Change part of your race. Gain a feature from a race by losing an existing feature not from that race, if you have one. You may also choose which part of your appearance changes. You must have seen the new race at least once. If you use this option multiple times, you become the new race completely when all the features of your old race are gone.
 -   Bonded Schools (Level 7). Switch out one of your bonded schools for a different school that you don’t know. You still remember spells from your old bonded school, but can’t cast them.
 -   Bending Trick (Level 9). Switch out one of your Bending Trick spells for a new Bending Trick spell with the same upgrades as the old Bending Trick.
--   Race (Level 11). Change part of your race. Gain a feature from a race by losing an existing feature not from that race, if you have one. You may also choose which part of your appearance changes. You must have seen the new race at least once. If you use this option multiple times, you become the new race completely when all the features of your old race are gone.
+-   Ability (Level 11). Increase an ability score by up to your spellcasting ability modifier, by decreasing another ability score by the same amount. This feature allows an ability score to go above 20, but not above 30.
 -   Spell (Level 15). Cast a spell you know from your bonded schools that targets only you. You gain the effects of the spell permanently. The spell must either have a duration longer than Instantaneous and 1 round, or have a range of Self or Touch. The spell costs double the spell points it normally would. If the spell fails, the spell points are still spent, and so is the use of this feature. If the spell succeeds, you can’t cast this spell normally or as part of this feature until you spend a future use of this feature to undo this effect.
 
 What changes are available to you depends on your level.
