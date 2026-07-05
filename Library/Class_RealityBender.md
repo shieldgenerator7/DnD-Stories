@@ -339,7 +339,7 @@ At level 3, you gain affinity for area of effect spells. As a bonus action, you 
 | 11 | 50ft                   | 100ft                    |
 | 15 | 100ft                  | 200ft                    |
 
-The target spell must be within your Cast Range. The radius can’t exceed the Tether Range of the spell, or go below 0. If the radius gets reduced to 0, the spell ends.
+The target spell must be within your Cast Range. You can't make the radius exceed the Tether Range of the spell, or go below 0. If the radius gets reduced to 0, the spell ends.
 
 You may use this feature on an area of effect spell that you did not cast, as long as it is in your bonded schools. If the spell doesn’t have a Tether Range, you use your Tether Range for determining the max radius you can expand it to.
 
@@ -361,7 +361,7 @@ Permanent spells don’t require concentration. Permanent spells do not dissipat
 
 Permanent spells are resistant to being countered and dispelled. If a creature attempts to counter it or dispel it, they must make a spellcasting ability check with a DC equal to your spellcasting ability modifier. On a success, they counter or dispel the spell, provided the other conditions are met. On a failure, the Permanent spell still stands.
 
-You may use your Area Modulation feature on a Permanent spell that you cast, but you must spend 5 Spell Points to do so.
+You may use your Area Modulation feature on a Permanent spell, but you must spend 5 Spell Points to do so.
 
 ### Home Sweet Home
 
@@ -373,7 +373,7 @@ At level 7, other area of effect spells have no effect in your Permanent Area, u
 
 ### Area Manipulation
 
-At level 11, you become adept at manipulating areas. When you cast a spell with the Permanent Bond Affinity option, you may choose an additional Bond Affinity option to apply to it. If you are standing in your Permanent Area, you may choose an additional Bond Affinity to apply to it again.
+At level 11, you become adept at manipulating areas. While standing in your Permanent Area, you may choose an additional Bond Affinity option to apply to a spell you cast, even if it is not a Bending Trick for you.
 
 ### Area Admin
 
