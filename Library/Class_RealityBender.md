@@ -1355,46 +1355,52 @@ At level 3, you can cast your spells with a performance. Choose a performance st
 
 As an action, you may start a performance using your performance style. The performance is centered on yourself, and it has a range up to your Cast Range. You may change the range at the start of each of your turns.
 
-You may end your performance as a free action, and it ends automatically when you become unable to perform. You become unable to perform when you go to sleep, fall unconscious, die, or something else happens that prevents you from performing (ex: Your performance style is singing and you enter a zone of Silence). Your performance requires concentration, following the normal rules of spell concentration.
+When you start a performance, you may spend any amount of Spell Points. Then during your performance, at the start of each of your turns, you spend that many Spell Points again. You can change how many Spell Points you spend at the start of each of your turns. The amount of Spell Points you spend at the start of your turn determines your performance’s energy level until the start of your next turn.
+
+You get bonuses for having a high energy level. Your spell save DC is increased by your performance’s energy level, and you get a bonus equal to your performance’s energy level on constitution saving throws for maintaining concentration.
+
+You may end your performance as a free action, and it ends automatically when you become unable to perform. You become unable to perform when you run out of Spell Points, go to sleep, fall unconscious, die, or something else happens that prevents you from performing (ex: Your performance style is singing and you enter a zone of Silence). Your performance requires concentration, following the normal rules of spell concentration.
+
+Creatures within range that can perceive the performance can be audience members. A creature is an audience member to your performance if it meets all these criteria:
+
+• It can see/hear you, depending on which performance style you chose
+
+• It is able to be charmed
+
+• It is within range
+
+Only audience members are targeted and effected by a performance. A performance targets all audience members.
+
+Audience members that stop meeting all the criteria stop being audience members (ex: moving out of range, looking away), and are no longer targeted by the performance. Non-audience members that start meeting all the criteria (ex: moving into range, looking at you) become audience members and are now targeted by the performance.
+
+At the start of each your turns, you can choose whether or not you count as an audience member for your performance.
 
 You learn the following Bond Affinity option, which you can only use during a performance:
 
--   Performance: 5 Spell Points. Cast this spell centered on yourself, and target all creatures within range, if this spell has a duration longer than Instantaneous.
+-   Performance: 0 Spell Points. Cast this spell for free as part of your performance, effecting all audience members.
 
-Whenever you start a performance, you can cast a Performance spell as a bonus action.
+During your performance, you may cast a Performance spell as a bonus action, if it normally has a cast time of 1 action or 1 bonus action. You may also dismiss a Performance spell as a bonus action.
 
 A Performance spell is bound by your performance:
 
--   If it has an area of effect, the radius is equal to the performance’s range.
+-   It targets all audience members, ignoring target count limits in the spell’s text and “At Higher Levels” section.
 -   It is not bound by your Spell Duration; it lasts for the entire duration of your performance.
 -   It ends automatically when your performance ends.
 -   It uses the concentration of your performance, even if it doesn’t already require concentration.
 -   It is not effected by the following Bond Affinity options: Animated, Enduring, Reaching, Remote, Lasting, Ashes.
+-   Its Spell Point cost must be within your performance’s Spell Point cost.
 
-Creatures within range that can perceive the performance can be audience members. A creature is an audience member to a Performance spell if it meets all these criteria:
-
--   It can see/hear you, depending on which performance style you chose
--   It is able to be charmed
--   It is within range
-
-Only audience members are targeted and effected by a Performance spell. A Performance spell targets all audience members, even if the spell usually only targets one creature or a set amount of creatures. A Performance spell that allows you to upcast to target more creatures (ex: Bless) does not need to be upcast to target more creatures.
-
-Audience members that stop meeting all the criteria stop being audience members (ex: moving out of range, looking away), and are no longer targeted by the spell. Non-audience members that start meeting all the criteria (ex: moving into range, looking at you) become audience members and are now targeted by the spell.
-
-At the start of each your turns, you can choose whether or not you count as an audience member for your performance.
+Your performance can share concentration with multiple spells at once. The amount of Spell Points you spend at the start of each turn determines the total Spell Points you have to spend on each spell you’re concentrating on with your performance. If you increase the Spell Points from last turn, you can use it to upcast certain spells this turn, and/or cast new spells. If you decrease the Spell Points from last turn, you have to cast the current Performance spells at a lower level. If a Performance spell is cast below its base level, or its Bond Affinity options aren’t paid for, then that spell is paused for the turn, and may come back next turn if you pay for it. You may take a Performance spell’s normal cost reductions into account when determining its cost, ex: from Bending Tricks. The “free” part of the Performance Bond Affinity option doesn’t effect a Performance spell’s cost calculation.
 
 ### Next Act
 
-At level 5, you can weave your performance into another one. As a bonus action, you can end your current Performance spell, and cast a new Performance spell with the same Spell Point cost or lower as the old spell, without paying the Spell Point cost of the new spell.
+At level 5, you can weave your performance into another one. As a bonus action, you can end one of your Performance spells, and cast a new Performance spell.
 
 The new spell is allowed to be the same spell as the old spell. You may choose the same or different Bond Affinity options for the new spell.
 
 ### Shout Out
 
-At level 7, you can point out a creature in particular. You may use your action to point out a particular audience member you can see to make your Performance spell more effective on them. If you do, you may choose any combination of the following:
-
--   You have that creature get double the effects of the spell
--   You double your spellcasting ability modifier for the spell
+At level 7, you can give a shout out to particular fan. You may use your action to point out a particular audience member you can see to make your Performance spell more effective on them, doubling the effects of the spell on them until the start of your next turn.
 
 ### Applause
 
