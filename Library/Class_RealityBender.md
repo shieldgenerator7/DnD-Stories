@@ -1187,6 +1187,8 @@ You use the dead to bend reality to your will.
 
 At level 3, you can exhume dead bodies from their resting place. As an action, spend 2 Spell Points or more to bring a dead body within your Cast Range to life. If it is able, it will spend all its actions and movement to get to your location, digging through as much dirt and opening as many doors as it needs to (only if it is physically capable of doing so) to do so. It then serves you as an undead minion until it collapses.
 
+Minions get raised with hit points equal to Xd4 \* the Spell Points spent to animate it / 2, rounded up, where X is your Reality Bender level.
+
 ### Undead Minions
 
 At level 3, you gain control of undead minions. They are bound to your Tether Range and Spell Duration. When they expire, they collapse to the ground as the pile of flesh and bones that they are.
@@ -1197,9 +1199,9 @@ A minion also collapses when:
 -   You are no longer on the same plane as the undead minion.
 -   You dismiss it as an action.
 
-Minions start with hit points equal to Xd4 \* the spell points spent to animate it / 2, rounded up, where X is your Reality Bender level. Undead minions can’t be healed by magical or mundane means.
+Undead minions can’t be healed by magical or mundane means.
 
-Your minions attack and move on your turn. You can command your undead minions telepathically.
+Your minions attack and move on your turn. You can command your undead minions telepathically if they are within your Cast Range. Minions will continue carrying out their orders while they are within your Tether Range.
 
 As an action, you may dismiss a particular undead minion, and it collapses.
 
@@ -1221,7 +1223,7 @@ At level 5, you learn how to cast spells without harming your undead minions. Yo
 
 At level 7, you can syphon the energy of your undead minions. As an action, you may spend 5 Spell Points to consume the energy of one of your undead minions within your Cast Range. You gain hit points equal to that undead minion’s remaining hit points, and the undead minion collapses and shrivels into dust.
 
-Additionally, whenever you drop to 0hp or less, you may use your reaction to dismiss an undead minion. If you do, you come back with 1hp.
+Additionally, whenever you drop to 0hp or less, you may use your reaction to dismiss an undead minion. If you do, you come back with 1hp, fully conscious.
 
 ### Mass Exhume
 
@@ -1231,7 +1233,7 @@ As an action, you may target any amount of creatures that you can see within you
 
 ### Undead Replacement
 
-At level 15, you use your undead minions as a last resort. When you get hit or take damage, you may use your reaction to teleport any square within Cast Range of one of your undead minions and use your Undead Fortitude feature on it.
+At level 15, you use your undead minions as a last resort. When you get hit or take damage, you may use your reaction to teleport to any square within Cast Range of one of your undead minions and use your Undead Fortitude feature on it.
 
 ## Creature Wrangler
 
