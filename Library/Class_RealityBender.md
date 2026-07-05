@@ -18,17 +18,17 @@ version 0.1.002
 | 7th       | +3              | BSF, BT                                           | 2                  | 2                         | 100              | 75ft              | 225ft            | 7 hr               |
 | 8th       | +3              | Reality Observer, ASI, BT                         | 2                  | 3                         | 125              | 100ft             | 400ft            | 12 hr              |
 | 9th       | +4              | BT                                                | 2                  | 3                         | 150              | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | Spell Warp, BT                                    | 3                  | 3                         | 200              | 150ft             | 600ft            | 3 d                |
-| 11th      | +4              | BSF, BT                                           | 3                  | 3                         | 250              | 175ft             | 700ft            | 7 d                |
-| 12th      | +4              | ASI, BT                                           | 3                  | 4                         | 300              | 200ft             | 1000ft           | 14 d               |
-| 13th      | +5              | BT                                                | 3                  | 4                         | 350              | 250ft             | 2500ft           | 30 d               |
-| 14th      | +5              | BT                                                | 3                  | 4                         | 400              | 300ft             | 1mi              | 180 d              |
-| 15th      | +5              | BSF, BT                                           | 3                  | 4                         | 450              | 400ft             | 5mi              | 1 yr               |
-| 16th      | +5              | ASI, BT                                           | 3                  | 5                         | 500              | 500ft             | 15mi             | 5 yr               |
-| 17th      | +6              | BT                                                | 4                  | 5                         | 550              | 750ft             | 100mi            | 10 yr              |
-| 18th      | +6              | BT                                                | 4                  | 5                         | 575              | 1000ft            | 1000mi           | 50 yr              |
-| 19th      | +6              | ASI, BT                                           | 4                  | 5                         | 650              | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | +6              | Reality Command, BT                               | 4                  | 5                         | 700              | 1mi               | 1000000mi        | 1000 yr            |
+| 10th      | +4              | Spell Warp, BT                                    | 3                  | 3                         | 200              | 150ft             | 600ft            | 2 d                |
+| 11th      | +4              | BSF, BT                                           | 3                  | 3                         | 250              | 175ft             | 700ft            | 3 d                |
+| 12th      | +4              | ASI, BT                                           | 3                  | 4                         | 300              | 200ft             | 1000ft           | 5 d                |
+| 13th      | +5              | BT                                                | 3                  | 4                         | 350              | 250ft             | 2500ft           | 7 d                |
+| 14th      | +5              | BT                                                | 3                  | 4                         | 400              | 300ft             | 1mi              | 10 d               |
+| 15th      | +5              | BSF, BT                                           | 3                  | 4                         | 450              | 400ft             | 5mi              | 20 d               |
+| 16th      | +5              | ASI, BT                                           | 3                  | 5                         | 500              | 500ft             | 15mi             | 30 d               |
+| 17th      | +6              | BT                                                | 4                  | 5                         | 550              | 750ft             | 25mi             | 3 mo               |
+| 18th      | +6              | BT                                                | 4                  | 5                         | 575              | 1000ft            | 50mi             | 6 mo               |
+| 19th      | +6              | ASI, BT                                           | 4                  | 5                         | 650              | 2000ft            | 75mi             | 9 mo               |
+| 20th      | +6              | Reality Command, BT                               | 4                  | 5                         | 700              | 1mi               | 100mi            | 1 yr               |
 
 # Class Features
 
