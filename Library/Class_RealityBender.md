@@ -1253,7 +1253,7 @@ A Conjured Creature spell will appear in an open space you designate within your
 
 Conjured Creatures spawn with hit points equal to the total amount of Spell Points spent to cast it.
 
-While a Conjured Creature spell is alive, you cannot cast that spell.
+While a Conjured Creature spell is alive, you cannot cast its spell except with the Creature Cast Bond Affinity option.
 
 When a Conjured Creature spell dies from having its hit points reduced to 0, it disappears, and you cannot cast that spell again until you finish a long rest.
 
@@ -1281,7 +1281,7 @@ Whenever a Conjured Creature makes an attack on a creature, that creature has di
 
 At level 3, you can cast spells through your Conjured Creatures. You gain the following Bond Affinity option:
 
--   Creature Cast: 5 Spell Points. Cast this spell from one of your Conjured Creatures. If this spell is the same spell as the Conjured Creature’s spell, reduce its Spell Point cost by 20.
+-   Creature Cast: 5 Spell Points. Cast this spell from one of your Conjured Creatures. If this spell is the same spell as the Conjured Creature’s spell, reduce its Spell Point cost by 20, minimum 0.
 
 ### Medical Assistance
 
@@ -1289,11 +1289,11 @@ At level 5, you can intervene in the fight. As a reaction, you may spend any amo
 
 ### Leveling Up
 
-At level 7, your Conjured Creatures can level up. After killing an enemy or after a battle, at your DM’s discretion, one or more of your Conjured Creatures can level up. When they do, give it a Bending Trick upgrade.
+At level 7, your Conjured Creatures can level up. After killing an enemy or after a battle, at your DM’s discretion, one or more of your Conjured Creatures can level up. When they do, apply an additional Bond Affinity option to the Conjured Creature. You may apply one it already has.
 
 ### Mount
 
-At level 11, some of your Conjured Creatures may be big enough to ride. To be ridable, a Conjured Creature must also be a Bending Trick. It must also resemble a species that is big enough to ride, such as a horse or whale. If it is not, you may spend 10 additional Spell Points to increase its size. It then counts as a mount for you.
+At level 11, some of your Conjured Creatures may be big enough to ride. To be ridable, a Conjured Creature must resemble a species that is big enough to ride, such as a horse or whale. If it is not, you may spend 10 additional Spell Points to increase its size. It then counts as a mount for you.
 
 You can mount and/or dismount your mount as an action.
 
@@ -1301,7 +1301,7 @@ While on your mount, your mount moves on your turn, and may take its turn during
 
 ### Use Ability!
 
-At level 15, your Conjured Creatures can use the spells they were made with. On its turn, a Conjured Creature can spend 1 hit point to cast its spell, using its position for the spell’s Cast Range and Tether Range. It casts with all the bond affinity options applied to it when it was conjured.
+At level 15, your Conjured Creatures can use the spells they were made with. On its turn, a Conjured Creature can spend X hit points to cast its spell, where X is the level of the spell it casts, which can be different than the level it was conjured at. It uses its position for the spell’s Cast Range and Tether Range. It casts with all the Bond Affinity options applied to it when it was conjured.
 
 ## Reality Scholar
 
