@@ -457,11 +457,11 @@ You want to help other people create their own realities.
 
 ### Affinity Assist
 
-At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it. You can do this even if a Bond Affinity option has already been applied to it by someone else. You may not apply a Bond Affinity option that has already been applied with your Spell Sharing feature.
+At level 3, you gain the ability to help others bend reality. When another creature casts a spell from your bonded schools, you may use your reaction to add one of your Bond Affinity options to it.
+
+You can do this even if a Bond Affinity option has already been applied to it by someone else. You may not apply a Bond Affinity option that has already been applied with your Spell Sharing feature. If the casted spell is a Bending Trick for you, you may apply an additional Bond Affinity option to it for each Bending Trick level it has.
 
 Either the casting creature or the spell must be within your Cast Range.
-
-If the casted spell is a Bending Trick for you, you may apply an additional Bond Affinity option to it for each time you chose it as a Bending Trick.
 
 You gain the following Bond Affinity option:
 
@@ -479,9 +479,11 @@ When you share a spell, you may choose a Bond Affinity option to apply to the sp
 
 While a vessel has a spell, you cannot cast that spell or share it. You can share multiple spells with the same vessel.
 
-A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but the ranges use the vessel’s position. A shared spell uses your spell save DC and spell attack modifiers, if applicable. If a shared spell requires concentration, it uses the concentration of the vessel. Every other reference to “you” or “self” in the shared spell refers to the vessel. A vessel gains the benefits of your spellcasting focus when casting a shared spell. If the vessel has a body part similar to your spellcasting focus body part, it glows your spell casting glow color when they cast a spell.
+A shared spell is still bound by your Cast Range, Tether Range, and Spell Duration, but it use the vessel’s position for the Cast Range and Tether Range instead of your position. A shared spell uses your spell save DC and spell attack modifiers, if applicable. If a shared spell requires concentration, it uses the concentration of the vessel. Every other reference to “you” or “self” in the shared spell refers to the vessel.
 
-Being a vessel isn’t forever. A creature automatically stops being a vessel if any of the following happens:
+A vessel gains the benefits of your spellcasting focus when casting a shared spell. If a vessel has a body part similar to your spellcasting focus body part, it becomes the spellcasting focus body part for that vessel, and glows your spellcasting glow color when that vessel casts a shared spell. If not, a ghostly version of that body part appears on the vessel whenever they cast a shared spell to act as their spellcasting focus.
+
+A creature doesn’t stay a vessel forever. A creature automatically stops being a vessel if any of the following happens:
 
 -   The vessel duration for the vessel expires. A vessel’s vessel duration is equal to your Spell Duration.
 -   The vessel becomes outside your Tether Range or shifts to another plane.
@@ -533,7 +535,7 @@ At level 11, your Spell Sharing feature is enhanced.
 
 ### Evangelization
 
-At level 11, your vessels can evangelize.
+At level 15, your vessels can evangelize.
 
 You may spend 1 hour to designate a willing vessel as a prime vessel. You must be able to see the vessel and they must be within your Cast Range for the whole duration. That vessel then becomes a prime vessel.
 
@@ -554,17 +556,11 @@ Being a prime vessel is forever, with a few exceptions. A prime vessel automatic
 
 As an action, you may revoke a prime vessel’s vessel state, making them either a regular vessel or just another creature.
 
-### Unity
-
-At level 15, you can unify your vessels in casting a spell. Whenever you cast a spell from your bonded schools, each of your vessels that you choose may use their reaction to cast the same spell you cast at the same level, with the same Bond Affinity option(s). You and your vessels may choose different targets for the spells.
-
-The spell costs the normal amount of Spell Points for you, but it only costs that amount divided by 10, rounded up, for each vessel that casts it.
-
-A vessel can join in the casting of the spell even if they don’t know the spell and that spell has not been shared with them.
-
 ### Ascension
 
-At level 20, your vessels are permanent. Vessels outside your Tether Range or in a different plane do not automatically stop being vessels. Vessels no longer have a vessel duration, and remain vessels indefinitely until they willingly stop being a vessel or until you use your action to revoke their vessel status.
+At level 20, your vessels are permanent. Vessels outside your Tether Range or in a different plane do not automatically stop being vessels. Vessels no longer have a vessel duration, and remain vessels indefinitely until they willingly stop being a vessel or until you or a prime vessel use an action to revoke their vessel status.
+
+While you have at least 1 vessel, you don’t suffer from the effects of aging, and you can’t die of old age. When a vessel uses Worship, they also restore 1 health to you, reviving you if you’re below 0 or unconscious. Additionally, your maximum health is increased by the number of vessels you have.
 
 ## Self-Shaper
 
