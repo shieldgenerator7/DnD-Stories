@@ -628,11 +628,7 @@ Fortune favors you and bends to your will.
 
 ### Lucky
 
-At level 3, your spells are lucky. You gain the following Bond Affinity option:
-
--   Lucky: 5 Spell Points. Roll two sets of dice for this spell cast, and then choose which set of rolls to use.
-
-For example, Eldritch Blast makes you roll a d20 for an attack roll and 1d10 for the damage. This Bond Affinity option would have you roll two sets of 1d20 + 1d10, and then you choose which set to use. If you target multiple creatures with this cantrip, youd roll more d20s in each set of dice.
+At level 3, your luck reduces your chance of failure. You have a luck minimum that is equal to your proficiency bonus. Whenever you roll a d20 and the result is less than or equal to your luck minimum, you may reroll that d20. This does not use your reaction, but you may only use this once per roll.
 
 ### Luck Bend
 
