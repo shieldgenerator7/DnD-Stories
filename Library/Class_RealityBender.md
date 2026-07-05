@@ -6,29 +6,29 @@ version 0.1.002
 
 # Class Table
 
-|           |                 |                                                    |                    |                           |                  | **Spell Casting** |                  |                    |
-|-----------|-----------------|----------------------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
-| **Level** | **Prof. Bonus** | **Features**                                       | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
-| 1st       | +2              | Spellcasting, Reality Observer, Bending Trick (BT) | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
-| 2nd       | +2              | Bond Affinity, BT                                  | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
-| 3rd       | +2              | Bending Style, BT                                  | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
-| 4th       | +2              | Ability Score Improvement (ASI), BT                | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
-| 5th       | +3              | Bending Style Feature (BSF), BT                    | 2                  | 2                         | 85               | 45ft              | 135ft            | 2 hr               |
-| 6th       | +3              | BT                                                 | 2                  | 2                         | 90               | 60ft              | 180ft            | 4 hr               |
-| 7th       | +3              | BSF, BT                                            | 2                  | 2                         | 100              | 75ft              | 225ft            | 7 hr               |
-| 8th       | +3              | Reality Studier, ASI, BT                           | 2                  | 3                         | 125              | 100ft             | 400ft            | 12 hr              |
-| 9th       | +4              | BT                                                 | 2                  | 3                         | 150              | 125ft             | 500ft            | 1 d                |
-| 10th      | +4              | Spell Warp, BT                                     | 3                  | 3                         | 200              | 150ft             | 600ft            | 3 d                |
-| 11th      | +4              | BSF, BT                                            | 3                  | 3                         | 250              | 175ft             | 700ft            | 7 d                |
-| 12th      | +4              | ASI, BT                                            | 3                  | 4                         | 300              | 200ft             | 1000ft           | 14 d               |
-| 13th      | +5              | Recasting, BT                                      | 3                  | 4                         | 350              | 250ft             | 2500ft           | 30 d               |
-| 14th      | +5              | BT                                                 | 3                  | 4                         | 400              | 300ft             | 1mi              | 180 d              |
-| 15th      | +5              | BSF, BT                                            | 3                  | 4                         | 450              | 400ft             | 5mi              | 1 yr               |
-| 16th      | +5              | ASI, BT                                            | 3                  | 5                         | 500              | 500ft             | 15mi             | 5 yr               |
-| 17th      | +6              | BT                                                 | 4                  | 5                         | 550              | 750ft             | 100mi            | 10 yr              |
-| 18th      | +6              | BT                                                 | 4                  | 5                         | 575              | 1000ft            | 1000mi           | 50 yr              |
-| 19th      | +6              | ASI, BT                                            | 4                  | 5                         | 650              | 2000ft            | 10000mi          | 100 yr             |
-| 20th      | +6              | Reality Command, BT                                | 4                  | 5                         | 700              | 1mi               | 1000000mi        | 1000 yr            |
+|           |                 |                                                   |                    |                           |                  | **Spell Casting** |                  |                    |
+|-----------|-----------------|---------------------------------------------------|--------------------|---------------------------|------------------|-------------------|------------------|--------------------|
+| **Level** | **Prof. Bonus** | **Features**                                      | **Bonded Schools** | **Bond Affinity Options** | **Spell Points** | **Cast Range**    | **Tether Range** | **Spell Duration** |
+| 1st       | +2              | Spellcasting, Reality Studier, Bending Trick (BT) | 1                  | 0                         | 10               | 10ft              | 20ft             | 1 min              |
+| 2nd       | +2              | Bond Affinity, BT                                 | 1                  | 1                         | 15               | 15ft              | 30ft             | 5 min              |
+| 3rd       | +2              | Bending Style, BT                                 | 1                  | 1                         | 40               | 20ft              | 40ft             | 10 min             |
+| 4th       | +2              | Ability Score Improvement (ASI), BT               | 2                  | 1                         | 50               | 30ft              | 90ft             | 1 hr               |
+| 5th       | +3              | Bending Style Feature (BSF), BT                   | 2                  | 2                         | 85               | 45ft              | 135ft            | 2 hr               |
+| 6th       | +3              | BT                                                | 2                  | 2                         | 90               | 60ft              | 180ft            | 4 hr               |
+| 7th       | +3              | BSF, BT                                           | 2                  | 2                         | 100              | 75ft              | 225ft            | 7 hr               |
+| 8th       | +3              | Reality Observer, ASI, BT                         | 2                  | 3                         | 125              | 100ft             | 400ft            | 12 hr              |
+| 9th       | +4              | BT                                                | 2                  | 3                         | 150              | 125ft             | 500ft            | 1 d                |
+| 10th      | +4              | Spell Warp, BT                                    | 3                  | 3                         | 200              | 150ft             | 600ft            | 3 d                |
+| 11th      | +4              | BSF, BT                                           | 3                  | 3                         | 250              | 175ft             | 700ft            | 7 d                |
+| 12th      | +4              | ASI, BT                                           | 3                  | 4                         | 300              | 200ft             | 1000ft           | 14 d               |
+| 13th      | +5              | BT                                                | 3                  | 4                         | 350              | 250ft             | 2500ft           | 30 d               |
+| 14th      | +5              | BT                                                | 3                  | 4                         | 400              | 300ft             | 1mi              | 180 d              |
+| 15th      | +5              | BSF, BT                                           | 3                  | 4                         | 450              | 400ft             | 5mi              | 1 yr               |
+| 16th      | +5              | ASI, BT                                           | 3                  | 5                         | 500              | 500ft             | 15mi             | 5 yr               |
+| 17th      | +6              | BT                                                | 4                  | 5                         | 550              | 750ft             | 100mi            | 10 yr              |
+| 18th      | +6              | BT                                                | 4                  | 5                         | 575              | 1000ft            | 1000mi           | 50 yr              |
+| 19th      | +6              | ASI, BT                                           | 4                  | 5                         | 650              | 2000ft            | 10000mi          | 100 yr             |
+| 20th      | +6              | Reality Command, BT                               | 4                  | 5                         | 700              | 1mi               | 1000000mi        | 1000 yr            |
 
 # Class Features
 
@@ -162,9 +162,11 @@ You can’t unlearn a spell that you previously learned by using this feature, n
 
 You learn additional cantrips and spells as you adventure in the world, using your Reality Observer feature.
 
-# Reality Observer
+# Reality Studier
 
-Your spells are only limited by your imagination. At level 1, whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
+Your spells are only limited by your imagination. At level 1, you may study existing spells.
+
+You may spend 1 minute studying an ongoing spell effect to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level minus your max safe casting level. On a success, you figure out how to cast the spell and can cast the new spell after a long rest. On a failure, you don’t figure out the spell, but may try to study it again immediately.
 
 # Bending Trick
 
@@ -233,23 +235,29 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 -   Increase two ability scores of your choice by 1, max 20.
 -   Increase your spellcasting ability score by 1, max 30.
 
-# Reality Studier
+# Reality Observer
 
 At level 8, you can more easily absorb information about spells that you see.
 
-You may spend 1 minute studying an ongoing spell effect to make an ability check in your spellcasting ability. The DC is equal to 20 plus the spell’s casted level minus your max safe casting level. On a success, you figure out how to cast the spell and can cast the new spell after a long rest. On a failure, you don’t figure out the spell, but may try to study it again immediately.
+Whenever you see another creature cast a spell in your bonded schools, you may use your reaction to automatically learn that spell, no matter what level it is. However, you must finish a long rest before you are able to first cast the new spell.
 
 # Spell Warp
 
 At level 10, you can change ongoing spells. When you manually dismiss a spell you cast, you may cast another spell you know for free. The new spell must target the same target(s) as the old spell, and the spell point cost of the new spell must be equal to or less than the spell point cost of the old spell.
 
-# Recasting
-
-At level 13, when one of your spells ends, you sense it, and may use your reaction to recast the spell on the same target(s), using the same Bond Affinity option(s).
+Once you use this feature, you must finish a long rest before you can do so again.
 
 # Reality Command
 
-At level 20, you gain command of your spells more easily. You may choose a new Bending Trick feature at the start of every month, not just when you level up.
+At level 20, you break out of your limitations, unleashing your full reality bending potential.
+
+You can use Reality Studier and Reality Observer to learn spells from outside your bonded schools, and you can cast spells from outside your bonded schools, but with an increased cost of 50 Spell Points.
+
+Spells you learn with Reality Studier and Reality Observer can be cast 1 round after learning them, not just after a long rest.
+
+You can use Spell Warp as a reaction to one of your spells ending, and you can use it an unlimited number of times.
+
+You may upgrade a Bending Trick after each month, not just when you level up.
 
 # Bending Styles
 
