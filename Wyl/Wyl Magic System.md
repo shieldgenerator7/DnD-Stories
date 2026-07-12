@@ -170,6 +170,31 @@ When a spell says “create an illusion”, it follows these rules:
     -   It is automatically maintained by direct sunlight
     -   You can maintain it by picturing it in your mind
 
+## Protection
+
+You can increase a creature’s defenses against certain types of damage and/or effects.
+
+When a spell says “gain resist to…”, it follows these rules:
+
+-   It costs 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
+-   Resist reduces damage taken.
+    -   Damage Reduced Formula: 100/(100+resist)
+    -   Multiply this by the incoming damage, and you get the damage taken
+    -   (I stole this from League of Legends)
+    -   Ex: 100 resist halves the damage, 200 resist thirds the damage
+-   Protection effects can stack
+-   100 resist is known in DnD as “resistance”
+-   Resist values can be negative
+    -   \-100 resist is known in DnD as “vulnerability”
+-   Most creatures have base resist of 0
+-   You can have resist in any of the single damage types
+-   You can also have resist to the group damage types, which applies to each individual damage type in the group
+    -   weapon damage: bludgeoning, piercing, slashing
+    -   Elemental damage: acid, cold, lightning, poison, thunder
+    -   Magical damage: force, necrotic, psychic, radiant
+-   You can have resist to each individual conditions that can be afflicted, such as charmed or frightened
+-   You can also have resist to a group of conditions
+
 ## Telekinesis
 
 Telekinesis is the ability to move an object at range with your mind.
@@ -306,3 +331,7 @@ Cost: 0.01 wyl per statement
 <https://ronmeyerexcavating.com/what-is-unit-weight-of-soil/>
 
 -   Cubic meter of soil weight: 3000lbs (1360.7kg)
+
+<https://scrollforinitiative.com/2023/08/19/a-complete-guide-to-the-13-damage-types-in-dd-part-one/>
+
+-   Different damage type groups in DnD

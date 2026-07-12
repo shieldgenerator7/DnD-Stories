@@ -2,6 +2,16 @@
 
 # === From DnD ===
 
+# Blade Ward
+
+*0.5wyl 1AP Self 1 round*
+
+Gain 100 resist to weapon damage.
+
+This lasts until the end of your next turn.
+
+*Reminder: Weapon damage includes bludgeoning, piercing, slashing.*
+
 # Color Spray
 
 *1wyl 1AP Self 1 round*
