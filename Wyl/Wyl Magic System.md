@@ -195,6 +195,15 @@ When a spell says “gain resist to…”, it follows these rules:
 -   You can have resist to each individual conditions that can be afflicted, such as charmed or frightened
 -   You can also have resist to a group of conditions
 
+When a spell says “protect from…”, it follows these rules:
+
+-   It costs 10 wyl to protect 1 creature or object from 1 effect for 1 hour
+-   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
+
+When a spell says “gain AC” or “grant AC”, it follows these rules:
+
+-   It costs 10 wyl to grant 1 creature or object 1 AC for 1 hour
+
 ## Telekinesis
 
 Telekinesis is the ability to move an object at range with your mind.

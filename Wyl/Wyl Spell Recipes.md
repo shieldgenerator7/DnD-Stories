@@ -12,6 +12,21 @@ This lasts until the end of your next turn.
 
 *Reminder: Weapon damage includes bludgeoning, piercing, slashing.*
 
+# Bless
+
+*5wyl 1AP 10m 1min*
+
+Enchant up to 3 creatures with the ability to target weak points and spots of safety.
+
+Trigger: The creature makes an ability check or saving throw.  
+Effect: The creature divines a weak point or a spot of safety. The creature adds 1d4 to the attack roll or saving throw.
+
+Each creature must weigh 100kg or less. The weak point or spot of safety must be within range of the creature.
+
+Upgrades:
+
+\+2wyl: Target 1 additional creature.
+
 # Color Spray
 
 *1wyl 1AP Self 1 round*
@@ -37,6 +52,35 @@ You divine the translation of any spoken or written words you hear or see from a
 There must be a creature in range who knows both the source language and the destination language. Otherwise, if the words are spoken and the source is a creature within range, or the words are written and the author is a creature within range, you get images of what the meaning is. Otherwise, you get an “unknown”.
 
 If you try to use this spell to decode a secret message that isn’t part of a spoken or written language, you get an “unknown”.
+
+# Detect Magic
+
+*0.0062wyl 1AP 10m 10min*
+
+You divine the location of magic-imbued objects and creatures.
+
+1wyl, 1AP: Hallucinate a faint aura around a magic-imbued creature or object, which tells you some info about the nature of the magic imbued in it. The target must be visible.
+
+# Disguise Self
+
+*2wyl 1AP Self 1hr*
+
+Create an illusion around yourself that makes you look different.
+
+This changes the appearance of your clothing, armor, weapons, and other belongings.
+
+You can appear up to 0.3m taller and up to 10cm fatter or thicker.
+
+# Guidance
+
+*1.67wyl 1AP Touch 1min*
+
+Enchant a creature with the ability to see an essential detail that helps it succeed.
+
+Trigger: The creature makes an ability check to accomplish a task.  
+Effect: The creature divines information pertinent to their task. The creature adds 1d4 to their ability check. Then this enchantment ends.
+
+The creature must weigh 100kg or less. The information must be within range of the creature.
 
 # Illusory Creature (Silent Image)
 
@@ -142,3 +186,15 @@ Transform a normal patch of ground into difficult terrain.
 Alternatively, you can transform a patch of difficult terrain into normal ground.
 
 The patch of ground must be 1 square meter.
+
+# Shield
+
+*0.1wyl 1AP Self 1 round*
+
+Protect yourself from the spell Magic Missile. Grant +5 AC to yourself.
+
+# Shield of Faith
+
+*4wyl 1AP 20m 10min*
+
+Grant +2 AC to a creature.
