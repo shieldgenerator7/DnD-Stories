@@ -20,6 +20,46 @@ Range. Every spell has effectively infinite range, except that it costs more at 
 
 One thing that bothers me about DnD is that different spells that have similar effects have different rules for how they operate. I cant think of any examples. But there are lots of spells that have similar effects that all work the same way, and have to repeat the rules in the spell text. This is like the Magic the Gathering vs YuGiOh problem, do you use keywords or just repeat the text everywhere? I prefer having keywords. So, the common rules for each spell will be defined in a common place, that all spells using those rules can refer to.
 
+## Abjuration
+
+You can increase a creature’s defenses against certain types of damage and/or effects.
+
+### Resist
+
+When a spell says “grant [target] resist to…”, it follows these rules:
+
+-   It costs 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
+-   Resist reduces damage taken.
+    -   Damage Reduced Formula: 100/(100+resist)
+    -   Multiply this by the incoming damage, and you get the damage taken
+    -   (I stole this from League of Legends)
+    -   Ex: 100 resist halves the damage, 200 resist thirds the damage
+-   Protection effects can stack
+-   100 resist is known in DnD as “resistance”
+-   Resist values can be negative
+    -   \-100 resist is known in DnD as “vulnerability”
+-   Most creatures have base resist of 0
+-   You can have resist in any of the single damage types
+-   You can also have resist to the group damage types, which applies to each individual damage type in the group
+    -   weapon damage: bludgeoning, piercing, slashing
+    -   Elemental damage: acid, cold, lightning, poison, thunder
+    -   Magical damage: force, necrotic, psychic, radiant
+-   You can have resist to each individual conditions that can be afflicted, such as charmed or frightened
+-   You can also have resist to a group of conditions
+
+### Protection
+
+When a spell says “protect from…”, it follows these rules:
+
+-   It costs 10 wyl to protect 1 creature or object from 1 effect for 1 hour
+-   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
+
+### AC
+
+When a spell says “grant AC”, it follows these rules:
+
+-   It costs 10 wyl to grant 1 creature or object 1 AC for 1 hour
+
 ## Divination
 
 Divination is the act of sending a question out into the world, and waiting for a reply.
@@ -169,46 +209,6 @@ When a spell says “create an illusion”, it follows these rules:
 -   An illusion automatically disappears after 24 hours of not being maintained
     -   It is automatically maintained by direct sunlight
     -   You can maintain it by picturing it in your mind
-
-## Protection
-
-You can increase a creature’s defenses against certain types of damage and/or effects.
-
-### Resist
-
-When a spell says “grant [target] resist to…”, it follows these rules:
-
--   It costs 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
--   Resist reduces damage taken.
-    -   Damage Reduced Formula: 100/(100+resist)
-    -   Multiply this by the incoming damage, and you get the damage taken
-    -   (I stole this from League of Legends)
-    -   Ex: 100 resist halves the damage, 200 resist thirds the damage
--   Protection effects can stack
--   100 resist is known in DnD as “resistance”
--   Resist values can be negative
-    -   \-100 resist is known in DnD as “vulnerability”
--   Most creatures have base resist of 0
--   You can have resist in any of the single damage types
--   You can also have resist to the group damage types, which applies to each individual damage type in the group
-    -   weapon damage: bludgeoning, piercing, slashing
-    -   Elemental damage: acid, cold, lightning, poison, thunder
-    -   Magical damage: force, necrotic, psychic, radiant
--   You can have resist to each individual conditions that can be afflicted, such as charmed or frightened
--   You can also have resist to a group of conditions
-
-### Protection
-
-When a spell says “protect from…”, it follows these rules:
-
--   It costs 10 wyl to protect 1 creature or object from 1 effect for 1 hour
--   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
-
-### AC
-
-When a spell says “grant AC”, it follows these rules:
-
--   It costs 10 wyl to grant 1 creature or object 1 AC for 1 hour
 
 ## Telekinesis
 
