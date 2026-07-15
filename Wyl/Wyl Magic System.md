@@ -174,6 +174,8 @@ When a spell says “create an illusion”, it follows these rules:
 
 You can increase a creature’s defenses against certain types of damage and/or effects.
 
+### Resist
+
 When a spell says “grant [target] resist to…”, it follows these rules:
 
 -   It costs 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
@@ -195,10 +197,14 @@ When a spell says “grant [target] resist to…”, it follows these rules:
 -   You can have resist to each individual conditions that can be afflicted, such as charmed or frightened
 -   You can also have resist to a group of conditions
 
+### Protection
+
 When a spell says “protect from…”, it follows these rules:
 
 -   It costs 10 wyl to protect 1 creature or object from 1 effect for 1 hour
 -   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
+
+### AC
 
 When a spell says “grant AC”, it follows these rules:
 
