@@ -250,7 +250,9 @@ Spells that say “transform” do not effect the target.
 
 Shapeshifters are unable to change to or from their original form.
 
-Gelatinous or liquid beings that don’t have a set form are locked in their current arrangement of mass.
+Gelatinous, liquid, and gaseous beings that don’t have a set form are locked in their current arrangement of mass.
+
+Any transformation spells in the middle of casting on the target fail.
 
 # Shadow of Secrets
 
@@ -266,6 +268,6 @@ Divination spells cast from within the area always return “unknown”. Divinat
 
 **Transform** a creature into their original form.
 
-You must be holding a piece of them from their original form, like a piece of hair, blood, saliva, or dismembered limb.
+You must be holding a DNA reference from their original form.
 
-1AP: **Divine** their original form. If you divine their original form, you do not need a piece of their original form. If the transformation is over a year old, this divination returns “unknown”.
+1AP: **Divine** their original form. The answer can be used as a DNA reference. If the transformation is over 1 year old, this divination returns “unknown”.

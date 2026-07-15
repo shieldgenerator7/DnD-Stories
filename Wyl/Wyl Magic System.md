@@ -80,6 +80,7 @@ Enchantment is imbuing objects and creatures with magic and magically effects th
 Whenever a spell says “enchant”, it follows these rules:
 
 -   It costs 10 wyls to enchant 1kg of matter for 1 hour, plus the wyl cost of the effect
+-   It costs 1 wyl to enchant 1 square meter of area for 1 hour, plus the wyl cost of the effect
 -   When a spell says “certain creatures” or “certain objects”, you choose what qualifies when you cast the spell
     -   It can be creatures or objects of a certain type or with certain features
         -   This requires audio / visual of the target, which requires line of sight to work
@@ -256,26 +257,55 @@ Transformation is the act of turning one object or creature into another, or mod
 
 When a spell says “transform”, it follows these rules:
 
--   It costs 100 wyl to transform a creature or object that weighs 1kg into another, over the course of 1 hour
--   Conservation of mass: the transformation cant cause the resulting target to have a different mass than the original target
+-   It costs 100 wyl to transform or modify a creature or object that weighs 1kg into another, over the course of 1 hour
+-   Conservation of mass: the transformation can’t change the target’s mass or weight
 -   Volume: the transformation can change the target’s size and volume
 -   A creature’s physical magic resist may increase the wyl cost, decrease the effect, or increase the casting time
 -   Transformations take a long time to cast
-    -   If interrupted before they finish, all effects of the transformation automatically reverse over 1 hour
--   Successful transformations are permanent
-    -   However, the original form still can be determined, and the spell can be reversed, restoring the target to its original form, exactly as it was before the transformation. This only undoes the effects of the transformation.
--   A transformation spell can be cast to instead undo the effects that a previous casting of that same spell did.
-    -   The creature casting the undoing spell does not need to be the same creature that originally cast the spell
--   Many transformation spells that modify a creature require a piece of another creature as a DNA reference. Example, to give a creature wings, you would need a feather from a bird
--   A creature or object counts as magically imbued for 24 hours after the transformation is complete, during which time spells like Dispell Magic can reverse the transformation. Afterwards, the transformation can only be reversed by casting the same spell or the True Form spell. After 1 year, the transformation is permanent, and the original form can no longer be easily determined without a piece of the creature from before the transformation (eg, a hair from their original form).
--   When a creature transforms, their clothes and possessions don’t automatically merge into their form, change shape, or change size.
-    -   It is possible to do so, but it costs extra wyl
--   Clothes and the environment can restrict transformation options.
+    -   Initially, the target transforms over the course of 1 minute
+        -   This time cannot be reduced by increasing the wyl output
+    -   The spell requires concentration until the casting is permanent
+        -   It usually takes 1 hour for it to be permanent, but this varies with wyl output
+        -   If you stop casting before it becomes permanent, the effects instantly revert
+-   While transformed, the target is magically imbuedSuccessful transformations are permanent
+    -   The target is magically imbued for 24 hours afterwards
+    -   The target’s true form is easily divined from them for 1 year afterwards
+-   There must be space for the new form
     -   Ex: You can’t grow wings on your back while wearing a shirt.
     -   Ex: You can’t increase your size in a tiny jail cell
--   Transformation spells have no effect on illusions
--   Transformation spells that target hallucinations still cost the full amount of wyl, even though they only effect the caster’s copy of the hallucination
 -   Transformation spells can only target matter, such as solids, liquids, and gases
+    -   They can’t target light or energy
+    -   Transformation spells can target illusions (of a solid, liquid, or gas), but have no effect on them
+    -   Transformation spells that target hallucinations (of a solid, liquid, or gas) still cost the full amount of wyl, even if they only effect the caster’s copy of the hallucination
+-   Transformation spells that target a creature often require a DNA reference for the new form
+    -   EX: Growing wings might require a bird feather
+    -   The caster must hold or touch the DNA reference for the entire duration of the spell’s casting
+    -   The DNA reference may be held in a container, as long as it is visible through the container. Ex: bag, vial, jar, box, cage
+    -   Example DNA references:
+        -   Sheddables: hair, nail, hoof, claw, fur, feather, scale, antler, shell, leaf, tooth
+        -   Producables: saliva, milk, web, “milk” (male), sweat, venom, slime, fruit, pollen, spore, liquid waste, solid waste, gaseous waste
+        -   Extractables: blood, fat, organ, eye, limb, bone, horn, bark, root, tooth, tusk
+        -   A specimen, alive or dead
+    -   You may use Divination to find a DNA reference, and you must be thinking of the answer for the duration of the casting time
+-   Transformation spells may merge disconnected matter together as part of the transformation process.
+    -   EX: merging clothes into a creature, healing a dismembered limb back onto its nub
+    -   Merging a creature’s clothes into them is possible, but it does not happen automatically
+-   Countering a transformation spell: you can counter a transformation spell in the following ways:
+    -   Prevent the transformation
+        -   Hold Form protects the target from being transformed
+        -   Increase the target’s physical magic resist
+    -   Interrupt the casting
+        -   Remove the DNA reference for a creature transformation
+        -   Make the caster unable to see the target
+        -   Make the caster unable to concentrate
+        -   Hold Form the target
+        -   Confine the space around the target to restrict the transformation
+        -   Increase the target’s physical magic resist
+    -   Undo the transformation
+        -   Dispel Magic the target, if it is still magically imbued
+        -   Cast the same transformation spell on the target with the intention of undoing its effects
+        -   True Form the target, if the transformation is 1 year old or less
+        -   Transform the creature using a DNA reference of their original form
 
 # Spells
 
