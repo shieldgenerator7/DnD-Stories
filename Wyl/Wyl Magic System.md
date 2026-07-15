@@ -255,15 +255,17 @@ Transformation is the act of turning one object or creature into another, or mod
 
 When a spell says “transform”, it follows these rules:
 
--   It costs 1000 wyl to transform a creature or object that weighs 1kg into another
+-   It costs 100 wyl to transform a creature or object that weighs 1kg into another, over the course of 1 hour
 -   Conservation of mass: the transformation cant cause the resulting target to have a different mass than the original target
 -   Volume: the transformation can change the target’s size and volume
--   A creature’s physical magic resist may increase the wyl cost, decrease the effect, or decrease the duration
--   Transformations are likely to take longer than 1 round
+-   A creature’s physical magic resist may increase the wyl cost, decrease the effect, or increase the casting time
+-   Transformations take a long time to cast
 -   Successful transformations are permanent
     -   However, the original form still can be determined, and the spell can be reversed, restoring the target to its original form, exactly as it was before the transformation. This only undoes the effects of the transformation.
 -   A transformation spell can be cast to instead undo the effects that a previous casting of that same spell did.
-    -   The creature casting the undoing spell does not need to be the same creature that original cast the spell
+    -   The creature casting the undoing spell does not need to be the same creature that originally cast the spell
+-   Many transformation spells that modify a creature require a piece of another creature as a DNA reference. Example, to give a creature wings, you would need a feather from a bird
+-   A creature or object counts as magically imbued for 24 hours after the transformation is complete, during which time spells like Dispell Magic can reverse the transformation. Afterwards, the transformation can only be reversed by casting the same spell or the True Form spell. After 1 year, the transformation is permanent, and the original form can no longer be easily determined without a piece of the creature from before the transformation (eg, a hair from their original form).
 
 # Spells
 

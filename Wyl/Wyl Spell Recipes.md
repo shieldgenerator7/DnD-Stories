@@ -179,7 +179,7 @@ The pattern is made of shapes and colors, and can spell out words, create images
 
 # Mold Earth (Difficult Terrain)
 
-*75wyl ● 1AP ● 10m ● Instant*
+*4500wyl ● 1AP ● 10m ● Forever*
 
 **Transform** a normal patch of ground into difficult terrain.
 
