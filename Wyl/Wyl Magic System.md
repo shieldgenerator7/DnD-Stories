@@ -53,6 +53,7 @@ When a spell says “protect from…”, it follows these rules:
 
 -   It costs 10 wyl to protect 1 creature or object from 1 effect for 1 hour
 -   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
+-   When protecting an area, it costs 1wyl to protect 1 square meter from 1 effect for 1 hour
 
 ### AC
 
@@ -260,12 +261,21 @@ When a spell says “transform”, it follows these rules:
 -   Volume: the transformation can change the target’s size and volume
 -   A creature’s physical magic resist may increase the wyl cost, decrease the effect, or increase the casting time
 -   Transformations take a long time to cast
+    -   If interrupted before they finish, all effects of the transformation automatically reverse over 1 hour
 -   Successful transformations are permanent
     -   However, the original form still can be determined, and the spell can be reversed, restoring the target to its original form, exactly as it was before the transformation. This only undoes the effects of the transformation.
 -   A transformation spell can be cast to instead undo the effects that a previous casting of that same spell did.
     -   The creature casting the undoing spell does not need to be the same creature that originally cast the spell
 -   Many transformation spells that modify a creature require a piece of another creature as a DNA reference. Example, to give a creature wings, you would need a feather from a bird
 -   A creature or object counts as magically imbued for 24 hours after the transformation is complete, during which time spells like Dispell Magic can reverse the transformation. Afterwards, the transformation can only be reversed by casting the same spell or the True Form spell. After 1 year, the transformation is permanent, and the original form can no longer be easily determined without a piece of the creature from before the transformation (eg, a hair from their original form).
+-   When a creature transforms, their clothes and possessions don’t automatically merge into their form, change shape, or change size.
+    -   It is possible to do so, but it costs extra wyl
+-   Clothes and the environment can restrict transformation options.
+    -   Ex: You can’t grow wings on your back while wearing a shirt.
+    -   Ex: You can’t increase your size in a tiny jail cell
+-   Transformation spells have no effect on illusions
+-   Transformation spells that target hallucinations still cost the full amount of wyl, even though they only effect the caster’s copy of the hallucination
+-   Transformation spells can only target matter, such as solids, liquids, and gases
 
 # Spells
 
@@ -352,3 +362,7 @@ Cost: 0.01 wyl per statement
 <https://scrollforinitiative.com/2023/08/19/a-complete-guide-to-the-13-damage-types-in-dd-part-one/>
 
 -   Different damage type groups in DnD
+
+<https://qr.ae/pFkzEN>
+
+-   Arm weight: \~5.3% of body weight

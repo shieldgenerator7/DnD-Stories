@@ -2,6 +2,22 @@
 
 # === From DnD ===
 
+# Alter Self
+
+*10000wyl ● 1hr ● Self ● Forever*
+
+**Transform** yourself into a different form.
+
+This requires a DNA reference, such as scale, hair, fin. Touching a living creature also counts.
+
+For example, you can use a fish to adapt to an aquatic environment, gaining the ability to breathe underwater and gain a swimming speed.
+
+You could also change your appearance to look like someone from another race using a piece of their hair.
+
+You could also use a wolf fang to grow claws that count as natural weapons.
+
+This spell assumes you weigh 100kg or less.
+
 # Blade Ward
 
 *0.5wyl ● 1AP ● Self ● 1 round*
@@ -70,6 +86,18 @@ Create an **illusion** around yourself that makes you look different.
 This changes the appearance of your clothing, armor, weapons, and other belongings.
 
 You can appear up to 0.3m taller and up to 10cm fatter or thicker.
+
+# Fly
+
+*500wyl ● 1hr ● Touch ● Forever*
+
+**Transform** a creature’s arms into wings, granting them the ability to fly. They gain a flying speed of 60ft.
+
+They can still use their arms and hold things in their hands like normal.
+
+Alternatively, they can grow wings out of their back. Fat from their belly is used to make the wings. This option is often restricted by clothing.
+
+This spell requires a DNA reference from a flying species, such as a bird, butterfly, or dragon. The target grows wings similar to the reference.
 
 # Guidance
 
@@ -199,6 +227,17 @@ The patch of ground must be 1 square meter.
 
 **Grant +2 AC** to a creature.
 
+# Zone of Truth
+
+105wyl ● 1AP ● 20m ● 10min
+
+**Enchant** an area to detect lies. The area is a 5m radius sphere.
+
+Trigger: A creature in the area makes a statement.  
+Effect: The zone **divines** whether that creature believes what they are saying. Then it creates an **illusion** of a circle underneath the creature until it says another statement. The circle is green if the creature believes what they are saying, red if otherwise. Yellow if they partially believe what they are saying.
+
+The circle illusion follows them around the area. It disappears if they leave the area. The illusion is white if they haven’t made a statement since the last time they entered the area.
+
 # === Original to Wyl ===
 
 # Hold Form
@@ -212,6 +251,14 @@ Spells that say “transform” do not effect the target.
 Shapeshifters are unable to change to or from their original form.
 
 Gelatinous or liquid beings that don’t have a set form are locked in their current arrangement of mass.
+
+# Shadow of Secrets
+
+*135wyl ● 1AP ● 20m ● 1hr*
+
+**Protect** an area from divination. The area is a 3m radius sphere.
+
+Divination spells cast from within the area always return “unknown”. Divination spells cannot obtain information from anything in the area.
 
 # True Form
 
