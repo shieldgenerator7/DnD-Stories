@@ -563,7 +563,7 @@ Your spells are lucky. You gain the following Bond Affinity option:
 
 ### Lucky
 
-Luck is on your side. Whenever a d20 is rolled within your Cast Range, you may spend 1 MP to force it to be rerolled, and then the most recent value must be used. Subsequent uses on the same roll cost an extra 1 MP, cumulative. You may use this feature on the same roll a number of times up to your CM.
+Luck is on your side. Whenever a d20 is rolled within your Cast Range, you may roll any amount of additional d20s, spending 1 MP for each one. Then, you choose which d20 result among the ones you rolled to replace the original d20 result. This does not cost AP, but you may only use this feature once per round.
 
 ### Level 6 Subclass Features
 
@@ -571,14 +571,19 @@ Luck is on your side. Whenever a d20 is rolled within your Cast Range, you may s
 
 Natural luck comes to your aid. You regain 1 MP whenever:
 
--   You or an ally rolls a 20 on a d20 or crits on an attack roll that hits
--   An enemy creature rolls a 1 on a d20 or fumbles on an attack roll that misses
+### You or an ally rolls a 20 on a d20
+
+### You or an ally crits on an attack roll that hits
+
+### An enemy creature rolls a 1 on a d20
+
+### An enemy creature fumbles on an attack roll that misses
 
 ### Plot Armor
 
-No one can hurt you. Whenever you or another creature must make a Save, you may spend any number of MP to decrease the DC by 1 per MP spent.
+Your luck protects you from harm. Whenever you or another creature must make a Save, you may spend any number of MP to decrease the DC by 1 per MP spent. This does not cost AP.
 
-Additionally, whenever you are attacked, you may spend any number of MP to increase your PD or AD by the number of MP spent, until the start of your next turn.
+Additionally, whenever you are attacked or targeted by a spell that targets your PD or AD, you may spend any number of MP to increase your PD or AD by the number of MP spent, until the start of your next turn. This does not cost AP.
 
 ### Subclass Capstone Feature
 
