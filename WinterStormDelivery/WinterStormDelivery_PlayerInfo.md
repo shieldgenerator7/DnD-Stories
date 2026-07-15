@@ -475,7 +475,7 @@ If you cast this spell again, the previous effects fade away.
 
 Transmutation Cantrip
 
-1 action – 30ft range – S – Instantaneous
+1 bonus action – 30ft range – S – Instantaneous
 
 You choose a blob of snow within range, and magically compact it into a snowball. You then launch it at any target within 30ft of it. Make a ranged spell attack on the target. On a hit, deal 1d4 + spellcasting ability modifier cold damage.
 
@@ -645,3 +645,15 @@ Your focus in battle is nigh-unshakable, granting you the following benefits.
 -   When you roll for initiative, you can use your reaction to cast hunter’s mark. Once you use this feature, you cannot do so again until you finish a short or long rest.
 -   You have advantage on Constitution saving throws to maintain concentration on your ranger spells.
 -   If the target of your hunter’s mark 0 hit points before the spell ends, you can use a reaction to mark a new creature. You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
+
+## Conditions
+
+### Freezing Condition
+
+Source: DM’s Secret Weapon, Issue \#20
+
+-   A creature with the freezing condition has disadvantage on dexterity-based attack rolls and saving throws, cannot make opportunity attacks, has a -2 penalty to its AC, a -10 foot penalty to its movement speed, and gains one point of exhaustion each hour.
+-   Creatures with a resistance to cold damage make saves to resist the freezing condition at advantage, and creatures with an immunity to cold damage are immune to the freezing condition.
+-   A creature who spends 10 minutes warming themselves from a sufficient source of heat can end the freezing condition on themselves. Moving to a warm location, such as a heated tavern sheltered from the elements, will also end the condition after 10 minutes.
+
+(A Note On Fire Damage: A GM might consider an optional rule to end the freezing condition for a creature if that creature takes sufficient fire damage, or is set on fire. If so, it is recommended that the creature take fire damage at least once per turn, every turn, for 10 rounds to end the condition. A simple firebolt spell will be insufficient to rid the target of the deep, bone-aching chill of the freezing condition.)
