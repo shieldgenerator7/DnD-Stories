@@ -6,7 +6,7 @@
 
 *0.5wyl ● 1AP ● Self ● 1 round*
 
-**Gain 100 resist** to weapon damage.
+**Grant** yourself **100 resist** to weapon damage.
 
 This lasts until the end of your next turn.
 
@@ -47,7 +47,7 @@ The spell ends at the end of your next turn.
 
 *1wyl ● 1AP ● 200m ● 1hr*
 
-You **divine** the translation of any spoken or written words you hear or see from any source language into a destination language you know.
+**Divine** the translation of any spoken or written words you hear or see from any source language into a destination language you know.
 
 There must be a creature in range who knows both the source language and the destination language. Otherwise, if the words are spoken and the source is a creature within range, or the words are written and the author is a creature within range, you get images of what the meaning is. Otherwise, you get an “unknown”.
 
@@ -57,7 +57,7 @@ If you try to use this spell to decode a secret message that isn’t part of a s
 
 *0.0062wyl ● 1AP ● 10m ● 10min*
 
-You **divine** the location of magic-imbued objects and creatures.
+**Divine** the location of magic-imbued objects and creatures.
 
 1wyl, 1AP: **Hallucinate** a faint aura around a magic-imbued creature or object, which tells you some info about the nature of the magic imbued in it. The target must be visible.
 

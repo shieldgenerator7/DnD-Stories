@@ -174,7 +174,7 @@ When a spell says “create an illusion”, it follows these rules:
 
 You can increase a creature’s defenses against certain types of damage and/or effects.
 
-When a spell says “gain resist to…”, it follows these rules:
+When a spell says “grant [target] resist to…”, it follows these rules:
 
 -   It costs 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
 -   Resist reduces damage taken.
@@ -200,7 +200,7 @@ When a spell says “protect from…”, it follows these rules:
 -   It costs 10 wyl to protect 1 creature or object from 1 effect for 1 hour
 -   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
 
-When a spell says “gain AC” or “grant AC”, it follows these rules:
+When a spell says “grant AC”, it follows these rules:
 
 -   It costs 10 wyl to grant 1 creature or object 1 AC for 1 hour
 
@@ -208,7 +208,7 @@ When a spell says “gain AC” or “grant AC”, it follows these rules:
 
 Telekinesis is the ability to move an object at range with your mind.
 
-When a spell says “a creature telekinetically…”, it follows these rules:
+When a spell says “a creature telekinetically moves…”, it follows these rules:
 
 -   It costs 1 wyl to move 1kg of mass 1 meter
 -   A creature’s magic resist decreases how far you can move it and/or increases the wyl cost of doing so
@@ -255,7 +255,7 @@ When a spell says “transform”, it follows these rules:
 -   A creature’s physical magic resist may increase the wyl cost, decrease the effect, or decrease the duration
 -   Transformations are likely to take longer than 1 round
 -   Successful transformations are permanent
-    -   However, the original version still can be determined, and the spell can be reversed, restoring the target to its original form, exactly as it was before the transformation. This only undoes the effects of the transformation.
+    -   However, the original form still can be determined, and the spell can be reversed, restoring the target to its original form, exactly as it was before the transformation. This only undoes the effects of the transformation.
 -   A transformation spell can be cast to instead undo the effects that a previous casting of that same spell did.
     -   The creature casting the undoing spell does not need to be the same creature that original cast the spell
 
