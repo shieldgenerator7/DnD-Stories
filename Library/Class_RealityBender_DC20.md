@@ -953,8 +953,8 @@ These effects are bound by your Spell Duration and Tether Range.
 
 You learn to protect yourself from your own element. You gain Resistance (X) to your element, where X is your CM. Additionally, you gain the following reaction:
 
-**Elemental Armor  
-**Trigger: You would take damage of your elemental type.  
+**Elemental Armor**
+Trigger: You would take damage of your elemental type.  
 Reaction: You spend 2 MP to grant yourself Immunity to it, or you spend 5 MP to grant yourself Absorption to it.
 
 ### Elemental Piercing
