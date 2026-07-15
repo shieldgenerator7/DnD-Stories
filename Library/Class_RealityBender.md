@@ -74,6 +74,8 @@ This body part can be used as your spell casting focus for spells in your bonded
 
 When you cast spells, this body part glows, shedding dim light in a 5ft radius. You may choose the color of the glow when you choose the body part.
 
+You can use your body part spellcasting focus to cast spells even when you are grappled or paralyzed.
+
 ## Casting Spells
 
 The class table shows how many spell points you have to cast your cantrips and spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points based on the level you wish to cast the spell at, according to the table below. You regain all expended spell points when you finish a long rest.
@@ -366,6 +368,8 @@ You cannot use your action to dismiss one of your Permanent spells. Instead, you
 You may not move a Permanent spell after casting it, even if the spell specifically states that you can.
 
 Permanent spells don’t require concentration. Permanent spells do not dissipate automatically when you leave the plane, fall asleep, go unconscious, or die.
+
+If a Permanent spell has a duration of Instantaneous or 1 round, it does its effect at the initial time of casting only. For the rest of the duration, the spell is active but has no effect.
 
 Permanent spells are resistant to being countered and dispelled. If a creature attempts to counter it or dispel it, they must make a spellcasting ability check with a DC equal to your spellcasting ability modifier. On a success, they counter or dispel the spell, provided the other conditions are met. On a failure, the Permanent spell still stands.
 
