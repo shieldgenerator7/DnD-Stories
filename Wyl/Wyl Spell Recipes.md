@@ -198,3 +198,27 @@ Protect yourself from the spell Magic Missile. Grant +5 AC to yourself.
 *4wyl 1AP 20m 10min*
 
 Grant +2 AC to a creature.
+
+# === Original to Wyl ===
+
+# Hold Form
+
+*10wyl ● 1AP ● 10m ● 1hr*
+
+Protect a creature or object from having its shape changed.
+
+Spells that say “transform” do not effect the target.
+
+Shapeshifters are unable to change to or from their original form.
+
+Gelatinous or liquid beings that don’t have a set form are locked in their current arrangement of mass.
+
+# True Form
+
+*100wyl ● 1hr ● Touch ● Forever*
+
+Transform a creature into their original form.
+
+You must be holding a piece of them from their original form, like a piece of hair, blood, saliva, or dismembered limb.
+
+1AP: Divine their original form. If you divine their original form, you do not need a piece of their original form. If the transformation is over a year old, this divination returns “unknown”.
