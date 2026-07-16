@@ -1,21 +1,5 @@
 # Wyl Magic System
 
-This is an alternative to the spell slot system.
-
-“Wyl” is a unit of measurement that describes magical output. It takes 1 wyl to move 1 kg of matter 1 meter. So, to move a person that weighs 200lbs (90.7kg) 5m, it would take (90.7 x 5 =) 453.5 wyls.
-
-Everyone in this system has mana, and they spend that mana to convert it to wyls to make the magic system do what they want. An average level spellcaster has a mana:wyl conversion ratio of 1. Melee fighters have a lower ration, like 0.1 (meaning they have to spend 10 mana to output 1 wyl). High level wizards have a power ratio of 10 (meaning they spend 1 mana to output 10 wyls).
-
-Spells are more flexible with this system. Each spell has a base wyl requirement, plus wyl ratios for each part. Plus, since wyl is a standard unit of measurement, the wyl requirement of a spell can be determined just looking at the spell’s description even if it doesn’t tell you the requirement (youd have to know the system well to do it without the hints tho)
-
-So each other thing we want to do with magic, its requirement can be determined using this base.
-
--   Raise/lower temperature: 1 cubic meter of water by 1 degree Celsius: 4000000 wyls
-
-Ok that’s a lot. That’s using real word physics calculations. Basically taking the metric system’s Joule and calling it “wyl” instead. But it doesn’t feel right for a magic system to require that much to heat water like that.
-
-Range. Every spell has effectively infinite range, except that it requires more at longer ranges. Base requirements assume range of touch. Touch range has no extra requirement. Within 10 meters, the requirement is multiplied by x1.1, within 20 meters: x1.2, within 30 meters: x1.3, and so on.
-
 # Introduction
 
 In this world, magic is everywhere. It created the world, and lots of things in the world run on magic.
@@ -524,6 +508,26 @@ You can tell if a creature is lying. You telepathically read the truth value of 
 Requirement: 0.01 wyl per statement
 
 # Discussion
+
+=== Wyl Magic System ===
+
+This is an alternative to the spell slot system.
+
+“Wyl” is a unit of measurement that describes magical output. It takes 1 wyl to move 1 kg of matter 1 meter. So, to move a person that weighs 200lbs (90.7kg) 5m, it would take (90.7 x 5 =) 453.5 wyls.
+
+Everyone in this system has mana, and they spend that mana to convert it to wyls to make the magic system do what they want. An average level spellcaster has a mana:wyl conversion ratio of 1. Melee fighters have a lower ration, like 0.1 (meaning they have to spend 10 mana to output 1 wyl). High level wizards have a power ratio of 10 (meaning they spend 1 mana to output 10 wyls).
+
+Spells are more flexible with this system. Each spell has a base wyl requirement, plus wyl ratios for each part. Plus, since wyl is a standard unit of measurement, the wyl requirement of a spell can be determined just looking at the spell’s description even if it doesn’t tell you the requirement (youd have to know the system well to do it without the hints tho)
+
+So each other thing we want to do with magic, its requirement can be determined using this base.
+
+• Raise/lower temperature: 1 cubic meter of water by 1 degree Celsius: 4000000 wyls
+
+Ok that’s a lot. That’s using real word physics calculations. Basically taking the metric system’s Joule and calling it “wyl” instead. But it doesn’t feel right for a magic system to require that much to heat water like that.
+
+Range. Every spell has effectively infinite range, except that it requires more at longer ranges. Base requirements assume range of touch. Touch range has no extra requirement. Within 10 meters, the requirement is multiplied by x1.1, within 20 meters: x1.2, within 30 meters: x1.3, and so on.
+
+=== Magic Rules ===
 
 One thing that bothers me about DnD is that different spells that have similar effects have different rules for how they operate. I cant think of any examples. But there are lots of spells that have similar effects that all work the same way, and have to repeat the rules in the spell text. This is like the Magic the Gathering vs YuGiOh problem, do you use keywords or just repeat the text everywhere? I prefer having keywords. So, the common rules for each spell will be defined in a common place, that all spells using those rules can refer to.
 
