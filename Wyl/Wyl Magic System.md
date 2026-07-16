@@ -6,15 +6,15 @@ This is an alternative to the spell slot system.
 
 Everyone in this system has mana, and they spend that mana to convert it to wyls to make the magic system do what they want. An average level spellcaster has a mana:wyl conversion ratio of 1. Melee fighters have a lower ration, like 0.1 (meaning they have to spend 10 mana to output 1 wyl). High level wizards have a power ratio of 10 (meaning they spend 1 mana to output 10 wyls).
 
-Spells are more flexible with this system. Each spell has a base wyl requirement, plus wyl ratios for each part. Plus, since wyl is a standard unit of measurement, the wyl cost of a spell can be determined just looking at the spell’s description even if it doesn’t tell you the cost (youd have to know the system well to do it without the hints tho)
+Spells are more flexible with this system. Each spell has a base wyl requirement, plus wyl ratios for each part. Plus, since wyl is a standard unit of measurement, the wyl requirement of a spell can be determined just looking at the spell’s description even if it doesn’t tell you the requirement (youd have to know the system well to do it without the hints tho)
 
-So each other thing we want to do with magic, its cost can be determined using this base.
+So each other thing we want to do with magic, its requirement can be determined using this base.
 
 -   Raise/lower temperature: 1 cubic meter of water by 1 degree Celsius: 4000000 wyls
 
-Ok that’s a lot. That’s using real word physics calculations. Basically taking the metric system’s Joule and calling it “wyl” instead. But it doesn’t feel right for a magic system to cost that much to heat water like that.
+Ok that’s a lot. That’s using real word physics calculations. Basically taking the metric system’s Joule and calling it “wyl” instead. But it doesn’t feel right for a magic system to require that much to heat water like that.
 
-Range. Every spell has effectively infinite range, except that it costs more at longer ranges. Base costs assume range of touch. Touch range has no extra cost. Within 10 meters, the cost is multiplied by x1.1, within 20 meters: x1.2, within 30 meters: x1.3, and so on.
+Range. Every spell has effectively infinite range, except that it requires more at longer ranges. Base requirements assume range of touch. Touch range has no extra requirement. Within 10 meters, the requirement is multiplied by x1.1, within 20 meters: x1.2, within 30 meters: x1.3, and so on.
 
 # Magic Genera
 
@@ -28,7 +28,7 @@ You can increase a creature’s defenses against certain types of damage and/or 
 
 When a spell says “grant [target] resist to…”, it follows these rules:
 
--   It costs 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
+-   It requires 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
 -   Resist reduces damage taken.
     -   Damage Reduced Formula: 100/(100+resist)
     -   Multiply this by the incoming damage, and you get the damage taken
@@ -51,15 +51,15 @@ When a spell says “grant [target] resist to…”, it follows these rules:
 
 When a spell says “protect from…”, it follows these rules:
 
--   It costs 10 wyl to protect 1 creature or object from 1 effect for 1 hour
+-   It requires 10 wyl to protect 1 creature or object from 1 effect for 1 hour
 -   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
--   When protecting an area, it costs 1wyl to protect 1 square meter from 1 effect for 1 hour
+-   When protecting an area, it requires 1wyl to protect 1 square meter from 1 effect for 1 hour
 
 ### AC
 
 When a spell says “grant AC”, it follows these rules:
 
--   It costs 10 wyl to grant 1 creature or object 1 AC for 1 hour
+-   It requires 10 wyl to grant 1 creature or object 1 AC for 1 hour
 
 ## Divination
 
@@ -67,7 +67,7 @@ Divination is the act of sending a question out into the world, and waiting for 
 
 When a spell says “you divine…”, it follows these rules:
 
--   It costs 100 wyls per question. More for hard questions, less for easy questions
+-   It requires 100 wyls per question. More for hard questions, less for easy questions
     -   It assumes 100mi range
 -   It takes time to answer. Asking the question takes 1 round, and you receive the answer 1 round later. Even later for hard questions, instantly for easy questions.
 -   Some spells have continual effects. These spells are constantly asking the question and getting a reply. Often the answer is 1 round behind in cases that require real time updates.
@@ -79,8 +79,8 @@ Enchantment is imbuing objects and creatures with magic and magically effects th
 
 Whenever a spell says “enchant”, it follows these rules:
 
--   It costs 10 wyls to enchant 1kg of matter for 1 hour, plus the wyl cost of the effect
--   It costs 1 wyl to enchant 1 square meter of area for 1 hour, plus the wyl cost of the effect
+-   It requires 10 wyls to enchant 1kg of matter for 1 hour, plus the wyl requirement of the effect
+-   It requires 1 wyl to enchant 1 square meter of area for 1 hour, plus the wyl requirement of the effect
 -   When a spell says “certain creatures” or “certain objects”, you choose what qualifies when you cast the spell
     -   It can be creatures or objects of a certain type or with certain features
         -   This requires audio / visual of the target, which requires line of sight to work
@@ -93,7 +93,7 @@ Whenever a spell says “enchant”, it follows these rules:
 -   When a spell says “certain conditions”, you choose what conditions make it qualify when you cast the spell
     -   The target must have some way of sensing the conditions, either by sight, sound, smell, taste, touch, temperature, and/or magnetic field
 -   If the enchanted object / creature is destroyed / killed, the enchantment automatically ends
--   A creature’s magic resist can increase the wyl cost of the enchantment, decrease the potency of the effects, and/or decrease the duration
+-   A creature’s magic resist can increase the wyl requirement of the enchantment, decrease the potency of the effects, and/or decrease the duration
 -   Enchanting objects and creatures usually takes longer than 1 round, if imbuing them with an effect that can be triggered
 
 ## Conjuration
@@ -120,9 +120,9 @@ Whenever a spell says “conjure”, it means create the object out of magic, fo
 -   When a conjured object is killed or destroyed, it vanishes in a poof of magic, leaving behind no debris
     -   If it had become permanent, then it leaves behind pieces / debris appropriate to its kind of object
 -   A volatile conjured object can be made permanent
-    -   It costs an additional 1000 wyls to turn a volatile conjured object (1 cubic meter, 1kg) into a magically imbued permanent object
+    -   It requires an additional 1000 wyls to turn a volatile conjured object (1 cubic meter, 1kg) into a magically imbued permanent object
     -   It remains magically imbued for 1 year afterwards.
-    -   It costs another additional 1000 wyls (1 cubic meter, 1kg) to make the magically imbued permanent object no longer magically imbued
+    -   It requires another additional 1000 wyls (1 cubic meter, 1kg) to make the magically imbued permanent object no longer magically imbued
     -   You or another creature may output the additional wyl to make the object permanent
 
 ## Hallucination
@@ -143,15 +143,15 @@ When a spell says “a creature hallucinates”, it follows these rules:
     -   Temperature
 -   If you target a sense that the creature doesn’t have, it still uses the wyl, but the creature doesn’t sense it using that sense.
 -   A hallucination is effected by a creature’s magic resist
-    -   The resistance increases the wyl cost of the hallucination
+    -   The resistance increases the wyl requirement of the hallucination
     -   The hallucination’s effectiveness isn’t changed
     -   The magic resist effects “how real it feels” to the creature
 -   A hallucination can make something appear that is not there, and can make something undetectable by a sense even it normally would be
 -   Once a hallucination is implanted in a creature’s mind, it is controlled by how the creature expects it to be behave as if it was real, and not by you
     -   If you maintain a telepathic link to the creature, you can direct the hallucination
-        -   Each time you direct it, it costs wyl in each sense it is in
+        -   Each time you direct it, it requires wyl in each sense it is in
         -   If you direct the hallucination in a way that doesn’t make sense to the creature, it may more easily determine its nature as an hallucination
-        -   The creature’s magic resist effects the cost of each direction
+        -   The creature’s magic resist effects the requirement of each direction
     -   If the creature has no knowledge of how the hallucinatory creature behaves, it behaves according to the creature’s feelings of it when they encounter it
         -   If they feel good about it, the hallucination is friendly
         -   If they feel neutral about it, the hallucination may ignore them
@@ -216,7 +216,7 @@ When a spell says “create an illusion”, it follows these rules:
 -   After casting an illusion, you may focus on it
     -   While you are focusing on it, you can make changes to it, move it, and animate it
     -   While you are not focusing on it, it remains motionless, or repeats the last few seconds of its most recent animation
-    -   It costs 1 AP per turn to animate it
+    -   It requires 1 AP per turn to animate it
 -   Illusions cant interact with the environment, and the environment cant interact with it
 -   You can make an illusion move relative to a creature, object, or point in space.
 -   Visual illusions block line of sight
@@ -234,8 +234,8 @@ Telekinesis is the ability to move an object at range with your mind.
 
 When a spell says “a creature telekinetically moves…”, it follows these rules:
 
--   It costs 1 wyl to move 1kg of mass 1 meter
--   A creature’s magic resist decreases how far you can move it and/or increases the wyl cost of doing so
+-   It requires 1 wyl to move 1kg of mass 1 meter
+-   A creature’s magic resist decreases how far you can move it and/or increases the wyl requirement of doing so
 -   You can move things even if you can’t sense them, but there is a chance of failure
 -   You don’t automatically gain senses of an object you move, so if you can’t sense it you might not be moving it in the way you think you are
 -   Unless you specifically make it do so, the object doesn’t rotate, and resists being rotated by outside forces
@@ -251,7 +251,7 @@ Telepathy is the ability to send thoughts to another creature’s mind or receiv
 
 When a spell says “a creature telepathically…”, it follows these rules:
 
--   It costs 0.01 wyl to send a thought to 1 creature for 1 round
+-   It requires 0.01 wyl to send a thought to 1 creature for 1 round
 -   A telepathic link must be able to be established, even if only for an instant
     -   This is typically easy, but can be blocked by certain conditions / effects
 -   You must be able to target the creature
@@ -273,10 +273,10 @@ Transformation is the act of turning one object or creature into another, or mod
 
 When a spell says “transform”, it follows these rules:
 
--   It costs 100 wyl to transform or modify a creature or object that weighs 1kg into another, over the course of 1 hour
+-   It requires 100 wyl to transform or modify a creature or object that weighs 1kg into another, over the course of 1 hour
 -   Conservation of mass: the transformation can’t change the target’s mass or weight
 -   Volume: the transformation can change the target’s size and volume
--   A creature’s physical magic resist may increase the wyl cost, decrease the effect, or increase the casting time
+-   A creature’s physical magic resist may increase the wyl requirement, decrease the effect, or increase the casting time
 -   Transformations take a long time to cast
     -   Initially, the target transforms over the course of 1 minute
         -   This time cannot be reduced by increasing the wyl output
@@ -292,7 +292,7 @@ When a spell says “transform”, it follows these rules:
 -   Transformation spells can only target matter, such as solids, liquids, and gases
     -   They can’t target light or energy
     -   Transformation spells can target illusions (of a solid, liquid, or gas), but have no effect on them
-    -   Transformation spells that target hallucinations (of a solid, liquid, or gas) still cost the full amount of wyl, even if they only effect the caster’s copy of the hallucination
+    -   Transformation spells that target hallucinations (of a solid, liquid, or gas) still require the full amount of wyl, even if they only effect the caster’s copy of the hallucination
 -   Transformation spells that target a creature often require a DNA reference for the new form
     -   EX: Growing wings might require a bird feather
     -   The caster must hold or touch the DNA reference for the entire duration of the spell’s casting
@@ -331,13 +331,13 @@ Here’s some example spells.
 
 Blind a creature. Create an illusion of a black bubble around their head.
 
-Cost: 1 wyl
+Requirement: 1 wyl
 
 ## Blind (Eye Patch)
 
 Blind a creature. Conjure an eye patch for each eye, attached to the area around the eye. This eye patch goes over the eyelid but under any other gear the creature is wearing.
 
-Cost: 0.0001 wyls per eye
+Requirement: 0.0001 wyls per eye
 
 *Reminder: This is a conjuration, so you have to keep looking at it to maintain it. But if the creature turns their back to you, you can’t, and the eyepatch may fade away.*
 
@@ -345,7 +345,7 @@ Cost: 0.0001 wyls per eye
 
 Blind a creature. That creature hallucinates your hands covering its eyes.
 
-Cost: 1 wyl per round
+Requirement: 1 wyl per round
 
 *Reminder: This is a hallucination, so if the creature stops thinking about it, it disappears.*
 
@@ -353,19 +353,19 @@ Cost: 1 wyl per round
 
 You create an illusion of a creature following you. It can be any creature, and it walks behind you, following you wherever you go. Its footsteps make sounds appropriate for its type and the surface it’s walking on or through. It responds to you with body language or unintelligible utterances.
 
-Cost: 3 wyls
+Requirement: 3 wyls
 
 ## Invisibility
 
 Creatures around you hallucinate that you aren’t there. They are unable to see you, but can still detect you through other senses.
 
-Cost: 1 wyl per creature per round
+Requirement: 1 wyl per creature per round
 
 ## Phantasmal Guard
 
 You create an illusion of a guard. You may telepathically link to a creature to find out the creature type it is most scared of, and make the guard that type of creature.
 
-Cost: 3.03 wyls
+Requirement: 3.03 wyls
 
 Spend any amount of mana to get the initial wyl output. Then reduce it by the target’s mental magic resist. Do the effect corresponding to the remaining amount of wyls, including all lower tiers:
 
@@ -383,7 +383,7 @@ Spend any amount of mana to get the initial wyl output. Then reduce it by the ta
 
 You can tell if a creature is lying. You telepathically read the truth value of the creature’s statements.
 
-Cost: 0.01 wyl per statement
+Requirement: 0.01 wyl per statement
 
 # Discussion
 
