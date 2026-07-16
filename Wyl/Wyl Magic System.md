@@ -111,48 +111,48 @@ Ex: A creature has 200 fire resist, and you want to effect the creature with 36w
 
 # Magic Genera
 
-Each magic spell is categorized into a Magic Genus, which describes the base rules for how a spell of that type behaves. Aspell can belong to more than one genus, and spells of different genera can possibly have similar effects.
+Each magic spell is categorized into a Magic Genus, which describes the base rules for how a spell of that type behaves. A spell can belong to more than one genus, and spells of different genera can possibly have similar effects.
 
 ## Abjuration
 
-You can increase a creature’s defenses against certain types of damage and/or effects.
+Abjuration reduces the chance of being damaged and effected by crow control, and reduces the amount of damage done, and the duration and effectiveness of crowd control.
 
 ### Resist
 
 When a spell says “grant [target] resist to…”, it follows these rules:
 
--   It requires 1 wyl to grant a creature 1 resist to 1 type of damage for 1 hour
+-   It requires 1wyl to grant 1 creature or object 1 resist to 1 type of damage or effect for 1 hour
 -   Resist reduces damage taken.
-    -   Damage Reduced Formula: 100/(100+resist)
-    -   Multiply this by the incoming damage, and you get the damage taken
+    -   Resist ratio = `100 / (100 + resist)`
+    -   Multiply the resist ratio by the incoming damage, and you get the damage taken
     -   (I stole this from League of Legends)
     -   Ex: 100 resist halves the damage, 200 resist thirds the damage
 -   Protection effects can stack
--   100 resist is known in DnD as “resistance”
+-   100 resist is known in DnD as simply “resistance”
 -   Resist values can be negative
     -   \-100 resist is known in DnD as “vulnerability”
 -   Most creatures have base resist of 0
 -   You can have resist in any of the single damage types
--   You can also have resist to the group damage types, which applies to each individual damage type in the group
+-   You can also have resist to the group damage types, which applies to each individual damage type in the group. Group damage types require the same as all their individual types combined (ex: weapon damage requires 3wyl).
     -   weapon damage: bludgeoning, piercing, slashing
     -   Elemental damage: acid, cold, lightning, poison, thunder
     -   Magical damage: force, necrotic, psychic, radiant
 -   You can have resist to each individual conditions that can be afflicted, such as charmed or frightened
--   You can also have resist to a group of conditions
+-   You can also have resist to a group of conditions. Group conditions require the same as all their individual conditions combined.
 
 ### Protection
 
 When a spell says “protect from…”, it follows these rules:
 
--   It requires 10 wyl to protect 1 creature or object from 1 effect for 1 hour
--   If you protect the target from a certain spell, they automatically succeed any saving throws in the spell, and they are not effected by it at all, do not take any damage from it, and are not effected.
+-   It requires 10wyl to protect 1 creature or object from 1 effect for 1 hour
+-   If you protect the target from a certain spell, Magic Genus, or spell tag, the target automatically succeeds any saving throws in the spell, does not take any damage from the spell, and is not effected by the spell at all
 -   When protecting an area, it requires 1wyl to protect 1 square meter from 1 effect for 1 hour
 
 ### AC
 
 When a spell says “grant AC”, it follows these rules:
 
--   It requires 10 wyl to grant 1 creature or object 1 AC for 1 hour
+-   It requires 10wyl to grant 1 creature or object 1 AC for 1 hour
 
 ## Divination
 
