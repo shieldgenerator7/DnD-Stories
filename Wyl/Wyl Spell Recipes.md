@@ -39,7 +39,7 @@ Upgrades:
 
 # Change Appearance (Alter Self)
 
-10000wyl, 1hr → Self, Forever
+10000wyl, 1hr → Self
 
 **Transform** yourself to look like another creature. You decide what features to adopt, including the height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any, of the creature.
 
@@ -93,7 +93,7 @@ You can appear up to 0.3m taller and up to 10cm fatter or thicker.
 
 # Dispel Magic
 
-*100wyl, 1AP → 40m, Instant, Prime*
+*100wyl, 1AP → 40m, Prime*
 
 End an ongoing spell, or make a magically imbued object no longer magically imbued.
 
@@ -105,7 +105,7 @@ If the object was magically imbued as a result of being recently conjured, the o
 
 # Fly
 
-*500wyl, 1hr → Touch, Forever*
+*500wyl, 1hr → Touch*
 
 **Transform** a creature’s arms into wings, granting them the ability to fly. They gain a flying speed of 60ft.
 
@@ -207,7 +207,7 @@ The hand can’t attack or activate magical items.
 
 # Magic Missile
 
-*100wyl, 1AP → 40m, Instant*
+*100wyl, 1AP → 40m*
 
 You create three glowing darts of magical force. Each dart targets a creature, dealing 1d4 + 1 force damage.
 
@@ -215,7 +215,7 @@ The darts all strike simultaneously and you can direct them to hit one creature 
 
 # Mold Earth (Excavate)
 
-*1500wyl, 1AP → 10m, Instant*
+*1500wyl, 1AP → 10m*
 
 **Telekinetically** move a cubic meter of loose earth 1m away.
 
@@ -231,7 +231,7 @@ The pattern is made of shapes and colors, and can spell out words, create images
 
 # Mold Earth (Difficult Terrain)
 
-*4500wyl, 1AP → 10m, Forever*
+*4500wyl, 1AP → 10m*
 
 **Transform** a normal patch of ground into difficult terrain.
 
@@ -241,7 +241,7 @@ The patch of ground must be 1 square meter.
 
 # Natural Weapons (Alter Self)
 
-10000wyl, 1hr → Self, Forever
+10000wyl, 1hr → Self
 
 **Transform** yourself to grow a natural weapon of your choice. You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
 
