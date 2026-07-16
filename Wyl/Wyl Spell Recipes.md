@@ -2,17 +2,13 @@
 
 # === From DnD ===
 
-# Alter Self
+# Aquadatic Adaption (Alter Self)
 
 *10000wyl ● 1hr ● Self ● Forever*
 
-**Transform** yourself into a different form. The form you get depends on the DNA reference used.
+**Transform** yourself to adapt to an aquatic environment, sprouting gills growing webbing between your fingers. You gain the ability to breathe underwater and a swimming speed equal to your walking speed.
 
-For example, you can use a fish to adapt to an aquatic environment, gaining the ability to breathe underwater and gain a swimming speed.
-
-You could also change your appearance to look like someone from another race using a piece of their hair.
-
-You could also use a wolf fang to grow claws that count as natural weapons.
+This spell requires a DNA reference of an aquatic species, such as a fish.
 
 This spell assumes you weigh 100kg or less.
 
@@ -40,6 +36,16 @@ Each creature must weigh 100kg or less. The weak point or spot of safety must be
 Upgrades:
 
 \+2wyl: Target 1 additional creature.
+
+# Change Appearance (Alter Self)
+
+10000wyl ● 1hr ● Self ● Forever
+
+**Transform** yourself to look like another creature. You decide what features to adopt, including the height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any, of the creature.
+
+This spell requires a DNA reference of the other creature. The creature can be from another race, though none of your statistics change. This spell doesn’t allow you to copy the creature’s size nor its basic shape; if you're bipedal, you can’t use this spell to become quadrupedal, for instance.
+
+This spell assumes you weigh 100kg or less.
 
 # Color Spray
 
@@ -212,6 +218,18 @@ The pattern is made of shapes and colors, and can spell out words, create images
 Alternatively, you can **transform** a patch of difficult terrain into normal ground.
 
 The patch of ground must be 1 square meter.
+
+# Natural Weapons (Alter Self)
+
+10000wyl ● 1hr ● Self ● Forever
+
+**Transform** yourself to grow a natural weapon of your choice. You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
+
+Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, while you are magically imbued by this spell, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+
+This spell requires a DNA reference of a creature that has the natural weapon you chose.
+
+This spell assumes you weigh 100kg or less.
 
 # Shield
 
