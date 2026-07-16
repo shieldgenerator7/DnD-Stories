@@ -4,7 +4,7 @@
 
 # Aquadatic Adaption (Alter Self)
 
-*10000wyl ● 1hr ● Self ● Forever*
+*10000wyl, 1hr → Self*
 
 **Transform** yourself to adapt to an aquatic environment, sprouting gills growing webbing between your fingers. You gain the ability to breathe underwater and a swimming speed equal to your walking speed.
 
@@ -14,7 +14,7 @@ This spell assumes you weigh 100kg or less.
 
 # Blade Ward
 
-*0.5wyl ● 1AP ● Self ● 1 round*
+*0.5wyl, 1AP → Self, 1 round*
 
 **Grant** yourself **100 resist** to weapon damage.
 
@@ -24,7 +24,7 @@ This lasts until the end of your next turn.
 
 # Bless
 
-*5wyl ● 1AP ● 10m ● 1min*
+*5wyl, 1AP → 10m, 1min*
 
 **Enchant** up to 3 creatures with the ability to target weak points and spots of safety.
 
@@ -39,7 +39,7 @@ Upgrades:
 
 # Change Appearance (Alter Self)
 
-10000wyl ● 1hr ● Self ● Forever
+10000wyl, 1hr → Self, Forever
 
 **Transform** yourself to look like another creature. You decide what features to adopt, including the height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any, of the creature.
 
@@ -49,7 +49,7 @@ This spell assumes you weigh 100kg or less.
 
 # Color Spray
 
-*1wyl ● 1AP ● Self ● 1 round*
+*1wyl, 1AP → Self, 1 round*
 
 Create an **illusion** of a bedazzling spray of colored sand, which blind a creature.
 
@@ -65,7 +65,7 @@ The spell ends at the end of your next turn.
 
 # Comprehend Languages
 
-*1wyl ● 1AP ● 200m ● 1hr*
+*1wyl, 1AP → 200m, 1hr*
 
 **Divine** the translation of any spoken or written words you hear or see from any source language into a destination language you know.
 
@@ -75,7 +75,7 @@ If you try to use this spell to decode a secret message that isn’t part of a s
 
 # Detect Magic
 
-*0.0062wyl ● 1AP ● 10m ● 10min*
+*0.0062wyl, 1AP → 10m, 10min*
 
 **Divine** the location of magic-imbued objects and creatures.
 
@@ -83,7 +83,7 @@ If you try to use this spell to decode a secret message that isn’t part of a s
 
 # Disguise Self
 
-*2wyl ● 1AP ● Self ● 1hr*
+*2wyl, 1AP → Self, 1hr*
 
 Create an **illusion** around yourself that makes you look different.
 
@@ -93,7 +93,7 @@ You can appear up to 0.3m taller and up to 10cm fatter or thicker.
 
 # Dispel Magic
 
-*100wyl ● 1AP ● 40m ● Instant ● Prime*
+*100wyl, 1AP → 40m, Instant, Prime*
 
 End an ongoing spell, or make a magically imbued object no longer magically imbued.
 
@@ -105,7 +105,7 @@ If the object was magically imbued as a result of being recently conjured, the o
 
 # Fly
 
-*500wyl ● 1hr ● Touch ● Forever*
+*500wyl, 1hr → Touch, Forever*
 
 **Transform** a creature’s arms into wings, granting them the ability to fly. They gain a flying speed of 60ft.
 
@@ -117,7 +117,7 @@ This spell requires a DNA reference from a flying species, such as a bird, butte
 
 # Guidance
 
-*1.67wyl ● 1AP ● Touch ● 1min*
+*1.67wyl, 1AP → Touch, 1min*
 
 **Enchant** a creature with the ability to see an essential detail that helps it succeed.
 
@@ -128,7 +128,7 @@ The creature must weigh 100kg or less. The information must be within range of t
 
 # Illusory Creature (Silent Image)
 
-*25wyl ● 1AP ● 20m ● 10min*
+*25wyl, 1AP → 20m, 10min*
 
 Create an **illusion** of a creature.
 
@@ -138,7 +138,7 @@ The creature must be size medium or large, or smaller. The creature moves relati
 
 # Illusory Object (Silent Image)
 
-*25wyl ● 1AP ● 20m ● 10min*
+*25wyl, 1AP → 20m, 10min*
 
 Create an **illusion** of an object.
 
@@ -148,7 +148,7 @@ The object must fit within a 5m cube. The object moves relative to its spawn pos
 
 # Illusory Phenomenon (Silent Image)
 
-*25wyl ● 1AP ● 60ft ● 10min*
+*25wyl, 1AP → 60ft, 10min*
 
 Create an **illusion** of a phenomenon.
 
@@ -156,7 +156,7 @@ The phenomenon must fit within a 5m cube.
 
 # Illusory Script
 
-*3wyl ● 1min (10AP) ● Touch ● 10days*
+*3wyl, 1min (10AP) → Touch, 10days*
 
 **Enchant** a block of text to cause a creature to **hallucinate** a hidden message.
 
@@ -171,7 +171,7 @@ The hidden message covers up the enchanted text, and it must fit within the same
 
 # Mage Hand
 
-*450wyl ● 1AP ● 10m ● 1min*
+*450wyl, 1AP → 10m, 1min*
 
 Create an **illusion** of a floating hand.
 
@@ -183,7 +183,7 @@ The hand can’t attack or activate magical items.
 
 # Mage Hand Lite
 
-*1wyl ● 1AP ● 10m ● 1min*
+*1wyl, 1AP → 10m, 1min*
 
 Create an **illusion** of a floating hand.
 
@@ -195,7 +195,7 @@ The hand can’t open doors or lids that open vertically, attack, or activate ma
 
 # Mage Hand (Upgradable)
 
-*1wyl ● 1AP ● 10m ● 1min*
+*1wyl, 1AP → 10m, 1min*
 
 Create an **illusion** of a floating hand.
 
@@ -207,7 +207,7 @@ The hand can’t attack or activate magical items.
 
 # Magic Missile
 
-*100wyl ● 1AP ● 40m ● Instant*
+*100wyl, 1AP → 40m, Instant*
 
 You create three glowing darts of magical force. Each dart targets a creature, dealing 1d4 + 1 force damage.
 
@@ -215,7 +215,7 @@ The darts all strike simultaneously and you can direct them to hit one creature 
 
 # Mold Earth (Excavate)
 
-*1500wyl ● 1AP ● 10m ● Instant*
+*1500wyl, 1AP → 10m, Instant*
 
 **Telekinetically** move a cubic meter of loose earth 1m away.
 
@@ -223,7 +223,7 @@ This movement doesn’t have enough force to cause damage.
 
 # Mold Earth (Pattern)
 
-*1wyl ● 1AP ● 10m ● 1hr*
+*1wyl, 1AP → 10m, 1hr*
 
 Create an **illusion** of a pattern on the surface of dirt or stone.
 
@@ -231,7 +231,7 @@ The pattern is made of shapes and colors, and can spell out words, create images
 
 # Mold Earth (Difficult Terrain)
 
-*4500wyl ● 1AP ● 10m ● Forever*
+*4500wyl, 1AP → 10m, Forever*
 
 **Transform** a normal patch of ground into difficult terrain.
 
@@ -241,7 +241,7 @@ The patch of ground must be 1 square meter.
 
 # Natural Weapons (Alter Self)
 
-10000wyl ● 1hr ● Self ● Forever
+10000wyl, 1hr → Self, Forever
 
 **Transform** yourself to grow a natural weapon of your choice. You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
 
@@ -253,19 +253,19 @@ This spell assumes you weigh 100kg or less.
 
 # Shield
 
-*0.1wyl ● 1AP ● Self ● 1 round*
+*0.1wyl, 1AP → Self, 1 round*
 
 **Protect** yourself from the spell Magic Missile. **Grant +5 AC** to yourself.
 
 # Shield of Faith
 
-*4wyl ● 1AP ● 20m ● 10min*
+*4wyl, 1AP → 20m, 10min*
 
 **Grant +2 AC** to a creature.
 
 # Zone of Truth
 
-105wyl ● 1AP ● 20m ● 10min
+105wyl, 1AP → 20m, 10min
 
 **Enchant** an area to detect lies. The area is a 5m radius sphere.
 
@@ -278,7 +278,7 @@ The circle illusion follows them around the area. It disappears if they leave th
 
 # Hold Form
 
-*10wyl ● 1AP ● 10m ● 1hr*
+*10wyl, 1AP → 10m, 1hr*
 
 **Protect** a creature or object from having its shape changed.
 
@@ -292,7 +292,7 @@ Any transformation spells in the middle of casting on the target fail.
 
 # Shadow of Secrets
 
-*135wyl ● 1AP ● 20m ● 1hr*
+*135wyl, 1AP → 20m 1hr*
 
 **Protect** an area from divination. The area is a 3m radius sphere.
 
@@ -300,7 +300,7 @@ Divination spells cast from within the area always return “unknown”. Divinat
 
 # True Form
 
-*100wyl ● 1hr ● Touch ● Forever*
+*100wyl, 1hr → Touch, Forever*
 
 **Transform** a creature into their original form.
 
