@@ -193,6 +193,14 @@ Create an **illusion** of a floating hand.
 
 The hand can’t attack or activate magical items.
 
+# Magic Missile
+
+*100wyl ● 1AP ● 40m ● Instant*
+
+You create three glowing darts of magical force. Each dart targets a creature, dealing 1d4 + 1 force damage.
+
+The darts all strike simultaneously and you can direct them to hit one creature or several.
+
 # Mold Earth (Excavate)
 
 *1500wyl ● 1AP ● 10m ● Instant*
