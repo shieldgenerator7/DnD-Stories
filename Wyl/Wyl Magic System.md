@@ -75,36 +75,33 @@ Some spells have a casting time longer than 1 round. When casting these spells, 
 When you want to cast a spell, follow these instructions.
 
 1.  Choose the spell to cast
-2.  Spend any amount of mana
-3.  Convert the mana to wyl
-4.  Determine if you cast the spell
-5.  Account for a target’s magic resist
+2.  Calculate the wyl requirement of the spell
+3.  Spend the necessary mana
+4.  Account for a target’s magic resist
 
 ### 1. Choose the spell to cast
 
 Choose a spell you know or have prepared ahead of time, with permission from the DM.
 
-You must meet the requirements for the spell, if any.
+You must meet the requirements for the spell, if any. These requirements can include having a high level in the spell’s Magic Genera. For example, you must a high enough level in Charm to cast Mass Charm. Some spells require a material component in addition to your focus. For example, you must be holding a bird feather to cast Flight.
 
-These requirements can include having a high level in the spell’s Magic Genera. For example, you must a high enough level in Charm to cast Mass Charm.
+Choose the options for the spell, such as what area to target, or which creatures to target.
 
-Some spells require a material component in addition to your focus. For example, you must be holding a bird feather to cast Flight.
+### 2. Calculate the wyl requirement of the spell
 
-### 2. Spend any amount of mana
+Each spell has a wyl requirement formula to work out how much wyl it costs with the options you chose. Use that to determine its wyl requirement.
 
-Spend any amount of mana from your mana pool. Some creatures can pull mana from other sources and spend that too.
+Alternatively, you can use the default options listed on the top of the spell, which also lists the default wyl requirement. Note that the default wyl requirement assumes the most expensive version of the spell at those options (ex: it assumes you always cast the spell at max range).
 
-### 3. Convert the mana to wyl
+### 3. Spend the necessary mana
 
-Use your base ratio multiplied by any bonus ratios you have for the specific spell, its Magic Genus, or its tags.
+Calculate how much mana you have to spend to output that much wyl for that spell. Use your base ratio multiplied by any bonus ratios you have for the specific spell, its Magic Genus, and its tags.
 
-### 4. Determine if you cast the spell
+Spend that amount of mana from your mana pool. Some creatures can pull mana from other sources and spend that too.
 
-If your wyl output is equal to or greater than the spell’s wyl requirement, you cast the spell.
+Once the mana has been spent, it is converted into wyl output, and the spell is cast!
 
-If not, the spell might still go off, but as a less powerful version.
-
-### 5. Account for a target’s magic resist
+### 4. Account for a target’s magic resist
 
 If you effect a creature that has resistance to the spell, multiply the wyl output by the resist ratio to get the resulting wyl output on that creature
 
