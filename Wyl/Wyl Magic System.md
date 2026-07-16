@@ -106,11 +106,11 @@ Whenever a spell says “conjure”, it means create the object out of magic, fo
     -   Clear solids do not block line of sight
     -   If you cannot see, you have to summon the object touching you
 -   You can conjure an object attached to an existing object that it touches
--   A conjured object starts volatile: you have to maintain it, or it disappears
+-   A conjured object is volatile: you have to maintain it, or it disappears
     -   You can maintain it by looking at it or touching it
     -   While you are maintaining it, it gains staying power (1 per round)
     -   While you are not maintaining it, it loses staying power (-1 per round)
-    -   It disappears when it has no more staying power left
+    -   When it has 0 staying power or less, It disappears
 -   The conjured object takes shape instantly upon the wyl being spent to create it
 -   The conjured object is immediately interactable with and targetable by other objects, physics, and spells
 -   You can not move the object as part of the conjuration
@@ -118,9 +118,11 @@ Whenever a spell says “conjure”, it means create the object out of magic, fo
     -   Conjured objects will have missing parts where they would have otherwise overlapped.
 -   When a conjured object is killed or destroyed, it vanishes in a poof of magic, leaving behind no debris
     -   If it had become permanent, then it leaves behind pieces / debris appropriate to its kind of object
--   It costs an additional 1000 wyls to turn a volatile conjured object (cubic meter, 1kg) into a permanent object, but with magical residue
-    -   Magical residue dissipates overtime, or another 1000 wyls can be spent to remove all magical residue
-    -   Magical residue causes the object to be sensed as magical, and may interact with other effects in ways you do not intend for a mundane object to
+-   A volatile conjured object can be made permanent
+    -   It costs an additional 1000 wyls to turn a volatile conjured object (1 cubic meter, 1kg) into a magically imbued permanent object
+    -   It remains magically imbued for 1 year afterwards.
+    -   It costs another additional 1000 wyls (1 cubic meter, 1kg) to make the magically imbued permanent object no longer magically imbued
+    -   You or another creature may output the additional wyl to make the object permanent
 
 ## Hallucination
 
