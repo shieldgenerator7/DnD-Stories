@@ -121,6 +121,22 @@ If the object was magically imbued as a result of being recently transformed, th
 
 If the object was magically imbued as a result of being recently conjured, the object is destroyed, and it vanishes in a poof of magic.
 
+# Fireball
+
+*Evocation ● Area ● Creature ● Object ● Offense ● Fire*
+
+*100wyl, 1AP → 50m, 7m radius, 8d6 fire*
+
+Shoot a fireball at an area, setting it ablaze.
+
+Roll for Fireball damage: 8d6 fire damage. Each creature makes an Avoid Flames save, and takes the resulting damage.
+
+Avoid Flames  
+Success: Fireball damage / 2  
+Failure: Fireball damage
+
+The area is a 7m radius circle. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
+
 # Fly
 
 *Transformation ● Creature ● Mobility*
