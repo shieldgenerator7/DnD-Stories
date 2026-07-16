@@ -323,6 +323,51 @@ When a spell says “transform”, it follows these rules:
         -   True Form the target, if the transformation is 1 year old or less
         -   Transform the creature using a DNA reference of their original form
 
+# Magic Tags
+
+Each spell is tagged to describe what it does and how it behaves. It has tags that say what Magic Genus it is as well as what it can target and its general purpose.
+
+## Magic Genus
+
+Each Magic Genus has its own tag:
+
+-   Abjuration
+-   Divination
+-   Enchantment
+-   Conjuration
+-   Hallucination
+-   Illusion
+-   Telekinesis
+-   Telepathy
+-   Transformation
+
+## Targeting
+
+Some tags say what the spell can target:
+
+-   Creature
+-   Object
+-   Magic
+-   Area
+
+## Purpose
+
+Some tags describe the purpose of the spell:
+
+-   Mobility: increasing speed or options to get around
+-   Offense: inflicting damage
+-   Defense: reducing the likelihood of taking damage or suffering from an effect, or reducing the amount that the damage or effect hurts
+-   Buff: making a number go up
+-   Debuff: making a number go down
+-   Communication: sending a message or making a message understandable
+-   Crowd Control: limiting options or reducing likelihood of success
+
+## Related Things
+
+What the spell is related to:
+
+-   Earth
+
 # Spells
 
 Here’s some example spells.
