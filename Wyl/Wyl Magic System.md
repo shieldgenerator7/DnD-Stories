@@ -1,4 +1,4 @@
-Wyl Magic System
+# Wyl Magic System
 
 This is an alternative to the spell slot system.
 
@@ -15,6 +15,102 @@ So each other thing we want to do with magic, its requirement can be determined 
 Ok that’s a lot. That’s using real word physics calculations. Basically taking the metric system’s Joule and calling it “wyl” instead. But it doesn’t feel right for a magic system to require that much to heat water like that.
 
 Range. Every spell has effectively infinite range, except that it requires more at longer ranges. Base requirements assume range of touch. Touch range has no extra requirement. Within 10 meters, the requirement is multiplied by x1.1, within 20 meters: x1.2, within 30 meters: x1.3, and so on.
+
+# Introduction
+
+In this world, magic is everywhere. It created the world, and lots of things in the world run on magic.
+
+Creatures can manipulate magic to do things, using a special magic channeling appendage.
+
+Magic spells are categorized into Magic Genera based on how they behave, and their magical output is measured in a unit called “wyl”.
+
+## Creature Focus
+
+A creature can channel magic if it has a channeling appendage. This appendage is called a focus, and it is made out of a bone-like, rock-like substance that glows when magic is being channeled through it.
+
+The focus must be a hard substance.
+
+Examples: unicorn horn, goat horns, deer antlers, wolf teeth, cat claws, beaver teeth, elephant tusks, porcupine quills, horse hooves, human fingernails, ant antennae, bee stinger, snake fangs
+
+The focus must be exposed to the environment to work. If the focus is covered by skin, flesh, or other substance, it does not channel magic at all. For example, the wolf must be bearing its teeth, the cat must have its claws unsheathed, and the goat must have its horns uncovered.
+
+Magic can be channeled while in the air, on the ground, or underwater.
+
+The focus must be attached, holding it does not count. If broken, the nub that remains can still cast magic, although with potentially lower wyl output.
+
+“Humans” in this world use their fingernails as their foci. This means that their fingernails have a stone-like quality to them.
+
+The length, width, and shape of a focus change its attributes, and effect how good it is at channeling magic, and can even change how good it is at channeling certain kinds of magic. For example, foci that end in a pointed tip are good at dealing damage.
+
+The material that makes up the focus can be impure, causing it to be a different color than the pure focus material. This can also effect what color it glows when channeling. The exact composition of the focus material can effect how good it is at channeling certain kinds of spells.
+
+Not every hard substance in a creature’s body is automatically a spell focus. For example, normal human teeth do not have the special material needed to be used as a focus. For example, a wolf’s two front teeth are a focus, but its back teeth are not, because the two front teeth have the special substance.
+
+A focus can be lost and regrown, such as the case with deer antlers. A focus can be continually grown and chipped away at, like beaver teeth.
+
+If a creature has more than one focus, it can learn to concentrate on more than one spell at a time, one spell per focus. It can also use multiple foci to concentrate on a spell.
+
+You can stop a creature from casting spells (without magic) by covering up the focus that’s casting the spell. A cover is a solid that prevents air flow to the focus. Gasses and liquids can’t be used as a cover. Examples: a wolf closing its mouth, gloves on human hands, a deer antler’s velvet while regrowing.
+
+## Wyl
+
+The wyl is a unit of measurement that describes the magic output of a creature for a spell. The more wyl a creature outputs, the more powerful its spell will be.
+
+To be clear, wyl is not a resource, it is a unit of measurement. That means that spells don’t cost wyl, they require wyl. Much like lifting a heavy object requires a lot of force, casting a powerful spell requires a lot of wyl.
+
+## Channeling Magic
+
+A creature can use its focus to output wyl into a spell.
+
+A creature has an energy reserve called mana with which to cast spells. When it spends mana on a spell, the mana is converted into wyl. The base ratio is 1wpm (wyl per mana), as 1 mana outputs 1 wyl. Certain creatures might have higher or lower conversion ratios, like a adept spellcaster might have a base ratio of 2wpm, while a melee fighter might have a base ratio of 0.5wpm.
+
+Some creatures might be better at certain kinds of spells. For example, a groundhog has 3wpm for Earth spells, while it only has 0.4wpm for Water spells.
+
+When a creature wants to cast a spell, it chooses the spell, and its horn lights up. It spends any amount of mana on the spell, and the mana is converted to wyl, using the conversion ratio of the creature appropriate for the spell. Then the spell takes effect.
+
+Some spells have a casting time longer than 1 round. When casting these spells, the mana is spent over the course of the casting time.
+
+## How to Cast a Spell
+
+When you want to cast a spell, follow these instructions.
+
+1.  Choose the spell to cast
+2.  Spend any amount of mana
+3.  Convert the mana to wyl
+4.  Determine if you cast the spell
+5.  Account for a target’s magic resist
+
+### 1. Choose the spell to cast
+
+Choose a spell you know or have prepared ahead of time, with permission from the DM.
+
+You must meet the requirements for the spell, if any.
+
+These requirements can include having a high level in the spell’s Magic Genera. For example, you must a high enough level in Charm to cast Mass Charm.
+
+Some spells require a material component in addition to your focus. For example, you must be holding a bird feather to cast Flight.
+
+### 2. Spend any amount of mana
+
+Spend any amount of mana from your mana pool. Some creatures can pull mana from other sources and spend that too.
+
+### 3. Convert the mana to wyl
+
+Use your base ratio multiplied by any bonus ratios you have for the specific spell, its Magic Genus, or its tags.
+
+### 4. Determine if you cast the spell
+
+If your wyl output is equal to or greater than the spell’s wyl requirement, you cast the spell.
+
+If not, the spell might still go off, but as a less powerful version.
+
+### 5. Account for a target’s magic resist
+
+If you effect a creature that has resistance to the spell, multiply the wyl output by the resist ratio to get the resulting wyl output on that creature
+
+Resist ratio = `100 / (100 + resist)`
+
+Ex: A creature has 200 fire resist, and you want to effect the creature with 36wyls of fire magic. Its fire resist ratio is 100/(100+200) = 0.33, so you multiply 36wyls times 0.33 to get 12wyls of actual output.
 
 # Magic Genera
 
@@ -461,3 +557,9 @@ One thing that bothers me about DnD is that different spells that have similar e
 <https://qr.ae/pFkzEN>
 
 -   Arm weight: \~5.3% of body weight
+
+# Background music
+
+<https://music.youtube.com/watch?v=7aVt4f7MP6Q>
+
+<https://music.youtube.com/watch?v=ciCel6jdEHc>
