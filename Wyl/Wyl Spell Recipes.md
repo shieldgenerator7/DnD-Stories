@@ -91,6 +91,18 @@ This changes the appearance of your clothing, armor, weapons, and other belongin
 
 You can appear up to 0.3m taller and up to 10cm fatter or thicker.
 
+# Dispel Magic
+
+*100wyl ● 1AP ● 40m ● Instant ● Prime*
+
+End an ongoing spell, or make a magically imbued object no longer magically imbued.
+
+This ends enchantments.
+
+If the object was magically imbued as a result of being recently transformed, the transformation is reversed.
+
+If the object was magically imbued as a result of being recently conjured, the object is destroyed, and it vanishes in a poof of magic.
+
 # Fly
 
 *500wyl ● 1hr ● Touch ● Forever*
