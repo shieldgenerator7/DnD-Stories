@@ -18,7 +18,6 @@ Range. Every spell has effectively infinite range, except that it costs more at 
 
 # Magic Rules
 
-One thing that bothers me about DnD is that different spells that have similar effects have different rules for how they operate. I cant think of any examples. But there are lots of spells that have similar effects that all work the same way, and have to repeat the rules in the spell text. This is like the Magic the Gathering vs YuGiOh problem, do you use keywords or just repeat the text everywhere? I prefer having keywords. So, the common rules for each spell will be defined in a common place, that all spells using those rules can refer to.
 
 ## Abjuration
 
@@ -382,6 +381,10 @@ Spend any amount of mana to get the initial wyl output. Then reduce it by the ta
 You can tell if a creature is lying. You telepathically read the truth value of the creature’s statements.
 
 Cost: 0.01 wyl per statement
+
+# Discussion
+
+One thing that bothers me about DnD is that different spells that have similar effects have different rules for how they operate. I cant think of any examples. But there are lots of spells that have similar effects that all work the same way, and have to repeat the rules in the spell text. This is like the Magic the Gathering vs YuGiOh problem, do you use keywords or just repeat the text everywhere? I prefer having keywords. So, the common rules for each spell will be defined in a common place, that all spells using those rules can refer to.
 
 # References
 
