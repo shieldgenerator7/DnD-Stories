@@ -45,9 +45,9 @@ Upgrades:
 
 # Change Appearance (Alter Self)
 
-Transformation ● Creature
+*Transformation ● Creature*
 
-10000wyl, 1hr → Self
+*10000wyl, 1hr → Self*
 
 **Transform** yourself to look like another creature. You decide what features to adopt, including the height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any, of the creature.
 
@@ -123,7 +123,7 @@ If the object was magically imbued as a result of being recently conjured, the o
 
 # Fly
 
-Transformation ● Creature ● Mobility
+*Transformation ● Creature ● Mobility*
 
 *500wyl, 1hr → Touch*
 
@@ -137,7 +137,7 @@ This spell requires a DNA reference from a flying species, such as a bird, butte
 
 # Guidance
 
-Enchantment ● Divination ● Creature ● Buff
+*Enchantment ● Divination ● Creature ● Buff*
 
 *1.67wyl, 1AP → Touch, 1min*
 
@@ -287,7 +287,7 @@ The patch of ground must be 1 square meter.
 
 *Transformation ● Creature ● Offense*
 
-10000wyl, 1hr → Self
+*10000wyl, 1hr → Self*
 
 **Transform** yourself to grow a natural weapon of your choice. You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
 
@@ -315,9 +315,9 @@ This spell assumes you weigh 100kg or less.
 
 # Zone of Truth
 
-Enchantment ● Divination ● Illusion ● Creature ● Area ● Communication
+*Enchantment ● Divination ● Illusion ● Creature ● Area ● Communication*
 
-105wyl, 1AP → 20m, 10min
+*105wyl, 1AP → 20m, 10min*
 
 **Enchant** an area to detect lies. The area is a 5m radius sphere.
 
@@ -330,7 +330,7 @@ The circle illusion follows them around the area. It disappears if they leave th
 
 # Hold Form
 
-Abjuration ● Creature ● Object
+*Abjuration ● Creature ● Object*
 
 *10wyl, 1AP → 10m, 1hr*
 
