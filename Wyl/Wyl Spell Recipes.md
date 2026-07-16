@@ -6,9 +6,7 @@
 
 *10000wyl ● 1hr ● Self ● Forever*
 
-**Transform** yourself into a different form.
-
-This requires a DNA reference, such as scale, hair, fin. Touching a living creature also counts.
+**Transform** yourself into a different form. The form you get depends on the DNA reference used.
 
 For example, you can use a fish to adapt to an aquatic environment, gaining the ability to breathe underwater and gain a swimming speed.
 
