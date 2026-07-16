@@ -16,8 +16,9 @@ Ok that’s a lot. That’s using real word physics calculations. Basically taki
 
 Range. Every spell has effectively infinite range, except that it costs more at longer ranges. Base costs assume range of touch. Touch range has no extra cost. Within 10 meters, the cost is multiplied by x1.1, within 20 meters: x1.2, within 30 meters: x1.3, and so on.
 
-# Magic Rules
+# Magic Genera
 
+Each magic spell is categorized into a Magic Genus, which describes the base rules for how a spell of that type behaves. Aspell can belong to more than one genus, and spells of different genera can possibly have similar effects.
 
 ## Abjuration
 
