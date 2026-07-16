@@ -177,6 +177,20 @@ When a spell says “a creature hallucinates”, it follows these rules:
     -   If done so while the first still exists, the reapplication has no effect unless being directed to
     -   You can reapply it every round to ensure it still exists for as long as you need it to
 -   If the hallucination makes something undetectable to a sense, the hallucination ends when the creature thinks about the un-hallucination being in its actual spot, or about how things around the un-hallucination behave weirdly
+-   Countering an hallucination: You can counter hallucinations in the following ways:
+    -   Prevent the hallucination
+        -   Protection from telepathy, hallucinations, or a specific spell
+    -   Detect the hallucination
+        -   Lie to yourself about the behavior of the hallucination. If it then exhibits weird behaviors its real counterpart wouldn’t, then you know it’s an hallucination
+    -   End the hallucination
+        -   Stop thinking about it. This is easier to do when not actively perceiving it
+        -   Go to sleep. Hallucinations end when you go unconscious.
+        -   Contradiction: Make the hallucination contradict itself, and it will end automatically
+            -   Easiest way to do this is to form a telepathic link with another perceiver of the hallucination. If the two copies of the hallucination don’t match, it forms a contradiction.
+-   You cannot counter an hallucination with any of the following:
+    -   Dispel Magic. It is an effect inside your mind, and therefore not magic
+        -   However, if you are hallucinating something magical, and believe the real equivalent would be effected by dispel magic, it will work
+    -   Investigation check. Your mind fixes anything that would cause the hallucination to break reality, so it is impossible to tell if it is real or not by investigating it
 
 ## Illusion
 
