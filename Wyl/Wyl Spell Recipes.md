@@ -79,9 +79,17 @@ The spell ends at the end of your next turn.
 
 *1wyl, 1AP → 200m, 1hr*
 
-**Divine** the translation of any spoken or written words you hear or see from any source language into a destination language you know.
+**Divine** the translation of words from any source language into a destination language.
 
-There must be a creature in range who knows both the source language and the destination language. Otherwise, if the words are spoken and the source is a creature within range, or the words are written and the author is a creature within range, you get images of what the meaning is. Otherwise, you get an “unknown”.
+The words can be spoken words you hear or written words you see. The words must be within range.
+
+You choose the destination language upon casting, and you can change it once per round. The destination language must be a language you know. If the words are spoken, the destination language must be one you can speak, and if the words are written, the destination language must be one you can read.
+
+There must be a translator in range that knows both the source language and the destination language. If the words are spoken, a translator can be a creature that speaks both languages. If the words are written, a translator can be a creature that reads both languages or a book, sign, or other object that contains the same text written in both the source language and destination language.
+
+If there is no translator in range, you may get a picture of the meaning instead. If the words are spoken and the speaker is a creature within range, you get images of what the meaning is to that creature. If the words are written and the writer is a creature within range, you get images of what the meaning is.
+
+Otherwise, if there is no translator, speaker, or writer, you get an “unknown”.
 
 If you try to use this spell to decode a secret message that isn’t part of a spoken or written language, you get an “unknown”.
 
