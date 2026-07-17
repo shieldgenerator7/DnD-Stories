@@ -144,7 +144,7 @@ Divination is the act of sending a question out into the world, and waiting for 
 
 When a spell says “you divine…”, it follows these rules:
 
--   It requires 100 wyls per question. More for hard questions, less for easy questions
+-   It requires 100wyls per question. More for hard questions, less for easy questions
     -   It assumes 100mi range
 -   It takes time to answer. Asking the question takes 1 round, and you receive the answer 1 round later. Even later for hard questions, instantly for easy questions.
 -   Some spells have continual effects. These spells are constantly asking the question and getting a reply. Often the answer is 1 round behind in cases that require real time updates.
