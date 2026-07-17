@@ -91,8 +91,6 @@ If there is no translator in range, you may get a picture of the meaning instead
 
 Otherwise, if there is no translator, speaker, or writer, you get an “unknown”.
 
-If you try to use this spell to decode a secret message that isn’t part of a spoken or written language, you get an “unknown”.
-
 *Reminder: Divination uses Telepathy to get an answer from a creature’s knowledge*
 
 # Detect Magic
@@ -353,11 +351,6 @@ You choose the destination language upon casting, and you can change it once per
 
 There must be a translator in range, which is a creature that speaks both languages. If there is no translator in range, you get images of what the meaning is to the speaker. Otherwise, you get an “unknown”.
 
-You get an “unknown” if used on:
-
--   secret messages that aren’t part of a spoken language
--   non-speech, such as animal noises and gibberish
-
 *Reminder: Divination uses Telepathy to get an answer from a creature’s knowledge*
 
 # Translate Text (Comprehend Languages)
@@ -373,12 +366,6 @@ The words must be written words you see within range.
 You choose the destination language upon casting, and you can change it once per round. The destination language must be a language you can read.
 
 There must be a translator in range. A translator can be a creature that reads both languages or a book, sign, or other object that contains the same text written in both languages. If there is no translator in range, and the writer is a creature within range, you get images of what the meaning is to them. Otherwise, you get an “unknown”.
-
-You get an “unknown” if used on:
-
-• secret messages that aren’t part of a written language
-
-• non-text, such as pictures and scribbles
 
 *Reminder: Divination uses Telepathy to get an answer from a creature’s knowledge*
 
