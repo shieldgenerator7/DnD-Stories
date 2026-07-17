@@ -43,6 +43,11 @@ Upgrades:
 
 \+2wyl: Target 1 additional creature.
 
+*Questions:*
+
+-   *“Where is the weak point on my opponent?”*
+-   *“Where is the closest spot of safety?”*
+
 # Change Appearance (Alter Self)
 
 *Transformation ● Creature*
@@ -91,6 +96,8 @@ If there is no translator in range, you may get a picture of the meaning instead
 
 Otherwise, if there is no translator, speaker, or writer, you get an “unknown”.
 
+*Question: “How does [speech or text] translate to [destination language]?”*
+
 *Reminder: Divination uses Telepathy to get an answer from a creature’s knowledge*
 
 # Detect Magic
@@ -102,6 +109,11 @@ Otherwise, if there is no translator, speaker, or writer, you get an “unknown�
 **Divine** the location of magic-imbued objects and creatures.
 
 1wyl, 1AP: **Hallucinate** a faint aura around a magic-imbued creature or object, which tells you some info about the nature of the magic imbued in it. The target must be visible.
+
+*Questions:*
+
+-   *Where are the magic-imbued objects and creatures around me?*
+-   *What is the nature of the magic imbued in [target]?*
 
 # Disguise Self
 
@@ -171,6 +183,8 @@ Trigger: The creature makes an ability check to accomplish a task.
 Effect: The creature **divines** information pertinent to their task. The creature adds 1d4 to their ability check. Then this enchantment ends.
 
 The creature must weigh 100kg or less. The information must be within range of the creature.
+
+*Question: “What should I do to help me with [task]?”*
 
 # Illusory Creature (Silent Image)
 
@@ -351,6 +365,8 @@ You choose the destination language upon casting, and you can change it once per
 
 There must be a translator in range, which is a creature that speaks both languages. If there is no translator in range, you get images of what the meaning is to the speaker. Otherwise, you get an “unknown”.
 
+*Question: “How does [speech] translate to [destination language]?”*
+
 *Reminder: Divination uses Telepathy to get an answer from a creature’s knowledge*
 
 # Translate Text (Comprehend Languages)
@@ -367,6 +383,8 @@ You choose the destination language upon casting, and you can change it once per
 
 There must be a translator in range. A translator can be a creature that reads both languages or a book, sign, or other object that contains the same text written in both languages. If there is no translator in range, and the writer is a creature within range, you get images of what the meaning is to them. Otherwise, you get an “unknown”.
 
+*Question: “How does [text] translate to [destination language]?”*
+
 *Reminder: Divination uses Telepathy to get an answer from a creature’s knowledge*
 
 # Zone of Truth
@@ -381,6 +399,8 @@ Trigger: A creature in the area makes a statement.
 Effect: The zone **divines** whether that creature believes what they are saying. Then it creates an **illusion** of a circle underneath the creature until it says another statement. The circle is green if the creature believes what they are saying, red if otherwise. Yellow if they partially believe what they are saying.
 
 The circle illusion follows them around the area. It disappears if they leave the area. The illusion is white if they haven’t made a statement since the last time they entered the area.
+
+*Question: “Does [target] believe what they are saying?”*
 
 # === Original to Wyl ===
 
@@ -421,3 +441,5 @@ Divination spells cast from within the area always return “unknown”. Divinat
 You must be holding a DNA reference from their original form.
 
 1AP: **Divine** their original form. The answer can be used as a DNA reference. If the transformation is over 1 year old, this divination returns “unknown”.
+
+*Question: “What is [creature]’s true form?”*
