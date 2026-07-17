@@ -361,7 +361,7 @@ Transformation is the act of turning one object or creature into another, or mod
 
 When a spell says “transform”, it follows these rules:
 
--   It requires 100 wyl to transform or modify a creature or object that weighs 1kg into another, over the course of 1 hour
+-   It requires 100 wyl to transform or modify 1kg of mass over the course of 1 hour
 -   Conservation of mass: the transformation can’t change the target’s mass or weight
 -   Volume: the transformation can change the target’s size and volume
 -   A creature’s physical magic resist may increase the wyl requirement, decrease the effect, or increase the casting time
