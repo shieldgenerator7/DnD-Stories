@@ -149,6 +149,17 @@ When a spell says “you divine…”, it follows these rules:
 -   It takes time to answer. Asking the question takes 1 round, and you receive the answer 1 round later. Even later for hard questions, instantly for easy questions.
 -   Some spells have continual effects. These spells are constantly asking the question and getting a reply. Often the answer is 1 round behind in cases that require real time updates.
 -   If a divination spell includes a range, it means that’s how far out from you it asks the question. If the answer can’t be found in that range, it gives you an answer of “unknown”.
+-   Divination pulls the answer from any of the following sources:
+    -   Another creature’s knowledge. It uses telepathy to establish a quick telepathic link, asks the question, retrieves an answer, and ends the link. The creature does not automatically know that this has happened. The telepathic link is established with divination, not with the creature casting the divination.
+    -   Written texts
+    -   Visual and audio stimuli. For example, if you ask “Where is my special rock?”, the divination can find your rock and report its location back to you, even if it’s hidden
+-   Countering:
+    -   Protect an area, creature, or object from Divination
+    -   Protect a creature from telepathy to prevent Divination from getting answers from the creature’s knowledge
+    -   Surround an area in lead
+    -   The divination can pull the answer from a creature that is confidently ignorant, and may return an incorrect answer
+-   Cannot be countered by:
+    -   Dispel Magic, as it happens instantly. Even Divination spells with a “duration” are instead asking the same question over and over again each round
 
 ## Enchantment
 
