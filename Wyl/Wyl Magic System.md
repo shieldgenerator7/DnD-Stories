@@ -507,6 +507,32 @@ You can tell if a creature is lying. You telepathically read the truth value of 
 
 Requirement: 0.01 wyl per statement
 
+# Excel Formulas
+
+Base Cost
+
+```
+=INDEX('Magic Genera'!C:C,MATCH(B4,'Magic Genera'!B:B,0))
+```
+
+Range Factor
+
+```
+=1+IF(ISNUMBER(B4),B4,0)/100
+```
+
+Duration Factor
+
+```
+=IF(ISNUMBER(D4),IFS(E4="hours",D4,E4="minutes",D4/60,E4="rounds",D4/600,E4="days",D4*24),"")
+```
+
+Wyl Requirement
+
+```
+=IF(ISNUMBER(I4),I4,1)*IF(ISNUMBER(J4),J4,1)*IF(ISNUMBER(K4),K4,1)*IF(ISNUMBER(L4),L4,1)*IF(ISNUMBER(M4),M4,1)
+```
+
 # Discussion
 
 === Wyl Magic System ===
@@ -558,6 +584,15 @@ One thing that bothers me about DnD is that different spells that have similar e
 <https://qr.ae/pFkzEN>
 
 -   Arm weight: \~5.3% of body weight
+
+<https://www.reddit.com/r/DnD/comments/821ukc/comment/dv708po/>
+
+-   Evocation takes energy, shapes it, and unleashes it into the world
+    -   I take this to mean its conjuration but for energy, or it manipulates existing energy into a new form, such as thermal energy into kinetic energy
+
+<https://youtu.be/11nza4eq8dw?t=13>
+
+-   Excel: index() and match()
 
 # Background music
 

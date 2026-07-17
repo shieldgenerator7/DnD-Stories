@@ -343,6 +343,8 @@ This spell assumes you weigh 100kg or less.
 
 **Protect** yourself from the spell Magic Missile. **Grant +5 AC** to yourself.
 
+wyl requirement per creature = 10 \* (1 + [AC]) \* [rounds] / 600 \* (1 + [m] / 100)
+
 # Shield of Faith
 
 *Abjuration ● Defense ● Buff*
@@ -350,6 +352,8 @@ This spell assumes you weigh 100kg or less.
 *4wyl, 1AP → 20m, 10min*
 
 **Grant +2 AC** to a creature.
+
+wyl requirement per creature = 10 \* [AC] \* [min] / 60 \* (1 + [m] / 100)
 
 # Translate Speech (Comprehend Languages)
 
