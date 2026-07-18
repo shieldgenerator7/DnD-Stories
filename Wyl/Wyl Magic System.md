@@ -4,7 +4,7 @@
 
 In this world, magic is everywhere. It created the world, and lots of things in the world run on magic.
 
-Creatures can manipulate magic to do things, using a special magic channeling appendage.
+Creatures can manipulate magic to do things, using a special magic channeling appendage called a focus.
 
 Magic spells are categorized into Magic Genera based on how they behave, and their magical output is measured in a unit called “wyl”.
 
@@ -12,13 +12,9 @@ Magic spells are categorized into Magic Genera based on how they behave, and the
 
 A creature can channel magic if it has a channeling appendage. This appendage is called a focus, and it is made out of a bone-like, rock-like substance that glows when magic is being channeled through it.
 
-The focus must be a hard substance.
-
-Examples: unicorn horn, goat horns, deer antlers, wolf teeth, cat claws, beaver teeth, elephant tusks, porcupine quills, horse hooves, human fingernails, ant antennae, bee stinger, snake fangs
+The focus must be a hard substance. Examples: unicorn horn, goat horns, deer antlers, wolf teeth, cat claws, beaver teeth, elephant tusks, porcupine quills, horse hooves, human fingernails, ant antennae, bee stinger, snake fangs
 
 The focus must be exposed to the environment to work. If the focus is covered by skin, flesh, or other substance, it does not channel magic at all. For example, the wolf must be bearing its teeth, the cat must have its claws unsheathed, and the goat must have its horns uncovered.
-
-Magic can be channeled while in the air, on the ground, or underwater.
 
 The focus must be attached, holding it does not count. If broken, the nub that remains can still cast magic, although with potentially lower wyl output.
 
@@ -53,6 +49,8 @@ Some creatures might be better at certain kinds of spells. For example, a ground
 When a creature wants to cast a spell, it chooses the spell, and its horn lights up. It spends any amount of mana on the spell, and the mana is converted to wyl, using the conversion ratio of the creature appropriate for the spell. Then the spell takes effect.
 
 Some spells have a casting time longer than 1 round. When casting these spells, the mana is spent over the course of the casting time.
+
+Magic can be channeled while in the air, on the ground, or underwater.
 
 ## How to Cast a Spell
 
