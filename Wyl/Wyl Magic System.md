@@ -182,6 +182,20 @@ Whenever a spell says “enchant”, it follows these rules:
 -   A creature’s magic resist can increase the wyl requirement of the enchantment, decrease the potency of the effects, and/or decrease the duration
 -   Enchanting objects and creatures usually takes longer than 1 round, if imbuing them with an effect that can be triggered
 
+## Evocation
+
+Evocation is the act of converting energy from one form into another.
+
+When a spell says “evoke”, it follows these rules:
+
+-   It costs 1wyl to convert 1joule of energy from one form to another
+-   Conservation of energy: you can’t create energy and you can’t destroy energy
+-   Evocation spells describe how what the energy gets converted into, and what effect it has. It is up to you to determine where the energy comes from. Common energy sources:
+    -   Heat from the environment, this lowers the temperature
+    -   Electricity if theres an electric source nearby. You can pull electricity from most biological organisms
+    -   Kinetic energy: if a creature is moving, you can use their kinetic energy to power an evocation spell
+-   The point of origin of an evocation spell is where the source energy is. The range of the spell is based on how far away the source energy is from you, plus how far away the source energy is from where you send the energy afterwards
+
 ## Conjuration
 
 Conjuration is specifically creating matter from magic. It is NOT teleporting something from some other place to your current position, even if that other place is a different plane.
