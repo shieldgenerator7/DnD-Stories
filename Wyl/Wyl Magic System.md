@@ -566,6 +566,42 @@ Range. Every spell has effectively infinite range, except that it requires more 
 
 One thing that bothers me about DnD is that different spells that have similar effects have different rules for how they operate. I cant think of any examples. But there are lots of spells that have similar effects that all work the same way, and have to repeat the rules in the spell text. This is like the Magic the Gathering vs YuGiOh problem, do you use keywords or just repeat the text everywhere? I prefer having keywords. So, the common rules for each spell will be defined in a common place, that all spells using those rules can refer to.
 
+## Focus School Optimal Shapes
+
+-   Abjuration
+    -   turtle
+    -   Hexagon pattern
+-   Charm
+    -   Hollow (large surface area) (bird beak)
+-   Divination
+    -   Spherical (like an eye)
+    -   Cylinder is second best
+-   Enchantment
+    -   Wolf
+    -   Crescent shape (wolf teeth)
+-   Evocation
+    -   Sharp edges?
+    -   Sharp points?
+    -   Crescent shape?
+-   Conjuration (Creation)
+    -   A single focus broken into multiple pieces (somehow?)
+-   Hallucination
+    -   Antennae?
+    -   Ridges / ripples, like on a brain?
+-   Illusion
+    -   Raccoon (mask)
+        -   Made up of individual hairs?
+        -   Holes (eye holes? Tiny hair holes?)
+    -   Thin sheet of a design (eye?)
+-   Telekinesis
+    -   Having a Ferris metal (eg: iron) in your focus
+-   Telepathy
+    -   rings
+-   Transformation
+    -   Deer
+    -   Non-uniform shape
+    -   Branches
+
 # References
 
 <https://math.answers.com/geometry/How_much_energy_is_required_to_raise_the_temperature_of_1_g_of_water_1_degree_Celsius>
