@@ -98,8 +98,19 @@ Each magic spell is categorized into a magic school, which describes the base ru
 ## Abjuration
 
 Abjuration reduces the chance of being damaged and effected by crow control, and reduces the amount of damage done, and reduces the duration and effectiveness of crowd control.
+General rules for all spells:
 
 ### Resistance
+-   For an instant cast spell, you spend the entire mana cost when you first cast it
+-   For a spell with a longer cast time, you spend the mana cost over the duration of the cast time
+-   Your focus must have line of sight to the target for the whole duration of the cast time
+-   Reaching a target, for spells that target a specific creature or object
+    -   Touch spells are easiest, you just touch them. If trying to touch an unwilling creature, make a spell attack on them
+    -   When casting a spell on a target from far away, you usually have to shoot the spell at them with a projectile
+        -   Make a ranged spell attack on the target
+        -   For every 5m away they are, the DC increases by 1
+        -   A willing target may use its reaction to lower the DC by its AC
+    -   This assumes the spell is fully cast when it’s shot
 
 ## Abjuration
 
