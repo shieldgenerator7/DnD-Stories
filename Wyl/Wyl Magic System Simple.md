@@ -56,12 +56,18 @@ Magic can be channeled while in the air, on the ground, or underwater.
 
 When you want to cast a spell, follow these instructions.
 
-1.  Choose the spell to cast
-2.  Calculate the wyl requirement of the spell
-3.  Spend the necessary mana
-4.  Account for a target’s magic resist
+1.  Collect mana
+2.  Choose the spell to cast
+3.  (Optional) Upcast the spell
+4.  Spend the necessary mana
+5.  Account for a target’s magic resist
 
-### 1. Choose the spell to cast
+### 1. Collect mana
+You can refill your mana at the start of your turn. You can refill up to your Mana Draw stat each round.
+
+Your mana pool starts empty, so you have to fill it to cast spells. While you have mana, your focus glows.
+
+### 2. Choose the spell to cast
 
 Choose a spell you know or have prepared ahead of time, with permission from the DM.
 
@@ -69,31 +75,31 @@ You must meet the requirements for the spell, if any. These requirements can inc
 
 Choose the options for the spell, such as what area to target, or which creatures to target.
 
-### 2. Calculate the wyl requirement of the spell
+### 3. (Optional) Upcast the spell
 
-Each spell has a wyl requirement formula to work out how much wyl it costs with the options you chose. Use that to determine its wyl requirement.
+You can double any stat in the spell by doubling the mana cost of the spell.
 
-Alternatively, you can use the default options listed on the top of the spell, which also lists the default wyl requirement. Note that the default wyl requirement assumes the most expensive version of the spell at those options (ex: it assumes you always cast the spell at max range).
+You can half any stat (rouned down) in the spell by halving the mana cost of the spell (rounded up).
 
-### 3. Spend the necessary mana
+You can double / half as many numbers as you want, except numbers that refer to a die type (ex: d6 or d20).
 
-Calculate how much mana you have to spend to output that much wyl for that spell. Use your base ratio multiplied by any bonus ratios you have for the specific spell, its Magic Genus, and its tags.
+### 4. Spend the necessary mana
 
-Spend that amount of mana from your mana pool. Some creatures can pull mana from other sources and spend that too.
+Remove the needed mana from your mana pool. The spell is cast!
 
-Once the mana has been spent, it is converted into wyl output, and the spell is cast!
+### 5. Account for a target’s magic resist
 
-### 4. Account for a target’s magic resist
+If you effect a creature that has resistance to the spell or its effects, half the numbers in the spell on that creature.
 
-If you effect a creature that has resistance to the spell, multiply the wyl output by the resist ratio to get the resulting wyl output on that creature
+# Magic Schools
 
-Resist ratio = `100 / (100 + resist)`
+Each magic spell is categorized into a magic school, which describes the base rules for how a spell of that type behaves. A spell can belong to more than one school, and spells of different schools can possibly have similar effects.
 
-Ex: A creature has 200 fire resist, and you want to effect the creature with 36wyls of fire magic. Its fire resist ratio is 100/(100+200) = 0.33, so you multiply 36wyls times 0.33 to get 12wyls of actual output.
+## Abjuration
 
-# Magic Genera
+Abjuration reduces the chance of being damaged and effected by crow control, and reduces the amount of damage done, and reduces the duration and effectiveness of crowd control.
 
-Each magic spell is categorized into a Magic Genus, which describes the base rules for how a spell of that type behaves. A spell can belong to more than one genus, and spells of different genera can possibly have similar effects.
+### Resistance
 
 ## Abjuration
 
