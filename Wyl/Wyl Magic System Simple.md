@@ -145,11 +145,9 @@ Divination is the act of sending a question out into the world, and waiting for 
 
 When a spell says “you divine…”, it follows these rules:
 
--   It requires 100wyls per question. More for hard questions, less for easy questions
-    -   It assumes 100mi range
 -   It takes time to answer. Asking the question takes 1 round, and you receive the answer 1 round later. Even later for hard questions, instantly for easy questions.
 -   Some spells have continual effects. These spells are constantly asking the question and getting a reply. Often the answer is 1 round behind in cases that require real time updates.
--   If a divination spell includes a range, it means that’s how far out from you it asks the question. If the answer can’t be found in that range, it gives you an answer of “unknown”.
+-   If a divination spell includes a range, it means that’s how far out from you it asks the question. If the answer can’t be found in that range, it doesn’t give you an answer
 -   Divination pulls the answer from any of the following sources:
     -   Another creature’s knowledge. It uses telepathy to establish a quick telepathic link, asks the question, retrieves an answer, and ends the link. The creature does not automatically know that this has happened. The telepathic link is established with divination, not with the creature casting the divination.
     -   Written texts
