@@ -109,7 +109,6 @@ Abjuration reduces the chance of being damaged and effected by crow control, and
 
 When a spell says “grant [target] resist to…”, it follows these rules:
 
--   It requires 1wyl to grant 1 creature or object 1 resist to 1 type of damage or effect for 1 hour
 -   Resist reduces damage taken.
     -   Resist ratio = `100 / (100 + resist)`
     -   Multiply the resist ratio by the incoming damage, and you get the damage taken
@@ -140,7 +139,6 @@ When a spell says “protect from…”, it follows these rules:
 
 When a spell says “grant AC”, it follows these rules:
 
--   It requires 10wyl to grant 1 creature or object 1 AC for 1 hour
 
 ## Divination
 
@@ -171,8 +169,6 @@ Enchantment is imbuing objects and creatures with magic and magically effects th
 
 Whenever a spell says “enchant”, it follows these rules:
 
--   It requires 10 wyls to enchant 1kg of matter for 1 hour, plus the wyl requirement of the effect
--   It requires 1 wyl to enchant 1 square meter of area for 1 hour, plus the wyl requirement of the effect
 -   When a spell says “certain creatures” or “certain objects”, you choose what qualifies when you cast the spell
     -   It can be creatures or objects of a certain type or with certain features
         -   This requires audio / visual of the target, which requires line of sight to work
@@ -194,7 +190,6 @@ Evocation is the act of converting energy from one form into another.
 
 When a spell says “evoke”, it follows these rules:
 
--   It costs 1wyl to convert 1joule of energy from one form to another
 -   Conservation of energy: you can’t create energy and you can’t destroy energy
 -   Evocation spells describe how what the energy gets converted into, and what effect it has. It is up to you to determine where the energy comes from. Common energy sources:
     -   Heat from the environment, this lowers the temperature
@@ -208,7 +203,6 @@ Conjuration is specifically creating matter from magic. It is NOT teleporting so
 
 Whenever a spell says “conjure”, it means create the object out of magic, following these rules:
 
--   It takes 1000 wyls to conjure a cubic meter weighing 1kg
 -   You must be able to see the position you conjure it in
     -   Clear solids do not block line of sight
     -   If you cannot see, you have to summon the object touching you
@@ -226,10 +220,10 @@ Whenever a spell says “conjure”, it means create the object out of magic, fo
 -   When a conjured object is killed or destroyed, it vanishes in a poof of magic, leaving behind no debris
     -   If it had become permanent, then it leaves behind pieces / debris appropriate to its kind of object
 -   A volatile conjured object can be made permanent
-    -   It requires an additional 1000 wyls to turn a volatile conjured object (1 cubic meter, 1kg) into a magically imbued permanent object
+    -   You may cast a copy the same spell on the created object to make it permanent
     -   It remains magically imbued for 1 year afterwards.
-    -   It requires another additional 1000 wyls (1 cubic meter, 1kg) to make the magically imbued permanent object no longer magically imbued
-    -   You or another creature may output the additional wyl to make the object permanent
+    -   You may cast a copy of the same spell on the created object to make it not magically imbued
+    -   You or another creature may cast the copied spell to make the object permanent
 
 ## Hallucination
 
@@ -237,7 +231,6 @@ A hallucination is something that only a certain creature can sense, because it 
 
 When a spell says “a creature hallucinates”, it follows these rules:
 
--   It takes 1 wyl to effect each sense, regardless of size
 -   You must be able to telepathically send to a creature to cause them to hallucinate
 -   Hallucination can be detectable by any sense, including
     -   Sight
@@ -306,7 +299,6 @@ An illusion is something that creatures sense is there, but actually isn’t.
 
 When a spell says “create an illusion”, it follows these rules:
 
--   It takes 1 wyl to create an illusion that is a cubic meter big, that lasts for 1 hour
 -   An illusion is created instantly when the spell is cast
 -   Illusions don’t have any mass
 -   Illusions can produce effects that can be detected by the following senses:
@@ -340,7 +332,6 @@ Telekinesis is the ability to move an object at range with your mind.
 
 When a spell says “a creature telekinetically moves…”, it follows these rules:
 
--   It requires 1 wyl to move 1kg of mass 1 meter
 -   A creature’s magic resist decreases how far you can move it and/or increases the wyl requirement of doing so
 -   You can move things even if you can’t sense them, but there is a chance of failure
 -   You don’t automatically gain senses of an object you move, so if you can’t sense it you might not be moving it in the way you think you are
@@ -357,7 +348,6 @@ Telepathy is the ability to send thoughts to another creature’s mind or receiv
 
 When a spell says “a creature telepathically…”, it follows these rules:
 
--   It requires 0.01 wyl to send a thought to 1 creature for 1 round
 -   A telepathic link must be able to be established, even if only for an instant
     -   This is typically easy, but can be blocked by certain conditions / effects
 -   You must be able to target the creature
@@ -379,7 +369,6 @@ Transformation is the act of turning one object or creature into another, or mod
 
 When a spell says “transform”, it follows these rules:
 
--   It requires 100 wyl to transform or modify 1kg of mass over the course of 1 hour
 -   Conservation of mass: the transformation can’t change the target’s mass or weight
 -   Volume: the transformation can change the target’s size and volume
 -   A creature’s physical magic resist may increase the wyl requirement, decrease the effect, or increase the casting time
