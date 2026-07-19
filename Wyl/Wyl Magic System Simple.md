@@ -34,6 +34,8 @@ You can stop a creature from casting spells (without magic) by covering up the f
 
 ## Wyl
 
+This is part of the underlying workings of the system. If you just want to spend mana to cast spells, ignore this section.
+
 The wyl is a unit of measurement that describes the magic output of a creature for a spell. The more wyl a creature outputs, the more powerful its spell will be.
 
 To be clear, wyl is not a resource, it is a unit of measurement. That means that spells don’t cost wyl, they require wyl. Much like lifting a heavy object requires a lot of force, casting a powerful spell requires a lot of wyl.
@@ -63,6 +65,7 @@ When you want to cast a spell, follow these instructions.
 5.  Account for a target’s magic resist
 
 ### 1. Collect mana
+
 You can refill your mana at the start of your turn. You can refill up to your Mana Draw stat each round.
 
 Your mana pool starts empty, so you have to fill it to cast spells. While you have mana, your focus glows.
@@ -79,7 +82,7 @@ Choose the options for the spell, such as what area to target, or which creature
 
 You can double any stat in the spell by doubling the mana cost of the spell.
 
-You can half any stat (rouned down) in the spell by halving the mana cost of the spell (rounded up).
+You can half any stat (rounded down) in the spell by halving the mana cost of the spell (rounded up).
 
 You can double / half as many numbers as you want, except numbers that refer to a die type (ex: d6 or d20).
 
