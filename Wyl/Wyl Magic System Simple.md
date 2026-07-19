@@ -95,12 +95,8 @@ If you effect a creature that has resistance to the spell or its effects, half t
 
 Each magic spell is categorized into a magic school, which describes the base rules for how a spell of that type behaves. A spell can belong to more than one school, and spells of different schools can possibly have similar effects.
 
-## Abjuration
-
-Abjuration reduces the chance of being damaged and effected by crow control, and reduces the amount of damage done, and reduces the duration and effectiveness of crowd control.
 General rules for all spells:
 
-### Resistance
 -   For an instant cast spell, you spend the entire mana cost when you first cast it
 -   For a spell with a longer cast time, you spend the mana cost over the duration of the cast time
 -   Your focus must have line of sight to the target for the whole duration of the cast time
@@ -114,42 +110,34 @@ General rules for all spells:
 
 ## Abjuration
 
-Abjuration reduces the chance of being damaged and effected by crow control, and reduces the amount of damage done, and the duration and effectiveness of crowd control.
+Abjuration reduces the chance of being damaged and effected by crow control, and reduces the amount of damage done, and reduces the duration and effectiveness of crowd control.
 
-### Resist
+### Resistance
 
-When a spell says “grant [target] resist to…”, it follows these rules:
+When a spell says “grant [target] resistance to…”, it follows these rules:
 
--   Resist reduces damage taken.
-    -   Resist ratio = `100 / (100 + resist)`
-    -   Multiply the resist ratio by the incoming damage, and you get the damage taken
-    -   (I stole this from League of Legends)
-    -   Ex: 100 resist halves the damage, 200 resist thirds the damage
--   Protection effects can stack
--   100 resist is known in DnD as simply “resistance”
--   Resist values can be negative
-    -   \-100 resist is known in DnD as “vulnerability”
--   Most creatures have base resist of 0
--   You can have resist in any of the single damage types
--   You can also have resist to the group damage types, which applies to each individual damage type in the group. Group damage types require the same as all their individual types combined (ex: weapon damage requires 3wyl).
+-   Resistance against a damage type halves the damage taken
+-   A creature can’t gain resistance to a damage type they already have
+-   A spell can give vulnerability instead
+-   You can have resistance to any of the single damage types
+-   You can also have resistance to the group damage types, which applies to each individual damage type in the group.
     -   weapon damage: bludgeoning, piercing, slashing
     -   Elemental damage: acid, cold, lightning, poison, thunder
     -   Magical damage: force, necrotic, psychic, radiant
--   You can have resist to each individual conditions that can be afflicted, such as charmed or frightened
--   You can also have resist to a group of conditions. Group conditions require the same as all their individual conditions combined.
+-   You can have resistance to each individual conditions that can be afflicted, such as charmed or frightened. Resistance gives you advantage on any save to prevent being afflicted with the condition you have resistance to
+-   You can also have resistance to a group of conditions. Group conditions require the same as all their individual conditions combined.
 
 ### Protection
 
 When a spell says “protect from…”, it follows these rules:
 
--   It requires 10wyl to protect 1 creature or object from 1 effect for 1 hour
--   If you protect the target from a certain spell, Magic Genus, or spell tag, the target automatically succeeds any saving throws in the spell, does not take any damage from the spell, and is not effected by the spell at all
--   When protecting an area, it requires 1wyl to protect 1 square meter from 1 effect for 1 hour
+-   If you protect the target from a certain spell, magic school, or spell tag, the target automatically succeeds any saving throws in the spell, does not take any damage from the spell, and is not effected by the spell at all
 
 ### AC
 
 When a spell says “grant AC”, it follows these rules:
 
+-   The target’s AC is increased for the duration
 
 ## Divination
 
