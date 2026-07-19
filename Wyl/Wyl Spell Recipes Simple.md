@@ -6,7 +6,7 @@
 
 *Transformation ● Creature ● Mobility*
 
-*10000wyl, 1hr → Self*
+*10000 mana, 1hr → Self*
 
 **Transform** yourself to adapt to an aquatic environment, sprouting gills growing webbing between your fingers. You gain the ability to breathe underwater and a swimming speed equal to your walking speed.
 
@@ -339,11 +339,9 @@ This spell assumes you weigh 100kg or less.
 
 *Abjuration ● Defense ● Buff*
 
-*0.1wyl, 1AP → Self, 1 round*
+*10 mana, 1AP → Self, 1 round*
 
 **Protect** yourself from the spell Magic Missile. **Grant +5 AC** to yourself.
-
-wyl requirement per creature = 10 \* (1 + [AC]) \* [rounds] / 600 \* (1 + [m] / 100)
 
 # Shield of Faith
 
@@ -352,8 +350,6 @@ wyl requirement per creature = 10 \* (1 + [AC]) \* [rounds] / 600 \* (1 + [m] / 
 *4wyl, 1AP → 20m, 10min*
 
 **Grant +2 AC** to a creature.
-
-wyl requirement per creature = 10 \* [AC] \* [min] / 60 \* (1 + [m] / 100)
 
 # Translate Speech (Comprehend Languages)
 
