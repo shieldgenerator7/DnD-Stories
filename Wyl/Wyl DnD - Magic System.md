@@ -10,63 +10,52 @@ Magic spells are categorized into Magic Genera based on how they behave, and the
 
 ## Creature Focus
 
-A creature can channel magic if it has a channeling appendage. This appendage is called a focus, and it is made out of a bone-like, rock-like substance that glows when magic is being channeled through it.
+Creatures in this world have a special body part called a “focus”, which they use to channel magic.
 
-The focus must be a hard substance. Examples: unicorn horn, goat horns, deer antlers, wolf teeth, cat claws, beaver teeth, elephant tusks, porcupine quills, horse hooves, human fingernails, ant antennae, bee stinger, snake fangs
+While you have a focus, you gain the following benefits:
 
-The focus must be exposed to the environment to work. If the focus is covered by skin, flesh, or other substance, it does not channel magic at all. For example, the wolf must be bearing its teeth, the cat must have its claws unsheathed, and the goat must have its horns uncovered.
+-   Each turn, you have 1 wyl action in addition to your other actions
+-   You can use your wyl action to cast a spell
+-   You can only cast spells using a wyl action
+-   You have a new stat called Mana Draw, which is equal to your spell casting modifier plus your proficiency bonus
+-   You have a new action called the “channel mana” action, which refills your mana up to your Mana Draw stat
+-   You can use the channel mana action using any of your available actions (action, bonus action, reaction, wyl action), and can use it multiple times on your turn
 
-The focus must be attached, holding it does not count. If broken, the nub that remains can still cast magic, although with potentially lower wyl output.
-
-“Humans” in this world use their fingernails as their foci. This means that their fingernails have a stone-like quality to them.
-
-The length, width, and shape of a focus change its attributes, and effect how good it is at channeling magic, and can even change how good it is at channeling certain kinds of magic. For example, foci that end in a pointed tip are good at dealing damage.
-
-The material that makes up the focus can be impure, causing it to be a different color than the pure focus material. This can also effect what color it glows when channeling. The exact composition of the focus material can effect how good it is at channeling certain kinds of spells.
-
-Not every hard substance in a creature’s body is automatically a spell focus. For example, normal human teeth do not have the special material needed to be used as a focus. For example, a wolf’s two front teeth are a focus, but its back teeth are not, because the two front teeth have the special substance.
-
-A focus can be lost and regrown, such as the case with deer antlers. A focus can be continually grown and chipped away at, like beaver teeth.
-
-If a creature has more than one focus, it can learn to concentrate on more than one spell at a time, one spell per focus. It can also use multiple foci to concentrate on a spell.
-
-You can stop a creature from casting spells (without magic) by covering up the focus that’s casting the spell. A cover is a solid that prevents air flow to the focus. Gasses and liquids can’t be used as a cover. Examples: a wolf closing its mouth, gloves on human hands, a deer antler’s velvet while regrowing.
+See the “Focus Rules” section to learn more about foci.
 
 ## Wyl
 
-This is part of the underlying workings of the system. If you just want to spend mana to cast spells, ignore this section.
-
-The wyl is a unit of measurement that describes the magic output of a creature for a spell. The more wyl a creature outputs, the more powerful its spell will be.
-
-To be clear, wyl is not a resource, it is a unit of measurement. That means that spells don’t cost wyl, they require wyl. Much like lifting a heavy object requires a lot of force, casting a powerful spell requires a lot of wyl.
+Wyl is a unit of measurement describes the magical output of a spell. For the DnD version of this system, that is all you need to know.
 
 ## Channeling Magic
 
-A creature can use its focus to output wyl into a spell.
+You can use your focus to cast spells.
 
-A creature has an energy reserve called mana with which to cast spells. When it spends mana on a spell, the mana is converted into wyl. The base ratio is 1wpm (wyl per mana), as 1 mana outputs 1 wyl. Certain creatures might have higher or lower conversion ratios, like a adept spellcaster might have a base ratio of 2wpm, while a melee fighter might have a base ratio of 0.5wpm.
+While at rest, your focus is not glowing and is not magical.
 
-Some creatures might be better at certain kinds of spells. For example, a groundhog has 3wpm for Earth spells, while it only has 0.4wpm for Water spells.
+You can channel mana into your focus, causing it to glow and become magical.
 
-When a creature wants to cast a spell, it chooses the spell, and its horn lights up. It spends any amount of mana on the spell, and the mana is converted to wyl, using the conversion ratio of the creature appropriate for the spell. Then the spell takes effect.
+Then, you can spend the channeled mana on spells. Spells appear as a little orb of magical light near your focus while it is in the middle of being casted. Once finished casting, it needs to be directed to its target.
 
-Some spells have a casting time longer than 1 round. When casting these spells, the mana is spent over the course of the casting time.
+You can crush it in your hand or pull it into your self to cast the spell on yourself. You can push it into another creature next to you to cast it on them. You can cast it into the ground, the air, or the environment to create an area of effect around you. You can throw it at range to hit a creature, casting it on that creature. Either way, the spell manifests as an object you can interact with that gives you options for how to cast it. However, most spells will only work if cast in a certain way. For example, Earthquake only works when cast into the ground. And Magic Missile only works when cast at a creature.
 
-Magic can be channeled while in the air, on the ground, or underwater.
+You may be better at casting some spells than other spells. For the spells that you are good at, you get a mana discount when casting them.
+
+Some spells have a casting time longer than 1 round. When casting these spells, the mana is spent over the course of the casting time. For these spells, you don’t have to have all the mana upfront.
 
 ## How to Cast a Spell
 
 When you want to cast a spell, follow these instructions.
 
-1.  Collect mana
+1.  Channel mana
 2.  Choose the spell to cast
 3.  (Optional) Upcast the spell
 4.  Spend the necessary mana
 5.  Account for a target’s magic resist
 
-### 1. Collect mana
+### 1. Channel mana
 
-You can refill your mana at the start of your turn. You can refill up to your Mana Draw stat each round.
+You can refill your mana using the channel mana action as a free action on your turn. Each time you use the channel mana action, you can refill mana up to your Mana Draw stat.
 
 Your mana pool starts empty, so you have to fill it to cast spells. While you have mana, your focus glows.
 
@@ -463,3 +452,29 @@ Some tags describe the purpose of the spell:
 What the spell is related to:
 
 -   Earth
+
+# Focus Rules
+
+Here are the rules for how a creature’s focus works in this world.
+
+A creature can channel magic if it has a channeling appendage. This appendage is called a focus, and it is made out of a bone-like, rock-like substance that glows when magic is being channeled through it.
+
+The focus must be a hard substance. Examples: unicorn horn, goat horns, deer antlers, wolf teeth, cat claws, beaver teeth, elephant tusks, porcupine quills, horse hooves, human fingernails, ant antennae, bee stinger, snake fangs
+
+The focus must be exposed to the environment to work. If the focus is covered by skin, flesh, or other substance, it does not channel magic at all. For example, the wolf must be bearing its teeth, the cat must have its claws unsheathed, and the goat must have its horns uncovered.
+
+The focus must be attached, holding it does not count. If broken, the nub that remains can still cast magic, although with potentially lower wyl output.
+
+“Humans” in this world use their fingernails as their foci. This means that their fingernails have a stone-like quality to them.
+
+The length, width, and shape of a focus change its attributes, and effect how good it is at channeling magic, and can even change how good it is at channeling certain kinds of magic. For example, foci that end in a pointed tip are good at dealing damage.
+
+The material that makes up the focus can be impure, causing it to be a different color than the pure focus material. This can also effect what color it glows when channeling. The exact composition of the focus material can effect how good it is at channeling certain kinds of spells.
+
+Not every hard substance in a creature’s body is automatically a spell focus. For example, normal human teeth do not have the special material needed to be used as a focus. For example, a wolf’s two front teeth are a focus, but its back teeth are not, because the two front teeth have the special substance.
+
+A focus can be lost and regrown, such as the case with deer antlers. A focus can be continually grown and chipped away at, like beaver teeth.
+
+If a creature has more than one focus, it can learn to concentrate on more than one spell at a time, one spell per focus. It can also use multiple foci to concentrate on a spell.
+
+You can stop a creature from casting spells (without magic) by covering up the focus that’s casting the spell. A cover is a solid that prevents air flow to the focus. Gasses and liquids can’t be used as a cover. Examples: a wolf closing its mouth, gloves on human hands, a deer antler’s velvet while regrowing.
