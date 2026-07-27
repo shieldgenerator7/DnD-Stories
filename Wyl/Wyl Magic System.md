@@ -586,34 +586,42 @@ One thing that bothers me about DnD is that different spells that have similar e
     -   turtle
     -   Hexagon pattern
 -   Charm
-    -   Hollow (large surface area) (bird beak)
+    -   Hollow (large internal surface area) (bird beak)
 -   Divination
     -   Spherical (like an eye)
     -   Cylinder is second best
 -   Enchantment
     -   Wolf
     -   Crescent shape (wolf teeth)
+    -   Smooth surface?
 -   Evocation
     -   Sharp edges?
     -   Sharp points?
     -   Crescent shape?
+    -   Rough bumpy surface?
+    -   Made of conductive metal (like copper / gold)?
 -   Conjuration (Creation)
     -   A single focus broken into multiple pieces (somehow?)
+    -   Thickness?
+    -   Weight?
 -   Hallucination
-    -   Antennae?
-    -   Ridges / ripples, like on a brain?
+    -   spots
 -   Illusion
     -   Raccoon (mask)
-        -   Made up of individual hairs?
-        -   Holes (eye holes? Tiny hair holes?)
-    -   Thin sheet of a design (eye?)
+        -   Holes through which the illusion can be projected
+-   Life (and death)
+    -   Blood flow
+    -   Covered in flesh
+    -   Covered in blood
 -   Telekinesis
     -   Having a Ferris metal (eg: iron) in your focus
 -   Telepathy
-    -   rings
+    -   Rings
+-   Time-Space (Teleportation)
+    -   Rings?
+    -   A single focus broken up into multiple pieces?
 -   Transformation
     -   Deer
-    -   Non-uniform shape
     -   Branches
 
 # References
